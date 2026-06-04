@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-04T17:00:14.184Z",
+  "generatedAt": "2026-06-04T18:00:14.165Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -547,6 +547,13 @@
           "id": "3546642663868720",
           "name": "辣辣爆米花pupu",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546661399824534",
+          "name": "醉心日推音乐",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
         },
         {
           "type": "creator",
