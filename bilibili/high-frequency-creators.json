@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-04T19:00:14.108Z",
+  "generatedAt": "2026-06-04T20:00:14.084Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -232,6 +232,13 @@
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1915056903",
+          "name": "暗区突围",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
