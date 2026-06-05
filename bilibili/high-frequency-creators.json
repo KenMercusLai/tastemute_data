@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T15:00:14.121Z",
+  "generatedAt": "2026-06-05T16:00:14.126Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -505,6 +505,13 @@
           "id": "3493291895032359",
           "name": "汉堡可乐茤",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493295189658159",
+          "name": "力哥玩儿游戏",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
         },
         {
           "type": "creator",
