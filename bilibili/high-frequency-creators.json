@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T05:00:14.126Z",
+  "generatedAt": "2026-06-05T06:00:14.074Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -127,6 +127,13 @@
           "id": "1497463202",
           "name": "晓艳教英语",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1523831",
+          "name": "莫实说",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
         },
         {
           "type": "creator",
@@ -869,6 +876,13 @@
           "id": "542316830",
           "name": "茄子小布丁",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "551188239",
+          "name": "企鹅带带北极熊",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
         },
         {
           "type": "creator",
