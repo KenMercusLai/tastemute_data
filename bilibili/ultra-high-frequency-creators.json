@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T06:00:17.252Z",
+  "generatedAt": "2026-06-05T07:00:17.017Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -309,6 +309,13 @@
           "id": "492905896",
           "name": "小普-三角洲重生版",
           "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "496124621",
+          "name": "琉璃观影",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.74"
         },
         {
           "type": "creator",
