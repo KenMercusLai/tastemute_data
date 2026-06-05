@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T00:00:14.049Z",
+  "generatedAt": "2026-06-05T01:00:14.106Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -875,7 +875,7 @@
           "platform": "bilibili",
           "id": "574115689",
           "name": "游戏大猪猪",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=0.69"
         },
         {
           "type": "creator",
