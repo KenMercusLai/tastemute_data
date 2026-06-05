@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T09:00:18.422Z",
+  "generatedAt": "2026-06-05T10:00:17.250Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -379,6 +379,13 @@
           "id": "676239823",
           "name": "早睡起大王",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "676801913",
+          "name": "Tsyi意仔",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.25"
         },
         {
           "type": "creator",
