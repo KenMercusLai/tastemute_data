@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T08:00:14.060Z",
+  "generatedAt": "2026-06-05T09:00:14.074Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -579,6 +579,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546715500055234",
+          "name": "哎呦呼噜鸭",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546734590429924",
           "name": "流星-洛克王国",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
@@ -659,6 +666,13 @@
           "id": "3706941817752467",
           "name": "开心猪猫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706947364718727",
+          "name": "bili_75297842425",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.15"
         },
         {
           "type": "creator",
