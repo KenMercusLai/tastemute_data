@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T11:00:14.158Z",
+  "generatedAt": "2026-06-05T13:00:14.559Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -201,9 +201,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1744580599",
+          "name": "NBA",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1745143606",
           "name": "争取最后的自由",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "175333301",
+          "name": "哇周某人",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
         },
         {
           "type": "creator",
@@ -586,6 +600,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546713063164029",
+          "name": "新西兰三妹Summer",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546715500055234",
           "name": "哎呦呼噜鸭",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
@@ -603,6 +624,13 @@
           "id": "3546788701145645",
           "name": "小火龙爬",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546820275865706",
+          "name": "蛋仔大圆子",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -645,6 +673,13 @@
           "id": "3690994318969201",
           "name": "世间百态记录者",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690996246251875",
+          "name": "dog吃慕斯",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -777,7 +812,7 @@
           "platform": "bilibili",
           "id": "423517587",
           "name": "蛋某人音乐",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.48"
         },
         {
           "type": "creator",
