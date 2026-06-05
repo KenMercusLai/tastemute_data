@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T16:00:14.126Z",
+  "generatedAt": "2026-06-05T17:00:14.157Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -645,6 +645,13 @@
           "id": "3546831902477235",
           "name": "爱睡觉的也野",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546904904337681",
+          "name": "俭条三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
         },
         {
           "type": "creator",
