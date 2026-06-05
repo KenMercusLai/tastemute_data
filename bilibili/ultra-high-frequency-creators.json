@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T18:00:17.045Z",
+  "generatedAt": "2026-06-05T19:00:16.906Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -302,6 +302,13 @@
           "id": "423517587",
           "name": "蛋某人音乐",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "431073645",
+          "name": "你的影月月",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.84"
         },
         {
           "type": "creator",
