@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T08:00:17.046Z",
+  "generatedAt": "2026-06-05T09:00:18.422Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -208,6 +208,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546715500055234",
+          "name": "哎呦呼噜鸭",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546933266222016",
           "name": "精彩名人汇",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.35"
@@ -232,6 +239,13 @@
           "id": "3691002458016114",
           "name": "子非鱼纪录片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706947364718727",
+          "name": "bili_75297842425",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.15"
         },
         {
           "type": "creator",
