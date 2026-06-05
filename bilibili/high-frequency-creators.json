@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T13:00:14.559Z",
+  "generatedAt": "2026-06-05T14:00:14.116Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -771,6 +771,13 @@
           "id": "393091539",
           "name": "三角洲经济学教父",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "394521779",
+          "name": "小汤姆T0m",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
