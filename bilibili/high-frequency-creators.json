@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T23:10:16.047Z",
+  "generatedAt": "2026-06-06T23:59:21.684Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -187,6 +187,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1514864947",
+          "name": "雨不会下太久",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1523831",
           "name": "莫实说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
@@ -344,6 +351,13 @@
           "id": "1955897084",
           "name": "鸣潮",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2003685778",
+          "name": "士六视界",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -817,6 +831,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546909169944629",
+          "name": "浪江绝",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546910233201293",
           "name": "黑芝麻粉汤圆",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
@@ -845,9 +866,30 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546946304215968",
+          "name": "B站我够帅",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546982777883372",
           "name": "三角洲唐宗主",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632303777516250",
+          "name": "日子慢慢走快乐天天有",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690991703820407",
+          "name": "哈尼想吃汉堡",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
         },
         {
           "type": "creator",
@@ -981,6 +1023,13 @@
           "id": "383551518",
           "name": "水论文的程序猿-水导",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "387934065",
+          "name": "彗殒_Starfall",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
