@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T23:10:18.868Z",
+  "generatedAt": "2026-06-06T23:59:24.673Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -89,6 +89,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1514864947",
+          "name": "雨不会下太久",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "170403786",
           "name": "士口加I",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.86"
@@ -134,6 +141,13 @@
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2003685778",
+          "name": "士六视界",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -327,6 +341,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546909169944629",
+          "name": "浪江绝",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546910233201293",
           "name": "黑芝麻粉汤圆",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
@@ -351,6 +372,20 @@
           "id": "3546935921216397",
           "name": "土猪看剧",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546946304215968",
+          "name": "B站我够帅",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632303777516250",
+          "name": "日子慢慢走快乐天天有",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -435,6 +470,13 @@
           "id": "381833884",
           "name": "小李桑2333",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "387934065",
+          "name": "彗殒_Starfall",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
