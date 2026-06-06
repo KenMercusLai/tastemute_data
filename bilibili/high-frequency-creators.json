@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T05:10:15.336Z",
+  "generatedAt": "2026-06-06T06:10:15.363Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -57,6 +57,13 @@
           "id": "11022243",
           "name": "云耀yoke",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11119415",
+          "name": "dollarsmy",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -446,6 +453,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "280086490",
+          "name": "静谧不是恶魔",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "28627652",
           "name": "糖醋排骨吃饱了",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -484,6 +498,13 @@
           "id": "299946576",
           "name": "巨炮zzzzzz",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "300695613",
+          "name": "欢乐纸条颂",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.01"
         },
         {
           "type": "creator",
@@ -754,6 +775,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546838709832338",
+          "name": "鳗鱼课堂",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546888794016247",
           "name": "高跟鞋影视",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
@@ -852,6 +880,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690997141736066",
+          "name": "咧嘴啦纪录片",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690998167243635",
           "name": "Miyaki米芽奇",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.24"
@@ -946,6 +981,13 @@
           "id": "383551518",
           "name": "水论文的程序猿-水导",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "388693230",
+          "name": "AIGC冰糖小葫卢",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
         },
         {
           "type": "creator",
