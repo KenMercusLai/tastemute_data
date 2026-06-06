@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T03:05:25.744Z",
+  "generatedAt": "2026-06-06T03:20:45.389Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9,6 +9,13 @@
       "description": "Creators with average upload gap <= 2 days.",
       "enabledByDefault": true,
       "items": [
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1035604808",
+          "name": "兮兮剧解析",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.11"
+        },
         {
           "type": "creator",
           "platform": "bilibili",
@@ -607,6 +614,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546589054371869",
+          "name": "奇趣视界-Q",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546619314178489",
           "name": "蓝飘飘fly",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.74"
@@ -838,6 +852,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "381833884",
+          "name": "小李桑2333",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "383551518",
           "name": "水论文的程序猿-水导",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
@@ -981,6 +1002,13 @@
           "id": "482317581",
           "name": "成成大王_三角洲",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487511093",
+          "name": "YouTube精选字幕组",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
