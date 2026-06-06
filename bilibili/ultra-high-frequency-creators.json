@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T04:10:18.780Z",
+  "generatedAt": "2026-06-06T05:10:17.933Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -285,6 +285,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546824430324278",
+          "name": "勇哥知识学堂",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546888794016247",
           "name": "高跟鞋影视",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
@@ -491,6 +498,13 @@
           "id": "496124621",
           "name": "琉璃观影",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "500971120",
+          "name": "陈怀安_Aaa",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
