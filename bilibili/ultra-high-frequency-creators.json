@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T00:00:16.750Z",
+  "generatedAt": "2026-06-06T00:46:06.616Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -222,9 +222,37 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546909123808152",
+          "name": "发财被爱无所畏惧",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546930737055759",
+          "name": "郭律说",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546933266222016",
           "name": "精彩名人汇",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546935921216397",
+          "name": "土猪看剧",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690992374909302",
+          "name": "顶级纪录片",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
         },
         {
           "type": "creator",
