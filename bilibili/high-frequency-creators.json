@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T04:10:15.389Z",
+  "generatedAt": "2026-06-06T05:10:15.336Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -677,6 +677,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546632075348451",
+          "name": "梵小知治愈坊",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546642663868720",
           "name": "辣辣爆米花pupu",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.82"
@@ -729,6 +736,13 @@
           "id": "3546820275865706",
           "name": "蛋仔大圆子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546824430324278",
+          "name": "勇哥知识学堂",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.30"
         },
         {
           "type": "creator",
@@ -1076,6 +1090,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "470326927",
+          "name": "QingYu轻语",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.17"
@@ -1146,6 +1167,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "500971120",
+          "name": "陈怀安_Aaa",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "509997673",
           "name": "官帽头上戴",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
@@ -1191,6 +1219,13 @@
           "id": "592204565",
           "name": "凉州经略使",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "593697935",
+          "name": "小小黑纪",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
