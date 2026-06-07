@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T08:10:18.402Z",
+  "generatedAt": "2026-06-07T09:10:18.032Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -757,6 +757,13 @@
           "id": "660296073",
           "name": "乡园丫仔",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "674198676",
+          "name": "一只山鸡鱼",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
