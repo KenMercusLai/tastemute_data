@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T03:10:19.352Z",
+  "generatedAt": "2026-06-07T04:10:18.790Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -264,6 +264,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "353896033",
+          "name": "有趣的小敏",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.41"
@@ -365,6 +372,13 @@
           "id": "3546889909700864",
           "name": "电影近距离",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546907391560121",
+          "name": "犀利解说员",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -600,9 +614,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "433174409",
+          "name": "雪峰说规划",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "434786180",
           "name": "和平精英",
           "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "439019448",
+          "name": "外网精选评论翻译",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -680,6 +708,13 @@
           "id": "590584284",
           "name": "Speed-777",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "613064099",
+          "name": "勇哥餐饮创业路",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
         },
         {
           "type": "creator",
