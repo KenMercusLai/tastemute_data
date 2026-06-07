@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T15:10:16.263Z",
+  "generatedAt": "2026-06-07T16:10:16.230Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -173,6 +173,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1306451842",
+          "name": "网易蛋仔派对",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1322313150",
           "name": "影视拾荒者",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
@@ -266,7 +273,7 @@
           "platform": "bilibili",
           "id": "1563385862",
           "name": "转生成为毛毛",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -565,6 +572,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "26595212",
+          "name": "咕咕嘎画",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "268941858",
           "name": "磊哥游戏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
@@ -687,6 +701,13 @@
           "id": "316627722",
           "name": "世界见闻录",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3269321",
+          "name": "双兎official",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -1428,7 +1449,7 @@
           "platform": "bilibili",
           "id": "412774964",
           "name": "可恶好喜欢乐乐",
-          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.85"
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.82"
         },
         {
           "type": "creator",
