@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T04:10:23.854Z",
+  "generatedAt": "2026-06-07T05:10:15.917Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -467,6 +467,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "263249641",
+          "name": "丐伦菌",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "268941858",
           "name": "磊哥游戏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
@@ -785,6 +792,13 @@
           "id": "3546661399824534",
           "name": "醉心日推音乐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546663067060977",
+          "name": "美图集锦",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.29"
         },
         {
           "type": "creator",
