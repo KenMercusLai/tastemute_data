@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T04:10:16.020Z",
+  "generatedAt": "2026-06-07T04:10:23.854Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -887,6 +887,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546907391560121",
+          "name": "犀利解说员",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546908043774464",
           "name": "CORTIS_BIGHIT",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
@@ -1118,6 +1125,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "382421214",
+          "name": "油管熱門一哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "383551518",
           "name": "水论文的程序猿-水导",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
@@ -1254,6 +1268,13 @@
           "id": "434786180",
           "name": "和平精英",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "439019448",
+          "name": "外网精选评论翻译",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
         },
         {
           "type": "creator",
