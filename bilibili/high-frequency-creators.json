@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T07:10:15.484Z",
+  "generatedAt": "2026-06-07T08:10:15.639Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -36,6 +36,13 @@
           "id": "105777129",
           "name": "POE魔法学院",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1072842577",
+          "name": "嘻嘻nja",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -390,6 +397,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2002540325",
+          "name": "待到春来冬夏去",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.71"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2003685778",
           "name": "士六视界",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
@@ -561,6 +575,13 @@
           "id": "28861187",
           "name": "风间琉璃zcl",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "289189019",
+          "name": "戏京同志",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -1681,6 +1702,13 @@
           "id": "72969462",
           "name": "笔给你你来写_",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "75",
+          "name": "丸子",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
         },
         {
           "type": "creator",
