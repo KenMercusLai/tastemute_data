@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T06:10:15.856Z",
+  "generatedAt": "2026-06-07T07:10:15.484Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -327,6 +327,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "180986320",
+          "name": "颜蓓动画",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "18263905",
           "name": "愚者说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
@@ -393,6 +400,13 @@
           "id": "20048600",
           "name": "神牛教丶教主",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2035556081",
+          "name": "堂主lee",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -761,6 +775,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546583140403261",
+          "name": "打游戏的老二",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546587735264018",
           "name": "奥特曼之魂",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
@@ -789,6 +810,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546619609876957",
+          "name": "王师傅の日记",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546632075348451",
           "name": "梵小知治愈坊",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.83"
@@ -813,6 +841,13 @@
           "id": "3546663067060977",
           "name": "美图集锦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546682562185440",
+          "name": "゚゚゚゚゚知更鸟",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.81"
         },
         {
           "type": "creator",
