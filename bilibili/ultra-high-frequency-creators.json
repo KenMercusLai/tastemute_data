@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T16:10:18.872Z",
+  "generatedAt": "2026-06-07T17:10:19.791Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -407,6 +407,13 @@
           "id": "3546724748495813",
           "name": "超哥超车",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546824314980440",
+          "name": "Hearts2Hearts",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -875,7 +882,7 @@
           "platform": "bilibili",
           "id": "75",
           "name": "丸子",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.73"
         },
         {
           "type": "creator",
