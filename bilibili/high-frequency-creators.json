@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T05:10:15.917Z",
+  "generatedAt": "2026-06-07T06:10:15.856Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -113,6 +113,13 @@
           "id": "1252229843",
           "name": "三一电工",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12564810",
+          "name": "塔罗的低语Whisper",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.69"
         },
         {
           "type": "creator",
@@ -568,6 +575,13 @@
           "id": "312330130",
           "name": "愚乐有料",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "31536760",
+          "name": "EDG电子竞技俱乐部",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.43"
         },
         {
           "type": "creator",
@@ -1366,6 +1380,13 @@
           "id": "487511093",
           "name": "YouTube精选字幕组",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "488002189",
+          "name": "古牧三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
         },
         {
           "type": "creator",
