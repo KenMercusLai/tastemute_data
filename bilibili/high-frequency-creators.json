@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T10:10:16.111Z",
+  "generatedAt": "2026-06-07T11:10:15.550Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -407,6 +407,13 @@
           "id": "1955897084",
           "name": "鸣潮",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1978333794",
+          "name": "爱吃薯条の炸鸡",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -1461,6 +1468,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "485256605",
+          "name": "欲寒不止于暗信",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "487511093",
           "name": "YouTube精选字幕组",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
@@ -1492,6 +1506,13 @@
           "id": "492905896",
           "name": "小普-三角洲重生版",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "494149994",
+          "name": "柑贝",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.81"
         },
         {
           "type": "creator",
