@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T00:10:15.850Z",
+  "generatedAt": "2026-06-07T01:10:15.798Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -208,6 +208,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1539932365",
+          "name": "李_鸿政",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1547032467",
           "name": "千年小爱同学",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
@@ -267,6 +274,13 @@
           "id": "1725682916",
           "name": "铁蛋儿解说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.40"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1739997894",
+          "name": "芹玖说漫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -803,6 +817,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546880868879192",
+          "name": "康康财经观察",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546888794016247",
           "name": "高跟鞋影视",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
@@ -859,6 +880,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546933127809399",
+          "name": "虾仁也疯狂了",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546933266222016",
           "name": "精彩名人汇",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.35"
@@ -890,6 +918,20 @@
           "id": "3632303777516250",
           "name": "日子慢慢走快乐天天有",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632313441192505",
+          "name": "三礼有理了",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690973450210169",
+          "name": "君叹阿",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.60"
         },
         {
           "type": "creator",
@@ -1401,6 +1443,13 @@
           "id": "660296073",
           "name": "乡园丫仔",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "66794609",
+          "name": "暴力作家欧阳乾",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
         },
         {
           "type": "creator",
