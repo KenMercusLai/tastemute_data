@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T19:10:18.621Z",
+  "generatedAt": "2026-06-07T20:10:19.012Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -57,6 +57,13 @@
           "id": "11119415",
           "name": "dollarsmy",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1131457022",
+          "name": "人民日报",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -133,7 +140,7 @@
           "platform": "bilibili",
           "id": "1744580599",
           "name": "NBA",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -176,6 +183,13 @@
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1955655610",
+          "name": "九派新闻",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.02"
         },
         {
           "type": "creator",
