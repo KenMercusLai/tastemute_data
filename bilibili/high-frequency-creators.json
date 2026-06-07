@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T09:10:15.425Z",
+  "generatedAt": "2026-06-07T10:10:16.111Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15,6 +15,13 @@
           "id": "1000037800",
           "name": "快乐的娱",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "101392000",
+          "name": "叫我小宾仔",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -246,6 +253,13 @@
           "id": "1563385862",
           "name": "转生成为毛毛",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "16110280",
+          "name": "jojo瑞兹",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -1226,6 +1240,13 @@
           "id": "383551518",
           "name": "水论文的程序猿-水导",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "387630871",
+          "name": "油墨香车",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
         },
         {
           "type": "creator",
