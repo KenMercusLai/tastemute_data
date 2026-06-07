@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T01:22:19.221Z",
+  "generatedAt": "2026-06-07T02:10:18.204Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -145,6 +145,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1842984464",
+          "name": "坤徐蔡S",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
@@ -173,9 +180,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22590320",
+          "name": "不爱出门呀",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "22697887",
           "name": "芝士华莱士",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23097435",
+          "name": "罗永浩粉丝团",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -369,6 +390,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546912959498254",
+          "name": "大型纪录片bro",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546930737055759",
           "name": "郭律说",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
@@ -533,6 +561,20 @@
           "id": "393091539",
           "name": "三角洲经济学教父",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "397180707",
+          "name": "油管小王子Terry",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "412719797",
+          "name": "YouTube精彩视频-",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
