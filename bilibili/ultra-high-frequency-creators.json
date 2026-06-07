@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T18:10:18.320Z",
+  "generatedAt": "2026-06-07T19:10:18.621Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -376,6 +376,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546625865681622",
+          "name": "小闹小闹丫",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546663067060977",
           "name": "美图集锦",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.29"
@@ -407,6 +414,13 @@
           "id": "3546724748495813",
           "name": "超哥超车",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546814145890375",
+          "name": "娜依voitko",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.55"
         },
         {
           "type": "creator",
