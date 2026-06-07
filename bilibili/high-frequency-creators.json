@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T16:10:16.230Z",
+  "generatedAt": "2026-06-07T17:10:16.688Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -488,6 +488,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "211005705",
+          "name": "网易第五人格手游",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2111208025",
           "name": "GkTz1",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.49"
@@ -729,6 +736,13 @@
           "id": "332835232",
           "name": "笑嘻了12138",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "333056401",
+          "name": "绿化锂",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.62"
         },
         {
           "type": "creator",
@@ -1051,6 +1065,13 @@
           "id": "3546820275865706",
           "name": "蛋仔大圆子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546824314980440",
+          "name": "Hearts2Hearts",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -1904,7 +1925,7 @@
           "platform": "bilibili",
           "id": "75",
           "name": "丸子",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.73"
         },
         {
           "type": "creator",
