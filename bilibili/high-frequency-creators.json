@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T12:10:15.456Z",
+  "generatedAt": "2026-06-07T13:10:15.516Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22,6 +22,13 @@
           "id": "101392000",
           "name": "叫我小宾仔",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1029160345",
+          "name": "Mr-Ferret",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.02"
         },
         {
           "type": "creator",
@@ -57,6 +64,13 @@
           "id": "1080316566",
           "name": "考研英语晓燕",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1081132475",
+          "name": "钱钱子RICH_呆呆",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.06"
         },
         {
           "type": "creator",
@@ -880,6 +894,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546625712589474",
+          "name": "AAA伊波恩鉴定师零",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546632075348451",
           "name": "梵小知治愈坊",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.83"
@@ -911,6 +932,13 @@
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546683765950790",
+          "name": "韭菜vvv",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
         },
         {
           "type": "creator",
