@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T22:10:19.983Z",
+  "generatedAt": "2026-06-07T23:10:19.093Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -414,6 +414,13 @@
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546696015416009",
+          "name": "宫百万_",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
