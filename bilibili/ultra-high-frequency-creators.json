@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T13:10:18.087Z",
+  "generatedAt": "2026-06-07T14:10:18.553Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -127,6 +127,13 @@
           "id": "1744580599",
           "name": "NBA",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "178549",
+          "name": "八爪鱼fishly",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.65"
         },
         {
           "type": "creator",
@@ -348,6 +355,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546625733561097",
+          "name": "猫狗村",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546663067060977",
           "name": "美图集锦",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.29"
@@ -379,6 +393,13 @@
           "id": "3546824430324278",
           "name": "勇哥知识学堂",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546831902477235",
+          "name": "爱睡觉的也野",
+          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=1.00"
         },
         {
           "type": "creator",
