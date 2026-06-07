@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T07:10:18.084Z",
+  "generatedAt": "2026-06-07T08:10:18.402Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -791,6 +791,13 @@
           "platform": "bilibili",
           "id": "7107373",
           "name": "娱乐玩家李维斯",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "75",
+          "name": "丸子",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
         },
         {
