@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T21:10:18.812Z",
+  "generatedAt": "2026-06-07T22:10:19.983Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -278,6 +278,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3461568140413116",
+          "name": "一只普通的魈厨",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3461571401485150",
           "name": "风间_苍月",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.64"
@@ -378,7 +385,7 @@
           "platform": "bilibili",
           "id": "3546619314178489",
           "name": "蓝飘飘fly",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -554,6 +561,13 @@
           "id": "3546946304215968",
           "name": "B站我够帅",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "35780075",
+          "name": "奈落_Abyss",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.67"
         },
         {
           "type": "creator",
