@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T23:59:21.684Z",
+  "generatedAt": "2026-06-07T00:10:15.850Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -740,6 +740,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546709795801227",
+          "name": "B站名人精彩演讲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546713063164029",
           "name": "新西兰三妹Summer",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
@@ -1261,6 +1268,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504512557",
+          "name": "BT财经",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.54"
         },
         {
           "type": "creator",
