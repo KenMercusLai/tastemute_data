@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T20:10:24.562Z",
+  "generatedAt": "2026-06-08T21:10:19.584Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -280,7 +280,7 @@
           "platform": "bilibili",
           "id": "25215790",
           "name": "阿孟的养猫日记",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.86"
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -799,6 +799,13 @@
           "id": "392579734",
           "name": "mobility_摸哔哩腿",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "392836434",
+          "name": "哔哩哔哩王者荣耀赛事",
+          "reason": "Average upload gap <= 1 days; videos=17; avg_gap_days=0.94"
         },
         {
           "type": "creator",
