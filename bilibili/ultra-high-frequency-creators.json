@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T11:10:20.298Z",
+  "generatedAt": "2026-06-08T12:10:18.929Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -894,6 +894,20 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "482647474",
+          "name": "小莉帮忙",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487614876",
+          "name": "四川观察",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "492905896",
           "name": "小普-三角洲重生版",
           "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.52"
@@ -1085,7 +1099,7 @@
           "platform": "bilibili",
           "id": "94815852",
           "name": "斯蒂芬游",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.78"
         },
         {
           "type": "creator",
