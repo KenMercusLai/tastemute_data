@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T07:10:19.044Z",
+  "generatedAt": "2026-06-08T08:10:19.836Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -49,7 +49,7 @@
           "platform": "bilibili",
           "id": "1080316566",
           "name": "考研英语晓燕",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.56"
         },
         {
           "type": "creator",
@@ -988,6 +988,13 @@
           "id": "660296073",
           "name": "乡园丫仔",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "669334488",
+          "name": "环球音乐中国",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
         },
         {
           "type": "creator",
