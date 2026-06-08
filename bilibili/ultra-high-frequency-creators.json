@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T06:10:19.614Z",
+  "generatedAt": "2026-06-08T07:10:19.044Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -110,6 +110,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "147546636",
+          "name": "无畏契约",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1514864947",
           "name": "雨不会下太久",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
@@ -183,6 +190,13 @@
           "id": "1842984464",
           "name": "坤徐蔡S",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1894563281",
+          "name": "哔哩哔哩毕业歌会",
+          "reason": "Average upload gap <= 1 days; videos=14; avg_gap_days=0.15"
         },
         {
           "type": "creator",
