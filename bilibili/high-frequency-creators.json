@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T08:10:16.485Z",
+  "generatedAt": "2026-06-08T09:10:15.578Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1993,9 +1993,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "512087790",
+          "name": "植物大战僵尸2",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "522653994",
           "name": "大象新闻",
           "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "523347986",
+          "name": "二向箔批发要吗",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
         },
         {
           "type": "creator",
@@ -2226,7 +2240,7 @@
           "platform": "bilibili",
           "id": "72969462",
           "name": "笔给你你来写_",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.04"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=0.80"
         },
         {
           "type": "creator",
