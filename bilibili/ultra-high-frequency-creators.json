@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T18:10:19.483Z",
+  "generatedAt": "2026-06-08T19:10:19.311Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -309,13 +309,6 @@
           "id": "28861187",
           "name": "风间琉璃zcl",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "299946576",
-          "name": "巨炮zzzzzz",
-          "reason": "Average upload gap <= 1 days; videos=13; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -1128,13 +1121,6 @@
           "id": "94815852",
           "name": "斯蒂芬游",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.78"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "97213827",
-          "name": "潜艇伟伟迷",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.89"
         }
       ],
       "keywords": []
