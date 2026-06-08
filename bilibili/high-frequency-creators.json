@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T07:10:16.049Z",
+  "generatedAt": "2026-06-08T08:10:16.485Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -70,7 +70,7 @@
           "platform": "bilibili",
           "id": "1080316566",
           "name": "考研英语晓燕",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.56"
         },
         {
           "type": "creator",
@@ -99,6 +99,13 @@
           "id": "11119415",
           "name": "dollarsmy",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1121044614",
+          "name": "凉255",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -2122,6 +2129,13 @@
           "id": "66794609",
           "name": "暴力作家欧阳乾",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "669334488",
+          "name": "环球音乐中国",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
         },
         {
           "type": "creator",
