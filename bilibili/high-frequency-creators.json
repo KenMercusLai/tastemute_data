@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T23:10:15.991Z",
+  "generatedAt": "2026-06-08T00:10:16.103Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -231,7 +231,7 @@
           "platform": "bilibili",
           "id": "1497463202",
           "name": "晓艳教英语",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -467,6 +467,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1968898632",
+          "name": "唯美主义世界",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1978333794",
           "name": "爱吃薯条の炸鸡",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
@@ -602,7 +609,7 @@
           "platform": "bilibili",
           "id": "25503580",
           "name": "布锅锅",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.54"
         },
         {
           "type": "creator",
@@ -869,6 +876,13 @@
           "id": "3493295189658159",
           "name": "力哥玩儿游戏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494353263659251",
+          "name": "幻术光明神",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
         },
         {
           "type": "creator",
