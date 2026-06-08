@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T04:10:16.171Z",
+  "generatedAt": "2026-06-08T05:09:23.852Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -106,6 +106,13 @@
           "id": "1132553462",
           "name": "烛宝哒",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1147490275",
+          "name": "Guermok",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.40"
         },
         {
           "type": "creator",
@@ -407,6 +414,13 @@
           "id": "18263905",
           "name": "愚者说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "183751118",
+          "name": "YouTube英语听说",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -880,6 +894,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493117468608664",
+          "name": "怀欺三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493257342355943",
           "name": "佛性记录解说",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.05"
@@ -1237,6 +1258,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546907232176766",
+          "name": "YouTube-武器精选",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546907391560121",
           "name": "犀利解说员",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
@@ -1314,6 +1342,20 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546968718576133",
+          "name": "必购",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546980091431311",
+          "name": "B购",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546982777883372",
           "name": "三角洲唐宗主",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.39"
@@ -1342,9 +1384,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632319887837439",
+          "name": "b醒着做u饿梦",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690973450210169",
           "name": "君叹阿",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690973628468004",
+          "name": "抱抱加油试管早产基因",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -1419,9 +1475,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706941398321296",
+          "name": "好物推荐-易蕤荀",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706941817752467",
           "name": "开心猪猫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706945529711458",
+          "name": "好物甄选-赖袆說",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -1632,6 +1702,13 @@
           "id": "414702734",
           "name": "哈仔十一",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "415327053",
+          "name": "YouTube武器鉴赏",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -1895,6 +1972,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "57435565",
+          "name": "王者荣耀世界",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "590584284",
           "name": "Speed-777",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
@@ -2002,7 +2086,7 @@
           "platform": "bilibili",
           "id": "67390259",
           "name": "宋少弘",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.41"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.26"
         },
         {
           "type": "creator",
