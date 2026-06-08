@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T22:10:19.932Z",
+  "generatedAt": "2026-06-08T23:10:19.077Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -733,6 +733,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690998167243635",
+          "name": "Miyaki米芽奇",
+          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3691002458016114",
           "name": "子非鱼纪录片",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
@@ -771,6 +778,13 @@
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706992495430612",
+          "name": "逗比兄妹",
+          "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -838,6 +852,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "403207842",
+          "name": "河南民生频道大参考",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "412719797",
           "name": "YouTube精彩视频-",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
@@ -890,6 +911,13 @@
           "id": "439019448",
           "name": "外网精选评论翻译",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "441167301",
+          "name": "分析学爱好者",
+          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=1.00"
         },
         {
           "type": "creator",
