@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T15:10:19.150Z",
+  "generatedAt": "2026-06-08T16:10:19.830Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -295,6 +295,13 @@
           "id": "27500557",
           "name": "梦轩dada",
           "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "275930985",
+          "name": "新青年",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -897,6 +904,13 @@
           "id": "473837611",
           "name": "新华社",
           "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "481477456",
+          "name": "Jooey吖",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
