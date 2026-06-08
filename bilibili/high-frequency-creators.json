@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T02:10:15.459Z",
+  "generatedAt": "2026-06-08T03:10:16.071Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -288,6 +288,13 @@
           "id": "1563385862",
           "name": "转生成为毛毛",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1591562602",
+          "name": "len拉德",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -673,6 +680,13 @@
           "id": "280086490",
           "name": "静谧不是恶魔",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "28047632",
+          "name": "太吾车神",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -2122,6 +2136,13 @@
           "id": "97213827",
           "name": "潜艇伟伟迷",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "98923677",
+          "name": "嘻嘻午漫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
         }
       ],
       "keywords": []
