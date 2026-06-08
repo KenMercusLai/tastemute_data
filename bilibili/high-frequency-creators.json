@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T03:10:16.071Z",
+  "generatedAt": "2026-06-08T04:10:16.171Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -280,7 +280,7 @@
           "platform": "bilibili",
           "id": "1561515",
           "name": "吴鸽不理解",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
         },
         {
           "type": "creator",
@@ -435,6 +435,13 @@
           "id": "1902315548",
           "name": "奇才叶凌天Y",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1904174",
+          "name": "英语雪梨老师",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -1484,7 +1491,7 @@
           "platform": "bilibili",
           "id": "37938807",
           "name": "勇哥餐饮避坑指南",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.27"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -2121,7 +2128,7 @@
           "platform": "bilibili",
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
         },
         {
           "type": "creator",
