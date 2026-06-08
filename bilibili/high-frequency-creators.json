@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T13:10:15.424Z",
+  "generatedAt": "2026-06-08T14:10:15.423Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1601,6 +1601,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706973673490819",
+          "name": "海绵宝宝漫画配音",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706974204070190",
           "name": "AI由爱生成",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
@@ -2175,6 +2182,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "627577002",
+          "name": "LE_SSERAFIM",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "628823248",
           "name": "比亚迪",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.23"
@@ -2185,6 +2199,13 @@
           "id": "628887297",
           "name": "awsomeZs",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "651569521",
+          "name": "春日部sk",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
         },
         {
           "type": "creator",
@@ -2315,6 +2336,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "78013399",
+          "name": "anshen安身",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "7824567",
           "name": "云小倦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
@@ -2324,7 +2352,7 @@
           "platform": "bilibili",
           "id": "8237763",
           "name": "阿张RayZhang",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.10"
         },
         {
           "type": "creator",
