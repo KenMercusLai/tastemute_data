@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T21:10:19.584Z",
+  "generatedAt": "2026-06-08T22:10:19.932Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -222,6 +222,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1935882",
+          "name": "指法芬芳张大仙",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1955655610",
           "name": "九派新闻",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.02"
@@ -281,6 +288,13 @@
           "id": "25215790",
           "name": "阿孟的养猫日记",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "25255021",
+          "name": "是我柳柳",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -721,7 +735,7 @@
           "platform": "bilibili",
           "id": "3691002458016114",
           "name": "子非鱼纪录片",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
         },
         {
           "type": "creator",
