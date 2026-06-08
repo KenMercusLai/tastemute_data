@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T04:10:19.256Z",
+  "generatedAt": "2026-06-08T05:09:26.754Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -586,6 +586,20 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546968718576133",
+          "name": "必购",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546980091431311",
+          "name": "B购",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "35780075",
           "name": "奈落_Abyss",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.67"
@@ -607,9 +621,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632319887837439",
+          "name": "b醒着做u饿梦",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690973450210169",
           "name": "君叹阿",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690973628468004",
+          "name": "抱抱加油试管早产基因",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -652,6 +680,20 @@
           "id": "3691002458016114",
           "name": "子非鱼纪录片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706941398321296",
+          "name": "好物推荐-易蕤荀",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706945529711458",
+          "name": "好物甄选-赖袆說",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -743,6 +785,13 @@
           "id": "413418229",
           "name": "是在勇哥录像",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "415327053",
+          "name": "YouTube武器鉴赏",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -862,6 +911,13 @@
           "id": "574115689",
           "name": "游戏大猪猪",
           "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "57435565",
+          "name": "王者荣耀世界",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.73"
         },
         {
           "type": "creator",
