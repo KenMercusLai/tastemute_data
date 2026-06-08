@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T03:10:19.137Z",
+  "generatedAt": "2026-06-08T04:10:19.256Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -183,6 +183,13 @@
           "id": "1842984464",
           "name": "坤徐蔡S",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1904174",
+          "name": "英语雪梨老师",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -679,7 +686,7 @@
           "platform": "bilibili",
           "id": "37938807",
           "name": "勇哥餐饮避坑指南",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.27"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -952,7 +959,7 @@
           "platform": "bilibili",
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
         },
         {
           "type": "creator",
