@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T18:10:15.910Z",
+  "generatedAt": "2026-06-08T19:10:15.821Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -581,7 +581,7 @@
           "platform": "bilibili",
           "id": "20048600",
           "name": "神牛教丶教主",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.55"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -812,7 +812,7 @@
           "platform": "bilibili",
           "id": "299946576",
           "name": "巨炮zzzzzz",
-          "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=0.64"
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -1125,6 +1125,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546607914059825",
+          "name": "牟牟刘啊-",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546610422253638",
           "name": "哎哎电影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
@@ -1275,6 +1282,13 @@
           "id": "3546734590429924",
           "name": "流星-洛克王国",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546741475379844",
+          "name": "摄影恩哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -2329,6 +2343,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "700445542",
+          "name": "大胡L5",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "702528736",
           "name": "大正爱跑步",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
@@ -2422,7 +2443,7 @@
           "platform": "bilibili",
           "id": "97213827",
           "name": "潜艇伟伟迷",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.89"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.21"
         },
         {
           "type": "creator",
