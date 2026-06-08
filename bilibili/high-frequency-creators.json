@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T20:10:16.598Z",
+  "generatedAt": "2026-06-08T21:10:16.198Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -670,6 +670,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "243677492",
+          "name": "杰斯汪解析",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "249166282",
           "name": "地狱霹雳火",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.90"
@@ -679,7 +686,7 @@
           "platform": "bilibili",
           "id": "25215790",
           "name": "阿孟的养猫日记",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.86"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -1636,6 +1643,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706965215677411",
+          "name": "贝利亚打洲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706971911883532",
           "name": "老孙讲健身",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.95"
@@ -1779,6 +1793,13 @@
           "id": "392579734",
           "name": "mobility_摸哔哩腿",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "392836434",
+          "name": "哔哩哔哩王者荣耀赛事",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -2115,6 +2136,13 @@
           "id": "504512557",
           "name": "BT财经",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504799975",
+          "name": "达哥在上海",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
