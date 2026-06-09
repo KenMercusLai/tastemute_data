@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T14:10:15.728Z",
+  "generatedAt": "2026-06-09T15:10:15.510Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -386,6 +386,13 @@
           "id": "1629347259",
           "name": "红警HBK08",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "165001727",
+          "name": "lulu和露爸",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -1132,13 +1139,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3537104485223314",
-          "name": "小博博三角洲行动",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.99"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3537106035018583",
           "name": "RIIZE",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.29"
@@ -1191,6 +1191,13 @@
           "id": "3546558119283625",
           "name": "老芒果OL",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546559260133500",
+          "name": "简单物理一不能学不会",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -1834,7 +1841,7 @@
           "platform": "bilibili",
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.14"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -2255,6 +2262,13 @@
           "id": "490204295",
           "name": "话事熊",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "490334938",
+          "name": "中国军视网",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.35"
         },
         {
           "type": "creator",
