@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T13:10:19.251Z",
+  "generatedAt": "2026-06-09T14:10:19.701Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -189,7 +189,7 @@
           "platform": "bilibili",
           "id": "179264824",
           "name": "音乐老友",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -1114,6 +1114,13 @@
           "id": "613115943",
           "name": "比亚迪汽车",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "628823248",
+          "name": "比亚迪",
+          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.61"
         },
         {
           "type": "creator",
