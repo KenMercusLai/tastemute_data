@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T08:10:16.000Z",
+  "generatedAt": "2026-06-09T09:10:15.510Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -392,7 +392,7 @@
           "platform": "bilibili",
           "id": "1676266623",
           "name": "吟风飞舞",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -560,7 +560,7 @@
           "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -1204,7 +1204,7 @@
           "platform": "bilibili",
           "id": "3546587735264018",
           "name": "奥特曼之魂",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -2192,6 +2192,13 @@
           "id": "488002189",
           "name": "古牧三角洲行动",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "488055582",
+          "name": "新华网",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
         },
         {
           "type": "creator",
