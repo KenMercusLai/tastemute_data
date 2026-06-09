@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T00:10:16.368Z",
+  "generatedAt": "2026-06-09T01:10:16.581Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -855,6 +855,13 @@
           "id": "300695613",
           "name": "欢乐纸条颂",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "307015524",
+          "name": "EVA齐瓦尔",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.41"
         },
         {
           "type": "creator",
@@ -2224,6 +2231,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "52717408",
+          "name": "Always聪聪",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "542316830",
           "name": "茄子小布丁",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.14"
@@ -2352,7 +2366,7 @@
           "platform": "bilibili",
           "id": "652239032",
           "name": "IGN中国",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.03"
         },
         {
           "type": "creator",
