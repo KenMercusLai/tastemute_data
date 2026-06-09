@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T07:10:18.199Z",
+  "generatedAt": "2026-06-09T08:10:19.490Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -99,6 +99,13 @@
           "id": "1322313150",
           "name": "影视拾荒者",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14200591",
+          "name": "我是饭叔啊",
+          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.89"
         },
         {
           "type": "creator",
