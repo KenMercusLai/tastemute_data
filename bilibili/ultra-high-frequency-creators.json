@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T10:10:19.447Z",
+  "generatedAt": "2026-06-09T11:10:19.358Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -572,6 +572,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546847222172344",
+          "name": "村间顾影",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546880868879192",
           "name": "康康财经观察",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.18"
@@ -827,6 +834,13 @@
           "id": "381833884",
           "name": "小李桑2333",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "386600212",
+          "name": "墨八分钱",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.67"
         },
         {
           "type": "creator",
