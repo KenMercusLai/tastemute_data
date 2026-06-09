@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T15:10:15.510Z",
+  "generatedAt": "2026-06-09T16:10:16.358Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -502,6 +502,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "181062822",
+          "name": "股神巴雷特",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "18263905",
           "name": "愚者说",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.79"
@@ -882,7 +889,7 @@
           "platform": "bilibili",
           "id": "28861187",
           "name": "风间琉璃zcl",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -918,6 +925,13 @@
           "id": "300695613",
           "name": "欢乐纸条颂",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "306936843",
+          "name": "雨说体育徐静雨",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -1057,7 +1071,7 @@
           "platform": "bilibili",
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.80"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -1545,6 +1559,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546907680966947",
+          "name": "提姆哥和妮可姐",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546908043774464",
           "name": "CORTIS_BIGHIT",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
@@ -1849,6 +1870,13 @@
           "id": "3706978173978994",
           "name": "潇曜-",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706984060685037",
+          "name": "苏州刚子馕坑烤全羊",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -2674,7 +2702,7 @@
           "platform": "bilibili",
           "id": "8440892",
           "name": "胡律师看法",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.38"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.32"
         },
         {
           "type": "creator",
