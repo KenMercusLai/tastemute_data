@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T07:10:15.407Z",
+  "generatedAt": "2026-06-09T08:10:16.000Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -259,7 +259,7 @@
           "platform": "bilibili",
           "id": "14200591",
           "name": "我是饭叔啊",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -512,6 +512,13 @@
           "id": "1851657327",
           "name": "星之雨下",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "185281671",
+          "name": "小魔法祭祀",
+          "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.91"
         },
         {
           "type": "creator",
@@ -2437,6 +2444,13 @@
           "id": "660296073",
           "name": "乡园丫仔",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6639802",
+          "name": "陈哥1",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.35"
         },
         {
           "type": "creator",
