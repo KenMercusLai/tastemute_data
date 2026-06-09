@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T18:10:15.759Z",
+  "generatedAt": "2026-06-09T19:10:15.761Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -516,6 +516,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "18232315",
+          "name": "老头们的快乐生活",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "18263905",
           "name": "愚者说",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.79"
@@ -652,6 +659,13 @@
           "id": "19848044",
           "name": "幽灵大官人",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1995880259",
+          "name": "行离编辑部",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -1566,6 +1580,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546905697061655",
+          "name": "宇宙没有售后",
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546907232176766",
           "name": "YouTube-武器精选",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
@@ -2248,6 +2269,13 @@
           "id": "473837611",
           "name": "新华社",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "478841372",
+          "name": "夜莺与玫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.29"
         },
         {
           "type": "creator",
