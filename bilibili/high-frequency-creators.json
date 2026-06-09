@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T03:10:16.369Z",
+  "generatedAt": "2026-06-09T04:10:16.217Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1554,7 +1554,7 @@
           "platform": "bilibili",
           "id": "3546982777883372",
           "name": "三角洲唐宗主",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.39"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.48"
         },
         {
           "type": "creator",
@@ -2268,7 +2268,7 @@
           "platform": "bilibili",
           "id": "542316830",
           "name": "茄子小布丁",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.14"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.18"
         },
         {
           "type": "creator",
@@ -2506,7 +2506,7 @@
           "platform": "bilibili",
           "id": "7107373",
           "name": "娱乐玩家李维斯",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.68"
         },
         {
           "type": "creator",
