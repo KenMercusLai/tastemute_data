@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T16:10:16.358Z",
+  "generatedAt": "2026-06-09T17:10:16.431Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1769,6 +1769,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3691002535610407",
+          "name": "浅千儿三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3691008655100333",
           "name": "之昂的碎碎念",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.22"
@@ -2737,7 +2744,7 @@
           "platform": "bilibili",
           "id": "97213827",
           "name": "潜艇伟伟迷",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.21"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.74"
         },
         {
           "type": "creator",
