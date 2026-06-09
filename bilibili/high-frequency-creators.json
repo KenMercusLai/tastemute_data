@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T23:10:16.168Z",
+  "generatedAt": "2026-06-09T00:10:16.368Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -316,6 +316,13 @@
           "id": "1561515",
           "name": "吴鸽不理解",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "156211",
+          "name": "樱梨梨Eriri",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -651,7 +658,7 @@
           "platform": "bilibili",
           "id": "22697887",
           "name": "芝士华莱士",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.84"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -714,7 +721,7 @@
           "platform": "bilibili",
           "id": "25503580",
           "name": "布锅锅",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.54"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -1958,6 +1965,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "438173577",
+          "name": "卢克文工作室",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "439019448",
           "name": "外网精选评论翻译",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
@@ -2107,7 +2121,7 @@
           "platform": "bilibili",
           "id": "490204295",
           "name": "话事熊",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.77"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.35"
         },
         {
           "type": "creator",
