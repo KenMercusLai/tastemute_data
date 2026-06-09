@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T11:10:15.850Z",
+  "generatedAt": "2026-06-09T12:10:15.340Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -887,6 +887,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2957050",
+          "name": "冰糖小堃",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "299810153",
           "name": "橪韭Ran",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.52"
@@ -939,6 +946,13 @@
           "id": "316627722",
           "name": "世界见闻录",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "31677815",
+          "name": "李灵泽2025",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -1751,6 +1765,13 @@
           "id": "3706941817752467",
           "name": "开心猪猫",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706945349356465",
+          "name": "小帅拔钉记",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.94"
         },
         {
           "type": "creator",
