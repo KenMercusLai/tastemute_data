@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T14:10:19.701Z",
+  "generatedAt": "2026-06-09T15:10:18.683Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -439,6 +439,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546559260133500",
+          "name": "简单物理一不能学不会",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546576226093694",
           "name": "宇宙说明书up",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.15"
@@ -812,7 +819,7 @@
           "platform": "bilibili",
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.14"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1016,6 +1023,13 @@
           "id": "488055582",
           "name": "新华网",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "490334938",
+          "name": "中国军视网",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.35"
         },
         {
           "type": "creator",
