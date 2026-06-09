@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T00:10:19.318Z",
+  "generatedAt": "2026-06-09T01:10:20.146Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1071,7 +1071,7 @@
           "platform": "bilibili",
           "id": "652239032",
           "name": "IGN中国",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.03"
         },
         {
           "type": "creator",
