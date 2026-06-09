@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T17:10:16.431Z",
+  "generatedAt": "2026-06-09T18:10:15.759Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -491,6 +491,13 @@
           "id": "179264824",
           "name": "音乐老友",
           "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1798443432",
+          "name": "靖妖一心",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
         },
         {
           "type": "creator",
@@ -1160,6 +1167,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537119932844651",
+          "name": "sjz名人堂",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "353896033",
           "name": "有趣的小敏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
@@ -1400,7 +1414,7 @@
           "platform": "bilibili",
           "id": "3546697034631336",
           "name": "油管科普精选",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.30"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -1506,6 +1520,13 @@
           "id": "3546847222172344",
           "name": "村间顾影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546864278309344",
+          "name": "许愿星yu",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -1653,6 +1674,13 @@
           "id": "3546980091431311",
           "name": "B购",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546981651712421",
+          "name": "蛋某人排名",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
         },
         {
           "type": "creator",
