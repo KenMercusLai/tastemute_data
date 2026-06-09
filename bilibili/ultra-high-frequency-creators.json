@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T11:10:19.358Z",
+  "generatedAt": "2026-06-09T12:10:18.936Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -778,6 +778,13 @@
           "id": "3706941398321296",
           "name": "好物推荐-易蕤荀",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706945349356465",
+          "name": "小帅拔钉记",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.94"
         },
         {
           "type": "creator",
