@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T23:10:19.077Z",
+  "generatedAt": "2026-06-09T00:10:19.318Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -273,7 +273,7 @@
           "platform": "bilibili",
           "id": "22697887",
           "name": "芝士华莱士",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.84"
+          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.95"
         },
         {
           "type": "creator",
