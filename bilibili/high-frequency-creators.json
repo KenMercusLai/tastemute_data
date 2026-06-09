@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T04:10:16.217Z",
+  "generatedAt": "2026-06-09T05:10:15.956Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -320,6 +320,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "154047962",
+          "name": "靠谱盘网文",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1547032467",
           "name": "千年小爱同学",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.01"
@@ -421,6 +428,13 @@
           "id": "1745143606",
           "name": "争取最后的自由",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1745356376",
+          "name": "维亚德",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -820,13 +834,6 @@
           "id": "28627652",
           "name": "糖醋排骨吃饱了",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "28760071",
-          "name": "大瑞真机灵",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -1338,6 +1345,13 @@
           "id": "3546715500055234",
           "name": "哎呦呼噜鸭",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546719514003582",
+          "name": "RED_OFFICIAL_",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
         },
         {
           "type": "creator",
