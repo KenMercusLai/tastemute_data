@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T10:10:16.068Z",
+  "generatedAt": "2026-06-09T11:10:15.850Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1085,7 +1085,7 @@
           "platform": "bilibili",
           "id": "3493291895032359",
           "name": "汉堡可乐茤",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.75"
         },
         {
           "type": "creator",
@@ -1205,6 +1205,13 @@
           "id": "3546583140403261",
           "name": "打游戏的老二",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546584625186941",
+          "name": "183的冯予希律师",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -1457,6 +1464,13 @@
           "id": "3546838709832338",
           "name": "鳗鱼课堂",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546847222172344",
+          "name": "村间顾影",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -1877,6 +1891,13 @@
           "id": "384298638",
           "name": "浙江共青团",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "386600212",
+          "name": "墨八分钱",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.67"
         },
         {
           "type": "creator",
