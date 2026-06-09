@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T21:10:16.094Z",
+  "generatedAt": "2026-06-09T22:10:16.192Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -169,6 +169,13 @@
           "id": "123427077",
           "name": "白砂糖和香辛料",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1236342103",
+          "name": "快乐修勾贩卖机",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -726,6 +733,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21132494",
+          "name": "林烟不是大佬",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2115962425",
           "name": "NMIXX",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
@@ -910,7 +924,7 @@
           "platform": "bilibili",
           "id": "28627652",
           "name": "糖醋排骨吃饱了",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.76"
         },
         {
           "type": "creator",
@@ -1071,7 +1085,7 @@
           "platform": "bilibili",
           "id": "3461575513999598",
           "name": "录像分析员",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.51"
         },
         {
           "type": "creator",
@@ -1853,6 +1867,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706933393492459",
+          "name": "陈皮三角洲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706941398321296",
           "name": "好物推荐-易蕤荀",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
@@ -1953,7 +1974,7 @@
           "platform": "bilibili",
           "id": "3706984417200263",
           "name": "云南交警",
-          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.42"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.12"
         },
         {
           "type": "creator",
@@ -2569,7 +2590,7 @@
           "platform": "bilibili",
           "id": "613115943",
           "name": "比亚迪汽车",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.43"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.58"
         },
         {
           "type": "creator",
