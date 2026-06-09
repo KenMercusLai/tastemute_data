@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T12:10:15.340Z",
+  "generatedAt": "2026-06-09T13:10:15.745Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -497,7 +497,7 @@
           "platform": "bilibili",
           "id": "18263905",
           "name": "愚者说",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -1169,7 +1169,7 @@
           "platform": "bilibili",
           "id": "3546389868972074",
           "name": "小米汽车",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -1708,7 +1708,7 @@
           "platform": "bilibili",
           "id": "3690994318969201",
           "name": "世间百态记录者",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.38"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
         },
         {
           "type": "creator",
