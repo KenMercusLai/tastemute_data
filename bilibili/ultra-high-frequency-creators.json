@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T08:10:19.490Z",
+  "generatedAt": "2026-06-09T09:10:19.294Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -224,7 +224,7 @@
           "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -448,7 +448,7 @@
           "platform": "bilibili",
           "id": "3546587735264018",
           "name": "奥特曼之魂",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -981,6 +981,13 @@
           "id": "487614876",
           "name": "四川观察",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "488055582",
+          "name": "新华网",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
         },
         {
           "type": "creator",
