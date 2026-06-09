@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T21:10:19.456Z",
+  "generatedAt": "2026-06-09T22:10:20.241Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -796,6 +796,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706933393492459",
+          "name": "陈皮三角洲",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706941398321296",
           "name": "好物推荐-易蕤荀",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
@@ -1148,7 +1155,7 @@
           "platform": "bilibili",
           "id": "613115943",
           "name": "比亚迪汽车",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.58"
         },
         {
           "type": "creator",
