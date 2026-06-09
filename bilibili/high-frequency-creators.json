@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T06:10:15.992Z",
+  "generatedAt": "2026-06-09T07:10:15.407Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -250,6 +250,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1405225420",
+          "name": "A地球科普",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "14200591",
           "name": "我是饭叔啊",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
@@ -442,6 +449,13 @@
           "id": "175333301",
           "name": "哇周某人",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1756547706",
+          "name": "三角洲万泉教官",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -714,7 +728,7 @@
           "platform": "bilibili",
           "id": "243566998",
           "name": "挖沟连彭沟长",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -1282,6 +1296,13 @@
           "id": "3546663067060977",
           "name": "美图集锦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546664130316417",
+          "name": "盻沐",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.06"
         },
         {
           "type": "creator",
