@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T05:10:15.956Z",
+  "generatedAt": "2026-06-09T06:10:15.992Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -525,7 +525,7 @@
           "platform": "bilibili",
           "id": "1902315548",
           "name": "奇才叶凌天Y",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -1036,7 +1036,7 @@
           "platform": "bilibili",
           "id": "3493257342355943",
           "name": "佛性记录解说",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.05"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -2065,7 +2065,7 @@
           "platform": "bilibili",
           "id": "456064813",
           "name": "好奇的珜",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.95"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
         },
         {
           "type": "creator",
