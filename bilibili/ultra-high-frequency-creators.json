@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T02:10:18.542Z",
+  "generatedAt": "2026-06-09T03:10:19.587Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -70,7 +70,7 @@
           "platform": "bilibili",
           "id": "1132553462",
           "name": "烛宝哒",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
+          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.65"
         },
         {
           "type": "creator",
@@ -308,7 +308,7 @@
           "platform": "bilibili",
           "id": "27500557",
           "name": "梦轩dada",
-          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.82"
+          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -393,6 +393,13 @@
           "id": "353896033",
           "name": "有趣的小敏",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "354077280",
+          "name": "1818黄金眼",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -1141,7 +1148,7 @@
           "platform": "bilibili",
           "id": "72969462",
           "name": "笔给你你来写_",
-          "reason": "Average upload gap <= 1 days; videos=28; avg_gap_days=0.80"
+          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.51"
         },
         {
           "type": "creator",
