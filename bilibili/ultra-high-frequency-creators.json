@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T07:10:20.249Z",
+  "generatedAt": "2026-06-10T08:10:19.278Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -495,6 +495,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546619540671408",
+          "name": "小帅说实事",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546625733561097",
           "name": "猫狗村",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
@@ -596,6 +603,13 @@
           "id": "3546847222172344",
           "name": "村间顾影",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546868971735282",
+          "name": "bili_53584246348",
+          "reason": "Average upload gap <= 1 days; videos=17; avg_gap_days=0.37"
         },
         {
           "type": "creator",
