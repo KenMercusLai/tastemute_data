@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T01:10:18.973Z",
+  "generatedAt": "2026-06-10T02:10:18.237Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -134,6 +134,13 @@
           "id": "1533073647",
           "name": "中部空军",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1586359562",
+          "name": "圣安东尼奥马刺",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -448,7 +455,7 @@
           "platform": "bilibili",
           "id": "3546583054420470",
           "name": "XFinds寻宝",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -1204,7 +1211,7 @@
           "platform": "bilibili",
           "id": "676239823",
           "name": "早睡起大王",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.25"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.11"
         },
         {
           "type": "creator",
