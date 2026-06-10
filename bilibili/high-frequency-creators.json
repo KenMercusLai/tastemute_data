@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T21:10:15.761Z",
+  "generatedAt": "2026-06-10T22:10:16.239Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -155,6 +155,13 @@
           "id": "1141140061",
           "name": "环球异事o",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1146280645",
+          "name": "小琪琪寻宝藏",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -894,6 +901,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "23284747",
+          "name": "默默子rikiyo",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "239384911",
           "name": "春风满马",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.23"
@@ -1351,7 +1365,7 @@
           "platform": "bilibili",
           "id": "3537106035018583",
           "name": "RIIZE",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.29"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -1660,6 +1674,13 @@
           "id": "3546719514003582",
           "name": "RED_OFFICIAL_",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546720799557898",
+          "name": "卡厄思梦境",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -2317,7 +2338,7 @@
           "platform": "bilibili",
           "id": "393091539",
           "name": "三角洲经济学教父",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -2367,6 +2388,13 @@
           "id": "403207842",
           "name": "河南民生频道大参考",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "409086587",
+          "name": "一个被老婆磨平的90后",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -2654,6 +2682,13 @@
           "id": "490334938",
           "name": "中国军视网",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "490340432",
+          "name": "英语老师晓艳",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -3081,6 +3116,13 @@
           "id": "7824567",
           "name": "云小倦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8120863",
+          "name": "大猫小德",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
         },
         {
           "type": "creator",
