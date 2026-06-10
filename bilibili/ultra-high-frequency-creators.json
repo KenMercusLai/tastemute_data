@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T20:10:18.737Z",
+  "generatedAt": "2026-06-10T21:10:22.387Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -210,7 +210,7 @@
           "platform": "bilibili",
           "id": "178690106",
           "name": "搞机所",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.84"
+          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -617,6 +617,13 @@
           "id": "3546831902477235",
           "name": "爱睡觉的也野",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546838147795823",
+          "name": "BOYNEXTDOOR",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
