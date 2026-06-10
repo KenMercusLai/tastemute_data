@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T02:10:15.316Z",
+  "generatedAt": "2026-06-10T03:10:16.088Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -64,6 +64,13 @@
           "id": "105777129",
           "name": "POE魔法学院",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1060544882",
+          "name": "东洋雪莲",
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -435,6 +442,13 @@
           "id": "1660008675",
           "name": "业余球探刀先生",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1667026531",
+          "name": "健身华哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
