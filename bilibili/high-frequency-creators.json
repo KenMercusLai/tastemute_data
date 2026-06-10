@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T17:10:16.365Z",
+  "generatedAt": "2026-06-10T18:10:15.515Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -502,6 +502,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "172456873",
+          "name": "靳叫瘦",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1725682916",
           "name": "铁蛋儿解说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.40"
@@ -610,6 +617,13 @@
           "id": "18263905",
           "name": "愚者说",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1832904916",
+          "name": "曼城足球俱乐部",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -945,7 +959,7 @@
           "platform": "bilibili",
           "id": "268941858",
           "name": "磊哥游戏",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -1184,6 +1198,13 @@
           "id": "3461571401485150",
           "name": "风间_苍月",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461574861785182",
+          "name": "美速游戏",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -1638,7 +1659,7 @@
           "platform": "bilibili",
           "id": "3546734590429924",
           "name": "流星-洛克王国",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.36"
         },
         {
           "type": "creator",
@@ -1751,6 +1772,13 @@
           "id": "3546897350396015",
           "name": "自由的曼巴-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546897845324636",
+          "name": "汉跑跑三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.23"
         },
         {
           "type": "creator",
@@ -1926,6 +1954,13 @@
           "id": "3632319887837439",
           "name": "b醒着做u饿梦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "36335732",
+          "name": "老实人林少",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
