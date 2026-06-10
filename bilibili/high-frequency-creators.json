@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T03:10:16.088Z",
+  "generatedAt": "2026-06-10T04:10:16.154Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2483,6 +2483,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "495979927",
+          "name": "半耳聆",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "496124621",
           "name": "琉璃观影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.74"
@@ -2556,6 +2563,13 @@
           "id": "523347986",
           "name": "二向箔批发要吗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "526890129",
+          "name": "红星视频",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
         },
         {
           "type": "creator",
