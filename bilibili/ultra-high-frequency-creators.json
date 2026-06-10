@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T17:10:19.985Z",
+  "generatedAt": "2026-06-10T18:10:19.431Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -229,6 +229,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1832904916",
+          "name": "曼城足球俱乐部",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1842984464",
           "name": "坤徐蔡S",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
@@ -330,13 +337,6 @@
           "id": "25255021",
           "name": "是我柳柳",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "268941858",
-          "name": "磊哥游戏",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
