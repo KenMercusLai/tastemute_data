@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T22:10:16.239Z",
+  "generatedAt": "2026-06-10T23:10:15.871Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -224,7 +224,7 @@
           "platform": "bilibili",
           "id": "1252109941",
           "name": "-Madeinheaven-_-",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -308,7 +308,7 @@
           "platform": "bilibili",
           "id": "1402229439",
           "name": "大丙搞笑配音",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -1510,6 +1510,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546615361047431",
+          "name": "无敌夕瓜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546619314178489",
           "name": "蓝飘飘fly",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.74"
@@ -2220,6 +2227,13 @@
           "id": "3706992495430612",
           "name": "逗比兄妹",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706996750551142",
+          "name": "隔壁林蜀黍_",
+          "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.09"
         },
         {
           "type": "creator",
