@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T11:10:16.325Z",
+  "generatedAt": "2026-06-10T12:10:15.734Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -719,6 +719,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1972164375",
+          "name": "风起超会玩",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1978333794",
           "name": "爱吃薯条の炸鸡",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
@@ -1093,6 +1100,13 @@
           "id": "3269321",
           "name": "双兎official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "328442637",
+          "name": "小张给你的情书",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
