@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T16:10:21.499Z",
+  "generatedAt": "2026-06-10T17:10:19.985Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -106,6 +106,13 @@
           "id": "1322313150",
           "name": "影视拾荒者",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1322953481",
+          "name": "心刚音乐库",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
