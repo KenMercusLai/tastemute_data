@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T08:10:16.052Z",
+  "generatedAt": "2026-06-10T09:10:15.910Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -483,7 +483,7 @@
           "platform": "bilibili",
           "id": "170914",
           "name": "文同学文案",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -1104,6 +1104,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "330111133",
+          "name": "李大海_差点火了版",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "331514361",
           "name": "苏醒游戏解说",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.72"
@@ -1625,6 +1632,13 @@
           "id": "3546820275865706",
           "name": "蛋仔大圆子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546824050739575",
+          "name": "晚枫我的世界",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.81"
         },
         {
           "type": "creator",
@@ -2436,7 +2450,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -2626,6 +2640,13 @@
           "id": "512087790",
           "name": "植物大战僵尸2",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "515671860",
+          "name": "懒懒的白橘子-lazy",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
         },
         {
           "type": "creator",
