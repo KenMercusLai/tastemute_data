@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T05:10:15.611Z",
+  "generatedAt": "2026-06-10T06:10:16.371Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -197,6 +197,13 @@
           "id": "1236342103",
           "name": "快乐修勾贩卖机",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "124524440",
+          "name": "童话小责",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -2535,6 +2542,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504453319",
+          "name": "评测臻选",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
         },
         {
           "type": "creator",
