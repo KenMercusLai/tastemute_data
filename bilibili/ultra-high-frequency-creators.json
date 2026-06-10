@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T06:10:19.386Z",
+  "generatedAt": "2026-06-10T07:10:20.249Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -155,6 +155,13 @@
           "id": "1667026531",
           "name": "健身华哥",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1681299250",
+          "name": "迈阿密热火",
+          "reason": "Average upload gap <= 1 days; videos=12; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -442,6 +449,13 @@
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546564792420361",
+          "name": "暴走黄老板",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.72"
         },
         {
           "type": "creator",
