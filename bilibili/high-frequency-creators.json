@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T10:10:16.092Z",
+  "generatedAt": "2026-06-10T11:10:16.325Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -931,7 +931,7 @@
           "platform": "bilibili",
           "id": "272654283",
           "name": "咸鱼梦想家vlog",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -2584,6 +2584,13 @@
           "id": "4967086",
           "name": "奕奕奕城",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "498987983",
+          "name": "纯真的向死酱",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.23"
         },
         {
           "type": "creator",
