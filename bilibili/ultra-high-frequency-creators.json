@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T00:10:19.801Z",
+  "generatedAt": "2026-06-10T01:10:18.973Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -918,6 +918,13 @@
           "id": "397180707",
           "name": "油管小王子Terry",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3976691",
+          "name": "Hagn",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.68"
         },
         {
           "type": "creator",
