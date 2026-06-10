@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T19:10:15.731Z",
+  "generatedAt": "2026-06-10T20:10:15.514Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2315,6 +2315,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "395896059",
+          "name": "长发大咕咕",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "395931838",
           "name": "赖神无所畏惧",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
@@ -2668,13 +2675,6 @@
           "id": "496124621",
           "name": "琉璃观影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.74"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "4967086",
-          "name": "奕奕奕城",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
         },
         {
           "type": "creator",
