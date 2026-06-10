@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T08:10:19.278Z",
+  "generatedAt": "2026-06-10T09:10:19.576Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -572,6 +572,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546824050739575",
+          "name": "晚枫我的世界",
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546824314980440",
           "name": "Hearts2Hearts",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.92"
@@ -1057,7 +1064,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.17"
         },
         {
           "type": "creator",
