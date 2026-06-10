@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T11:10:21.238Z",
+  "generatedAt": "2026-06-10T12:10:18.870Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -351,6 +351,13 @@
           "id": "314387912",
           "name": "YouTube助眠频道",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "328442637",
+          "name": "小张给你的情书",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
