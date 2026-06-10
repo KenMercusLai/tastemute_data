@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T18:10:15.515Z",
+  "generatedAt": "2026-06-10T19:10:15.731Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -245,7 +245,7 @@
           "platform": "bilibili",
           "id": "12653252",
           "name": "我自高处不胜寒",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.86"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.72"
         },
         {
           "type": "creator",
@@ -855,6 +855,13 @@
           "id": "220279837",
           "name": "国服第一刃",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "22035899",
+          "name": "邪修美食",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -2577,6 +2584,13 @@
           "id": "48671478",
           "name": "职耶演员",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487215770",
+          "name": "农民工川哥",
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.93"
         },
         {
           "type": "creator",
