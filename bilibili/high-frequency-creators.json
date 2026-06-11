@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T18:10:15.863Z",
+  "generatedAt": "2026-06-11T19:10:15.748Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -848,6 +848,13 @@
           "id": "1978333794",
           "name": "爱吃薯条の炸鸡",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1980666392",
+          "name": "哔哩哔哩篮球赛事",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -2472,6 +2479,13 @@
           "id": "3706996750551142",
           "name": "隔壁林蜀黍_",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706998883355507",
+          "name": "抽象派名画1",
+          "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.10"
         },
         {
           "type": "creator",
