@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T16:10:19.999Z",
+  "generatedAt": "2026-06-11T17:10:20.407Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -876,6 +876,13 @@
           "id": "3632319887837439",
           "name": "b醒着做u饿梦",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "367262849",
+          "name": "一里ouo",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
         },
         {
           "type": "creator",
