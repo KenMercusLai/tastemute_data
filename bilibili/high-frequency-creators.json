@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T20:10:15.542Z",
+  "generatedAt": "2026-06-11T21:10:15.942Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -232,6 +232,13 @@
           "id": "1202350411",
           "name": "君在西安",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1232996266",
+          "name": "91坤崽",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.64"
         },
         {
           "type": "creator",
@@ -2248,6 +2255,13 @@
           "id": "36335732",
           "name": "老实人林少",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "365372809",
+          "name": "巅峰球迷汇",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
