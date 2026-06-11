@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T17:10:16.511Z",
+  "generatedAt": "2026-06-11T18:10:15.863Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -355,6 +355,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1388457432",
+          "name": "一枫O",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1402229439",
           "name": "大丙搞笑配音",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.16"
@@ -701,6 +708,13 @@
           "id": "1832904916",
           "name": "曼城足球俱乐部",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1836148691",
+          "name": "心碎小菌ovo",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -3305,6 +3319,13 @@
           "id": "628887297",
           "name": "awsomeZs",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6369831",
+          "name": "老梁不郁闷",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
           "type": "creator",
