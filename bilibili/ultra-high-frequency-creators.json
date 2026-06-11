@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T21:10:19.352Z",
+  "generatedAt": "2026-06-11T22:10:20.006Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -239,6 +239,13 @@
           "id": "178690106",
           "name": "搞机所",
           "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "17920281",
+          "name": "比不中说篮球",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -1051,6 +1058,13 @@
           "id": "3706992495430612",
           "name": "逗比兄妹",
           "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706998401009977",
+          "name": "Soulthrower飞刀冠军",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
         },
         {
           "type": "creator",
