@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T10:10:19.967Z",
+  "generatedAt": "2026-06-11T11:10:19.043Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -120,6 +120,13 @@
           "id": "1322953481",
           "name": "心刚音乐库",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1384406308",
+          "name": "纽约尼克斯",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
         },
         {
           "type": "creator",
