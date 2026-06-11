@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T13:10:19.162Z",
+  "generatedAt": "2026-06-11T14:10:19.401Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -824,6 +824,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546978954775149",
+          "name": "华强北猴哥数码",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546980091431311",
           "name": "B购",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
@@ -1212,6 +1219,13 @@
           "id": "490334938",
           "name": "中国军视网",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "491367091",
+          "name": "一只小皮皮呀丶",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
