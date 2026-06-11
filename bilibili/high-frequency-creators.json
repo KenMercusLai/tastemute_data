@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T14:10:15.918Z",
+  "generatedAt": "2026-06-11T15:10:15.675Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1111,6 +1111,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "278152423",
+          "name": "子清王",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27996286",
           "name": "老迪来咯",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.06"
@@ -1128,6 +1135,13 @@
           "id": "28047632",
           "name": "太吾车神",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "283691575",
+          "name": "吉罗很快乐",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -2812,6 +2826,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "470995011",
+          "name": "蔡雅奇刑法",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "472755538",
           "name": "AG超玩会王者荣耀一诺",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.94"
@@ -3102,6 +3123,13 @@
           "id": "522653994",
           "name": "大象新闻",
           "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "523253490",
+          "name": "心语悦无言",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
         },
         {
           "type": "creator",
