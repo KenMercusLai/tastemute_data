@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T16:10:16.394Z",
+  "generatedAt": "2026-06-11T17:10:16.511Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2213,6 +2213,13 @@
           "id": "3670216",
           "name": "TF家族",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "367262849",
+          "name": "一里ouo",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.33"
         },
         {
           "type": "creator",
