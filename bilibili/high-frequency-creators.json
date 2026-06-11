@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T03:10:16.610Z",
+  "generatedAt": "2026-06-11T04:10:15.807Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -99,6 +99,13 @@
           "id": "1080316566",
           "name": "考研英语晓燕",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "108062400",
+          "name": "小白剪了个球",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.72"
         },
         {
           "type": "creator",
@@ -2527,7 +2534,7 @@
           "platform": "bilibili",
           "id": "434786180",
           "name": "和平精英",
-          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.82"
         },
         {
           "type": "creator",
