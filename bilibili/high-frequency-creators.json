@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T10:10:16.207Z",
+  "generatedAt": "2026-06-11T11:10:15.696Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -323,6 +323,13 @@
           "id": "1343321779",
           "name": "央视农业",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1384406308",
+          "name": "纽约尼克斯",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -1454,6 +1461,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537121008683451",
+          "name": "艾莉丝-大狗嚼行动",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "353896033",
           "name": "有趣的小敏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
@@ -1786,6 +1800,13 @@
           "id": "3546724748495813",
           "name": "超哥超车",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546727422364508",
+          "name": "DRAKSTREET",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -2381,6 +2402,13 @@
           "id": "373448384",
           "name": "MK的鹦鹉",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "375800866",
+          "name": "史蒂芬霍京",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -2997,6 +3025,13 @@
           "id": "512087790",
           "name": "植物大战僵尸2",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "514172689",
+          "name": "心理拾光",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
         },
         {
           "type": "creator",
