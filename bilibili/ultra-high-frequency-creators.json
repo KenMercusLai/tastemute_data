@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T05:10:18.292Z",
+  "generatedAt": "2026-06-11T06:10:18.450Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -726,6 +726,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546914022754526",
+          "name": "帮帮妈妈-",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546930737055759",
           "name": "郭律说",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
@@ -1247,6 +1254,13 @@
           "id": "6014992",
           "name": "叫我棉被",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "60232120",
+          "name": "小叮当频道",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
         },
         {
           "type": "creator",
