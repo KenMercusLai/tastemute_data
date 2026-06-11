@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T17:10:20.407Z",
+  "generatedAt": "2026-06-11T18:10:19.299Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -253,6 +253,13 @@
           "id": "1832904916",
           "name": "曼城足球俱乐部",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1836148691",
+          "name": "心碎小菌ovo",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
