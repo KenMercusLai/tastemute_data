@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T23:10:15.871Z",
+  "generatedAt": "2026-06-11T00:10:15.983Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -378,7 +378,7 @@
           "platform": "bilibili",
           "id": "15324420",
           "name": "数据库kira",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.79"
         },
         {
           "type": "creator",
