@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T22:10:20.006Z",
+  "generatedAt": "2026-06-11T23:10:19.762Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -253,6 +253,13 @@
           "id": "179264824",
           "name": "音乐老友",
           "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "180680164",
+          "name": "醉酒的丘丘人",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
         },
         {
           "type": "creator",
