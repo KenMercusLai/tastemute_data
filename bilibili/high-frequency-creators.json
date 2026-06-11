@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T04:10:15.807Z",
+  "generatedAt": "2026-06-11T05:10:15.387Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -372,6 +372,13 @@
           "id": "1507831731",
           "name": "某月先生猫窝改造版",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1509765708",
+          "name": "啊啪商",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
         },
         {
           "type": "creator",
@@ -1359,6 +1366,13 @@
           "id": "3493295189658159",
           "name": "力哥玩儿游戏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494350480738883",
+          "name": "中国新闻网",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
         },
         {
           "type": "creator",
