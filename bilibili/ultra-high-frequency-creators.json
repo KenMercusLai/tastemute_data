@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T19:10:19.405Z",
+  "generatedAt": "2026-06-11T20:10:19.203Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -187,6 +187,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1646779344",
+          "name": "评述员詹俊",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1667026531",
           "name": "健身华哥",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
@@ -365,6 +372,13 @@
           "id": "23097435",
           "name": "罗永浩粉丝团",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23972272",
+          "name": "苦练李香兰",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -1366,6 +1380,13 @@
           "id": "57435565",
           "name": "王者荣耀世界",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "578067354",
+          "name": "木落Ch",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
         },
         {
           "type": "creator",
