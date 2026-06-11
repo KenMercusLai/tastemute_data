@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T05:10:15.387Z",
+  "generatedAt": "2026-06-11T06:10:15.376Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1944,6 +1944,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546914022754526",
+          "name": "帮帮妈妈-",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546919559235884",
           "name": "哈基米抽子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -2987,6 +2994,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "60232120",
+          "name": "小叮当频道",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "608363172",
           "name": "PP小榴莲",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.03"
@@ -3277,6 +3291,13 @@
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "941799",
+          "name": "野生的装机宅",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
         },
         {
           "type": "creator",
