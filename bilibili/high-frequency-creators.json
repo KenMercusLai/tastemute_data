@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T08:10:15.367Z",
+  "generatedAt": "2026-06-11T09:10:15.365Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -728,7 +728,7 @@
           "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -1895,6 +1895,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546892961056913",
+          "name": "小丢丢哒",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546897350396015",
           "name": "自由的曼巴-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.97"
@@ -2185,6 +2192,13 @@
           "id": "3691002535610407",
           "name": "浅千儿三角洲行动",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691005230451621",
+          "name": "饼要么饼",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -2822,6 +2836,13 @@
           "id": "488055582",
           "name": "新华网",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "488779255",
+          "name": "动漫作业本",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.66"
         },
         {
           "type": "creator",
