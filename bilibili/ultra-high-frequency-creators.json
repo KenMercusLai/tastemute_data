@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T12:10:19.411Z",
+  "generatedAt": "2026-06-11T13:10:19.162Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -134,6 +134,13 @@
           "id": "14200591",
           "name": "我是饭叔啊",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1443100697",
+          "name": "人民武警",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
         },
         {
           "type": "creator",
