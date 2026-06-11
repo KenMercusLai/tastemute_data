@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T19:10:15.748Z",
+  "generatedAt": "2026-06-11T20:10:15.542Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -537,6 +537,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1646779344",
+          "name": "评述员詹俊",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "165001727",
           "name": "lulu和露爸",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
@@ -901,6 +908,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2029695814",
+          "name": "是一只玥_",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2035556081",
           "name": "堂主lee",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
@@ -1016,6 +1030,13 @@
           "id": "239384911",
           "name": "春风满马",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23972272",
+          "name": "苦练李香兰",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -2371,6 +2392,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706945057851783",
+          "name": "哈基Dor",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706945349356465",
           "name": "小帅拔钉记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.94"
@@ -2773,6 +2801,13 @@
           "id": "43604205",
           "name": "战术睡衣",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "436854739",
+          "name": "Eeh坤博士",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.76"
         },
         {
           "type": "creator",
@@ -3235,6 +3270,13 @@
           "id": "57435565",
           "name": "王者荣耀世界",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "578067354",
+          "name": "木落Ch",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.43"
         },
         {
           "type": "creator",
