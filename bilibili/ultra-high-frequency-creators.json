@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T08:10:19.446Z",
+  "generatedAt": "2026-06-11T09:10:19.126Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -266,7 +266,7 @@
           "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -694,6 +694,13 @@
           "id": "3546889909700864",
           "name": "电影近距离",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546892961056913",
+          "name": "小丢丢哒",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
         },
         {
           "type": "creator",
