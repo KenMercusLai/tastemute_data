@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T02:10:15.582Z",
+  "generatedAt": "2026-06-11T03:10:16.610Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -140,7 +140,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -684,13 +684,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "1894563281",
-          "name": "哔哩哔哩毕业歌会",
-          "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=0.15"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "189736517",
           "name": "洛沐墨",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
@@ -840,7 +833,7 @@
           "platform": "bilibili",
           "id": "211005705",
           "name": "网易第五人格手游",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -875,7 +868,7 @@
           "platform": "bilibili",
           "id": "220279837",
           "name": "国服第一刃",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.30"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -883,6 +876,13 @@
           "id": "22035899",
           "name": "邪修美食",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "22387588",
+          "name": "南姨Minami",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
         },
         {
           "type": "creator",
@@ -2611,7 +2611,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.35"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -2646,7 +2646,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -3207,6 +3207,13 @@
           "id": "8237763",
           "name": "阿张RayZhang",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8299159",
+          "name": "特别厉害的祁奕翔",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.86"
         },
         {
           "type": "creator",
