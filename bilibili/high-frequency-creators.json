@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T09:10:15.365Z",
+  "generatedAt": "2026-06-11T10:10:16.207Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -211,6 +211,13 @@
           "id": "1198360314",
           "name": "3D可视化动画",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1202350411",
+          "name": "君在西安",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.49"
         },
         {
           "type": "creator",
@@ -1478,6 +1485,13 @@
           "id": "3546390768650532",
           "name": "個久吐煙圈",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546556546419443",
+          "name": "刘三碗呢",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -3073,7 +3087,7 @@
           "platform": "bilibili",
           "id": "593697935",
           "name": "小小黑纪",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -3368,6 +3382,13 @@
           "id": "8440892",
           "name": "胡律师看法",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "85842310",
+          "name": "善一cs2荤素搭配版",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.63"
         },
         {
           "type": "creator",
