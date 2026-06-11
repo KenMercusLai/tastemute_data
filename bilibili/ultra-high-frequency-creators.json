@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T14:10:19.401Z",
+  "generatedAt": "2026-06-11T15:10:19.754Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -379,6 +379,13 @@
           "id": "275930985",
           "name": "新青年",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "283691575",
+          "name": "吉罗很快乐",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -1177,6 +1184,13 @@
           "id": "46470268",
           "name": "央视军事",
           "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "470995011",
+          "name": "蔡雅奇刑法",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
         },
         {
           "type": "creator",
