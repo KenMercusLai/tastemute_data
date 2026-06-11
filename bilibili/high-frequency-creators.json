@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T06:10:15.376Z",
+  "generatedAt": "2026-06-11T07:10:15.334Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2161,6 +2161,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706927806679784",
+          "name": "单手食光",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706933393492459",
           "name": "陈皮三角洲",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.39"
@@ -2744,7 +2751,7 @@
           "platform": "bilibili",
           "id": "487614876",
           "name": "四川观察",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -2843,6 +2850,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "502170118",
+          "name": "沐幽和璃泽",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
         },
         {
           "type": "creator",
