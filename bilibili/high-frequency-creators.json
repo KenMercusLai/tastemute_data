@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T15:10:15.675Z",
+  "generatedAt": "2026-06-11T16:10:16.394Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1055,6 +1055,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "25566221",
+          "name": "藏根的云",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "262264570",
           "name": "枯叶cccccc",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
@@ -1148,7 +1155,7 @@
           "platform": "bilibili",
           "id": "283857119",
           "name": "带秀乌鸦",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.08"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.08"
         },
         {
           "type": "creator",
@@ -1422,6 +1429,13 @@
           "id": "3493260093819171",
           "name": "李维刚的日常",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493273226185448",
+          "name": "龙岛蛋壳",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.31"
         },
         {
           "type": "creator",
