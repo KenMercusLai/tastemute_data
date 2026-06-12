@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T08:10:18.507Z",
+  "generatedAt": "2026-06-12T09:10:20.268Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -432,6 +432,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "24146968",
+          "name": "鍛碘柂",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "25215790",
           "name": "阿孟的养猫日记",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
@@ -848,6 +855,13 @@
           "id": "3546907680966947",
           "name": "提姆哥和妮可姐",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546908408679370",
+          "name": "宠咖日记-",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
