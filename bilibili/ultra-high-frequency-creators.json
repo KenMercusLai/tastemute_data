@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T09:10:20.268Z",
+  "generatedAt": "2026-06-12T10:10:19.620Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1478,6 +1478,13 @@
           "id": "502170118",
           "name": "沐幽和璃泽",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "50329118",
+          "name": "哔哩哔哩英雄联盟赛事",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.39"
         },
         {
           "type": "creator",
