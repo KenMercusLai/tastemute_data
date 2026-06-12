@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T01:10:18.666Z",
+  "generatedAt": "2026-06-12T02:10:19.369Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1090,9 +1090,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "378834927",
+          "name": "帆江海FJH",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "37938807",
           "name": "勇哥餐饮避坑指南",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "380751231",
+          "name": "懒猫徒手健身",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
