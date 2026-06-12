@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T06:10:16.372Z",
+  "generatedAt": "2026-06-12T07:10:15.738Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1037,6 +1037,13 @@
           "id": "22035899",
           "name": "邪修美食",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "222103174",
+          "name": "央视网",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -2231,6 +2238,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546918179310343",
+          "name": "ENX叉叉酱",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546919559235884",
           "name": "哈基米抽子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -2899,6 +2913,13 @@
           "id": "423517587",
           "name": "蛋某人音乐",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "425584",
+          "name": "贝克汉姆的寸头",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
