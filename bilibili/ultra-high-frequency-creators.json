@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T03:10:19.633Z",
+  "generatedAt": "2026-06-12T04:10:19.231Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15,6 +15,13 @@
           "id": "1000037800",
           "name": "快乐的娱",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1004246390",
+          "name": "无畏契约电竞",
+          "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -176,6 +183,13 @@
           "id": "1586359562",
           "name": "圣安东尼奥马刺",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1589147820",
+          "name": "小舞动画",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -684,6 +698,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546737964747183",
+          "name": "不墨迹真测评",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546814145890375",
           "name": "娜依voitko",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.55"
@@ -978,6 +999,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690998087551732",
+          "name": "远古-回响",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690998167243635",
           "name": "Miyaki米芽奇",
           "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.85"
@@ -1030,6 +1058,13 @@
           "id": "3706947364718727",
           "name": "bili_75297842425",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706952993475550",
+          "name": "趣闻鉴赏",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.11"
         },
         {
           "type": "creator",
