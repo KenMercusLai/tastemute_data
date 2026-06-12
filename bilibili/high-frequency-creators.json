@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T01:10:15.362Z",
+  "generatedAt": "2026-06-12T02:10:15.662Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1489,6 +1489,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493134273088210",
+          "name": "怀孕の日奈酱",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493145220221243",
           "name": "Abby大姐姐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
@@ -2595,9 +2602,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "378834927",
+          "name": "帆江海FJH",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "37938807",
           "name": "勇哥餐饮避坑指南",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "380751231",
+          "name": "懒猫徒手健身",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -3557,6 +3578,13 @@
           "id": "700445542",
           "name": "大胡L5",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "700608201",
+          "name": "好屏如潮",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.61"
         },
         {
           "type": "creator",
