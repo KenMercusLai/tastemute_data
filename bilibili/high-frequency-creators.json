@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T00:10:16.037Z",
+  "generatedAt": "2026-06-12T01:10:15.362Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -519,6 +519,13 @@
           "id": "1586359562",
           "name": "圣安东尼奥马刺",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1591295479",
+          "name": "HC王楚淇",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.12"
         },
         {
           "type": "creator",
@@ -3655,6 +3662,13 @@
           "id": "85842310",
           "name": "善一cs2荤素搭配版",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "86889715",
+          "name": "百变小琦哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
