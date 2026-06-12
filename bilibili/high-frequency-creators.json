@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T11:10:16.398Z",
+  "generatedAt": "2026-06-12T12:10:17.182Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2168,6 +2168,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546853763188864",
+          "name": "宇浩玩数码",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546864278309344",
           "name": "许愿星yu",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
@@ -2906,6 +2913,13 @@
           "id": "392579734",
           "name": "mobility_摸哔哩腿",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "39279965",
+          "name": "影石Insta360",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.71"
         },
         {
           "type": "creator",
@@ -4026,6 +4040,13 @@
           "id": "94815852",
           "name": "斯蒂芬游",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9709867",
+          "name": "莽姆森",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
         },
         {
           "type": "creator",
