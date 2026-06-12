@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T10:10:16.288Z",
+  "generatedAt": "2026-06-12T11:10:16.398Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -211,6 +211,13 @@
           "id": "11582322",
           "name": "黑化方块",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11731157",
+          "name": "平原公子",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -1349,6 +1356,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "296465852",
+          "name": "我爱吃派大星",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "29961386",
           "name": "伊甸呼呼",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.12"
@@ -1982,6 +1996,13 @@
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546682643974706",
+          "name": "二氧化蛋1221",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.75"
         },
         {
           "type": "creator",
