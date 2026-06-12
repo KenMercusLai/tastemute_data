@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T00:10:19.281Z",
+  "generatedAt": "2026-06-12T01:10:18.666Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1555,6 +1555,13 @@
           "id": "81240780",
           "name": "军武白板",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "86889715",
+          "name": "百变小琦哥",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
