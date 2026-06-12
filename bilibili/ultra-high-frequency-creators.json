@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T07:10:19.162Z",
+  "generatedAt": "2026-06-12T08:10:18.507Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -441,6 +441,13 @@
           "platform": "bilibili",
           "id": "25255021",
           "name": "是我柳柳",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "25629038",
+          "name": "多巴安工作室",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
@@ -1321,6 +1328,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "44052063",
+          "name": "宝克力气大",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "441167301",
           "name": "分析学爱好者",
           "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=1.00"
@@ -1548,6 +1562,13 @@
           "id": "613115943",
           "name": "比亚迪汽车",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6250993",
+          "name": "看看新闻Knews",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.03"
         },
         {
           "type": "creator",
