@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T06:10:20.112Z",
+  "generatedAt": "2026-06-12T07:10:19.162Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -386,6 +386,13 @@
           "id": "220279837",
           "name": "国服第一刃",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "222103174",
+          "name": "央视网",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -876,6 +883,13 @@
           "id": "3546914022754526",
           "name": "帮帮妈妈-",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546918179310343",
+          "name": "ENX叉叉酱",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
         },
         {
           "type": "creator",
