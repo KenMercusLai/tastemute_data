@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T17:10:16.525Z",
+  "generatedAt": "2026-06-18T18:10:16.444Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22,6 +22,13 @@
           "id": "1004246390",
           "name": "无畏契约电竞",
           "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10128019",
+          "name": "ZenSC",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -1272,13 +1279,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "25503580",
-          "name": "布锅锅",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.85"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "25566221",
           "name": "藏根的云",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.99"
@@ -1699,6 +1699,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493124475193909",
+          "name": "板牙象棋",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493134273088210",
           "name": "怀孕の日奈酱",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
@@ -1813,7 +1820,7 @@
           "platform": "bilibili",
           "id": "3537106035018583",
           "name": "RIIZE",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.23"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -2283,6 +2290,13 @@
           "id": "3546847222172344",
           "name": "村间顾影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546847295572318",
+          "name": "纸片马力欧",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.20"
         },
         {
           "type": "creator",
@@ -3297,7 +3311,7 @@
           "platform": "bilibili",
           "id": "429711841",
           "name": "综艺哔哔机",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -4130,7 +4144,7 @@
           "platform": "bilibili",
           "id": "673375678",
           "name": "NCT",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.84"
         },
         {
           "type": "creator",
