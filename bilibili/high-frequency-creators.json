@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T06:10:15.432Z",
+  "generatedAt": "2026-06-18T07:10:15.358Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -64,6 +64,13 @@
           "id": "1043914429",
           "name": "Dingo_official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "104601602",
+          "name": "萌少在此",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -2528,6 +2535,13 @@
           "id": "36335732",
           "name": "老实人林少",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "364209685",
+          "name": "交通故事会-蛇王",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
