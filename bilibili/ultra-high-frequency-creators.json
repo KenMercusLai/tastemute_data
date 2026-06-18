@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T12:10:20.728Z",
+  "generatedAt": "2026-06-18T01:10:19.383Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -379,6 +379,13 @@
           "id": "2128487337",
           "name": "aespa",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2142894144",
+          "name": "鳄神记",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.91"
         },
         {
           "type": "creator",
@@ -1349,6 +1356,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "434196559",
+          "name": "东北水搂子",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "434786180",
           "name": "和平精英",
           "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.82"
@@ -1513,6 +1527,13 @@
           "id": "504512557",
           "name": "BT财经",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "51033647",
+          "name": "董老厮来了",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.82"
         },
         {
           "type": "creator",
