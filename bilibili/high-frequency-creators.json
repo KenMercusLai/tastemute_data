@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T19:10:16.016Z",
+  "generatedAt": "2026-06-18T20:10:16.311Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22,6 +22,13 @@
           "id": "1004246390",
           "name": "无畏契约电竞",
           "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10122862",
+          "name": "咖喱游戏解说",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -162,6 +169,13 @@
           "id": "108618052",
           "name": "真实球迷汇",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11021614",
+          "name": "我是瑞斯拜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -2581,6 +2595,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "357387034",
+          "name": "乒乓Q奇",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "35780075",
           "name": "奈落_Abyss",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.67"
@@ -2675,6 +2696,13 @@
           "id": "3690985378810373",
           "name": "小姜的猫meme剧场",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690986358180338",
+          "name": "大才小瓜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
         },
         {
           "type": "creator",
