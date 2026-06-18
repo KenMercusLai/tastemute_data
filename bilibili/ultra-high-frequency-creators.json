@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T11:10:19.335Z",
+  "generatedAt": "2026-06-18T12:10:19.000Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1275,6 +1275,13 @@
           "id": "386600212",
           "name": "墨八分钱",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "387092474",
+          "name": "瑞希Oracle_Ray",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.87"
         },
         {
           "type": "creator",
