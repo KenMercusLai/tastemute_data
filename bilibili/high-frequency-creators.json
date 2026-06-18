@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T05:49:04.892Z",
+  "generatedAt": "2026-06-18T06:10:15.432Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -834,6 +834,13 @@
           "id": "1864431101",
           "name": "舒甜的车",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1869499349",
+          "name": "菲戈不火不改名",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -2483,6 +2490,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "359844033",
+          "name": "大乾乾是顾乾宇",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632287809800453",
           "name": "玖月寒雨梦无常",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.55"
@@ -3053,6 +3067,13 @@
           "id": "397180707",
           "name": "油管小王子Terry",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "397411828",
+          "name": "汤圆酱家族",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
