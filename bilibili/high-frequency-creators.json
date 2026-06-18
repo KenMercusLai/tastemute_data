@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T01:10:15.496Z",
+  "generatedAt": "2026-06-18T01:44:32.029Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -407,6 +407,13 @@
           "id": "14200591",
           "name": "我是饭叔啊",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14373586",
+          "name": "熊出没BoonieBears",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -820,6 +827,13 @@
           "id": "185281671",
           "name": "小魔法祭祀",
           "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1873295428",
+          "name": "收手机的CC",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
