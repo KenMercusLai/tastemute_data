@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T14:10:20.276Z",
+  "generatedAt": "2026-06-18T15:10:19.910Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -561,6 +561,13 @@
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493083209533523",
+          "name": "SkinSpotlights",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.28"
         },
         {
           "type": "creator",
