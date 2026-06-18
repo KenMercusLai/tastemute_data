@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T13:10:16.108Z",
+  "generatedAt": "2026-06-18T14:10:16.232Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -71,6 +71,13 @@
           "id": "104601602",
           "name": "萌少在此",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "105022844",
+          "name": "第五人格赛事",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -673,6 +680,13 @@
           "id": "170914",
           "name": "文同学文案",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "17213620",
+          "name": "超级洋山芋啊",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -2805,6 +2819,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706963078678629",
+          "name": "凯蒂cosplay",
+          "reason": "Average upload gap <= 2 days; videos=12; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706965215677411",
           "name": "贝利亚打洲",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -4124,6 +4145,13 @@
           "id": "695414639",
           "name": "念谂音乐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "695415885",
+          "name": "名门天后-邪恶人格",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
