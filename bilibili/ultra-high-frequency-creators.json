@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T15:10:19.910Z",
+  "generatedAt": "2026-06-18T16:10:19.918Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -819,7 +819,7 @@
           "platform": "bilibili",
           "id": "3546824314980440",
           "name": "Hearts2Hearts",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.92"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -1254,6 +1254,13 @@
           "id": "373448384",
           "name": "MK的鹦鹉",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "376940922",
+          "name": "滑脚怪k",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -1778,7 +1785,7 @@
           "platform": "bilibili",
           "id": "673375678",
           "name": "NCT",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.54"
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
         },
         {
           "type": "creator",
