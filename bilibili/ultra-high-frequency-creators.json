@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T01:44:35.952Z",
+  "generatedAt": "2026-06-18T02:10:20.576Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -309,6 +309,13 @@
           "id": "1842984464",
           "name": "坤徐蔡S",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1864431101",
+          "name": "舒甜的车",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -708,6 +715,13 @@
           "id": "3546630773016865",
           "name": "时代少年团",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546661064280077",
+          "name": "惠老板和鸵鸟",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.71"
         },
         {
           "type": "creator",
@@ -1184,6 +1198,13 @@
           "id": "3706992623356593",
           "name": "星河-扬琴",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706996794591721",
+          "name": "葡萄牙国家足球队",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.28"
         },
         {
           "type": "creator",
