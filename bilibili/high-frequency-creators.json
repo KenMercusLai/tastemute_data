@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T01:44:32.029Z",
+  "generatedAt": "2026-06-18T02:10:16.005Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -827,6 +827,13 @@
           "id": "185281671",
           "name": "小魔法祭祀",
           "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1864431101",
+          "name": "舒甜的车",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -1979,6 +1986,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546661064280077",
+          "name": "惠老板和鸵鸟",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.71"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546661399824534",
           "name": "醉心日推音乐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
@@ -2787,6 +2801,20 @@
           "id": "3706996750551142",
           "name": "隔壁林蜀黍_",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706996794591721",
+          "name": "葡萄牙国家足球队",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706997163690610",
+          "name": "阿根廷国家足球队",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.07"
         },
         {
           "type": "creator",
