@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T07:10:15.358Z",
+  "generatedAt": "2026-06-18T08:10:15.668Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2700,6 +2700,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706941467527891",
+          "name": "白菜猫meme小剧场",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706941817752467",
           "name": "开心猪猫",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.96"
@@ -3155,6 +3162,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "423264599",
+          "name": "人民海军",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "423517587",
           "name": "蛋某人音乐",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.48"
@@ -3480,6 +3494,13 @@
           "id": "488055582",
           "name": "新华网",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "488738478",
+          "name": "赵礼显老师",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -4102,7 +4123,7 @@
           "platform": "bilibili",
           "id": "8237763",
           "name": "阿张RayZhang",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.10"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.10"
         },
         {
           "type": "creator",
