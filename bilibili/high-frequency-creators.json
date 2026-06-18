@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T12:10:15.739Z",
+  "generatedAt": "2026-06-18T13:10:16.108Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -98,6 +98,13 @@
           "platform": "bilibili",
           "id": "1072842577",
           "name": "嘻嘻nja",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1074636993",
+          "name": "老懂是我了_DongGaming",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
@@ -589,6 +596,13 @@
           "id": "16110280",
           "name": "jojo瑞兹",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1615662171",
+          "name": "SP长耶",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -3673,6 +3687,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "50395041",
+          "name": "神奇猫猫头",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "504453319",
           "name": "评测臻选",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
@@ -3848,6 +3869,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "57863910",
+          "name": "王者荣耀",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "590584284",
           "name": "Speed-777",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
@@ -3865,6 +3893,13 @@
           "id": "593697935",
           "name": "小小黑纪",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "593958569",
+          "name": "威观点",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.82"
         },
         {
           "type": "creator",
