@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T12:10:19.000Z",
+  "generatedAt": "2026-06-18T13:10:19.758Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1671,9 +1671,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "57863910",
+          "name": "王者荣耀",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "590584284",
           "name": "Speed-777",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "593958569",
+          "name": "威观点",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.82"
         },
         {
           "type": "creator",
