@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T11:10:15.868Z",
+  "generatedAt": "2026-06-18T12:10:15.739Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1079,6 +1079,13 @@
           "id": "2142894144",
           "name": "鳄神记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2170934",
+          "name": "明月庄主",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -3018,6 +3025,13 @@
           "id": "386600212",
           "name": "墨八分钱",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "387092474",
+          "name": "瑞希Oracle_Ray",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.87"
         },
         {
           "type": "creator",
