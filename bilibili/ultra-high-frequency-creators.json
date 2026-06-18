@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T18:10:20.001Z",
+  "generatedAt": "2026-06-18T19:10:19.920Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1506,6 +1506,13 @@
           "id": "470995011",
           "name": "蔡雅奇刑法",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4729816",
+          "name": "赵小爽729",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
         },
         {
           "type": "creator",
