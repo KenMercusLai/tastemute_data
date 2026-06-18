@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T12:10:17.182Z",
+  "generatedAt": "2026-06-18T01:10:15.496Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1037,6 +1037,13 @@
           "id": "2128487337",
           "name": "aespa",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2142894144",
+          "name": "鳄神记",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.91"
         },
         {
           "type": "creator",
@@ -2210,6 +2217,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546891581131068",
+          "name": "蛋仔海绵宝宝",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546892961056913",
           "name": "小丢丢哒",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
@@ -2735,6 +2749,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706988210948183",
+          "name": "沈博士不明白",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706992495430612",
           "name": "逗比兄妹",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.00"
@@ -3095,6 +3116,13 @@
           "id": "433174409",
           "name": "雪峰说规划",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "434196559",
+          "name": "东北水搂子",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -3508,6 +3536,13 @@
           "id": "509997673",
           "name": "官帽头上戴",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "51033647",
+          "name": "董老厮来了",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.82"
         },
         {
           "type": "creator",
