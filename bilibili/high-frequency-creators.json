@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T14:10:16.232Z",
+  "generatedAt": "2026-06-18T15:10:15.966Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1209,6 +1209,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "241771582",
+          "name": "开朗的菠萝头大王",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "24215475",
           "name": "小安苒AIGC",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.98"
@@ -1282,6 +1289,13 @@
           "id": "25629038",
           "name": "多巴安工作室",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2597575",
+          "name": "小棉花花",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -1524,6 +1538,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "325278012",
+          "name": "明亮的车头漆",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3269321",
           "name": "双兎official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
@@ -1646,6 +1667,13 @@
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493083209533523",
+          "name": "SkinSpotlights",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.28"
         },
         {
           "type": "creator",
@@ -3683,6 +3711,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "50111839",
+          "name": "小琨爱小蛊",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.85"
         },
         {
           "type": "creator",
