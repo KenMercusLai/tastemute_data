@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T13:10:19.758Z",
+  "generatedAt": "2026-06-18T14:10:20.276Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -43,6 +43,13 @@
           "id": "1040680334",
           "name": "山河有声",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "105022844",
+          "name": "第五人格赛事",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -1814,6 +1821,13 @@
           "id": "695414639",
           "name": "念谂音乐",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "695415885",
+          "name": "名门天后-邪恶人格",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
