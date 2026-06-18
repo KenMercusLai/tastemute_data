@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T21:10:20.312Z",
+  "generatedAt": "2026-06-18T22:10:20.004Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -357,6 +357,13 @@
           "platform": "bilibili",
           "id": "1935882",
           "name": "指法芬芳张大仙",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1948970911",
+          "name": "坤姐再闯江湖",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
