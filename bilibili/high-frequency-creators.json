@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T16:10:16.129Z",
+  "generatedAt": "2026-06-18T17:10:16.525Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3358,6 +3358,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "435717470",
+          "name": "某神233",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "43604205",
           "name": "战术睡衣",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
@@ -4061,6 +4068,13 @@
           "id": "6369831",
           "name": "老梁不郁闷",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "647409444",
+          "name": "无期迷途",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
         },
         {
           "type": "creator",
