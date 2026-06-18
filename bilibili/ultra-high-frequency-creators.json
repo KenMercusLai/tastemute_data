@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T20:10:19.719Z",
+  "generatedAt": "2026-06-18T21:10:20.312Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -488,6 +488,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "260291563",
+          "name": "游戏酷玩星",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27500557",
           "name": "梦轩dada",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.86"
@@ -498,6 +505,13 @@
           "id": "275930985",
           "name": "新青年",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2804493",
+          "name": "恬欣欣的成长日记",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -540,6 +554,13 @@
           "id": "328442637",
           "name": "小张给你的情书",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "343348",
+          "name": "口袋迷ag",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -589,6 +610,13 @@
           "id": "3493257342355943",
           "name": "佛性记录解说",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493264397175694",
+          "name": "脑洞科普探索",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -873,9 +901,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546853096294581",
+          "name": "哪吒动画",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546868971735282",
           "name": "bili_53584246348",
           "reason": "Average upload gap <= 1 days; videos=17; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546877167406028",
+          "name": "晴天小羊8",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
         },
         {
           "type": "creator",
