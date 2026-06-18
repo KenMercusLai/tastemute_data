@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T07:10:18.585Z",
+  "generatedAt": "2026-06-18T08:10:19.217Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1349,6 +1349,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "423264599",
+          "name": "人民海军",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "423517587",
           "name": "蛋某人音乐",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.48"
@@ -1492,6 +1499,13 @@
           "id": "488055582",
           "name": "新华网",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "488738478",
+          "name": "赵礼显老师",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
         },
         {
           "type": "creator",
