@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T00:10:19.504Z",
+  "generatedAt": "2026-06-19T01:10:19.886Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -302,6 +302,13 @@
           "id": "180680164",
           "name": "醉酒的丘丘人",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1820388116",
+          "name": "番茄学数",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.96"
         },
         {
           "type": "creator",
@@ -705,6 +712,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "354203490",
+          "name": "一箱罐里橘",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.41"
@@ -728,7 +742,7 @@
           "platform": "bilibili",
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.23"
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
         },
         {
           "type": "creator",
