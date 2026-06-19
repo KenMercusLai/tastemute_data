@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T23:10:19.860Z",
+  "generatedAt": "2026-06-19T00:10:19.504Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -194,6 +194,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1533633064",
+          "name": "然子Ranziseven",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1586359562",
           "name": "圣安东尼奥马刺",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.57"
@@ -316,6 +323,13 @@
           "id": "1836148691",
           "name": "心碎小菌ovo",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1836844027",
+          "name": "数物化生结合神",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -652,6 +666,13 @@
           "id": "3494350480738883",
           "name": "中国新闻网",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "350882304",
+          "name": "原神高玩专家-向晚",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -1086,6 +1107,13 @@
           "id": "3546980091431311",
           "name": "B购",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546982484281378",
+          "name": "-大大大大古",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
         },
         {
           "type": "creator",
