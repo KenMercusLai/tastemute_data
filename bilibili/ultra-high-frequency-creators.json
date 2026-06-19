@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T14:10:19.718Z",
+  "generatedAt": "2026-06-19T15:10:20.302Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2150,6 +2150,13 @@
           "id": "690886435",
           "name": "YouTube助眠收藏",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "691492909",
+          "name": "小溪养羊",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
