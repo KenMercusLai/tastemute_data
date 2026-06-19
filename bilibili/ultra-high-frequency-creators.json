@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T09:10:22.963Z",
+  "generatedAt": "2026-06-19T10:10:19.959Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -537,6 +537,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "267776898",
+          "name": "我才是熊猫大G",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27500557",
           "name": "梦轩dada",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.86"
@@ -554,6 +561,13 @@
           "id": "2804493",
           "name": "恬欣欣的成长日记",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "280973906",
+          "name": "EdgeAITech",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
         },
         {
           "type": "creator",
