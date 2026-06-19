@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T04:10:19.350Z",
+  "generatedAt": "2026-06-19T05:10:18.944Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -64,6 +64,13 @@
           "id": "1080316566",
           "name": "考研英语晓燕",
           "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "108532523",
+          "name": "英雄联盟赛事",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.25"
         },
         {
           "type": "creator",
