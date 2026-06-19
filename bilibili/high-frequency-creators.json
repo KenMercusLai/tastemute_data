@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T22:10:16.131Z",
+  "generatedAt": "2026-06-19T23:10:15.872Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3347,6 +3347,13 @@
           "id": "3691002535610407",
           "name": "浅千儿三角洲行动",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691002707576957",
+          "name": "老牛谈科普",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
