@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T01:10:16.260Z",
+  "generatedAt": "2026-06-19T02:10:15.636Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2679,6 +2679,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546940342012183",
+          "name": "IEM成都",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546946304215968",
           "name": "B站我够帅",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.50"
@@ -3732,6 +3739,13 @@
           "id": "478841372",
           "name": "夜莺与玫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "479927340",
+          "name": "鶴莉",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.88"
         },
         {
           "type": "creator",
