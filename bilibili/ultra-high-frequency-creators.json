@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T20:10:21.424Z",
+  "generatedAt": "2026-06-19T21:10:19.431Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -666,6 +666,13 @@
           "id": "319100322",
           "name": "杰哥相亲",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "324473490",
+          "name": "中国青年报",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.17"
         },
         {
           "type": "creator",
