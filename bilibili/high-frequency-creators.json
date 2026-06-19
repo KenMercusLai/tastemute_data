@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T07:10:16.086Z",
+  "generatedAt": "2026-06-19T08:10:15.559Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1594,6 +1594,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "305561451",
+          "name": "爱与Orange",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "306936843",
           "name": "雨说体育徐静雨",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
@@ -1657,9 +1664,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "319100322",
+          "name": "杰哥相亲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "325278012",
           "name": "明亮的车头漆",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "326682367",
+          "name": "香港90后生活日记",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.87"
         },
         {
           "type": "creator",
@@ -3312,6 +3333,13 @@
           "id": "382935300",
           "name": "集贸哥官方频道",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "382953486",
+          "name": "熊天琪",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
         },
         {
           "type": "creator",
