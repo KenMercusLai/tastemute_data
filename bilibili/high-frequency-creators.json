@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T04:10:16.275Z",
+  "generatedAt": "2026-06-19T05:10:15.717Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -162,6 +162,13 @@
           "id": "1081132475",
           "name": "钱钱子RICH_呆呆",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "108532523",
+          "name": "英雄联盟赛事",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -792,6 +799,13 @@
           "id": "1756547706",
           "name": "三角洲万泉教官",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "17669771",
+          "name": "丸子好好",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -1618,6 +1632,13 @@
           "id": "31677815",
           "name": "李灵泽2025",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "31832612",
+          "name": "灰太狼办公室",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
         },
         {
           "type": "creator",
