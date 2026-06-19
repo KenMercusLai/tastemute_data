@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T02:10:19.344Z",
+  "generatedAt": "2026-06-19T03:10:19.484Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1170,6 +1170,13 @@
           "id": "364209685",
           "name": "交通故事会-蛇王",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "365089",
+          "name": "薇薇安奈",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.94"
         },
         {
           "type": "creator",
