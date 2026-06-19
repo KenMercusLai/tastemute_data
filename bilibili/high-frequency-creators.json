@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T08:10:15.559Z",
+  "generatedAt": "2026-06-19T09:10:16.235Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1251,6 +1251,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2242587",
+          "name": "洗洗睡真舒服",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "22590320",
           "name": "不爱出门呀",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
@@ -2154,6 +2161,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546591034083329",
+          "name": "小藤777",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546595603777730",
           "name": "TWS_PLEDIS",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
@@ -2434,9 +2448,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546752302975108",
+          "name": "阿贞爱上了语文",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546788701145645",
           "name": "小火龙爬",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546811065174057",
+          "name": "絮叨的铲屎官",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
         },
         {
           "type": "creator",
