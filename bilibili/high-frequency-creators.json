@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T20:10:16.247Z",
+  "generatedAt": "2026-06-19T21:10:15.596Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -281,6 +281,13 @@
           "id": "1147490275",
           "name": "Guermok",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.40"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1147763911",
+          "name": "琴瑟弦弦",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.94"
         },
         {
           "type": "creator",
@@ -1118,6 +1125,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1974861742",
+          "name": "王同学oi",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1978333794",
           "name": "爱吃薯条の炸鸡",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
@@ -1807,6 +1821,13 @@
           "id": "319100322",
           "name": "杰哥相亲",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "324473490",
+          "name": "中国青年报",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -2983,6 +3004,13 @@
           "id": "3546919559235884",
           "name": "哈基米抽子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546920075135233",
+          "name": "偆泥凾",
+          "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.47"
         },
         {
           "type": "creator",
