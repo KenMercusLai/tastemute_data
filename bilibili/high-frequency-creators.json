@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T09:10:16.235Z",
+  "generatedAt": "2026-06-19T10:10:16.132Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1433,6 +1433,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "267776898",
+          "name": "我才是熊猫大G",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "268941858",
           "name": "磊哥游戏",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
@@ -1503,6 +1510,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "280973906",
+          "name": "EdgeAITech",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "283691575",
           "name": "吉罗很快乐",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.62"
@@ -1527,6 +1541,13 @@
           "id": "28627652",
           "name": "糖醋排骨吃饱了",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "28645131",
+          "name": "洗脚水不加蒜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.44"
         },
         {
           "type": "creator",
@@ -3753,6 +3774,13 @@
           "id": "448973088",
           "name": "北回归线小院",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "44952612",
+          "name": "桃天帝不差",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
         },
         {
           "type": "creator",
