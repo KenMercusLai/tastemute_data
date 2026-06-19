@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T19:10:15.710Z",
+  "generatedAt": "2026-06-19T20:10:16.247Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1657,6 +1657,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "289686203",
+          "name": "一分钟讲数学",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2957050",
           "name": "冰糖小堃",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
@@ -2066,6 +2073,13 @@
           "id": "3493260093819171",
           "name": "李维刚的日常",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493264082602434",
+          "name": "龙坚-中高考英语",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -3851,6 +3865,13 @@
           "id": "413630249",
           "name": "一颗霉屎的桔勒勒",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "41377819",
+          "name": "猫姐姐nya",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.61"
         },
         {
           "type": "creator",
