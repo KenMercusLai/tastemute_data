@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T06:10:15.430Z",
+  "generatedAt": "2026-06-19T07:10:16.086Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -92,6 +92,13 @@
           "id": "105022844",
           "name": "第五人格赛事",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1050598830",
+          "name": "战神韬ZST",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -1135,6 +1142,13 @@
           "id": "2035556081",
           "name": "堂主lee",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "203680252",
+          "name": "AYCS2",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.78"
         },
         {
           "type": "creator",
