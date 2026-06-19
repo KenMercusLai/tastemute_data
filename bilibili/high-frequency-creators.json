@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T16:10:16.226Z",
+  "generatedAt": "2026-06-19T18:10:15.504Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1286,6 +1286,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22225638",
+          "name": "不良起子在人间",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "22387588",
           "name": "南姨Minami",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
@@ -1643,6 +1650,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "296086460",
+          "name": "F1世界锦标赛",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296426733",
           "name": "我是桶子哥",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.29"
@@ -1972,6 +1986,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493089272400650",
+          "name": "i古城萧笙",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493090606188642",
           "name": "鸣潮先行公约",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.72"
@@ -2275,7 +2296,7 @@
           "platform": "bilibili",
           "id": "3546576226093694",
           "name": "宇宙说明书up",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -2353,6 +2374,13 @@
           "id": "3546610422253638",
           "name": "哎哎电影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546610816518808",
+          "name": "吉祥新闻",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -4254,6 +4282,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "492046446",
+          "name": "左手刀鹏哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "492905896",
           "name": "小普-三角洲重生版",
           "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.54"
@@ -4663,6 +4698,13 @@
           "id": "628823248",
           "name": "比亚迪",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "628860846",
+          "name": "鲨鲨会原谅你的",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
         },
         {
           "type": "creator",
