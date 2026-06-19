@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T08:10:19.658Z",
+  "generatedAt": "2026-06-19T09:10:22.963Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -799,6 +799,13 @@
           "id": "3546587735264018",
           "name": "奥特曼之魂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546591034083329",
+          "name": "小藤777",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
         },
         {
           "type": "creator",
