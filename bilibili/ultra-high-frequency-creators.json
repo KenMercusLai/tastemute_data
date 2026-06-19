@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T11:10:19.610Z",
+  "generatedAt": "2026-06-19T12:10:19.072Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -617,6 +617,13 @@
           "id": "296465852",
           "name": "我爱吃派大星",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "306476803",
+          "name": "王心凌FM",
+          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.58"
         },
         {
           "type": "creator",
