@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T12:10:15.381Z",
+  "generatedAt": "2026-06-19T13:10:15.478Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1314,6 +1314,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22921652",
+          "name": "战恒玖",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "229825068",
           "name": "爱炸毛的小煤球",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
@@ -1863,6 +1870,13 @@
           "id": "3461579194501599",
           "name": "tripleS_official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "346344723",
+          "name": "中国足球小将",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.44"
         },
         {
           "type": "creator",
