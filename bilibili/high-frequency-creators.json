@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T13:10:15.478Z",
+  "generatedAt": "2026-06-19T14:10:15.867Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -680,6 +680,13 @@
           "id": "1591562602",
           "name": "len拉德",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1604210735",
+          "name": "FifteenY",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.39"
         },
         {
           "type": "creator",
@@ -1825,6 +1832,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "338167021",
+          "name": "国1铠南瓜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "342070883",
           "name": "自律的黑",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.63"
@@ -2077,6 +2091,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494365804628834",
+          "name": "杂食玩家北华念",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494367664801943",
           "name": "没脸鉴车",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.11"
@@ -2199,6 +2220,13 @@
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546561283885313",
+          "name": "拿铁孙同学",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -2668,6 +2696,13 @@
           "id": "3546856908917475",
           "name": "无畏契约手游",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546859148675176",
+          "name": "花大姐弹弓",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -3592,6 +3627,13 @@
           "id": "388693230",
           "name": "AIGC冰糖小葫卢",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "388742853",
+          "name": "PlayStation",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.23"
         },
         {
           "type": "creator",
