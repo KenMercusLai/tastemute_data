@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T00:10:16.483Z",
+  "generatedAt": "2026-06-19T01:10:16.260Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -299,6 +299,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "12268512",
+          "name": "小林SenlinU",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1232996266",
           "name": "91坤崽",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.64"
@@ -477,6 +484,13 @@
           "id": "1458767615",
           "name": "张维为",
           "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14619868",
+          "name": "广州杂技团",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.30"
         },
         {
           "type": "creator",
@@ -834,6 +848,13 @@
           "id": "181977965",
           "name": "六桥风月",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1820388116",
+          "name": "番茄学数",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.96"
         },
         {
           "type": "creator",
@@ -1748,6 +1769,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493094920030522",
+          "name": "华哥户外",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493117468608664",
           "name": "怀欺三角洲行动",
           "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.17"
@@ -1937,6 +1965,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "354203490",
+          "name": "一箱罐里橘",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.41"
@@ -1981,7 +2016,7 @@
           "platform": "bilibili",
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.23"
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
         },
         {
           "type": "creator",
@@ -2038,6 +2073,13 @@
           "id": "3546589054371869",
           "name": "奇趣视界-Q",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546595603777730",
+          "name": "TWS_PLEDIS",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
         },
         {
           "type": "creator",
