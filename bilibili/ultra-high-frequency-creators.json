@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T22:10:20.305Z",
+  "generatedAt": "2026-06-20T23:10:19.933Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -224,7 +224,7 @@
           "platform": "bilibili",
           "id": "1447640221",
           "name": "普通の宁",
-          "reason": "Average upload gap <= 1 days; videos=28; avg_gap_days=0.99"
+          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -666,6 +666,13 @@
           "id": "260291563",
           "name": "游戏酷玩星",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "26607148",
+          "name": "青铜树海",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -1757,7 +1764,7 @@
           "platform": "bilibili",
           "id": "3706974218750733",
           "name": "费城泥兄",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.56"
+          "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.86"
         },
         {
           "type": "creator",
