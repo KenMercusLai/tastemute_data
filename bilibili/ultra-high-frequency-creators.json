@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T11:10:19.396Z",
+  "generatedAt": "2026-06-20T11:44:11.522Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1828,6 +1828,13 @@
           "id": "381833884",
           "name": "小李桑2333",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "385144384",
+          "name": "中国电影报道",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.05"
         },
         {
           "type": "creator",
