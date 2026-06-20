@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T18:10:15.475Z",
+  "generatedAt": "2026-06-20T19:10:15.515Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2329,6 +2329,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493142732998844",
+          "name": "权威潘大杨",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493145220221243",
           "name": "Abby大姐姐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
@@ -4473,7 +4480,7 @@
           "platform": "bilibili",
           "id": "431073645",
           "name": "你的影月月",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.84"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -5601,6 +5608,13 @@
           "id": "695415885",
           "name": "名门天后-邪恶人格",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "697441623",
+          "name": "中国石化",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
         },
         {
           "type": "creator",
