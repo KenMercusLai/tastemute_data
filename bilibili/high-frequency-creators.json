@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T03:10:15.455Z",
+  "generatedAt": "2026-06-20T04:10:15.359Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1104,6 +1104,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1921912333",
+          "name": "达拉斯独行侠",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "19286458",
           "name": "陈翔六点半",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
@@ -1583,6 +1590,13 @@
           "id": "267776898",
           "name": "我才是熊猫大G",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2687303",
+          "name": "风彩丶",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -2920,6 +2934,13 @@
           "id": "3546866081860285",
           "name": "瓷漫小馆",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546866388043896",
+          "name": "欢愉星の神",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -4788,7 +4809,7 @@
           "platform": "bilibili",
           "id": "574115689",
           "name": "游戏大猪猪",
-          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.79"
         },
         {
           "type": "creator",
