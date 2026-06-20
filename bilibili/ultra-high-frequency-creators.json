@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T02:10:19.790Z",
+  "generatedAt": "2026-06-20T03:10:19.947Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -582,6 +582,13 @@
           "id": "25255021",
           "name": "是我柳柳",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "25273286",
+          "name": "鹤鹤Herzog",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -1604,6 +1611,13 @@
           "id": "3706984060685037",
           "name": "苏州刚子馕坑烤全羊",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706986740845187",
+          "name": "米娅-_-",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
