@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T09:10:15.348Z",
+  "generatedAt": "2026-06-20T10:10:15.785Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -670,6 +670,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1545674676",
+          "name": "Youtube街溜子",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1547032467",
           "name": "千年小爱同学",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.01"
@@ -1044,6 +1051,13 @@
           "id": "185281671",
           "name": "小魔法祭祀",
           "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1857297765",
+          "name": "AI漫剧生成全流程",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -2813,8 +2827,8 @@
           "type": "creator",
           "platform": "bilibili",
           "id": "3546715500055234",
-          "name": "哎呦呼噜鸭",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+          "name": "三千里追鸭",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -3766,7 +3780,7 @@
           "platform": "bilibili",
           "id": "3706947364718727",
           "name": "bili_75297842425",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -3977,6 +3991,13 @@
           "id": "375800866",
           "name": "史蒂芬霍京",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "37676220",
+          "name": "youtube视野观察",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -5080,6 +5101,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "568374090",
+          "name": "幻梦影音馆",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "57054129",
           "name": "正一猫居士",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -5124,7 +5152,7 @@
           "platform": "bilibili",
           "id": "592204565",
           "name": "凉州经略使",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.42"
         },
         {
           "type": "creator",
