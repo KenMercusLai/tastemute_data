@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T11:10:15.368Z",
+  "generatedAt": "2026-06-20T11:44:08.299Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -922,6 +922,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "177743393",
+          "name": "爱吃又-",
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "178549",
           "name": "八爪鱼fishly",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.65"
@@ -1043,7 +1050,7 @@
           "platform": "bilibili",
           "id": "1851657327",
           "name": "星之雨下",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -4093,6 +4100,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "385144384",
+          "name": "中国电影报道",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "38568774",
           "name": "鬼叔黍",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=2.00"
@@ -4667,6 +4681,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "478867697",
+          "name": "阿浪哥ahlangge",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "479927340",
           "name": "鶴莉",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.88"
@@ -4964,6 +4985,13 @@
           "id": "512087790",
           "name": "植物大战僵尸2",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "51413662",
+          "name": "波斯无影爪",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.88"
         },
         {
           "type": "creator",
