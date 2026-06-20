@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T11:44:11.522Z",
+  "generatedAt": "2026-06-20T12:10:20.209Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -336,7 +336,7 @@
           "platform": "bilibili",
           "id": "1744580599",
           "name": "NBA",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.32"
         },
         {
           "type": "creator",
