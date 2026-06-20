@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T10:10:15.785Z",
+  "generatedAt": "2026-06-20T11:10:15.368Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4604,6 +4604,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "472854466",
+          "name": "猪王伊芙",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "4729816",
           "name": "赵小爽729",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.98"
@@ -5283,6 +5290,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "631228569",
+          "name": "雪漫漫Sin",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "6369831",
           "name": "老梁不郁闷",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
@@ -5404,7 +5418,7 @@
           "platform": "bilibili",
           "id": "676801913",
           "name": "Tsyi意仔",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.25"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -5479,6 +5493,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "701417323",
+          "name": "夕颜AI剧场",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "702528736",
           "name": "大正爱跑步",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
@@ -5517,6 +5538,13 @@
           "id": "7333419",
           "name": "阿卡阿卡啊卡卡卡",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "74126025",
+          "name": "想抱莉莉娅的云天",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
         },
         {
           "type": "creator",
