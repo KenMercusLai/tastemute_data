@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T08:10:15.392Z",
+  "generatedAt": "2026-06-20T08:24:24.663Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1219,6 +1219,13 @@
           "id": "19848044",
           "name": "幽灵大官人",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1995808392",
+          "name": "吴拽拽47",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.59"
         },
         {
           "type": "creator",
@@ -3428,6 +3435,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "362837130",
+          "name": "雀巢狗",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632287809800453",
           "name": "玖月寒雨梦无常",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.55"
@@ -4992,6 +5006,13 @@
           "id": "523347986",
           "name": "二向箔批发要吗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "523472083",
+          "name": "僵尸有个约会凌云飞",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
         },
         {
           "type": "creator",
