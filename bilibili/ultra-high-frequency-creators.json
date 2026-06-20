@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T15:10:19.586Z",
+  "generatedAt": "2026-06-20T16:10:19.752Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -105,7 +105,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -113,6 +113,13 @@
           "id": "1132553462",
           "name": "烛宝哒",
           "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11332884",
+          "name": "Key725",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
         },
         {
           "type": "creator",
@@ -187,6 +194,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1417904535",
+          "name": "刮蜡皮小能手",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "14200591",
           "name": "我是饭叔啊",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.89"
@@ -239,6 +253,13 @@
           "id": "1533633064",
           "name": "然子Ranziseven",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1579020683",
+          "name": "董路聊球",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.24"
         },
         {
           "type": "creator",
