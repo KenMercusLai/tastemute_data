@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T21:10:16.063Z",
+  "generatedAt": "2026-06-20T22:10:16.301Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1373,6 +1373,13 @@
           "id": "2081572322",
           "name": "云兮pisces",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2088861102",
+          "name": "国家电网",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -2931,6 +2938,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546716355693390",
+          "name": "蟹不肉丨",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546719514003582",
           "name": "RED_OFFICIAL_",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
@@ -2962,6 +2976,13 @@
           "id": "3546721388857977",
           "name": "晴姐有美有物理",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546724614277513",
+          "name": "肿瘤于福壮",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
