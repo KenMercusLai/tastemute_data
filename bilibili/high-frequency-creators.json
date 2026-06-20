@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T00:10:15.705Z",
+  "generatedAt": "2026-06-20T02:10:15.480Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -516,6 +516,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "14141146",
+          "name": "痞大菠萝派",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "14200591",
           "name": "我是饭叔啊",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.89"
@@ -638,6 +645,13 @@
           "id": "154047962",
           "name": "靠谱盘网文",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1544008396",
+          "name": "梗百科",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -1041,6 +1055,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1894563281",
+          "name": "哔哩哔哩毕业歌会",
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "189736517",
           "name": "洛沐墨",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
@@ -1071,7 +1092,7 @@
           "platform": "bilibili",
           "id": "1915056903",
           "name": "暗区突围",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -1359,6 +1380,13 @@
           "id": "22697887",
           "name": "芝士华莱士",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "22911752",
+          "name": "水墨粤语配音",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -1688,6 +1716,13 @@
           "id": "289686203",
           "name": "一分钟讲数学",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "291377718",
+          "name": "四郎讲棋",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -2133,6 +2168,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493264927754336",
+          "name": "向阳新生的鱼",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493267830213183",
           "name": "沙雕布鲁斯",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
@@ -2199,6 +2241,13 @@
           "id": "3494353263659251",
           "name": "幻术光明神",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494356847691889",
+          "name": "小奶猫08",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -3102,6 +3151,13 @@
           "id": "3546968718576133",
           "name": "必购",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546974729014028",
+          "name": "梦与七黎",
+          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.82"
         },
         {
           "type": "creator",
@@ -4614,6 +4670,13 @@
           "id": "523347986",
           "name": "二向箔批发要吗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "524280051",
+          "name": "WarThunder_CN",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
