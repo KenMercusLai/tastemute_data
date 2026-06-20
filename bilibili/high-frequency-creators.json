@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T13:10:16.185Z",
+  "generatedAt": "2026-06-20T14:10:16.206Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1671,6 +1671,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "271185110",
+          "name": "多壳特儿",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "272654283",
           "name": "咸鱼梦想家vlog",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.85"
@@ -1737,6 +1744,13 @@
           "id": "280973906",
           "name": "EdgeAITech",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "281398234",
+          "name": "Chamri_Channel",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -2968,7 +2982,7 @@
           "platform": "bilibili",
           "id": "3546820275865706",
           "name": "蛋仔大圆子",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -3640,7 +3654,7 @@
           "platform": "bilibili",
           "id": "3690996246251875",
           "name": "dog吃慕斯",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -4368,7 +4382,7 @@
           "platform": "bilibili",
           "id": "423517587",
           "name": "蛋某人音乐",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=0.48"
         },
         {
           "type": "creator",
