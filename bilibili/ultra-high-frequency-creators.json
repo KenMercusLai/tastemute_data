@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T06:10:18.732Z",
+  "generatedAt": "2026-06-20T07:10:19.064Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -218,6 +218,13 @@
           "id": "1514864947",
           "name": "雨不会下太久",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1523831",
+          "name": "莫实说",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.90"
         },
         {
           "type": "creator",
@@ -1121,6 +1128,13 @@
           "id": "3546715500055234",
           "name": "哎呦呼噜鸭",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546720210258217",
+          "name": "最热大型纪录片",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.18"
         },
         {
           "type": "creator",
@@ -2056,6 +2070,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "489010625",
+          "name": "奥特曼王国",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "490334938",
           "name": "中国军视网",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.35"
@@ -2087,13 +2108,6 @@
           "id": "493250188",
           "name": "UFC终极格斗冠军赛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.22"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "496124621",
-          "name": "琉璃观影",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.74"
         },
         {
           "type": "creator",
