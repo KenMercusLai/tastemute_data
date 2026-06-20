@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T17:10:20.465Z",
+  "generatedAt": "2026-06-20T18:10:19.585Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -85,6 +85,13 @@
           "id": "11021614",
           "name": "我是瑞斯拜",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1111924041",
+          "name": "大疆OSMO",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
         },
         {
           "type": "creator",
