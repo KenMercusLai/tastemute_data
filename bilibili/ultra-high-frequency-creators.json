@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T00:10:19.342Z",
+  "generatedAt": "2026-06-20T02:10:19.790Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -176,6 +176,13 @@
           "id": "1384406308",
           "name": "纽约尼克斯",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14141146",
+          "name": "痞大菠萝派",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.91"
         },
         {
           "type": "creator",
@@ -523,6 +530,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22911752",
+          "name": "水墨粤语配音",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "229825068",
           "name": "爱炸毛的小煤球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
@@ -631,6 +645,13 @@
           "id": "28861187",
           "name": "风间琉璃zcl",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "291377718",
+          "name": "四郎讲棋",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -796,6 +817,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493264927754336",
+          "name": "向阳新生的鱼",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493267830213183",
           "name": "沙雕布鲁斯",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
@@ -827,6 +855,13 @@
           "id": "3494350480738883",
           "name": "中国新闻网",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494356847691889",
+          "name": "小奶猫08",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.61"
         },
         {
           "type": "creator",
