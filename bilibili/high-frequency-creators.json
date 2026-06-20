@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T08:24:24.663Z",
+  "generatedAt": "2026-06-20T09:10:15.348Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1457,6 +1457,13 @@
           "id": "23284747",
           "name": "默默子rikiyo",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "237642723",
+          "name": "菜鸡罢了呀",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
         },
         {
           "type": "creator",
