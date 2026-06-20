@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T16:10:16.292Z",
+  "generatedAt": "2026-06-20T17:10:16.567Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2402,13 +2402,6 @@
           "id": "3493293037979816",
           "name": "一条悠米Y",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.65"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3493295189658159",
-          "name": "力哥玩儿游戏",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -5181,6 +5174,13 @@
           "id": "52717408",
           "name": "Always聪聪",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "53265107",
+          "name": "夏梦迪-高考物理",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
         },
         {
           "type": "creator",
