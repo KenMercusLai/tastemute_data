@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T23:10:15.872Z",
+  "generatedAt": "2026-06-20T00:10:15.705Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -463,6 +463,13 @@
           "id": "1322953481",
           "name": "心刚音乐库",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1334078880",
+          "name": "上海轶瞳网络",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -1685,6 +1692,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2930404",
+          "name": "咕噜耄",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2957050",
           "name": "冰糖小堃",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
@@ -2541,7 +2555,7 @@
           "platform": "bilibili",
           "id": "3546661399824534",
           "name": "醉心日推音乐",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -2703,6 +2717,13 @@
           "id": "3546752302975108",
           "name": "阿贞爱上了语文",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546775524739241",
+          "name": "RBW_Official",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
