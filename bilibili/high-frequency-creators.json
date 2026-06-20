@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T04:10:15.359Z",
+  "generatedAt": "2026-06-20T05:10:15.375Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -743,6 +743,13 @@
           "id": "16110280",
           "name": "jojo瑞兹",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1614266208",
+          "name": "克里森CHINA",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -3673,6 +3680,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706984587070296",
+          "name": "tuki_official",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706986740845187",
           "name": "米娅-_-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
@@ -3739,6 +3753,13 @@
           "id": "3706998883355507",
           "name": "抽象派名画1",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707002171689043",
+          "name": "边牧点点-",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.90"
         },
         {
           "type": "creator",
