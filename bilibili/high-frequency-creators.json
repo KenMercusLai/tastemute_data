@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T14:10:15.842Z",
+  "generatedAt": "2026-06-21T15:10:15.922Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1405,6 +1405,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2025603",
+          "name": "C8_Saber",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2029695814",
           "name": "是一只玥_",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
@@ -2560,6 +2567,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493277877668090",
+          "name": "Tiramisu_sk",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493280597674468",
           "name": "咸蛋黄19002",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
@@ -2878,6 +2892,13 @@
           "id": "3546595603777730",
           "name": "TWS_PLEDIS",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546596476193254",
+          "name": "小杰暗区突围呀",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
         },
         {
           "type": "creator",
