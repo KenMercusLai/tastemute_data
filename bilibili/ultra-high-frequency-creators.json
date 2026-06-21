@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T13:10:19.092Z",
+  "generatedAt": "2026-06-21T14:10:19.812Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1261,6 +1261,13 @@
           "id": "3546633058912804",
           "name": "中天全球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546652994439663",
+          "name": "我在奥星做游戏",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -2591,6 +2598,13 @@
           "id": "523347986",
           "name": "二向箔批发要吗",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "523447360",
+          "name": "九九游戏攻略",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
