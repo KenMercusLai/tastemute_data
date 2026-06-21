@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T20:10:20.005Z",
+  "generatedAt": "2026-06-21T21:10:20.300Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -399,7 +399,7 @@
           "platform": "bilibili",
           "id": "1739997894",
           "name": "芹玖说漫",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
         },
         {
           "type": "creator",
@@ -862,6 +862,13 @@
           "id": "319100322",
           "name": "杰哥相亲",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32026774",
+          "name": "侦探许烦烦",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -1547,7 +1554,7 @@
           "platform": "bilibili",
           "id": "3546880868879192",
           "name": "康康财经观察",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.18"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -1666,7 +1673,7 @@
           "platform": "bilibili",
           "id": "3546933127809399",
           "name": "虾仁也疯狂了",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -1791,8 +1798,8 @@
           "type": "creator",
           "platform": "bilibili",
           "id": "3632313441192505",
-          "name": "三礼有理了",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.10"
+          "name": "账号已注销",
+          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.09"
         },
         {
           "type": "creator",
@@ -2590,7 +2597,7 @@
           "platform": "bilibili",
           "id": "504512557",
           "name": "BT财经",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.54"
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.73"
         },
         {
           "type": "creator",
