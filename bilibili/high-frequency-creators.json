@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T16:10:15.921Z",
+  "generatedAt": "2026-06-21T17:10:16.469Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -673,6 +673,13 @@
           "id": "1497463202",
           "name": "晓艳教英语",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "150372013",
+          "name": "一个娇哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -2693,6 +2700,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "352457287",
+          "name": "有点小懒耶",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537106035018583",
           "name": "RIIZE",
           "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.63"
@@ -2724,6 +2738,13 @@
           "id": "3537121008683451",
           "name": "艾莉丝-大狗嚼行动",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537123319744983",
+          "name": "懂一点人情世故",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -5545,6 +5566,13 @@
           "id": "504799975",
           "name": "达哥在上海",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "506388561",
+          "name": "探T",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
