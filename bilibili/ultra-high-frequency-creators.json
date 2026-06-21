@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T02:10:19.139Z",
+  "generatedAt": "2026-06-21T03:10:19.820Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1099,7 +1099,7 @@
           "platform": "bilibili",
           "id": "3546610422253638",
           "name": "哎哎电影",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.38"
         },
         {
           "type": "creator",
@@ -1372,7 +1372,7 @@
           "platform": "bilibili",
           "id": "3546889909700864",
           "name": "电影近距离",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -1932,7 +1932,7 @@
           "platform": "bilibili",
           "id": "392579734",
           "name": "mobility_摸哔哩腿",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
         },
         {
           "type": "creator",
@@ -2422,7 +2422,7 @@
           "platform": "bilibili",
           "id": "590584284",
           "name": "Speed-777",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
         },
         {
           "type": "creator",
