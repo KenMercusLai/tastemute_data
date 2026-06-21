@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T00:10:19.335Z",
+  "generatedAt": "2026-06-21T01:10:19.297Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -147,14 +147,14 @@
           "platform": "bilibili",
           "id": "1252229843",
           "name": "三一电工",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.50"
         },
         {
           "type": "creator",
           "platform": "bilibili",
           "id": "1289388278",
           "name": "动物猿记事本",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.27"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
