@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T09:10:15.369Z",
+  "generatedAt": "2026-06-21T10:10:16.210Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -218,6 +218,13 @@
           "id": "108618052",
           "name": "真实球迷汇",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "109624402",
+          "name": "牢中牢的牢猫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.62"
         },
         {
           "type": "creator",
@@ -2504,6 +2511,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493273666587248",
+          "name": "耄耋触True",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493275730184754",
           "name": "博文追剧",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
@@ -2738,6 +2752,13 @@
           "id": "3546569315977483",
           "name": "果粒橙-精华版",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546572363139554",
+          "name": "TRANGPHAP庄法",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -3001,6 +3022,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546672762194636",
+          "name": "Puffkolumiyee",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546677707278509",
           "name": "超级蛋蛋助眠",
           "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.09"
@@ -3046,6 +3074,13 @@
           "id": "3546697034631336",
           "name": "油管科普精选",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546701572869014",
+          "name": "你的麦克阿瑟纪录片",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -3438,6 +3473,13 @@
           "id": "3546899005049243",
           "name": "免费无充电动画",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546899908921573",
+          "name": "唒唒漫画咯",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -4033,6 +4075,13 @@
           "id": "3691009131153598",
           "name": "你细品wow",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706924335892949",
+          "name": "虾仁联盟动画动漫传媒",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -6112,6 +6161,13 @@
           "id": "94815852",
           "name": "斯蒂芬游",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "96474710",
+          "name": "董木木在流浪",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.22"
         },
         {
           "type": "creator",
