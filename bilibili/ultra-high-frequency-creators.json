@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T09:10:19.183Z",
+  "generatedAt": "2026-06-21T10:10:19.918Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1251,6 +1251,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546672762194636",
+          "name": "Puffkolumiyee",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.81"
@@ -1275,6 +1282,13 @@
           "id": "3546697034631336",
           "name": "油管科普精选",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546701572869014",
+          "name": "你的麦克阿瑟纪录片",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
         },
         {
           "type": "creator",
