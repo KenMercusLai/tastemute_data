@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T00:10:15.523Z",
+  "generatedAt": "2026-06-21T01:10:15.406Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -357,7 +357,7 @@
           "platform": "bilibili",
           "id": "1198360314",
           "name": "3D可视化动画",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -434,7 +434,7 @@
           "platform": "bilibili",
           "id": "1252229843",
           "name": "三一电工",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
         },
         {
           "type": "creator",
@@ -469,7 +469,7 @@
           "platform": "bilibili",
           "id": "1289388278",
           "name": "动物猿记事本",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -631,6 +631,13 @@
           "id": "1497463202",
           "name": "晓艳教英语",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1504795688",
+          "name": "郭潇雨L",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
         },
         {
           "type": "creator",
@@ -1912,6 +1919,13 @@
           "id": "291651215",
           "name": "吾本布衣cut",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "292627743",
+          "name": "疯狂的西蒙斯",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.77"
         },
         {
           "type": "creator",
@@ -4670,6 +4684,13 @@
           "id": "443014411",
           "name": "上海女超人",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "444917125",
+          "name": "Shu_Qian",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.76"
         },
         {
           "type": "creator",
