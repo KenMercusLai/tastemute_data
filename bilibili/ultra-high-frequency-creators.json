@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T07:10:20.760Z",
+  "generatedAt": "2026-06-21T08:10:19.987Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -978,6 +978,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494377028585486",
+          "name": "FashioniStar",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "350882304",
           "name": "原神高玩专家-向晚",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
@@ -1636,6 +1643,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690975752882453",
+          "name": "BiBiBoom丶",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690985613691763",
           "name": "中天小事",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.38"
@@ -1786,6 +1800,13 @@
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706978763278762",
+          "name": "边rap边教学",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
