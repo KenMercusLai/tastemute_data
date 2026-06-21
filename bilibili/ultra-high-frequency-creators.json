@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T17:10:20.472Z",
+  "generatedAt": "2026-06-21T18:10:20.018Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -260,6 +260,13 @@
           "id": "147546636",
           "name": "无畏契约",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14793642",
+          "name": "NighTa奈特",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
         },
         {
           "type": "creator",
