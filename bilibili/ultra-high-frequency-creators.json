@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T10:10:19.918Z",
+  "generatedAt": "2026-06-21T11:10:19.331Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -859,6 +859,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "336610005",
+          "name": "法罗女土",
+          "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "33728489",
           "name": "也要读书",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.15"
@@ -1093,6 +1100,13 @@
           "id": "3546390768650532",
           "name": "個久吐煙圈",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546392037427376",
+          "name": "CSGO赛事Jun",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -1338,6 +1352,13 @@
           "id": "3546737964747183",
           "name": "不墨迹真测评",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546756077848946",
+          "name": "拉挖稀",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
