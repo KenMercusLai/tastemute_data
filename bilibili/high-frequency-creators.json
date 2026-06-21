@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T11:10:15.723Z",
+  "generatedAt": "2026-06-21T12:10:15.361Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15,6 +15,13 @@
           "id": "1000037800",
           "name": "快乐的娱",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1002402208",
+          "name": "发芽的小草丛",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -280,7 +287,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -2462,6 +2469,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493144435886146",
+          "name": "鑫河车机",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493145220221243",
           "name": "Abby大姐姐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
@@ -3918,9 +3932,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690975390074902",
+          "name": "盐巴喵喵喵",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690975752882453",
           "name": "BiBiBoom丶",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690978133149795",
+          "name": "师奈猫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -5019,7 +5047,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.35"
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -5236,7 +5264,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.06"
         },
         {
           "type": "creator",
