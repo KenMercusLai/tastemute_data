@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T19:10:15.595Z",
+  "generatedAt": "2026-06-21T20:10:15.646Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -721,7 +721,7 @@
           "platform": "bilibili",
           "id": "1514864947",
           "name": "雨不会下太久",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1400,7 +1400,7 @@
           "platform": "bilibili",
           "id": "2003685778",
           "name": "士六视界",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.44"
         },
         {
           "type": "creator",
@@ -3717,7 +3717,7 @@
           "platform": "bilibili",
           "id": "3546909169944629",
           "name": "浪江绝",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -3829,7 +3829,7 @@
           "platform": "bilibili",
           "id": "3546946304215968",
           "name": "B站我够帅",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.50"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
         },
         {
           "type": "creator",
@@ -3976,7 +3976,7 @@
           "platform": "bilibili",
           "id": "3632303777516250",
           "name": "日子慢慢走快乐天天有",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -4144,7 +4144,7 @@
           "platform": "bilibili",
           "id": "3690991703820407",
           "name": "哈尼想吃汉堡",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -4732,7 +4732,7 @@
           "platform": "bilibili",
           "id": "387934065",
           "name": "彗殒_Starfall",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.98"
         },
         {
           "type": "creator",
