@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T18:10:16.038Z",
+  "generatedAt": "2026-06-21T19:10:15.595Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1846,6 +1846,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "273460306",
+          "name": "巨构ai",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "273710185",
           "name": "桉慕然",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.16"
@@ -2465,6 +2472,13 @@
           "id": "3493124475193909",
           "name": "板牙象棋",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493124682811738",
+          "name": "法力无边魏律师",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
         },
         {
           "type": "creator",
@@ -5143,6 +5157,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "446901063",
+          "name": "糖小希official",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "448973088",
           "name": "北回归线小院",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
@@ -5937,6 +5958,13 @@
           "id": "613115943",
           "name": "比亚迪汽车",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "625005835",
+          "name": "世一金克丝",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.40"
         },
         {
           "type": "creator",
