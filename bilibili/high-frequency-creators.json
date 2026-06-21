@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T15:10:15.922Z",
+  "generatedAt": "2026-06-21T16:10:15.921Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2322,6 +2322,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3461572844325082",
+          "name": "亮亮巧解初中数学",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3461574861785182",
           "name": "美速游戏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
@@ -2584,6 +2591,13 @@
           "id": "3493286931073848",
           "name": "YouTube深度访谈",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493288048855826",
+          "name": "不会剪辑的小草",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.35"
         },
         {
           "type": "creator",
@@ -2899,6 +2913,13 @@
           "id": "3546596476193254",
           "name": "小杰暗区突围呀",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546596918692809",
+          "name": "海绵宝宝蛋1",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.14"
         },
         {
           "type": "creator",
