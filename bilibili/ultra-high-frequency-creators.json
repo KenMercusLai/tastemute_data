@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T01:10:19.297Z",
+  "generatedAt": "2026-06-21T02:10:19.139Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -42,7 +42,7 @@
           "platform": "bilibili",
           "id": "1035604808",
           "name": "兮兮剧解析",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -350,7 +350,7 @@
           "platform": "bilibili",
           "id": "1725682916",
           "name": "铁蛋儿解说",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.40"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -754,6 +754,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "312330130",
+          "name": "愚乐有料",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "31341757",
           "name": "捭阖哗_穷鬼主义",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
@@ -1015,7 +1022,7 @@
           "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.41"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -1029,7 +1036,7 @@
           "platform": "bilibili",
           "id": "3546390768650532",
           "name": "個久吐煙圈",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -1358,7 +1365,7 @@
           "platform": "bilibili",
           "id": "3546888794016247",
           "name": "高跟鞋影视",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -1428,7 +1435,7 @@
           "platform": "bilibili",
           "id": "3546910233201293",
           "name": "黑芝麻粉汤圆",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -1876,7 +1883,7 @@
           "platform": "bilibili",
           "id": "381833884",
           "name": "小李桑2333",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -1918,7 +1925,7 @@
           "platform": "bilibili",
           "id": "389773318",
           "name": "厨16君",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.05"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -2301,6 +2308,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "509997673",
+          "name": "官帽头上戴",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "51033647",
           "name": "董老厮来了",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.82"
@@ -2527,7 +2541,7 @@
           "platform": "bilibili",
           "id": "6756999",
           "name": "英文白斑马",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.01"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.01"
         },
         {
           "type": "creator",
