@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T07:10:16.206Z",
+  "generatedAt": "2026-06-21T08:10:16.198Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -603,6 +603,13 @@
           "id": "1447640221",
           "name": "普通の宁",
           "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1455933",
+          "name": "苏苏的美食记录",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -2532,6 +2539,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494377028585486",
+          "name": "FashioniStar",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "350882304",
           "name": "原神高玩专家-向晚",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
@@ -3736,6 +3750,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690975752882453",
+          "name": "BiBiBoom丶",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690983719962691",
           "name": "高山流水cfa",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.26"
@@ -4054,6 +4075,13 @@
           "id": "3706978173978994",
           "name": "潇曜-",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706978763278762",
+          "name": "边rap边教学",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
