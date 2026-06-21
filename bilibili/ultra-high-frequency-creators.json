@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T18:10:20.018Z",
+  "generatedAt": "2026-06-21T19:10:19.246Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -740,6 +740,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "273460306",
+          "name": "巨构ai",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27500557",
           "name": "梦轩dada",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.86"
@@ -967,6 +974,13 @@
           "id": "3493124475193909",
           "name": "板牙象棋",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493124682811738",
+          "name": "法力无边魏律师",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
         },
         {
           "type": "creator",
