@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T12:10:15.361Z",
+  "generatedAt": "2026-06-21T13:10:15.719Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2658,6 +2658,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537118842325025",
+          "name": "不是学长是学弟",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537119932844651",
           "name": "sjz名人堂",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
@@ -3018,6 +3025,13 @@
           "id": "3546661064280077",
           "name": "惠老板和鸵鸟",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.71"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546661223663683",
+          "name": "柒月三角洲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
         },
         {
           "type": "creator",
