@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T01:10:15.406Z",
+  "generatedAt": "2026-06-21T02:10:15.325Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -91,7 +91,7 @@
           "platform": "bilibili",
           "id": "1035604808",
           "name": "兮兮剧解析",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -924,7 +924,7 @@
           "platform": "bilibili",
           "id": "1725682916",
           "name": "铁蛋儿解说",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.40"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -2030,7 +2030,7 @@
           "platform": "bilibili",
           "id": "312330130",
           "name": "愚乐有料",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.28"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -2590,7 +2590,7 @@
           "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.41"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -2604,7 +2604,7 @@
           "platform": "bilibili",
           "id": "3546390768650532",
           "name": "個久吐煙圈",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -2702,7 +2702,7 @@
           "platform": "bilibili",
           "id": "3546589054371869",
           "name": "奇趣视界-Q",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -3269,7 +3269,7 @@
           "platform": "bilibili",
           "id": "3546888794016247",
           "name": "高跟鞋影视",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -3381,7 +3381,7 @@
           "platform": "bilibili",
           "id": "3546910233201293",
           "name": "黑芝麻粉汤圆",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -4193,7 +4193,7 @@
           "platform": "bilibili",
           "id": "381833884",
           "name": "小李桑2333",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -4305,7 +4305,7 @@
           "platform": "bilibili",
           "id": "389773318",
           "name": "厨16君",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.05"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -4432,6 +4432,13 @@
           "id": "403207842",
           "name": "河南民生频道大参考",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "405232374",
+          "name": "无限理论",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.18"
         },
         {
           "type": "creator",
@@ -4921,7 +4928,7 @@
           "platform": "bilibili",
           "id": "487511093",
           "name": "YouTube精选字幕组",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -5145,7 +5152,7 @@
           "platform": "bilibili",
           "id": "509997673",
           "name": "官帽头上戴",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -5363,6 +5370,13 @@
           "id": "57863910",
           "name": "王者荣耀",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "586960020",
+          "name": "那位Navi",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -5621,7 +5635,7 @@
           "platform": "bilibili",
           "id": "6756999",
           "name": "英文白斑马",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.01"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.01"
         },
         {
           "type": "creator",
