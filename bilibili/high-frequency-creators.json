@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T03:10:15.983Z",
+  "generatedAt": "2026-06-21T04:10:16.253Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -504,7 +504,7 @@
           "platform": "bilibili",
           "id": "1322313150",
           "name": "影视拾荒者",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -2840,6 +2840,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546640774335086",
+          "name": "陈_赫",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546641462200372",
           "name": "绫卷绫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.48"
@@ -3136,7 +3143,7 @@
           "platform": "bilibili",
           "id": "3546824430324278",
           "name": "勇哥知识学堂",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.30"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.30"
         },
         {
           "type": "creator",
@@ -4907,7 +4914,7 @@
           "platform": "bilibili",
           "id": "483522694",
           "name": "火星课堂",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.09"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.66"
         },
         {
           "type": "creator",
