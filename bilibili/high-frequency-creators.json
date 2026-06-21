@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T06:10:16.085Z",
+  "generatedAt": "2026-06-21T07:10:16.206Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1806,7 +1806,7 @@
           "platform": "bilibili",
           "id": "280086490",
           "name": "静谧不是恶魔",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -4326,7 +4326,7 @@
           "platform": "bilibili",
           "id": "388693230",
           "name": "AIGC冰糖小葫卢",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.23"
         },
         {
           "type": "creator",
@@ -5342,6 +5342,13 @@
           "id": "542316830",
           "name": "茄子小布丁",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "549746",
+          "name": "猫月漫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.75"
         },
         {
           "type": "creator",
