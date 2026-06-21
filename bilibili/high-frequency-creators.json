@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T17:10:16.469Z",
+  "generatedAt": "2026-06-21T18:10:16.038Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -666,6 +666,13 @@
           "id": "147546636",
           "name": "无畏契约",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14793642",
+          "name": "NighTa奈特",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -2051,7 +2058,7 @@
           "platform": "bilibili",
           "id": "299810153",
           "name": "橪韭Ran",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.68"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.68"
         },
         {
           "type": "creator",
@@ -4443,6 +4450,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706981831412484",
+          "name": "肥而不溺的软糯鼻嘎",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706984060685037",
           "name": "苏州刚子馕坑烤全羊",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
@@ -4915,6 +4929,13 @@
           "id": "415327053",
           "name": "YouTube武器鉴赏",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "416578326",
+          "name": "未知艺术家_611",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.46"
         },
         {
           "type": "creator",
