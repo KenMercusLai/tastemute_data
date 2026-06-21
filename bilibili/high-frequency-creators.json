@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T13:10:15.719Z",
+  "generatedAt": "2026-06-21T14:10:15.842Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2406,6 +2406,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493093607213343",
+          "name": "JLRS-LeoFM",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493094920030522",
           "name": "华哥户外",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
@@ -2416,6 +2423,13 @@
           "id": "3493117468608664",
           "name": "怀欺三角洲行动",
           "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493118814980202",
+          "name": "小郁猫meme",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -2633,6 +2647,13 @@
           "id": "350882304",
           "name": "原神高玩专家-向晚",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "350988058",
+          "name": "高星卡手",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -3008,6 +3029,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546652994439663",
+          "name": "我在奥星做游戏",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546653000731413",
           "name": "你的纪录片",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
@@ -3137,6 +3165,13 @@
           "id": "3546713063164029",
           "name": "新西兰三妹Summer",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546713291753855",
+          "name": "兰佩荷衣",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -5591,6 +5626,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "523447360",
+          "name": "九九游戏攻略",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "523472083",
           "name": "僵尸有个约会凌云飞",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
@@ -6196,6 +6238,13 @@
           "id": "87797729",
           "name": "搞笑君咯",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "87931987",
+          "name": "逻辑笑语文",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.35"
         },
         {
           "type": "creator",
