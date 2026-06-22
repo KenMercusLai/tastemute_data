@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T17:10:16.511Z",
+  "generatedAt": "2026-06-22T18:10:26.856Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -400,6 +400,13 @@
           "id": "1210409821",
           "name": "苏新皓的时光胶囊",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1221164058",
+          "name": "狼队王者荣耀分部",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -2595,6 +2602,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493092757867141",
+          "name": "晓艳英语考研",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493093483481109",
           "name": "事件后续君",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
@@ -2927,6 +2941,13 @@
           "id": "3537106035018583",
           "name": "RIIZE",
           "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537107236686478",
+          "name": "狗头军师小哆啦",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -5537,7 +5558,7 @@
           "platform": "bilibili",
           "id": "442626264",
           "name": "李析哲",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.54"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.65"
         },
         {
           "type": "creator",
