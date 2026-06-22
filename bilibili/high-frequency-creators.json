@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T12:10:15.446Z",
+  "generatedAt": "2026-06-22T13:10:15.920Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -903,7 +903,7 @@
           "platform": "bilibili",
           "id": "16110280",
           "name": "jojo瑞兹",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -1450,6 +1450,13 @@
           "id": "20048600",
           "name": "神牛教丶教主",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2017283230",
+          "name": "三小只1117",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -2822,6 +2829,13 @@
           "id": "3494369006979716",
           "name": "在下逗宗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494373438261572",
+          "name": "刘鸿哥哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
         },
         {
           "type": "creator",
