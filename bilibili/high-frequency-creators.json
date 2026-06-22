@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T00:10:15.444Z",
+  "generatedAt": "2026-06-22T01:10:15.779Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3610,6 +3610,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546880438962772",
+          "name": "B站财经大学官方",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546880868879192",
           "name": "康康财经观察",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
@@ -4775,6 +4782,13 @@
           "id": "387934065",
           "name": "彗殒_Starfall",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "388262063",
+          "name": "你的好朋友目清",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.57"
         },
         {
           "type": "creator",
