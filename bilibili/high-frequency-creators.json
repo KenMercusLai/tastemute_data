@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T18:10:26.856Z",
+  "generatedAt": "2026-06-22T19:10:15.647Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -84,7 +84,7 @@
           "platform": "bilibili",
           "id": "1029160345",
           "name": "Mr-Ferret",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.02"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.49"
         },
         {
           "type": "creator",
@@ -1604,6 +1604,13 @@
           "id": "2115962425",
           "name": "NMIXX",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2120028436",
+          "name": "小方动画_",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.17"
         },
         {
           "type": "creator",
@@ -3270,13 +3277,6 @@
           "id": "3546619609876957",
           "name": "王师傅の日记",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.00"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546625712589474",
-          "name": "AAA伊波恩鉴定师零",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.59"
         },
         {
           "type": "creator",
@@ -6763,6 +6763,13 @@
           "id": "75",
           "name": "丸子",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "76783215",
+          "name": "诸葛墨镜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.23"
         },
         {
           "type": "creator",
