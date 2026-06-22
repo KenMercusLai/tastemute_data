@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T19:10:15.647Z",
+  "generatedAt": "2026-06-22T20:10:15.976Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -217,7 +217,7 @@
           "platform": "bilibili",
           "id": "1081132475",
           "name": "钱钱子RICH_呆呆",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.06"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -463,6 +463,13 @@
           "id": "1245693143",
           "name": "帧观出品",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1249954025",
+          "name": "十一的看脸日记",
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.68"
         },
         {
           "type": "creator",
@@ -1134,7 +1141,7 @@
           "platform": "bilibili",
           "id": "178549",
           "name": "八爪鱼fishly",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.65"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.66"
         },
         {
           "type": "creator",
@@ -3444,7 +3451,7 @@
           "platform": "bilibili",
           "id": "3546683765950790",
           "name": "韭菜vvv",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.08"
         },
         {
           "type": "creator",
@@ -3745,7 +3752,7 @@
           "platform": "bilibili",
           "id": "3546831902477235",
           "name": "爱睡觉的也野",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.37"
         },
         {
           "type": "creator",
