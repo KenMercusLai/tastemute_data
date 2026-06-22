@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T16:10:16.057Z",
+  "generatedAt": "2026-06-22T17:10:16.511Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -897,6 +897,13 @@
           "id": "1591562602",
           "name": "len拉德",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1595482",
+          "name": "崔耶拉",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -2905,7 +2912,7 @@
           "platform": "bilibili",
           "id": "3519797",
           "name": "战术级子轩",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.88"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -4928,7 +4935,7 @@
           "platform": "bilibili",
           "id": "370871812",
           "name": "sparkle0822",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.30"
         },
         {
           "type": "creator",
@@ -5208,7 +5215,7 @@
           "platform": "bilibili",
           "id": "395931838",
           "name": "赖神无所畏惧",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -6336,6 +6343,13 @@
           "id": "59412358",
           "name": "房叔叨叨叨",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6014992",
+          "name": "叫我棉被",
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.06"
         },
         {
           "type": "creator",
