@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T22:10:22.663Z",
+  "generatedAt": "2026-06-22T23:10:21.160Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1540,7 +1540,7 @@
           "platform": "bilibili",
           "id": "3546724748495813",
           "name": "超哥超车",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
