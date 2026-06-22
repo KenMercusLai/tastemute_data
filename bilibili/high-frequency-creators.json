@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T20:10:15.976Z",
+  "generatedAt": "2026-06-22T21:10:15.666Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -733,6 +733,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "150123501",
+          "name": "里黄毛",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1502849849",
           "name": "欢乐de小猫咪",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.89"
@@ -1456,7 +1463,7 @@
           "platform": "bilibili",
           "id": "198375523",
           "name": "毓庾彧",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -2751,7 +2758,7 @@
           "platform": "bilibili",
           "id": "3493260093819171",
           "name": "李维刚的日常",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.68"
         },
         {
           "type": "creator",
@@ -3290,7 +3297,7 @@
           "platform": "bilibili",
           "id": "3546625733561097",
           "name": "猫狗村",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.93"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.94"
         },
         {
           "type": "creator",
