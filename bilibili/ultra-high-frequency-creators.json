@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T04:10:20.180Z",
+  "generatedAt": "2026-06-22T05:10:19.356Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -595,7 +595,7 @@
           "platform": "bilibili",
           "id": "2035556081",
           "name": "堂主lee",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -1328,6 +1328,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546619609876957",
+          "name": "王师傅の日记",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546625733561097",
           "name": "猫狗村",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
@@ -1393,7 +1400,7 @@
           "platform": "bilibili",
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
-          "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.81"
+          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -2833,13 +2840,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "6014992",
-          "name": "叫我棉被",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.65"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "60232120",
           "name": "小叮当频道",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
@@ -3024,7 +3024,7 @@
           "platform": "bilibili",
           "id": "75",
           "name": "丸子",
-          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.73"
         },
         {
           "type": "creator",
