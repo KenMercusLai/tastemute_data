@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T06:27:58.696Z",
+  "generatedAt": "2026-06-22T07:10:15.408Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -168,7 +168,7 @@
           "platform": "bilibili",
           "id": "1072842577",
           "name": "嘻嘻nja",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -1545,6 +1545,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21566266",
+          "name": "你好呀桃生",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "21577052",
           "name": "摄影师金先生",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
@@ -2003,6 +2010,13 @@
           "id": "28645131",
           "name": "洗脚水不加蒜",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "287524841",
+          "name": "一只鹅企",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
         },
         {
           "type": "creator",
