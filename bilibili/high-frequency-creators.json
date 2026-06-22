@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T21:10:15.666Z",
+  "generatedAt": "2026-06-22T22:10:16.087Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -847,7 +847,7 @@
           "platform": "bilibili",
           "id": "1547032467",
           "name": "千年小爱同学",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.01"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.04"
         },
         {
           "type": "creator",
@@ -2520,7 +2520,7 @@
           "platform": "bilibili",
           "id": "3461571401485150",
           "name": "风间_苍月",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.64"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -6382,6 +6382,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "598598451",
+          "name": "知秋游戏解说",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "6014992",
           "name": "叫我棉被",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.06"
@@ -6875,6 +6882,13 @@
           "id": "8878219",
           "name": "吃蛋挞的折棒",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "90307199",
+          "name": "Emily9333",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.93"
         },
         {
           "type": "creator",
