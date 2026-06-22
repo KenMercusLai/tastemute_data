@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T15:10:21.007Z",
+  "generatedAt": "2026-06-22T16:10:20.280Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2885,6 +2885,13 @@
           "id": "522653994",
           "name": "大象新闻",
           "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "523063259",
+          "name": "一支yuuu",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.56"
         },
         {
           "type": "creator",
