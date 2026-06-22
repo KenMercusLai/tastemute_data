@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T09:10:15.841Z",
+  "generatedAt": "2026-06-22T10:10:15.364Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1734,6 +1734,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "244320144",
+          "name": "坠机纪录片",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "24524783",
           "name": "Telfair童",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.48"
@@ -1995,7 +2002,7 @@
           "platform": "bilibili",
           "id": "283857119",
           "name": "带秀乌鸦",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.08"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -2875,6 +2882,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546372955441591",
+          "name": "军武-史记",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.35"
@@ -3547,6 +3561,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546819541863216",
+          "name": "新月漫剧社",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546820275865706",
           "name": "蛋仔大圆子",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.21"
@@ -3599,6 +3620,13 @@
           "id": "3546838709832338",
           "name": "鳗鱼课堂",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546846085515904",
+          "name": "观一隅",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -3872,6 +3900,13 @@
           "id": "3546912959498254",
           "name": "大型纪录片bro",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546913966131463",
+          "name": "星娱小甜饼",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -6363,7 +6398,7 @@
           "platform": "bilibili",
           "id": "674198676",
           "name": "一只山鸡鱼",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -6501,6 +6536,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "7206252",
+          "name": "跟着油管去健身",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "72656330",
           "name": "吧啦吧吧啾啾",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
@@ -6608,7 +6650,7 @@
           "platform": "bilibili",
           "id": "87797729",
           "name": "搞笑君咯",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.29"
         },
         {
           "type": "creator",
