@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T10:10:19.294Z",
+  "generatedAt": "2026-06-22T11:10:19.590Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -320,6 +320,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1553192921",
+          "name": "波波视频V",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1579020683",
           "name": "董路聊球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.24"
@@ -407,6 +414,13 @@
           "id": "1681299250",
           "name": "迈阿密热火",
           "reason": "Average upload gap <= 1 days; videos=12; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "16882091",
+          "name": "小卷同学不许熬夜呀",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -1797,6 +1811,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546918460328793",
+          "name": "皮帶哥",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546920372931352",
           "name": "一只小鲤娱",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
@@ -1947,6 +1968,13 @@
           "id": "3632304144517522",
           "name": "郭律情感专线",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632304767371894",
+          "name": "为了生活加油向前冲",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -2444,6 +2472,13 @@
           "id": "3976691",
           "name": "Hagn",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "400925524",
+          "name": "丨零二丨",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
         },
         {
           "type": "creator",
