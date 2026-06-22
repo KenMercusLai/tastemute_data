@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T10:10:15.364Z",
+  "generatedAt": "2026-06-22T11:10:15.674Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -502,6 +502,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1298070528",
+          "name": "赌狗研究所",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1298579146",
           "name": "虎哥二次元教父",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
@@ -803,6 +810,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1553192921",
+          "name": "波波视频V",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1561515",
           "name": "吴鸽不理解",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
@@ -967,6 +981,13 @@
           "id": "1681299250",
           "name": "迈阿密热火",
           "reason": "Average upload gap <= 2 days; videos=12; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "16882091",
+          "name": "小卷同学不许熬夜呀",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -2518,6 +2539,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493093483481109",
+          "name": "事件后续君",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493093607213343",
           "name": "JLRS-LeoFM",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
@@ -3477,6 +3505,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546745478843098",
+          "name": "为男发声の林团长",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546751115987218",
           "name": "MEOVV_TBL",
           "reason": "Average upload gap <= 2 days; videos=16; avg_gap_days=1.99"
@@ -3932,6 +3967,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546918460328793",
+          "name": "皮帶哥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546919559235884",
           "name": "哈基米抽子",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -4187,6 +4229,13 @@
           "id": "3632304144517522",
           "name": "郭律情感专线",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632304767371894",
+          "name": "为了生活加油向前冲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -5111,6 +5160,13 @@
           "id": "3998599",
           "name": "李弱可",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "400925524",
+          "name": "丨零二丨",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
         },
         {
           "type": "creator",
