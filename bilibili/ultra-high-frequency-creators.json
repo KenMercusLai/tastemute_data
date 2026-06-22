@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T02:10:19.315Z",
+  "generatedAt": "2026-06-22T03:10:19.643Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -155,6 +155,13 @@
           "id": "12394995",
           "name": "粗犷毛线君",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1245693143",
+          "name": "帧观出品",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.50"
         },
         {
           "type": "creator",
@@ -757,6 +764,13 @@
           "id": "275930985",
           "name": "新青年",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "279987729",
+          "name": "文化教育关注者",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.05"
         },
         {
           "type": "creator",
@@ -1447,6 +1461,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546795441391669",
+          "name": "飒野博士",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546814145890375",
           "name": "娜依voitko",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.55"
@@ -1594,6 +1615,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546903289530515",
+          "name": "解除烦恼的小鱼儿",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546905697061655",
           "name": "宇宙没有售后",
           "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=1.00"
@@ -1716,6 +1744,13 @@
           "id": "3546946304215968",
           "name": "B站我够帅",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546951932971969",
+          "name": "大明Talk",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -2521,6 +2556,13 @@
           "id": "487614876",
           "name": "四川观察",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487788798",
+          "name": "天津纪爸爸",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
