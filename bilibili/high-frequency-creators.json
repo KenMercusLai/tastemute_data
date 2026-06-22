@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T23:10:15.511Z",
+  "generatedAt": "2026-06-22T00:10:15.444Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2793,7 +2793,7 @@
           "platform": "bilibili",
           "id": "353896033",
           "name": "有趣的小敏",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -3178,7 +3178,7 @@
           "platform": "bilibili",
           "id": "3546663067060977",
           "name": "美图集锦",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.29"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -3703,7 +3703,7 @@
           "platform": "bilibili",
           "id": "3546907391560121",
           "name": "犀利解说员",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -3984,6 +3984,13 @@
           "id": "359844033",
           "name": "大乾乾是顾乾宇",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "361544096",
+          "name": "修齐Echo",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -4646,6 +4653,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "380593855",
+          "name": "苏杰伦第五人格",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "380751231",
           "name": "懒猫徒手健身",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
@@ -4676,7 +4690,7 @@
           "platform": "bilibili",
           "id": "382421214",
           "name": "油管熱門一哥",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.01"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.20"
         },
         {
           "type": "creator",
@@ -5075,7 +5089,7 @@
           "platform": "bilibili",
           "id": "433174409",
           "name": "雪峰说规划",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
         },
         {
           "type": "creator",
@@ -5130,8 +5144,8 @@
           "type": "creator",
           "platform": "bilibili",
           "id": "439019448",
-          "name": "外网精选评论翻译",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
+          "name": "外网种花家的兔",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -5985,7 +5999,7 @@
           "platform": "bilibili",
           "id": "613064099",
           "name": "勇哥餐饮创业路",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
