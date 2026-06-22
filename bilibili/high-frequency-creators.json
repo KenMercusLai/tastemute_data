@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T22:10:16.087Z",
+  "generatedAt": "2026-06-22T23:10:15.984Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2217,6 +2217,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "296403873",
+          "name": "寄小俄",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296426733",
           "name": "我是桶子哥",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.29"
@@ -2562,7 +2569,7 @@
           "platform": "bilibili",
           "id": "346563107",
           "name": "波士顿圆脸",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.04"
         },
         {
           "type": "creator",
@@ -3584,7 +3591,7 @@
           "platform": "bilibili",
           "id": "3546724748495813",
           "name": "超哥超车",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -5979,6 +5986,13 @@
           "id": "496124621",
           "name": "琉璃观影",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "496438918",
+          "name": "我要棉发糖",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.28"
         },
         {
           "type": "creator",
