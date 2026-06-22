@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T08:10:19.077Z",
+  "generatedAt": "2026-06-22T09:10:19.787Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1020,6 +1020,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493106756356581",
+          "name": "季大浪爱钓鱼",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493124475193909",
           "name": "板牙象棋",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
@@ -1898,6 +1905,13 @@
           "id": "3632304144517522",
           "name": "郭律情感专线",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632305044195752",
+          "name": "高允程程",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
         },
         {
           "type": "creator",
