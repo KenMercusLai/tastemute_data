@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T07:10:19.356Z",
+  "generatedAt": "2026-06-22T08:10:19.077Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -603,6 +603,13 @@
           "id": "203680252",
           "name": "AYCS2",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "208758618",
+          "name": "开普勒Kepler-22B",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.77"
         },
         {
           "type": "creator",
@@ -1741,6 +1748,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546920372931352",
+          "name": "一只小鲤娱",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546930737055759",
           "name": "郭律说",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
@@ -1853,6 +1867,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "356186691",
+          "name": "丶小虎哥哥丶丶",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "356188615",
           "name": "钟意漫解",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.70"
@@ -1884,6 +1905,13 @@
           "id": "3632313441192505",
           "name": "账号已注销",
           "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632314034686602",
+          "name": "城南城北纪实",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.01"
         },
         {
           "type": "creator",
@@ -2511,6 +2539,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "457931441",
+          "name": "我要一抹光",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "46470268",
           "name": "央视军事",
           "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.53"
@@ -2784,6 +2819,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "542108050",
+          "name": "逸寒游戏解说",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "542316830",
           "name": "茄子小布丁",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.18"
@@ -3018,13 +3060,6 @@
           "id": "74126025",
           "name": "想抱莉莉娅的云天",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "75",
-          "name": "丸子",
-          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.73"
         },
         {
           "type": "creator",
