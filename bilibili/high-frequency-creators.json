@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T01:10:15.779Z",
+  "generatedAt": "2026-06-22T02:10:15.972Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1792,13 +1792,6 @@
           "platform": "bilibili",
           "id": "262264570",
           "name": "枯叶cccccc",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "263249641",
-          "name": "丐伦菌",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
         },
         {
@@ -4947,6 +4940,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "405247284",
+          "name": "起点读书-点娘",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "406873071",
           "name": "宫阙万间做土",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.25"
@@ -5468,13 +5468,6 @@
           "id": "4878173",
           "name": "泥萌都是托",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "488002189",
-          "name": "古牧三角洲行动",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
         },
         {
           "type": "creator",
