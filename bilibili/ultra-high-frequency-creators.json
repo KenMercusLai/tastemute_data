@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T17:10:21.021Z",
+  "generatedAt": "2026-06-22T18:10:33.503Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -148,6 +148,13 @@
           "id": "1141140061",
           "name": "环球异事o",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1221164058",
+          "name": "狼队王者荣耀分部",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -1051,6 +1058,13 @@
           "id": "3493089272400650",
           "name": "i古城萧笙",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493092757867141",
+          "name": "晓艳英语考研",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.75"
         },
         {
           "type": "creator",
@@ -2618,7 +2632,7 @@
           "platform": "bilibili",
           "id": "442626264",
           "name": "李析哲",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.54"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.65"
         },
         {
           "type": "creator",
