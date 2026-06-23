@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T12:10:19.647Z",
+  "generatedAt": "2026-06-23T13:10:19.922Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -295,6 +295,13 @@
           "id": "14793642",
           "name": "NighTa奈特",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1497463202",
+          "name": "晓艳教英语",
+          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -3060,6 +3067,13 @@
           "id": "613115943",
           "name": "比亚迪汽车",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "61430918",
+          "name": "SEGA世嘉官方",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.92"
         },
         {
           "type": "creator",
