@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T21:10:20.335Z",
+  "generatedAt": "2026-06-23T22:10:20.123Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1218,7 +1218,7 @@
           "platform": "bilibili",
           "id": "3493286931073848",
           "name": "YouTube深度访谈",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -2072,7 +2072,7 @@
           "platform": "bilibili",
           "id": "3632319887837439",
           "name": "b醒着做u饿梦",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
         },
         {
           "type": "creator",
@@ -2106,8 +2106,8 @@
           "type": "creator",
           "platform": "bilibili",
           "id": "3690973628468004",
-          "name": "抱抱加油试管早产基因",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
+          "name": "抱抱加油早产基因突变",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -2254,7 +2254,7 @@
           "platform": "bilibili",
           "id": "3706941398321296",
           "name": "好物推荐-易蕤荀",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -2268,7 +2268,7 @@
           "platform": "bilibili",
           "id": "3706945529711458",
           "name": "好物甄选-赖袆說",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -2577,13 +2577,6 @@
           "id": "413418229",
           "name": "是在勇哥录像",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.28"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "415327053",
-          "name": "YouTube武器鉴赏",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
