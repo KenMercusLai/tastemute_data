@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T12:10:15.699Z",
+  "generatedAt": "2026-06-23T13:10:16.031Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -742,7 +742,7 @@
           "platform": "bilibili",
           "id": "1497463202",
           "name": "晓艳教英语",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -2947,7 +2947,7 @@
           "platform": "bilibili",
           "id": "3494353263659251",
           "name": "幻术光明神",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.13"
         },
         {
           "type": "creator",
@@ -6567,6 +6567,13 @@
           "id": "613115943",
           "name": "比亚迪汽车",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "61430918",
+          "name": "SEGA世嘉官方",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.92"
         },
         {
           "type": "creator",
