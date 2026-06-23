@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T14:10:16.158Z",
+  "generatedAt": "2026-06-23T15:10:15.383Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1498,7 +1498,7 @@
           "platform": "bilibili",
           "id": "19848044",
           "name": "幽灵大官人",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.22"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.30"
         },
         {
           "type": "creator",
@@ -3766,7 +3766,7 @@
           "platform": "bilibili",
           "id": "3546788701145645",
           "name": "小火龙爬",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.23"
         },
         {
           "type": "creator",
@@ -5605,13 +5605,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "43222001",
-          "name": "卡特亚",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.97"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "433174409",
           "name": "雪峰说规划",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
@@ -5677,7 +5670,7 @@
           "platform": "bilibili",
           "id": "43991083",
           "name": "暴躁老哥艾火影",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -5768,7 +5761,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.35"
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=0.13"
         },
         {
           "type": "creator",
