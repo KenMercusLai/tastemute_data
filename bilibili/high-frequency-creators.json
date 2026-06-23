@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T15:10:15.383Z",
+  "generatedAt": "2026-06-23T16:10:16.228Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -294,7 +294,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -2058,7 +2058,7 @@
           "platform": "bilibili",
           "id": "273710185",
           "name": "桉慕然",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -2444,13 +2444,6 @@
           "id": "32026774",
           "name": "侦探许烦烦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "324473490",
-          "name": "中国青年报",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -5761,7 +5754,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -5992,7 +5985,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.06"
         },
         {
           "type": "creator",
