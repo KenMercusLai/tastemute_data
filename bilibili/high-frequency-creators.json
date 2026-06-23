@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T19:10:15.861Z",
+  "generatedAt": "2026-06-23T20:10:15.709Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -873,16 +873,16 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "1553192921",
-          "name": "波波视频V",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.51"
+          "id": "1551561311",
+          "name": "练习两年半的旅伥",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "1561515",
-          "name": "吴鸽不理解",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
+          "id": "1553192921",
+          "name": "波波视频V",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -5138,7 +5138,7 @@
           "platform": "bilibili",
           "id": "37938807",
           "name": "勇哥餐饮避坑指南",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.25"
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.27"
         },
         {
           "type": "creator",
