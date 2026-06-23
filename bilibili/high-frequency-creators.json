@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T02:10:15.791Z",
+  "generatedAt": "2026-06-23T03:10:25.605Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1223,6 +1223,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1824094060",
+          "name": "麦Mercury",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1824572595",
           "name": "环球新視野",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.05"
@@ -1603,7 +1610,7 @@
           "platform": "bilibili",
           "id": "211005705",
           "name": "网易第五人格手游",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -3463,6 +3470,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546682350373439",
+          "name": "默念不爱偷包",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546682367150239",
           "name": "蛋仔派大星的一天",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
@@ -5307,6 +5321,13 @@
           "id": "3976691",
           "name": "Hagn",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "399317932",
+          "name": "白の蒸し",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
         },
         {
           "type": "creator",
