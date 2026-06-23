@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T11:10:15.569Z",
+  "generatedAt": "2026-06-23T12:10:15.699Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -378,7 +378,7 @@
           "platform": "bilibili",
           "id": "1185017133",
           "name": "ITZY",
-          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.36"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.88"
         },
         {
           "type": "creator",
@@ -791,7 +791,7 @@
           "platform": "bilibili",
           "id": "1513198522",
           "name": "疯狂米塔酱",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -1904,7 +1904,7 @@
           "platform": "bilibili",
           "id": "249166282",
           "name": "地狱霹雳火",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.90"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -2499,7 +2499,7 @@
           "platform": "bilibili",
           "id": "331514361",
           "name": "苏醒游戏解说",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.72"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.72"
         },
         {
           "type": "creator",
@@ -3556,7 +3556,7 @@
           "platform": "bilibili",
           "id": "3546696015416009",
           "name": "宫百万_",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -4396,7 +4396,7 @@
           "platform": "bilibili",
           "id": "35780075",
           "name": "奈落_Abyss",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.67"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.28"
         },
         {
           "type": "creator",
@@ -6770,13 +6770,6 @@
           "id": "686307558",
           "name": "泡泡科普君",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "687048364",
-          "name": "蒋介钢",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.85"
         },
         {
           "type": "creator",
