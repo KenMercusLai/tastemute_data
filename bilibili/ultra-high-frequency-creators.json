@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T11:10:20.048Z",
+  "generatedAt": "2026-06-23T12:10:19.647Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -302,6 +302,13 @@
           "id": "150372013",
           "name": "一个娇哥",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1513198522",
+          "name": "疯狂米塔酱",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -1526,7 +1533,7 @@
           "platform": "bilibili",
           "id": "3546696015416009",
           "name": "宫百万_",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -2003,13 +2010,6 @@
           "id": "356188615",
           "name": "钟意漫解",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.70"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "35780075",
-          "name": "奈落_Abyss",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.67"
         },
         {
           "type": "creator",
