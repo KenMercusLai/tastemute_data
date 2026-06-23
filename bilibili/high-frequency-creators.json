@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T07:10:15.899Z",
+  "generatedAt": "2026-06-23T08:10:15.558Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2612,6 +2612,13 @@
           "id": "3461579194501599",
           "name": "tripleS_official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461581176310385",
+          "name": "古月伍辰-三角洲",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
         },
         {
           "type": "creator",
