@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T03:10:25.605Z",
+  "generatedAt": "2026-06-23T04:10:16.337Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1099,7 +1099,7 @@
           "platform": "bilibili",
           "id": "1745143606",
           "name": "争取最后的自由",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -2602,6 +2602,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "347667464",
+          "name": "老爸评测",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "348580640",
           "name": "盛夏度春风",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.49"
@@ -3375,13 +3382,6 @@
           "id": "3546641462200372",
           "name": "绫卷绫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.48"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546642663868720",
-          "name": "辣辣爆米花pupu",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.78"
         },
         {
           "type": "creator",
