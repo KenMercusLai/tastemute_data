@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T01:10:19.937Z",
+  "generatedAt": "2026-06-23T02:10:20.624Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1610,7 +1610,7 @@
           "platform": "bilibili",
           "id": "3546824314980440",
           "name": "Hearts2Hearts",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.92"
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.90"
         },
         {
           "type": "creator",
