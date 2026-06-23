@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T19:10:20.152Z",
+  "generatedAt": "2026-06-23T20:10:19.016Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -351,6 +351,13 @@
           "id": "1533633064",
           "name": "然子Ranziseven",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1551561311",
+          "name": "练习两年半的旅伥",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -2415,7 +2422,7 @@
           "platform": "bilibili",
           "id": "37938807",
           "name": "勇哥餐饮避坑指南",
-          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.25"
+          "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.27"
         },
         {
           "type": "creator",
