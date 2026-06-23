@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T20:10:19.016Z",
+  "generatedAt": "2026-06-23T21:10:20.335Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3011,13 +3011,6 @@
           "id": "574115689",
           "name": "游戏大猪猪",
           "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "57435565",
-          "name": "王者荣耀世界",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.73"
         },
         {
           "type": "creator",
