@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T23:10:15.984Z",
+  "generatedAt": "2026-06-23T00:10:16.189Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -546,7 +546,7 @@
           "platform": "bilibili",
           "id": "1306451842",
           "name": "网易蛋仔派对",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.72"
         },
         {
           "type": "creator",
@@ -722,6 +722,13 @@
           "id": "14793642",
           "name": "NighTa奈特",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1487287106",
+          "name": "糟糕的历史-听文知",
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -1685,6 +1692,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "222037579",
+          "name": "虚无-和平精英",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.20"
@@ -2408,7 +2422,7 @@
           "platform": "bilibili",
           "id": "3269321",
           "name": "双兎official",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.32"
         },
         {
           "type": "creator",
