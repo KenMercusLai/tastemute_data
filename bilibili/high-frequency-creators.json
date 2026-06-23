@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T17:10:16.362Z",
+  "generatedAt": "2026-06-23T18:10:15.891Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -474,6 +474,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "125047879",
+          "name": "单走一张六",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1252109941",
           "name": "-Madeinheaven-_-",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.53"
@@ -938,7 +945,7 @@
           "platform": "bilibili",
           "id": "1591562602",
           "name": "len拉德",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.76"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -2128,7 +2135,7 @@
           "platform": "bilibili",
           "id": "28047632",
           "name": "太吾车神",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.79"
         },
         {
           "type": "creator",
