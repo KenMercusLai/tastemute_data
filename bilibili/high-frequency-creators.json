@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T22:10:16.282Z",
+  "generatedAt": "2026-06-23T23:10:15.593Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1083,6 +1083,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "171086",
+          "name": "肚子饱饱丶",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "17213620",
           "name": "超级洋山芋啊",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
@@ -1380,6 +1387,13 @@
           "id": "1904174",
           "name": "英语雪梨老师",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1907156027",
+          "name": "晚风吹过敲钟人",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -2394,7 +2408,7 @@
           "platform": "bilibili",
           "id": "314387912",
           "name": "YouTube助眠频道",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -3235,13 +3249,6 @@
           "id": "3546572363139554",
           "name": "TRANGPHAP庄法",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.31"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546572902108128",
-          "name": "YouTube官方学习",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
         },
         {
           "type": "creator",
@@ -6130,6 +6137,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "496848037",
+          "name": "一块融化的冰",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "498987983",
           "name": "纯真的向死酱",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.23"
@@ -6804,7 +6818,7 @@
           "platform": "bilibili",
           "id": "690886435",
           "name": "YouTube助眠收藏",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
