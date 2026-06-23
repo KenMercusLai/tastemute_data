@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T10:10:16.157Z",
+  "generatedAt": "2026-06-23T11:10:15.569Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -28,7 +28,7 @@
           "platform": "bilibili",
           "id": "1004246390",
           "name": "无畏契约电竞",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -2583,7 +2583,7 @@
           "platform": "bilibili",
           "id": "3461568140413116",
           "name": "一只普通的魈厨",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -2997,6 +2997,13 @@
           "id": "3494377028585486",
           "name": "FashioniStar",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494379868129760",
+          "name": "凋零音乐库",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -4579,6 +4586,13 @@
           "id": "3690983751420475",
           "name": "旺仔漫馆",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.40"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690984453966106",
+          "name": "暗区小桃",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
         },
         {
           "type": "creator",
