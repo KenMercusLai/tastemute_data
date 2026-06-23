@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T08:10:15.558Z",
+  "generatedAt": "2026-06-23T09:10:15.902Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -582,6 +582,13 @@
           "id": "1322953481",
           "name": "心刚音乐库",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13282928",
+          "name": "小钻石酱",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -3053,6 +3060,13 @@
           "id": "3537111164652446",
           "name": "幻老撕GAME",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537117938452529",
+          "name": "L泓帆",
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -6445,6 +6459,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "591160684",
+          "name": "中国青年网",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "592204565",
           "name": "凉州经略使",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.42"
@@ -6818,7 +6839,7 @@
           "platform": "bilibili",
           "id": "702528736",
           "name": "大正爱跑步",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.56"
         },
         {
           "type": "creator",
