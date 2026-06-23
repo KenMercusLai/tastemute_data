@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T17:10:21.124Z",
+  "generatedAt": "2026-06-23T18:10:20.128Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -169,6 +169,13 @@
           "id": "1245693143",
           "name": "帧观出品",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "125047879",
+          "name": "单走一张六",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -392,7 +399,7 @@
           "platform": "bilibili",
           "id": "1591562602",
           "name": "len拉德",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.76"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.54"
         },
         {
           "type": "creator",
