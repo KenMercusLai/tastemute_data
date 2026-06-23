@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T20:10:15.709Z",
+  "generatedAt": "2026-06-23T21:10:15.552Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2751,7 +2751,7 @@
           "platform": "bilibili",
           "id": "3493117468608664",
           "name": "怀欺三角洲行动",
-          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.17"
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.45"
         },
         {
           "type": "creator",
@@ -5437,6 +5437,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "403082144",
+          "name": "JASON刘雨鑫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "403207842",
           "name": "河南民生频道大参考",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
@@ -6454,7 +6461,7 @@
           "platform": "bilibili",
           "id": "57435565",
           "name": "王者荣耀世界",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.23"
         },
         {
           "type": "creator",
@@ -6748,7 +6755,7 @@
           "platform": "bilibili",
           "id": "67390259",
           "name": "宋少弘",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.32"
         },
         {
           "type": "creator",
