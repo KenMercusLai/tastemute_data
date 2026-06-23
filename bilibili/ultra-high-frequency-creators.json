@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T08:10:19.394Z",
+  "generatedAt": "2026-06-23T09:10:19.994Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -211,6 +211,13 @@
           "id": "1322953481",
           "name": "心刚音乐库",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13282928",
+          "name": "小钻石酱",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.74"
         },
         {
           "type": "creator",
