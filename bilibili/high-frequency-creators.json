@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T01:10:15.881Z",
+  "generatedAt": "2026-06-23T02:10:15.791Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2469,6 +2469,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "333056401",
+          "name": "绿化锂",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "334932680",
           "name": "司马尘",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
@@ -3759,7 +3766,7 @@
           "platform": "bilibili",
           "id": "3546824314980440",
           "name": "Hearts2Hearts",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.92"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.90"
         },
         {
           "type": "creator",
