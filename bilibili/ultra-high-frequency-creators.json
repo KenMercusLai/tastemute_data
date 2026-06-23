@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T02:10:20.624Z",
+  "generatedAt": "2026-06-23T03:10:29.883Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -491,6 +491,13 @@
           "id": "1820388116",
           "name": "番茄学数",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1824094060",
+          "name": "麦Mercury",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.90"
         },
         {
           "type": "creator",
