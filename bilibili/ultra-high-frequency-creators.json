@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T22:10:20.123Z",
+  "generatedAt": "2026-06-23T23:10:20.291Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -614,6 +614,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1907156027",
+          "name": "晚风吹过敲钟人",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
@@ -980,7 +987,7 @@
           "platform": "bilibili",
           "id": "314387912",
           "name": "YouTube助眠频道",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -2861,6 +2868,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "496848037",
+          "name": "一块融化的冰",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "499579840",
           "name": "喵老登的猫",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.95"
@@ -3164,7 +3178,7 @@
           "platform": "bilibili",
           "id": "690886435",
           "name": "YouTube助眠收藏",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
