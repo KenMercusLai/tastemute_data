@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T06:10:15.960Z",
+  "generatedAt": "2026-06-23T07:10:15.899Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -294,7 +294,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1428,7 +1428,7 @@
           "platform": "bilibili",
           "id": "1955655610",
           "name": "九派新闻",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.02"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -1611,6 +1611,13 @@
           "id": "2088861102",
           "name": "国家电网",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2094881410",
+          "name": "洛杉矶湖人",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.72"
         },
         {
           "type": "creator",
@@ -4907,7 +4914,7 @@
           "platform": "bilibili",
           "id": "3706975604967690",
           "name": "周丽Giuly在意大利",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -5439,7 +5446,7 @@
           "platform": "bilibili",
           "id": "413630249",
           "name": "一颗霉屎的桔勒勒",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.79"
         },
         {
           "type": "creator",
