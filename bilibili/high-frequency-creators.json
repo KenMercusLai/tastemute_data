@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T00:10:16.189Z",
+  "generatedAt": "2026-06-23T01:10:15.881Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -882,7 +882,7 @@
           "platform": "bilibili",
           "id": "1563385862",
           "name": "转生成为毛毛",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -1874,6 +1874,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "24978566",
+          "name": "完勒Linew",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "250017322",
           "name": "设置快捷键",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.45"
@@ -1954,13 +1961,6 @@
           "id": "262264570",
           "name": "枯叶cccccc",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "26595212",
-          "name": "咕咕嘎画",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
         },
         {
           "type": "creator",
