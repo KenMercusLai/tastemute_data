@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T02:10:19.672Z",
+  "generatedAt": "2026-06-24T03:10:20.366Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -84,7 +84,7 @@
           "platform": "bilibili",
           "id": "1080316566",
           "name": "考研英语晓燕",
-          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.56"
+          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -925,6 +925,13 @@
           "id": "283857119",
           "name": "带秀乌鸦",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "286901034",
+          "name": "邹老师四六级翻译",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -3157,7 +3164,7 @@
           "platform": "bilibili",
           "id": "669334488",
           "name": "环球音乐中国",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
         },
         {
           "type": "creator",
