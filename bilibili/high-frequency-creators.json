@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T14:10:15.533Z",
+  "generatedAt": "2026-06-24T15:10:15.453Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5621,7 +5621,7 @@
           "platform": "bilibili",
           "id": "413418229",
           "name": "是在勇哥录像",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.28"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -6077,6 +6077,13 @@
           "id": "481477456",
           "name": "Jooey吖",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "481678090",
+          "name": "花式足球克里斯",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -6783,7 +6790,7 @@
           "platform": "bilibili",
           "id": "627577002",
           "name": "LE_SSERAFIM",
-          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.12"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.83"
         },
         {
           "type": "creator",
@@ -7110,13 +7117,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "78013399",
-          "name": "anshen安身",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "79953250",
           "name": "青柠小柑橘",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
@@ -7140,7 +7140,7 @@
           "platform": "bilibili",
           "id": "8237763",
           "name": "阿张RayZhang",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.10"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.11"
         },
         {
           "type": "creator",
