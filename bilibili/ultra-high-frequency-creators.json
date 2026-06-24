@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T13:10:19.325Z",
+  "generatedAt": "2026-06-24T14:10:19.810Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2339,6 +2339,13 @@
           "id": "3706960981526984",
           "name": "人間正能量",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706973673490819",
+          "name": "海绵宝宝漫画配音",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.95"
         },
         {
           "type": "creator",
