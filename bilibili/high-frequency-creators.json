@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T01:10:15.402Z",
+  "generatedAt": "2026-06-24T02:10:15.375Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -112,7 +112,7 @@
           "platform": "bilibili",
           "id": "1043914429",
           "name": "Dingo_official",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.43"
         },
         {
           "type": "creator",
@@ -728,7 +728,7 @@
           "platform": "bilibili",
           "id": "147546636",
           "name": "无畏契约",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.67"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.24"
         },
         {
           "type": "creator",
@@ -3092,6 +3092,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537107177966511",
+          "name": "豚踢兔的猫",
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537107236686478",
           "name": "狗头军师小哆啦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
@@ -4998,7 +5005,7 @@
           "platform": "bilibili",
           "id": "3706978173978994",
           "name": "潇曜-",
-          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.42"
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.82"
         },
         {
           "type": "creator",
@@ -6839,7 +6846,7 @@
           "platform": "bilibili",
           "id": "686127",
           "name": "籽岷",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.37"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.48"
         },
         {
           "type": "creator",
