@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T11:10:19.946Z",
+  "generatedAt": "2026-06-24T12:10:19.187Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2849,7 +2849,7 @@
           "platform": "bilibili",
           "id": "482647474",
           "name": "小莉帮忙",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
         },
         {
           "type": "creator",
