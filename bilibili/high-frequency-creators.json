@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T22:10:16.562Z",
+  "generatedAt": "2026-06-24T23:10:16.110Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1596,7 +1596,7 @@
           "platform": "bilibili",
           "id": "20048600",
           "name": "神牛教丶教主",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.74"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.78"
         },
         {
           "type": "creator",
@@ -3057,6 +3057,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493298886936758",
+          "name": "bil品鲜园烧腊快餐店",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494350480738883",
           "name": "中国新闻网",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
@@ -3151,6 +3158,13 @@
           "id": "351474907",
           "name": "19崩铁版",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "351658947",
+          "name": "PG物理",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -7105,7 +7119,7 @@
           "platform": "bilibili",
           "id": "700445542",
           "name": "大胡L5",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.07"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -7224,7 +7238,7 @@
           "platform": "bilibili",
           "id": "8237763",
           "name": "阿张RayZhang",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.11"
         },
         {
           "type": "creator",
