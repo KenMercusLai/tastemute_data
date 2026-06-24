@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T13:10:15.447Z",
+  "generatedAt": "2026-06-24T14:10:15.533Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3239,6 +3239,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546387551620055",
+          "name": "独焰",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546389868972074",
           "name": "小米汽车",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=0.70"
@@ -3612,7 +3619,7 @@
           "platform": "bilibili",
           "id": "3546677707278509",
           "name": "超级蛋蛋助眠",
-          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.09"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.27"
         },
         {
           "type": "creator",
@@ -4130,7 +4137,7 @@
           "platform": "bilibili",
           "id": "3546897350396015",
           "name": "自由的曼巴-",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.97"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -5026,7 +5033,7 @@
           "platform": "bilibili",
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -6846,7 +6853,7 @@
           "platform": "bilibili",
           "id": "651569521",
           "name": "春日部sk",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.63"
         },
         {
           "type": "creator",
