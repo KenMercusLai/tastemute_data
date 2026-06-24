@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T05:10:19.459Z",
+  "generatedAt": "2026-06-24T06:10:20.272Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2686,6 +2686,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "436700803",
+          "name": "天星教育官方号",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "439019448",
           "name": "外网种花家的兔",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
@@ -3263,13 +3270,6 @@
           "id": "72656330",
           "name": "吧啦吧吧啾啾",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.90"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "72969462",
-          "name": "笔给你你来写_",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.51"
         },
         {
           "type": "creator",
