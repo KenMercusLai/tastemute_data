@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T02:10:15.375Z",
+  "generatedAt": "2026-06-24T03:10:16.437Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -203,7 +203,7 @@
           "platform": "bilibili",
           "id": "1080316566",
           "name": "考研英语晓燕",
-          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.56"
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -2224,6 +2224,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "286901034",
+          "name": "邹老师四六级翻译",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "287524841",
           "name": "一只鹅企",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
@@ -3172,6 +3179,13 @@
           "id": "3546372955441591",
           "name": "军武-史记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546378498213987",
+          "name": "良良玩档案",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.77"
         },
         {
           "type": "creator",
@@ -6783,7 +6797,7 @@
           "platform": "bilibili",
           "id": "669334488",
           "name": "环球音乐中国",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
         },
         {
           "type": "creator",
