@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T01:10:19.101Z",
+  "generatedAt": "2026-06-24T02:10:19.672Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -287,7 +287,7 @@
           "platform": "bilibili",
           "id": "147546636",
           "name": "无畏契约",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.67"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.24"
         },
         {
           "type": "creator",
