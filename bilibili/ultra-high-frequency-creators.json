@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T22:10:21.132Z",
+  "generatedAt": "2026-06-24T23:10:20.829Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1261,6 +1261,13 @@
           "id": "3493286931073848",
           "name": "YouTube深度访谈",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493298886936758",
+          "name": "bil品鲜园烧腊快餐店",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -3326,6 +3333,13 @@
           "id": "695415885",
           "name": "名门天后-邪恶人格",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "700445542",
+          "name": "大胡L5",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
         },
         {
           "type": "creator",
