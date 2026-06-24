@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T08:10:19.840Z",
+  "generatedAt": "2026-06-24T09:10:20.047Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1492,13 +1492,6 @@
           "id": "3546625865681622",
           "name": "小闹小闹丫",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.84"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546630773016865",
-          "name": "时代少年团",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
         },
         {
           "type": "creator",
