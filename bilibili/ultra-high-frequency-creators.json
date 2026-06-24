@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T10:10:20.386Z",
+  "generatedAt": "2026-06-24T11:10:19.946Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1349,6 +1349,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546378498214140",
+          "name": "椰子老师yez",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.35"
@@ -2686,6 +2693,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "433587902",
+          "name": "央视频",
+          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "434196559",
           "name": "东北水搂子",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.54"
@@ -3319,13 +3333,6 @@
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.17"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "94815852",
-          "name": "斯蒂芬游",
-          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.78"
         },
         {
           "type": "creator",
