@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T04:10:15.885Z",
+  "generatedAt": "2026-06-24T05:10:15.686Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2353,6 +2353,13 @@
           "id": "299946576",
           "name": "巨炮zzzzzz",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "300468096",
+          "name": "七里翔78",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.40"
         },
         {
           "type": "creator",
@@ -5489,6 +5496,13 @@
           "id": "401315430",
           "name": "星瞳_Official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "401516364",
+          "name": "极目新闻",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
         },
         {
           "type": "creator",
