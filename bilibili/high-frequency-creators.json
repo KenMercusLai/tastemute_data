@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T19:10:15.338Z",
+  "generatedAt": "2026-06-24T20:10:15.458Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -218,6 +218,13 @@
           "id": "1081132475",
           "name": "钱钱子RICH_呆呆",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10850097",
+          "name": "独夫之心",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -736,6 +743,13 @@
           "id": "14619868",
           "name": "广州杂技团",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1467772",
+          "name": "封茗囧菌",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -1769,6 +1783,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22013002",
+          "name": "_AiSmR",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "220279837",
           "name": "国服第一刃",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.88"
@@ -1870,6 +1891,13 @@
           "id": "23097435",
           "name": "罗永浩粉丝团",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "232472043",
+          "name": "DJI大疆创新",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -3536,6 +3564,13 @@
           "id": "3546633058912804",
           "name": "中天全球",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546640096954436",
+          "name": "周小闹是周小闹",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -5971,7 +6006,7 @@
           "platform": "bilibili",
           "id": "46470268",
           "name": "央视军事",
-          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -7231,7 +7266,7 @@
           "platform": "bilibili",
           "id": "8878219",
           "name": "吃蛋挞的折棒",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.95"
         },
         {
           "type": "creator",
