@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T07:10:15.418Z",
+  "generatedAt": "2026-06-24T08:10:15.487Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5374,6 +5374,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "391730733",
+          "name": "炸麦了",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "392579734",
           "name": "mobility_摸哔哩腿",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
@@ -5789,7 +5796,7 @@
           "platform": "bilibili",
           "id": "441076921",
           "name": "寒页_",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.09"
         },
         {
           "type": "creator",
