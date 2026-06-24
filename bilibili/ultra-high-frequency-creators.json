@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T00:10:19.806Z",
+  "generatedAt": "2026-06-24T01:10:19.101Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2336,6 +2336,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706977704216743",
+          "name": "绘梦师Coco",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706978763278762",
           "name": "边rap边教学",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
@@ -2878,6 +2885,13 @@
           "id": "496848037",
           "name": "一块融化的冰",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "49911040",
+          "name": "-暴走引擎-",
+          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.88"
         },
         {
           "type": "creator",
