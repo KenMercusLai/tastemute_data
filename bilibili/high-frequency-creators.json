@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T16:10:16.139Z",
+  "generatedAt": "2026-06-24T17:10:16.358Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -652,6 +652,13 @@
           "id": "1388457432",
           "name": "一枫O",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1390829728",
+          "name": "第1眼新闻",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -1366,6 +1373,13 @@
           "id": "1873295428",
           "name": "收手机的CC",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "18758050",
+          "name": "XM25",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -2142,7 +2156,7 @@
           "platform": "bilibili",
           "id": "275930985",
           "name": "新青年",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -6083,7 +6097,7 @@
           "platform": "bilibili",
           "id": "481477456",
           "name": "Jooey吖",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.11"
         },
         {
           "type": "creator",
