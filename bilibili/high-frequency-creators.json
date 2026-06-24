@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T11:10:15.812Z",
+  "generatedAt": "2026-06-24T12:10:15.304Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2255,13 +2255,6 @@
           "id": "287524841",
           "name": "一只鹅企",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "287739236",
-          "name": "Elijah的路径",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -4877,6 +4870,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706923320871033",
+          "name": "咪宝今天不上班",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706924335892949",
           "name": "虾仁联盟动画动漫传媒",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
@@ -4922,13 +4922,6 @@
           "id": "3706941467527891",
           "name": "白菜猫meme小剧场",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.08"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3706941817752467",
-          "name": "开心猪猫",
-          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.96"
         },
         {
           "type": "creator",
@@ -6090,7 +6083,7 @@
           "platform": "bilibili",
           "id": "482647474",
           "name": "小莉帮忙",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -7113,6 +7106,13 @@
           "id": "78013399",
           "name": "anshen安身",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "79953250",
+          "name": "青柠小柑橘",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
         },
         {
           "type": "creator",
