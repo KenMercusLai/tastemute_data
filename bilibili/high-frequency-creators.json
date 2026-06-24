@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T08:10:15.487Z",
+  "generatedAt": "2026-06-24T09:10:15.514Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3472,7 +3472,7 @@
           "platform": "bilibili",
           "id": "3546630773016865",
           "name": "时代少年团",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.72"
         },
         {
           "type": "creator",
@@ -6993,7 +6993,7 @@
           "platform": "bilibili",
           "id": "70666",
           "name": "舍长驾到",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.56"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.56"
         },
         {
           "type": "creator",
