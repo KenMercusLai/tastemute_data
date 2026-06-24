@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T21:10:15.778Z",
+  "generatedAt": "2026-06-24T22:10:16.562Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5108,13 +5108,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3706971911883532",
-          "name": "老孙讲健身",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.95"
@@ -5314,6 +5307,13 @@
           "id": "376940922",
           "name": "滑脚怪k",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "37743601",
+          "name": "星绘汐音",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.68"
         },
         {
           "type": "creator",
