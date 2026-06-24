@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T19:10:19.362Z",
+  "generatedAt": "2026-06-24T20:10:19.150Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -85,6 +85,13 @@
           "id": "1080316566",
           "name": "考研英语晓燕",
           "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10850097",
+          "name": "独夫之心",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -785,6 +792,13 @@
           "id": "23097435",
           "name": "罗永浩粉丝团",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "232472043",
+          "name": "DJI大疆创新",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -1527,6 +1541,13 @@
           "id": "3546633058912804",
           "name": "中天全球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546640096954436",
+          "name": "周小闹是周小闹",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -2800,7 +2821,7 @@
           "platform": "bilibili",
           "id": "46470268",
           "name": "央视军事",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=66; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -3353,7 +3374,7 @@
           "platform": "bilibili",
           "id": "8878219",
           "name": "吃蛋挞的折棒",
-          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.95"
         },
         {
           "type": "creator",
