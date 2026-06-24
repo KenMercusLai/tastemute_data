@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-24T09:10:20.047Z",
+  "generatedAt": "2026-06-24T10:10:20.386Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -817,6 +817,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "25195727",
+          "name": "CSGO-QUQU",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "25215790",
           "name": "阿孟的养猫日记",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
@@ -1457,6 +1464,13 @@
           "id": "3546611590367925",
           "name": "文艺日记本",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546612464880074",
+          "name": "梁伟考研英语",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
         },
         {
           "type": "creator",
@@ -2835,7 +2849,7 @@
           "platform": "bilibili",
           "id": "487614876",
           "name": "四川观察",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.11"
         },
         {
           "type": "creator",
