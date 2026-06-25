@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T22:10:20.157Z",
+  "generatedAt": "2026-06-25T23:10:20.055Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -796,6 +796,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22951634",
+          "name": "达芬奇矩阵",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "229825068",
           "name": "爱炸毛的小煤球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
@@ -1484,7 +1491,7 @@
           "platform": "bilibili",
           "id": "3546587735264018",
           "name": "奥特曼之魂",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
+          "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -2961,7 +2968,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.06"
         },
         {
           "type": "creator",
