@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T18:10:16.011Z",
+  "generatedAt": "2026-06-25T19:10:15.827Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -693,7 +693,7 @@
           "platform": "bilibili",
           "id": "1405225420",
           "name": "A地球科普",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -1974,7 +1974,7 @@
           "platform": "bilibili",
           "id": "243566998",
           "name": "挖沟连彭沟长",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.90"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -3241,7 +3241,7 @@
           "platform": "bilibili",
           "id": "3519797",
           "name": "战术级子轩",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.92"
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -3752,7 +3752,7 @@
           "platform": "bilibili",
           "id": "3546664130316417",
           "name": "盻沐",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.06"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -5733,7 +5733,7 @@
           "platform": "bilibili",
           "id": "401315430",
           "name": "星瞳_Official",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.96"
         },
         {
           "type": "creator",
@@ -6532,6 +6532,13 @@
           "id": "502170118",
           "name": "沐幽和璃泽",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "503095138",
+          "name": "汉魂复兴社",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
         },
         {
           "type": "creator",
