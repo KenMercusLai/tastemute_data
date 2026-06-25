@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T03:10:20.416Z",
+  "generatedAt": "2026-06-25T04:10:21.039Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -642,13 +642,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "1935882",
-          "name": "指法芬芳张大仙",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "1948970911",
           "name": "坤姐再闯江湖",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
@@ -854,14 +847,14 @@
           "platform": "bilibili",
           "id": "25215790",
           "name": "阿孟的养猫日记",
-          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.89"
         },
         {
           "type": "creator",
           "platform": "bilibili",
           "id": "25255021",
           "name": "是我柳柳",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -2639,7 +2632,7 @@
           "platform": "bilibili",
           "id": "392836434",
           "name": "哔哩哔哩王者荣耀赛事",
-          "reason": "Average upload gap <= 1 days; videos=17; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.33"
         },
         {
           "type": "creator",
