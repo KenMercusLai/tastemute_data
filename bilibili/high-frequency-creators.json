@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T04:10:16.886Z",
+  "generatedAt": "2026-06-25T05:10:21.860Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2360,6 +2360,13 @@
           "id": "292627743",
           "name": "疯狂的西蒙斯",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "292850863",
+          "name": "内德羽则说",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -4800,6 +4807,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690978563066252",
+          "name": "我是易拉爆",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690978630175543",
           "name": "米304",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
@@ -4949,7 +4963,7 @@
           "platform": "bilibili",
           "id": "3691002458016114",
           "name": "子非鱼纪录片",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -5691,7 +5705,7 @@
           "platform": "bilibili",
           "id": "403207842",
           "name": "河南民生频道大参考",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.09"
         },
         {
           "type": "creator",
@@ -5894,7 +5908,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -6055,7 +6069,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -7393,6 +7407,13 @@
           "id": "97213827",
           "name": "潜艇伟伟迷",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "98627270",
+          "name": "哔哩哔哩国创",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.00"
         },
         {
           "type": "creator",
