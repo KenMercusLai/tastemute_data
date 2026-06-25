@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T01:10:15.985Z",
+  "generatedAt": "2026-06-25T02:10:15.393Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4417,7 +4417,7 @@
           "platform": "bilibili",
           "id": "3546929266952873",
           "name": "擒龙先生",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -5636,6 +5636,13 @@
           "id": "3976691",
           "name": "Hagn",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "39909829",
+          "name": "你的龙喵呀",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.55"
         },
         {
           "type": "creator",
