@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T15:10:16.159Z",
+  "generatedAt": "2026-06-25T16:10:15.982Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2329,6 +2329,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "28760071",
+          "name": "大瑞真机灵",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "28861187",
           "name": "风间琉璃zcl",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.68"
@@ -3878,7 +3885,7 @@
           "platform": "bilibili",
           "id": "3546719514003582",
           "name": "RED_OFFICIAL_",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.23"
         },
         {
           "type": "creator",
