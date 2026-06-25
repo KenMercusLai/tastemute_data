@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T16:10:15.982Z",
+  "generatedAt": "2026-06-25T17:10:16.414Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -887,13 +887,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "154047962",
-          "name": "靠谱盘网文",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "1544008396",
           "name": "梗百科",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.84"
@@ -1176,7 +1169,7 @@
           "platform": "bilibili",
           "id": "1745356376",
           "name": "维亚德",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -5748,6 +5741,13 @@
           "id": "403207842",
           "name": "河南民生频道大参考",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "403748305",
+          "name": "BML制作指挥部",
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.47"
         },
         {
           "type": "creator",
