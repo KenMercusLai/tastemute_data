@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T00:10:19.771Z",
+  "generatedAt": "2026-06-25T01:10:19.809Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -698,6 +698,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2073648608",
+          "name": "RT小姐姐阿丽娜",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "208758618",
           "name": "开普勒Kepler-22B",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.77"
@@ -988,6 +995,13 @@
           "id": "296465852",
           "name": "我爱吃派大星",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "299946576",
+          "name": "巨炮zzzzzz",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.82"
         },
         {
           "type": "creator",
