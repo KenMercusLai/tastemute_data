@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T06:10:15.901Z",
+  "generatedAt": "2026-06-25T07:10:15.844Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4949,7 +4949,7 @@
           "platform": "bilibili",
           "id": "3690998167243635",
           "name": "Miyaki米芽奇",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=0.85"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -5964,7 +5964,7 @@
           "platform": "bilibili",
           "id": "438173577",
           "name": "卢克文工作室",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.85"
         },
         {
           "type": "creator",
