@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T20:10:24.214Z",
+  "generatedAt": "2026-06-25T21:10:15.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -120,6 +120,13 @@
           "id": "104601602",
           "name": "萌少在此",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1046085766",
+          "name": "徐洁儿_小狸牙",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.86"
         },
         {
           "type": "creator",
@@ -1359,13 +1366,6 @@
           "id": "1851657327",
           "name": "星之雨下",
           "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.26"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "185281671",
-          "name": "小魔法祭祀",
-          "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.91"
         },
         {
           "type": "creator",
@@ -7105,7 +7105,7 @@
           "platform": "bilibili",
           "id": "6639802",
           "name": "陈哥1",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.35"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.35"
         },
         {
           "type": "creator",
