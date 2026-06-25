@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T01:10:19.809Z",
+  "generatedAt": "2026-06-25T02:10:19.750Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2675,6 +2675,13 @@
           "id": "3976691",
           "name": "Hagn",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "39909829",
+          "name": "你的龙喵呀",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.55"
         },
         {
           "type": "creator",
