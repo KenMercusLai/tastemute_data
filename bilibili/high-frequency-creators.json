@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T21:10:15.530Z",
+  "generatedAt": "2026-06-25T22:10:16.211Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -721,7 +721,7 @@
           "platform": "bilibili",
           "id": "14200591",
           "name": "我是饭叔啊",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.89"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -1099,7 +1099,7 @@
           "platform": "bilibili",
           "id": "1676266623",
           "name": "吟风飞舞",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -6865,6 +6865,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "58443290",
+          "name": "---阿酒---",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "586960020",
           "name": "那位Navi",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.95"
@@ -7169,6 +7176,13 @@
           "id": "676801913",
           "name": "Tsyi意仔",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "67754972",
+          "name": "澡堂十九",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
