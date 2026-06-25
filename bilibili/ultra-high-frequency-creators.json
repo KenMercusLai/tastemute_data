@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T05:10:26.311Z",
+  "generatedAt": "2026-06-25T06:10:19.625Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2462,13 +2462,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3706992495430612",
-          "name": "逗比兄妹",
-          "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=1.00"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3706992623356593",
           "name": "星河-扬琴",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
@@ -2815,13 +2808,6 @@
           "id": "44052063",
           "name": "宝克力气大",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "441167301",
-          "name": "分析学爱好者",
-          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=1.00"
         },
         {
           "type": "creator",
