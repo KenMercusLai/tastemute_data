@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T19:10:15.827Z",
+  "generatedAt": "2026-06-25T20:10:24.214Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -936,6 +936,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1572009529",
+          "name": "高中政治郑关飞老师",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1579020683",
           "name": "董路聊球",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.24"
@@ -1190,7 +1197,7 @@
           "platform": "bilibili",
           "id": "1756547706",
           "name": "三角洲万泉教官",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.42"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -5220,6 +5227,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706977481918946",
+          "name": "喵奥日爱可",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
@@ -6055,7 +6069,7 @@
           "platform": "bilibili",
           "id": "441167301",
           "name": "分析学爱好者",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -7442,6 +7456,13 @@
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "93851573",
+          "name": "晓亮的美滋滋小院",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
         },
         {
           "type": "creator",
