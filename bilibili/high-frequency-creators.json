@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T17:10:16.414Z",
+  "generatedAt": "2026-06-25T18:10:16.011Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -288,6 +288,13 @@
           "id": "11139177",
           "name": "神人观察TV社社长",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11146869",
+          "name": "黑猫星球",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -1421,7 +1428,7 @@
           "platform": "bilibili",
           "id": "1902315548",
           "name": "奇才叶凌天Y",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.31"
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -2982,7 +2989,7 @@
           "platform": "bilibili",
           "id": "3493257342355943",
           "name": "佛性记录解说",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -4110,6 +4117,13 @@
           "id": "3546838709832338",
           "name": "鳗鱼课堂",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546840490313963",
+          "name": "观心记v5",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -6105,13 +6119,6 @@
           "id": "4552751",
           "name": "威力电竞格斗游戏解说",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.21"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "456064813",
-          "name": "好奇的珜",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.91"
         },
         {
           "type": "creator",
