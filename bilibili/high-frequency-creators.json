@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T08:10:15.549Z",
+  "generatedAt": "2026-06-25T09:10:15.641Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2478,7 +2478,7 @@
           "platform": "bilibili",
           "id": "307015524",
           "name": "EVA齐瓦尔",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.41"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.00"
         },
         {
           "type": "creator",
