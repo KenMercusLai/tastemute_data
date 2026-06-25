@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T07:10:20.490Z",
+  "generatedAt": "2026-06-25T08:10:19.954Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -770,7 +770,7 @@
           "platform": "bilibili",
           "id": "22697887",
           "name": "芝士华莱士",
-          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -3116,6 +3116,13 @@
           "id": "526890129",
           "name": "红星视频",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "52717408",
+          "name": "Always聪聪",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.82"
         },
         {
           "type": "creator",
