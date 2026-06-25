@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T09:10:15.641Z",
+  "generatedAt": "2026-06-25T10:10:16.701Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -581,7 +581,7 @@
           "platform": "bilibili",
           "id": "1312481647",
           "name": "CS2芬了个黎",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.07"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.90"
         },
         {
           "type": "creator",
@@ -3654,7 +3654,7 @@
           "platform": "bilibili",
           "id": "3546651415284264",
           "name": "冰冰凉凉玩游戏",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -7028,7 +7028,7 @@
           "platform": "bilibili",
           "id": "652239032",
           "name": "IGN中国",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.03"
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.06"
         },
         {
           "type": "creator",
