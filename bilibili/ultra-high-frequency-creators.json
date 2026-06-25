@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T11:10:20.108Z",
+  "generatedAt": "2026-06-25T12:10:20.416Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1379,7 +1379,7 @@
           "platform": "bilibili",
           "id": "354077280",
           "name": "1818黄金眼",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
         },
         {
           "type": "creator",
@@ -1527,6 +1527,13 @@
           "id": "3546612464880074",
           "name": "梁伟考研英语",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546618416597566",
+          "name": "kksk_xuan",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -2742,13 +2749,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "429886010",
-          "name": "GameSir盖世小鸡官方",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.92"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "429913769",
           "name": "Econmedian",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
@@ -2815,6 +2815,13 @@
           "id": "442626264",
           "name": "李析哲",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4552751",
+          "name": "威力电竞格斗游戏解说",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -3326,6 +3333,13 @@
           "id": "690886435",
           "name": "YouTube助眠收藏",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "69104968",
+          "name": "学霸同桌",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.11"
         },
         {
           "type": "creator",
