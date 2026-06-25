@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T12:10:16.328Z",
+  "generatedAt": "2026-06-25T13:10:15.777Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -322,7 +322,7 @@
           "platform": "bilibili",
           "id": "1132553462",
           "name": "烛宝哒",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.65"
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -2177,7 +2177,7 @@
           "platform": "bilibili",
           "id": "27500557",
           "name": "梦轩dada",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.86"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.34"
         },
         {
           "type": "creator",
@@ -6125,7 +6125,7 @@
           "platform": "bilibili",
           "id": "46470268",
           "name": "央视军事",
-          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=0.84"
+          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -7273,7 +7273,7 @@
           "platform": "bilibili",
           "id": "72969462",
           "name": "笔给你你来写_",
-          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -7379,6 +7379,13 @@
           "id": "87931987",
           "name": "逻辑笑语文",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "88237916",
+          "name": "马龙MA1ONG_反恐航线",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=0.81"
         },
         {
           "type": "creator",
