@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T16:10:22.773Z",
+  "generatedAt": "2026-06-25T17:10:21.055Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2689,6 +2689,13 @@
           "id": "403207842",
           "name": "河南民生频道大参考",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "403748305",
+          "name": "BML制作指挥部",
+          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.47"
         },
         {
           "type": "creator",
