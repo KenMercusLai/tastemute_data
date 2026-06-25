@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T02:10:15.393Z",
+  "generatedAt": "2026-06-25T03:10:15.610Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2336,6 +2336,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "290014343",
+          "name": "李论科学",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "29071700",
           "name": "在下李子栗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
@@ -2983,6 +2990,13 @@
           "id": "3493264927754336",
           "name": "向阳新生的鱼",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493265273785301",
+          "name": "三国谋定天下",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -5129,13 +5143,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3706965215677411",
-          "name": "贝利亚打洲",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.95"
@@ -5446,7 +5453,7 @@
           "platform": "bilibili",
           "id": "384298638",
           "name": "浙江共青团",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.52"
         },
         {
           "type": "creator",
