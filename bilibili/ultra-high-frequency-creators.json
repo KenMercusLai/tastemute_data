@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T11:10:19.163Z",
+  "generatedAt": "2026-06-26T12:10:19.498Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -994,7 +994,7 @@
           "platform": "bilibili",
           "id": "28861187",
           "name": "风间琉璃zcl",
-          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -1183,7 +1183,7 @@
           "platform": "bilibili",
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
-          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -2861,6 +2861,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "454167824",
+          "name": "冠希从不破防",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "454762120",
           "name": "夏活电锯猎魔人",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.64"
@@ -3507,7 +3514,7 @@
           "platform": "bilibili",
           "id": "97213827",
           "name": "潜艇伟伟迷",
-          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.89"
         },
         {
           "type": "creator",
