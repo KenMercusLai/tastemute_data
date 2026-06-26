@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T23:10:15.932Z",
+  "generatedAt": "2026-06-26T00:10:16.151Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -889,7 +889,7 @@
           "platform": "bilibili",
           "id": "1533073647",
           "name": "中部空军",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -1503,6 +1503,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1933818462",
+          "name": "仓鼠小姐de频道",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1935882",
           "name": "指法芬芳张大仙",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.01"
@@ -1743,7 +1750,7 @@
           "platform": "bilibili",
           "id": "2111208025",
           "name": "GkTz1",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.02"
         },
         {
           "type": "creator",
@@ -5815,6 +5822,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "40665535",
+          "name": "厨师长の凌霜",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "406873071",
           "name": "宫阙万间做土",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.25"
@@ -6147,6 +6161,13 @@
           "id": "45107914",
           "name": "桃黑黑Tor",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "454762120",
+          "name": "夏活电锯猎魔人",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.64"
         },
         {
           "type": "creator",
