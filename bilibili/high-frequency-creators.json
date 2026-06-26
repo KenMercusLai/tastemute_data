@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T21:10:16.055Z",
+  "generatedAt": "2026-06-26T22:10:15.939Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1141,7 +1141,7 @@
           "platform": "bilibili",
           "id": "170403786",
           "name": "士口加I",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.21"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -7365,6 +7365,13 @@
           "id": "652239032",
           "name": "IGN中国",
           "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "65898827",
+          "name": "火海偷天",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.60"
         },
         {
           "type": "creator",
