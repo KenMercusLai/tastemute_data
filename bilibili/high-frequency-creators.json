@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T13:10:15.497Z",
+  "generatedAt": "2026-06-26T14:10:15.976Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1274,7 +1274,7 @@
           "platform": "bilibili",
           "id": "1798443432",
           "name": "靖妖一心",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.68"
         },
         {
           "type": "creator",
@@ -3360,14 +3360,14 @@
           "platform": "bilibili",
           "id": "3537119932844651",
           "name": "sjz名人堂",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.31"
         },
         {
           "type": "creator",
           "platform": "bilibili",
           "id": "3537121008683451",
           "name": "艾莉丝-大狗嚼行动",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -3892,7 +3892,7 @@
           "platform": "bilibili",
           "id": "3546697034631336",
           "name": "油管科普精选",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.09"
         },
         {
           "type": "creator",
@@ -5332,6 +5332,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706973035957062",
+          "name": "姓吕滴",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.95"
@@ -6224,6 +6231,13 @@
           "id": "441167301",
           "name": "分析学爱好者",
           "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "442380537",
+          "name": "王老吉官方账号",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
