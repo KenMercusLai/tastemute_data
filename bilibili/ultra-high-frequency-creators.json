@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T07:10:19.885Z",
+  "generatedAt": "2026-06-26T08:10:19.936Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -43,6 +43,13 @@
           "id": "1019345032",
           "name": "沐漫云端",
           "reason": "Average upload gap <= 1 days; videos=13; avg_gap_days=0.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10330740",
+          "name": "观察者网",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -834,6 +841,13 @@
           "id": "244320144",
           "name": "坠机纪录片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2447707",
+          "name": "白羽Baiyuleta",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -2416,6 +2430,13 @@
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706974095018039",
+          "name": "云铃super",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.91"
         },
         {
           "type": "creator",
