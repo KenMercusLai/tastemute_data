@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T19:10:16.079Z",
+  "generatedAt": "2026-06-26T20:10:16.119Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -476,7 +476,7 @@
           "platform": "bilibili",
           "id": "1236342103",
           "name": "快乐修勾贩卖机",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -1051,6 +1051,13 @@
           "id": "1629347259",
           "name": "红警HBK08",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1646127671",
+          "name": "蹦蹦龙呀",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.33"
         },
         {
           "type": "creator",
@@ -2366,7 +2373,7 @@
           "platform": "bilibili",
           "id": "28627652",
           "name": "糖醋排骨吃饱了",
-          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.76"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.50"
         },
         {
           "type": "creator",
@@ -2828,7 +2835,7 @@
           "platform": "bilibili",
           "id": "3461575513999598",
           "name": "录像分析员",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.51"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.91"
         },
         {
           "type": "creator",
@@ -5243,7 +5250,7 @@
           "platform": "bilibili",
           "id": "3706933393492459",
           "name": "陈皮三角洲",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.39"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.55"
         },
         {
           "type": "creator",
@@ -5453,7 +5460,7 @@
           "platform": "bilibili",
           "id": "3706984417200263",
           "name": "云南交警",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.12"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -5762,6 +5769,13 @@
           "id": "388742853",
           "name": "PlayStation",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "389443343",
+          "name": "梨树行里有猫男",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -7224,7 +7238,7 @@
           "platform": "bilibili",
           "id": "613115943",
           "name": "比亚迪汽车",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=0.53"
         },
         {
           "type": "creator",
