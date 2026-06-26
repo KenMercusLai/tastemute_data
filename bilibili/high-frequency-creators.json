@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T12:10:15.414Z",
+  "generatedAt": "2026-06-26T13:10:15.497Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4758,6 +4758,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "356759194",
+          "name": "还没是我",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "357387034",
           "name": "乒乓Q奇",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=2.00"
@@ -5195,6 +5202,13 @@
           "id": "3706927806679784",
           "name": "单手食光",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706928144321349",
+          "name": "科普起源说",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -6910,6 +6924,13 @@
           "id": "52502322",
           "name": "小管同學",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "526567796",
+          "name": "微拍堂官方帐号",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
         },
         {
           "type": "creator",
