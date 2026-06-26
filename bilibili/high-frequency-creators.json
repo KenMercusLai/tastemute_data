@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T00:10:16.151Z",
+  "generatedAt": "2026-06-26T01:10:15.400Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2623,6 +2623,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "319451704",
+          "name": "绪笔梦生花",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "32026774",
           "name": "侦探许烦烦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
@@ -3514,7 +3521,7 @@
           "platform": "bilibili",
           "id": "3546584625186941",
           "name": "183的冯予希律师",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.26"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -4165,7 +4172,7 @@
           "platform": "bilibili",
           "id": "3546847222172344",
           "name": "村间顾影",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.29"
         },
         {
           "type": "creator",
@@ -4977,7 +4984,7 @@
           "platform": "bilibili",
           "id": "3690992951626535",
           "name": "小柠檬纪录片",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -5523,7 +5530,7 @@
           "platform": "bilibili",
           "id": "383551518",
           "name": "水论文的程序猿-水导",
-          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.69"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -5572,7 +5579,7 @@
           "platform": "bilibili",
           "id": "386600212",
           "name": "墨八分钱",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.67"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -7280,7 +7287,7 @@
           "platform": "bilibili",
           "id": "693612555",
           "name": "我捞捞捞",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.16"
         },
         {
           "type": "creator",
