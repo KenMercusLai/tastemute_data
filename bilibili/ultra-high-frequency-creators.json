@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T21:10:20.123Z",
+  "generatedAt": "2026-06-26T22:10:20.116Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3389,6 +3389,13 @@
           "id": "652239032",
           "name": "IGN中国",
           "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "65898827",
+          "name": "火海偷天",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.60"
         },
         {
           "type": "creator",
