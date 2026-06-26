@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T04:10:15.356Z",
+  "generatedAt": "2026-06-26T05:10:15.370Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2854,6 +2854,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493082259523697",
+          "name": "盛夏拾光啊",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
@@ -3409,7 +3416,7 @@
           "platform": "bilibili",
           "id": "3546389868972074",
           "name": "小米汽车",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -4058,6 +4065,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546796343167199",
+          "name": "良子本人胃袋这一块",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546811065174057",
           "name": "絮叨的铲屎官",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
@@ -4607,6 +4621,13 @@
           "id": "3546954164341173",
           "name": "bili_73743869754",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546955053533268",
+          "name": "看动漫的KV",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.29"
         },
         {
           "type": "creator",
@@ -5164,6 +5185,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706944141396229",
+          "name": "疯狂格I",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706945057851783",
           "name": "哈基Dor",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
@@ -5636,6 +5664,13 @@
           "id": "389956564",
           "name": "陈先生爱安静",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "391586627",
+          "name": "鬼鬼goghost",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -7120,6 +7155,13 @@
           "id": "643658346",
           "name": "这次你一定能逆袭",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.24"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "643868014",
+          "name": "芝士一小猫",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.83"
         },
         {
           "type": "creator",
