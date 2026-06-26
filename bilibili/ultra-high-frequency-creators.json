@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T13:10:19.234Z",
+  "generatedAt": "2026-06-26T14:10:20.560Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1680,7 +1680,7 @@
           "platform": "bilibili",
           "id": "3546697034631336",
           "name": "油管科普精选",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.09"
         },
         {
           "type": "creator",
@@ -2864,6 +2864,13 @@
           "id": "44052063",
           "name": "宝克力气大",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "442380537",
+          "name": "王老吉官方账号",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
