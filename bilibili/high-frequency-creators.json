@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T22:10:15.939Z",
+  "generatedAt": "2026-06-26T23:10:15.886Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -385,7 +385,7 @@
           "platform": "bilibili",
           "id": "11582322",
           "name": "黑化方块",
-          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.44"
         },
         {
           "type": "creator",
@@ -1930,6 +1930,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "227842005",
+          "name": "大都会的车西Pen",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "22911752",
           "name": "水墨粤语配音",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
@@ -3221,6 +3228,13 @@
           "id": "3494353263659251",
           "name": "幻术光明神",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494353567746383",
+          "name": "德国足球甲级联赛",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -5094,6 +5108,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690992433629500",
+          "name": "是饭团团吖520",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690992951626535",
           "name": "小柠檬纪录片",
           "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.16"
@@ -5440,6 +5461,13 @@
           "id": "3706978763278762",
           "name": "边rap边教学",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706981470701856",
+          "name": "clouds__云",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.65"
         },
         {
           "type": "creator",
@@ -7651,7 +7679,7 @@
           "platform": "bilibili",
           "id": "81240780",
           "name": "军武白板",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.10"
         },
         {
           "type": "creator",
