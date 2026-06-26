@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T02:10:19.725Z",
+  "generatedAt": "2026-06-26T03:10:19.187Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2373,7 +2373,7 @@
           "platform": "bilibili",
           "id": "3706945349356465",
           "name": "小帅拔钉记",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
