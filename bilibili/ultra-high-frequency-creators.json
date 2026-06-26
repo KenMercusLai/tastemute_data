@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T09:10:19.740Z",
+  "generatedAt": "2026-06-26T10:10:19.934Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1111,6 +1111,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "335603094",
+          "name": "一腔诗意喂了丑",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "336610005",
           "name": "法罗女土",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.33"
@@ -1456,7 +1463,7 @@
           "platform": "bilibili",
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -2464,7 +2471,7 @@
           "platform": "bilibili",
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.15"
         },
         {
           "type": "creator",
