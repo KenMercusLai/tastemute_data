@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T12:10:19.498Z",
+  "generatedAt": "2026-06-26T13:10:19.234Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2168,6 +2168,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "356759194",
+          "name": "还没是我",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632303777516250",
           "name": "日子慢慢走快乐天天有",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
@@ -2374,6 +2381,13 @@
           "id": "3706927806679784",
           "name": "单手食光",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706928144321349",
+          "name": "科普起源说",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -3179,6 +3193,13 @@
           "id": "523472083",
           "name": "僵尸有个约会凌云飞",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "526567796",
+          "name": "微拍堂官方帐号",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
         },
         {
           "type": "creator",
