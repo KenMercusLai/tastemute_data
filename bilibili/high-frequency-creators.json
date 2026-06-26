@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T06:10:15.391Z",
+  "generatedAt": "2026-06-26T07:10:15.371Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1267,7 +1267,7 @@
           "platform": "bilibili",
           "id": "179264824",
           "name": "音乐老友",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -5108,6 +5108,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3691008619449304",
+          "name": "麦当暗区突围",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3691008655100333",
           "name": "之昂的碎碎念",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.32"
@@ -7063,7 +7070,7 @@
           "platform": "bilibili",
           "id": "612656641",
           "name": "长安马自达",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.89"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.81"
         },
         {
           "type": "creator",
@@ -7126,7 +7133,7 @@
           "platform": "bilibili",
           "id": "628823248",
           "name": "比亚迪",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=0.61"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.41"
         },
         {
           "type": "creator",
