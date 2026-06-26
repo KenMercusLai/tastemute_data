@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T06:10:19.547Z",
+  "generatedAt": "2026-06-26T07:10:19.885Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -540,13 +540,6 @@
           "id": "17920281",
           "name": "比不中说篮球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "179264824",
-          "name": "音乐老友",
-          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -3277,13 +3270,6 @@
           "id": "627577002",
           "name": "LE_SSERAFIM",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.83"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "628823248",
-          "name": "比亚迪",
-          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.61"
         },
         {
           "type": "creator",
