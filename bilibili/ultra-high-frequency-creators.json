@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T19:10:20.110Z",
+  "generatedAt": "2026-06-26T20:10:20.206Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2408,7 +2408,7 @@
           "platform": "bilibili",
           "id": "3706933393492459",
           "name": "陈皮三角洲",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.39"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.55"
         },
         {
           "type": "creator",
@@ -3339,7 +3339,7 @@
           "platform": "bilibili",
           "id": "613115943",
           "name": "比亚迪汽车",
-          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.53"
         },
         {
           "type": "creator",
