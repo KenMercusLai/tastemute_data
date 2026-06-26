@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T10:10:15.345Z",
+  "generatedAt": "2026-06-26T11:10:15.354Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1538,6 +1538,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1959209",
+          "name": "逆狱。",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1965580615",
           "name": "阿宝实验室",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.81"
@@ -1856,6 +1863,13 @@
           "id": "22225638",
           "name": "不良起子在人间",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2233213",
+          "name": "星话大白",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -2527,7 +2541,7 @@
           "platform": "bilibili",
           "id": "306936843",
           "name": "雨说体育徐静雨",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.57"
         },
         {
           "type": "creator",
@@ -4445,7 +4459,7 @@
           "platform": "bilibili",
           "id": "3546907680966947",
           "name": "提姆哥和妮可姐",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -5383,7 +5397,7 @@
           "platform": "bilibili",
           "id": "3706984060685037",
           "name": "苏州刚子馕坑烤全羊",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -7560,7 +7574,7 @@
           "platform": "bilibili",
           "id": "8440892",
           "name": "胡律师看法",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.26"
         },
         {
           "type": "creator",
