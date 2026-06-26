@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T15:10:20.684Z",
+  "generatedAt": "2026-06-26T16:10:20.088Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -551,6 +551,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "178778949",
+          "name": "英雄联盟",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "17920281",
           "name": "比不中说篮球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
@@ -680,6 +687,13 @@
           "id": "1980666392",
           "name": "哔哩哔哩篮球赛事",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1995880259",
+          "name": "行离编辑部",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -1946,7 +1960,7 @@
           "platform": "bilibili",
           "id": "3546905697061655",
           "name": "宇宙没有售后",
-          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.99"
         },
         {
           "type": "creator",
