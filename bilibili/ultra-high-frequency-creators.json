@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T22:10:20.116Z",
+  "generatedAt": "2026-06-26T23:10:20.044Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -162,6 +162,13 @@
           "id": "1141140061",
           "name": "环球异事o",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11582322",
+          "name": "黑化方块",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.44"
         },
         {
           "type": "creator",
@@ -806,6 +813,13 @@
           "id": "22697887",
           "name": "芝士华莱士",
           "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "227842005",
+          "name": "大都会的车西Pen",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -2518,6 +2532,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706981470701856",
+          "name": "clouds__云",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706986740845187",
           "name": "米娅-_-",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
@@ -3529,13 +3550,6 @@
           "id": "74126025",
           "name": "想抱莉莉娅的云天",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "81240780",
-          "name": "军武白板",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
         },
         {
           "type": "creator",
