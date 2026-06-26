@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T08:10:19.936Z",
+  "generatedAt": "2026-06-26T09:10:19.740Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -463,6 +463,13 @@
           "id": "1646779344",
           "name": "评述员詹俊",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "165001727",
+          "name": "lulu和露爸",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -3010,7 +3017,7 @@
           "platform": "bilibili",
           "id": "490334938",
           "name": "中国军视网",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.35"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
