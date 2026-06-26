@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T18:10:16.317Z",
+  "generatedAt": "2026-06-26T19:10:16.079Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -91,7 +91,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -1715,7 +1715,7 @@
           "platform": "bilibili",
           "id": "2081572322",
           "name": "云兮pisces",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.41"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -7005,6 +7005,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "527233131",
+          "name": "时色放流",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "53265107",
           "name": "夏梦迪-高考物理",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
@@ -7049,7 +7056,7 @@
           "platform": "bilibili",
           "id": "551188239",
           "name": "企鹅带带北极熊",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.96"
         },
         {
           "type": "creator",
