@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T09:10:15.438Z",
+  "generatedAt": "2026-06-26T10:10:15.345Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2063,6 +2063,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "251768781",
+          "name": "-斜键仙",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "25195727",
           "name": "CSGO-QUQU",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
@@ -2703,6 +2710,13 @@
           "id": "333056401",
           "name": "绿化锂",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "335603094",
+          "name": "一腔诗意喂了丑",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -3472,7 +3486,7 @@
           "platform": "bilibili",
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.36"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -5334,7 +5348,7 @@
           "platform": "bilibili",
           "id": "3706977561611234",
           "name": "勇哥餐饮避雷切片",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -6875,6 +6889,13 @@
           "id": "52502322",
           "name": "小管同學",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "526766616",
+          "name": "一颗星星o-o",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
         },
         {
           "type": "creator",
