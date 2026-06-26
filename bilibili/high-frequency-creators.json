@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T03:10:15.369Z",
+  "generatedAt": "2026-06-26T03:42:55.311Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6655,6 +6655,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "509786892",
+          "name": "修车大全",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "509997673",
           "name": "官帽头上戴",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.57"
@@ -7470,6 +7477,13 @@
           "id": "86889715",
           "name": "百变小琦哥",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "87298499",
+          "name": "忆梦生寒",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.38"
         },
         {
           "type": "creator",
