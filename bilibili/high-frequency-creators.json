@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T02:10:15.361Z",
+  "generatedAt": "2026-06-26T03:10:15.369Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2434,13 +2434,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "2957050",
-          "name": "冰糖小堃",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "296086460",
           "name": "F1世界锦标赛",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.30"
@@ -2591,13 +2584,6 @@
           "id": "316674559",
           "name": "三石游戏日志",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.57"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "31677815",
-          "name": "李灵泽2025",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -4520,6 +4506,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546923113909191",
+          "name": "凯歌炒饭-山治",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546929266952873",
           "name": "擒龙先生",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.21"
@@ -5180,7 +5173,7 @@
           "platform": "bilibili",
           "id": "3706945349356465",
           "name": "小帅拔钉记",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
