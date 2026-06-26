@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T07:10:15.371Z",
+  "generatedAt": "2026-06-26T08:10:15.462Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -91,7 +91,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.48"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -2014,6 +2014,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2447707",
+          "name": "白羽Baiyuleta",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "24524783",
           "name": "Telfair童",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.48"
@@ -3757,6 +3764,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546660904897118",
+          "name": "三角洲-林树",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546661064280077",
           "name": "惠老板和鸵鸟",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.71"
@@ -5279,6 +5293,13 @@
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706974095018039",
+          "name": "云铃super",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.91"
         },
         {
           "type": "creator",
