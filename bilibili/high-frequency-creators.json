@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-26T11:10:15.354Z",
+  "generatedAt": "2026-06-26T12:10:15.414Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1286,13 +1286,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "181062822",
-          "name": "股神巴雷特",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.13"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "181977965",
           "name": "六桥风月",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.27"
@@ -2394,7 +2387,7 @@
           "platform": "bilibili",
           "id": "28861187",
           "name": "风间琉璃zcl",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -2898,7 +2891,7 @@
           "platform": "bilibili",
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -4870,6 +4863,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632319835409017",
+          "name": "都市零协会",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632319887837439",
           "name": "b醒着做u饿梦",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
@@ -5124,7 +5124,7 @@
           "platform": "bilibili",
           "id": "3691002535610407",
           "name": "浅千儿三角洲行动",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.06"
         },
         {
           "type": "creator",
@@ -6266,6 +6266,13 @@
           "id": "45107914",
           "name": "桃黑黑Tor",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "454167824",
+          "name": "冠希从不破防",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -7693,7 +7700,7 @@
           "platform": "bilibili",
           "id": "97213827",
           "name": "潜艇伟伟迷",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.89"
         },
         {
           "type": "creator",
