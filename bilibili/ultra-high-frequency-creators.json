@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T09:10:19.210Z",
+  "generatedAt": "2026-06-27T09:57:22.650Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -197,6 +197,13 @@
           "id": "125047879",
           "name": "单走一张六",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1251125029",
+          "name": "巷尾看人间",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -1671,6 +1678,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546675075352996",
+          "name": "开封王婆",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546682367150239",
           "name": "蛋仔派大星的一天",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=1.00"
@@ -1765,6 +1779,13 @@
           "id": "3546756077848946",
           "name": "拉挖稀",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546766909639058",
+          "name": "河南乡村频道",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.12"
         },
         {
           "type": "creator",
@@ -1944,6 +1965,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546890352200370",
+          "name": "郭律说法",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546892961056913",
           "name": "小丢丢哒",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.36"
@@ -1961,6 +1989,13 @@
           "id": "3546903289530515",
           "name": "解除烦恼的小鱼儿",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546904495393081",
+          "name": "郭律普法",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -2199,6 +2234,13 @@
           "id": "3632303777516250",
           "name": "日子慢慢走快乐天天有",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632304075311637",
+          "name": "郭延娇郭律",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
         },
         {
           "type": "creator",
@@ -3249,6 +3291,13 @@
           "id": "523472083",
           "name": "僵尸有个约会凌云飞",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "525647027",
+          "name": "半彩AI",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
