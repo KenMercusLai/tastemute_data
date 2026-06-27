@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T12:10:15.483Z",
+  "generatedAt": "2026-06-27T13:05:43.392Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -645,6 +645,13 @@
           "id": "1313365570",
           "name": "江西消防",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1318057568",
+          "name": "Tutor-t",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -1911,7 +1918,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -4730,6 +4737,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546936061725167",
+          "name": "糖丸丸JM",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546936458087121",
           "name": "漫谈DEEP",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
@@ -4985,6 +4999,13 @@
           "id": "3632307640469962",
           "name": "-观察历史",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632309012007157",
+          "name": "TheWakingHat",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.70"
         },
         {
           "type": "creator",
