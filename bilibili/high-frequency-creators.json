@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T08:10:15.481Z",
+  "generatedAt": "2026-06-27T09:03:24.231Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5286,6 +5286,13 @@
           "id": "3706934739863874",
           "name": "无了0v0",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706935534684514",
+          "name": "战斗的闪光",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.62"
         },
         {
           "type": "creator",
