@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T09:57:18.719Z",
+  "generatedAt": "2026-06-27T10:10:15.395Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1982,6 +1982,13 @@
           "id": "229825068",
           "name": "爱炸毛的小煤球",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "229911520",
+          "name": "AqovK",
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.66"
         },
         {
           "type": "creator",
@@ -6452,6 +6459,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "453799418",
+          "name": "帥字当头",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "454167824",
           "name": "冠希从不破防",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
@@ -7869,6 +7883,13 @@
           "id": "8878219",
           "name": "吃蛋挞的折棒",
           "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "89014291",
+          "name": "二战艺术家y",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
         },
         {
           "type": "creator",
