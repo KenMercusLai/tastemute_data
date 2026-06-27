@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T03:10:19.488Z",
+  "generatedAt": "2026-06-27T04:10:19.127Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -477,13 +477,6 @@
           "id": "1663104403",
           "name": "水在天上飘",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.06"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1667026531",
-          "name": "健身华哥",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -3255,7 +3248,7 @@
           "platform": "bilibili",
           "id": "526890129",
           "name": "红星视频",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
         },
         {
           "type": "creator",
