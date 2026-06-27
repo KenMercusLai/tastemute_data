@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T05:10:15.441Z",
+  "generatedAt": "2026-06-27T06:10:15.350Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -607,6 +607,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1310891129",
+          "name": "小雨儿音乐铺",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1312481647",
           "name": "CS2芬了个黎",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.90"
@@ -736,6 +743,13 @@
           "id": "14373586",
           "name": "熊出没BoonieBears",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1442396399",
+          "name": "中国军号",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -6746,13 +6760,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "495979927",
-          "name": "半耳聆",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.83"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "496124621",
           "name": "琉璃观影",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.05"
@@ -7078,6 +7085,13 @@
           "id": "53294068",
           "name": "老常生活日记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "535989028",
+          "name": "猪大肠and方一蛋",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.99"
         },
         {
           "type": "creator",
