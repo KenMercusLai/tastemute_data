@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T13:10:15.375Z",
+  "generatedAt": "2026-06-27T14:10:15.421Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -698,6 +698,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1347436062",
+          "name": "空山心雨a",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1371768406",
           "name": "娱乐影视说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
@@ -925,6 +932,13 @@
           "id": "1523831",
           "name": "莫实说",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1528302967",
+          "name": "啊白日做梦唉",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.55"
         },
         {
           "type": "creator",
@@ -2217,6 +2231,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "25694274",
+          "name": "小五只会一点点",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "258302621",
           "name": "小小兜meme小剧场",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
@@ -3025,6 +3046,13 @@
           "id": "3493094920030522",
           "name": "华哥户外",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493104095071072",
+          "name": "崔叡娜_OFFICIAL",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -5108,6 +5136,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690975337647046",
+          "name": "猫meme电影院",
+          "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=1.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690975390074902",
           "name": "盐巴喵喵喵",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
@@ -6643,7 +6678,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -7077,7 +7112,7 @@
           "platform": "bilibili",
           "id": "515155585",
           "name": "快看",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.14"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.14"
         },
         {
           "type": "creator",
