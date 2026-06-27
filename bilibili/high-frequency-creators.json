@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T03:10:15.354Z",
+  "generatedAt": "2026-06-27T04:10:15.395Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -29,6 +29,13 @@
           "id": "1004246390",
           "name": "无畏契约电竞",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1006662958",
+          "name": "金州勇士",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.59"
         },
         {
           "type": "creator",
@@ -1099,7 +1106,7 @@
           "platform": "bilibili",
           "id": "1667026531",
           "name": "健身华哥",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.46"
         },
         {
           "type": "creator",
@@ -7028,7 +7035,7 @@
           "platform": "bilibili",
           "id": "526890129",
           "name": "红星视频",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.03"
         },
         {
           "type": "creator",
