@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T00:10:15.737Z",
+  "generatedAt": "2026-06-27T01:10:15.819Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -537,6 +537,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "125251064",
+          "name": "林望川动画",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1254824073",
           "name": "苹果ovo-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.46"
@@ -973,7 +980,7 @@
           "platform": "bilibili",
           "id": "1586359562",
           "name": "圣安东尼奥马刺",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.57"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.27"
         },
         {
           "type": "creator",
@@ -3570,7 +3577,7 @@
           "platform": "bilibili",
           "id": "3546583054420470",
           "name": "XFinds寻宝",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.41"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.38"
         },
         {
           "type": "creator",
@@ -5922,7 +5929,7 @@
           "platform": "bilibili",
           "id": "3976691",
           "name": "Hagn",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -6294,6 +6301,13 @@
           "id": "441167301",
           "name": "分析学爱好者",
           "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "442174802",
+          "name": "隔壁家的小熊猫",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -7455,7 +7469,7 @@
           "platform": "bilibili",
           "id": "676239823",
           "name": "早睡起大王",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.16"
         },
         {
           "type": "creator",
