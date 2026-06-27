@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T05:10:19.358Z",
+  "generatedAt": "2026-06-27T06:10:19.390Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -302,6 +302,13 @@
           "id": "1417904535",
           "name": "刮蜡皮小能手",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1442396399",
+          "name": "中国军号",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.57"
         },
         {
           "type": "creator",
