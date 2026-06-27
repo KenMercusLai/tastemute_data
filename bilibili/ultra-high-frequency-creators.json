@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T04:10:19.127Z",
+  "generatedAt": "2026-06-27T05:10:19.358Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2882,6 +2882,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "43887712",
+          "name": "爱睡觉的_Koala",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "439019448",
           "name": "外网种花家的兔",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
@@ -3421,6 +3428,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "661219304",
+          "name": "华仔爱追电影",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "669334488",
           "name": "环球音乐中国",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
@@ -3571,6 +3585,13 @@
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9427781",
+          "name": "七芊摄影",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
         },
         {
           "type": "creator",
