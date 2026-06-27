@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T07:10:15.366Z",
+  "generatedAt": "2026-06-27T07:27:30.846Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3283,7 +3283,7 @@
           "platform": "bilibili",
           "id": "3494369006979716",
           "name": "在下逗宗",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.68"
         },
         {
           "type": "creator",
