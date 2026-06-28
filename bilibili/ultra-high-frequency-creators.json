@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T03:10:19.575Z",
+  "generatedAt": "2026-06-28T04:10:19.307Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1065,6 +1065,13 @@
           "id": "299946576",
           "name": "巨炮zzzzzz",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "299954192",
+          "name": "鸣潮斩谪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
         },
         {
           "type": "creator",
@@ -2912,7 +2919,7 @@
           "platform": "bilibili",
           "id": "431073645",
           "name": "你的影月月",
-          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -3073,7 +3080,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 1 days; videos=68; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -3221,6 +3228,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "501247999",
+          "name": "RT今日俄罗斯",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.05"
         },
         {
           "type": "creator",
