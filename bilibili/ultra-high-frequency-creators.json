@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T08:10:19.593Z",
+  "generatedAt": "2026-06-28T09:10:19.541Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -826,7 +826,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -1450,6 +1450,13 @@
           "id": "3519797",
           "name": "战术级子轩",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3536994414102533",
+          "name": "妖妖小汐",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -2217,6 +2224,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546946331478537",
+          "name": "bili_70378075636",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546951932971969",
           "name": "大明Talk",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
@@ -2891,7 +2905,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -3123,6 +3137,13 @@
           "id": "4743764",
           "name": "名师论坛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "476597598",
+          "name": "大大葡萄AI",
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.86"
         },
         {
           "type": "creator",
