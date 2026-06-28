@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T10:10:19.515Z",
+  "generatedAt": "2026-06-28T11:10:19.297Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -775,6 +775,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2071691173",
+          "name": "无畏契约赛事",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2073648608",
           "name": "RT小姐姐阿丽娜",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.47"
@@ -1065,6 +1072,13 @@
           "id": "283857119",
           "name": "带秀乌鸦",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "286502885",
+          "name": "小唐在美国生活",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -2982,7 +2996,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -3270,6 +3284,20 @@
           "id": "483522694",
           "name": "火星课堂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4856007",
+          "name": "迷影社",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487604460",
+          "name": "bibi动物园",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -3878,7 +3906,7 @@
           "platform": "bilibili",
           "id": "98627270",
           "name": "哔哩哔哩国创",
-          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.00"
         },
         {
           "type": "creator",
