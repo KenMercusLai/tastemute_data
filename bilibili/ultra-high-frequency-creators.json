@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T14:10:19.297Z",
+  "generatedAt": "2026-06-28T15:10:19.564Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -134,6 +134,13 @@
           "id": "11139177",
           "name": "神人观察TV社社长",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1116018914",
+          "name": "老彭创友谈",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.90"
         },
         {
           "type": "creator",
@@ -547,6 +554,13 @@
           "id": "1681299250",
           "name": "迈阿密热火",
           "reason": "Average upload gap <= 1 days; videos=12; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1685024055",
+          "name": "star星视频",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -3274,6 +3288,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "473495962",
+          "name": "腾讯新闻",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
           "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.22"
@@ -3459,13 +3480,6 @@
           "id": "502170118",
           "name": "沐幽和璃泽",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "50329118",
-          "name": "哔哩哔哩英雄联盟赛事",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.39"
         },
         {
           "type": "creator",
