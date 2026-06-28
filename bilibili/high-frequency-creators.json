@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T02:10:15.353Z",
+  "generatedAt": "2026-06-28T03:10:15.374Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -246,6 +246,13 @@
           "id": "108618052",
           "name": "真实球迷汇",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1091947739",
+          "name": "Moon明月i",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.39"
         },
         {
           "type": "creator",
@@ -2441,6 +2448,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "283310205",
+          "name": "韩路有点意思",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "283691575",
           "name": "吉罗很快乐",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.62"
@@ -3190,6 +3204,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493261928827813",
+          "name": "蛋仔饭特稀",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493264082602434",
           "name": "龙坚-中高考英语",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
@@ -3619,7 +3640,7 @@
           "platform": "bilibili",
           "id": "3546558119283625",
           "name": "老芒果OL",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.89"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -4026,6 +4047,13 @@
           "id": "3546683765950790",
           "name": "韭菜vvv",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546687932991974",
+          "name": "绝区零第一可爱兔宝",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -6419,7 +6447,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -6622,7 +6650,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -7532,7 +7560,7 @@
           "platform": "bilibili",
           "id": "626796832",
           "name": "洛克王国世界",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.30"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.30"
         },
         {
           "type": "creator",
