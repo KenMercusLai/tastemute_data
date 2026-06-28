@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T11:10:19.297Z",
+  "generatedAt": "2026-06-28T12:10:19.142Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -435,6 +435,13 @@
           "id": "1553192921",
           "name": "波波视频V",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1574807565",
+          "name": "小黄和华子",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -1076,6 +1083,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "284930602",
+          "name": "FLXX-ZeroTwo",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "286502885",
           "name": "小唐在美国生活",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
@@ -1163,6 +1177,13 @@
           "id": "314387912",
           "name": "YouTube助眠频道",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "315070332",
+          "name": "财金剑客",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -3683,6 +3704,13 @@
           "id": "652239032",
           "name": "IGN中国",
           "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "657516",
+          "name": "绯吧official",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.74"
         },
         {
           "type": "creator",
