@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T13:10:20.767Z",
+  "generatedAt": "2026-06-28T14:10:19.297Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1958,6 +1958,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546814196222847",
+          "name": "你的徐二哥",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546816085756771",
           "name": "小杰同学0O",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
@@ -2619,6 +2626,13 @@
           "id": "3691004106377622",
           "name": "红果三花小剧场",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691007604426825",
+          "name": "哎呦喂漫漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -3484,6 +3498,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "514273130",
+          "name": "老东北美食",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "515127642",
           "name": "外网热评o",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
@@ -3935,6 +3956,13 @@
           "id": "95828175",
           "name": "辰辰宝宝の宝藏盒",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9666167",
+          "name": "VV音乐局",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
