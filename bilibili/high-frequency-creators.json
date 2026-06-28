@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T18:10:15.410Z",
+  "generatedAt": "2026-06-28T19:10:15.408Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3626,7 +3626,7 @@
           "platform": "bilibili",
           "id": "3493265273785301",
           "name": "三国谋定天下",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -8373,6 +8373,13 @@
           "id": "60232120",
           "name": "小叮当频道",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "605433916",
+          "name": "诡秘之主官方",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.30"
         },
         {
           "type": "creator",
