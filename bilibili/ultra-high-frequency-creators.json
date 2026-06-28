@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T04:10:19.307Z",
+  "generatedAt": "2026-06-28T05:03:06.586Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -631,6 +631,13 @@
           "id": "1836844027",
           "name": "数物化生结合神",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1842585598",
+          "name": "朽叶不姓叶",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -1545,6 +1552,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546564700146500",
+          "name": "吾乃糖吉柯德",
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546564792420361",
           "name": "暴走黄老板",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.72"
@@ -1961,6 +1975,13 @@
           "id": "3546876437597130",
           "name": "小小的布朗尼",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546877094005290",
+          "name": "赵建梁律师",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -2905,7 +2926,7 @@
           "platform": "bilibili",
           "id": "429711841",
           "name": "综艺哔哔机",
-          "reason": "Average upload gap <= 1 days; videos=28; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -3710,7 +3731,7 @@
           "platform": "bilibili",
           "id": "98627270",
           "name": "哔哩哔哩国创",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.00"
         },
         {
           "type": "creator",
