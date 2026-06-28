@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T01:34:46.133Z",
+  "generatedAt": "2026-06-28T02:10:15.353Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1079,6 +1079,13 @@
           "id": "159699716",
           "name": "蛋儿de忧伤",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1598140968",
+          "name": "一头沙雕猪坤巴哥",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -3855,6 +3862,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546632559790224",
+          "name": "漫威争锋",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546633058912804",
           "name": "中天全球",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
@@ -4439,6 +4453,13 @@
           "id": "3546864278309344",
           "name": "许愿星yu",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546864601270901",
+          "name": "云篆写空山",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.24"
         },
         {
           "type": "creator",
@@ -5524,6 +5545,13 @@
           "id": "3706954885106243",
           "name": "小马盒饭",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706959876327428",
+          "name": "无敌姜神",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.36"
         },
         {
           "type": "creator",
@@ -8002,6 +8030,13 @@
           "id": "90307199",
           "name": "Emily9333",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9194505",
+          "name": "潇洒的转转笔",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.56"
         },
         {
           "type": "creator",
