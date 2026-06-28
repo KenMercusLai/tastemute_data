@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T17:10:18.898Z",
+  "generatedAt": "2026-06-28T18:10:19.309Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -890,6 +890,13 @@
           "id": "222103174",
           "name": "央视网",
           "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "22492980",
+          "name": "XBOX盒子君",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -2546,6 +2553,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690975432018906",
+          "name": "只只漫漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690975752882453",
           "name": "BiBiBoom丶",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.09"
@@ -3960,6 +3974,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "9037593",
+          "name": "灰机咕咕",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "9068441",
           "name": "冰攻厂BeSo",
           "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.79"
@@ -4011,7 +4032,7 @@
           "platform": "bilibili",
           "id": "98627270",
           "name": "哔哩哔哩国创",
-          "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.00"
+          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=0.00"
         },
         {
           "type": "creator",
