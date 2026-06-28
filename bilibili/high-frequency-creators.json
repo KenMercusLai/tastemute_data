@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T15:10:15.422Z",
+  "generatedAt": "2026-06-28T16:10:15.453Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1680,7 +1680,7 @@
           "platform": "bilibili",
           "id": "1894563281",
           "name": "哔哩哔哩毕业歌会",
-          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.59"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.59"
         },
         {
           "type": "creator",
@@ -3463,6 +3463,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493127360874665",
+          "name": "AK燃剪",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493129074248622",
           "name": "小鱼世界观",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.11"
@@ -5143,6 +5150,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546902624733812",
+          "name": "海虹数码葛小强",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546903289530515",
           "name": "解除烦恼的小鱼儿",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.10"
@@ -6242,6 +6256,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706974933878987",
+          "name": "篮球弹药库",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706975604967690",
           "name": "周丽Giuly在意大利",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.99"
@@ -6949,6 +6970,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "413460576",
+          "name": "秋鱼缺把刀",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "413630249",
           "name": "一颗霉屎的桔勒勒",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.79"
@@ -7042,7 +7070,7 @@
           "platform": "bilibili",
           "id": "429711841",
           "name": "综艺哔哔机",
-          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.33"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -7413,7 +7441,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=0.22"
         },
         {
           "type": "creator",
