@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T16:10:19.327Z",
+  "generatedAt": "2026-06-28T17:10:18.898Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -161,7 +161,7 @@
           "platform": "bilibili",
           "id": "11332884",
           "name": "Key725",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -246,6 +246,13 @@
           "id": "1306451842",
           "name": "网易蛋仔派对",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1309193711",
+          "name": "香姐和老杨",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
         },
         {
           "type": "creator",
@@ -2154,6 +2161,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546889771288668",
+          "name": "三角洲行动赛事",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546889909700864",
           "name": "电影近距离",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
@@ -2822,6 +2836,13 @@
           "id": "3706992623356593",
           "name": "星河-扬琴",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706992816294700",
+          "name": "小唐在美国送酱香饼",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
