@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T02:10:19.057Z",
+  "generatedAt": "2026-06-28T03:10:19.575Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1310,6 +1310,13 @@
           "id": "3493257342355943",
           "name": "佛性记录解说",
           "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493261928827813",
+          "name": "蛋仔饭特稀",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.73"
         },
         {
           "type": "creator",
@@ -2926,7 +2933,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=45; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -3017,7 +3024,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.13"
         },
         {
           "type": "creator",
