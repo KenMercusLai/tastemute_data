@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T05:10:19.364Z",
+  "generatedAt": "2026-06-29T06:10:19.510Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -92,6 +92,13 @@
           "id": "1080316566",
           "name": "考研英语晓燕",
           "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "108044977",
+          "name": "1emonTxT",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -960,6 +967,13 @@
           "id": "232472043",
           "name": "DJI大疆创新",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23902",
+          "name": "阿鲁蒂娜",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.18"
         },
         {
           "type": "creator",
@@ -2896,6 +2910,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706970626329208",
+          "name": "一捆牛仔AllStar",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706973673490819",
           "name": "海绵宝宝漫画配音",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.95"
@@ -3386,6 +3407,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "454514067",
+          "name": "日半猫将军",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "454762120",
           "name": "夏活电锯猎魔人",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.64"
@@ -3424,6 +3452,13 @@
           "id": "46470268",
           "name": "央视军事",
           "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4666187",
+          "name": "鬼柒Ultra_seven",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.76"
         },
         {
           "type": "creator",
