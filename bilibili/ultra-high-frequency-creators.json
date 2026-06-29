@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T14:10:21.008Z",
+  "generatedAt": "2026-06-29T15:10:19.864Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3472,7 +3472,7 @@
           "platform": "bilibili",
           "id": "429711841",
           "name": "综艺哔哔机",
-          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.33"
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -4390,6 +4390,13 @@
           "id": "91254197",
           "name": "LOL小绿毛资讯",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "92238788",
+          "name": "失控的王叔叔",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
