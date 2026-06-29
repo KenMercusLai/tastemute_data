@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T20:10:15.370Z",
+  "generatedAt": "2026-06-29T21:10:15.355Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -470,6 +470,13 @@
           "id": "11582322",
           "name": "黑化方块",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11703718",
+          "name": "米尔Miru",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -1555,6 +1562,13 @@
           "id": "1744580599",
           "name": "NBA",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "174510224",
+          "name": "国士通儒",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -3554,6 +3568,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "341425341",
+          "name": "渣渣辉-哈佛比回收",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "342070883",
           "name": "自律的黑",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.63"
@@ -5227,6 +5248,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546739109792577",
+          "name": "鲤鱼蛋002",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546740500204152",
           "name": "罗十一F",
           "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=1.39"
@@ -6886,6 +6914,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706928674900830",
+          "name": "杰尊淘机导师",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706928999959096",
           "name": "阿楚熬夜更剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
@@ -6924,6 +6959,13 @@
           "id": "3706938768493444",
           "name": "淸晨",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706939173243538",
+          "name": "玄知瓷银",
+          "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.06"
         },
         {
           "type": "creator",
@@ -7882,7 +7924,7 @@
           "platform": "bilibili",
           "id": "401315430",
           "name": "星瞳_Official",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.96"
         },
         {
           "type": "creator",
