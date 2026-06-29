@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T17:10:15.493Z",
+  "generatedAt": "2026-06-29T18:10:15.332Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -281,6 +281,13 @@
           "id": "1091947739",
           "name": "Moon明月i",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1095536348",
+          "name": "蛋仔小丸丸子",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.20"
         },
         {
           "type": "creator",
@@ -2331,7 +2338,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -2667,7 +2674,7 @@
           "platform": "bilibili",
           "id": "25503580",
           "name": "布锅锅",
-          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.56"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.56"
         },
         {
           "type": "creator",
@@ -2829,6 +2836,13 @@
           "id": "274924046",
           "name": "快乐小黄鸭12138",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "27492426",
+          "name": "戒社",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -3239,6 +3253,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "313556520",
+          "name": "-戈尔曼-",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "313595858",
           "name": "o西红柿解说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
@@ -3333,6 +3354,13 @@
           "id": "32026774",
           "name": "侦探许烦烦",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "320911654",
+          "name": "掌控时光之龙",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -4702,6 +4730,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546631697861541",
+          "name": "MC_凌川",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546632075348451",
           "name": "梵小知治愈坊",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.66"
@@ -5248,6 +5283,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546788296395006",
+          "name": "永远的蔚蓝星球",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546788701145645",
           "name": "小火龙爬",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.23"
@@ -5566,6 +5608,13 @@
           "id": "3546868971735282",
           "name": "bili_53584246348",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546872285235750",
+          "name": "嘎咕灵感菇",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -8961,6 +9010,13 @@
           "id": "514172689",
           "name": "心理拾光",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "514221052",
+          "name": "演员陈瑶",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.92"
         },
         {
           "type": "creator",
