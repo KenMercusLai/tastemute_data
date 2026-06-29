@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T14:10:15.367Z",
+  "generatedAt": "2026-06-29T15:10:15.339Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -190,6 +190,13 @@
           "id": "1068543359",
           "name": "蛋仔小海绵吖",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10706307",
+          "name": "寒酥布吉岛",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -4597,6 +4604,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546615816128744",
+          "name": "哆戛酱-健康薄肌版",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546618416597566",
           "name": "kksk_xuan",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.68"
@@ -7047,6 +7061,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706987646814783",
+          "name": "林正特老祖三角洲",
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706988210948183",
           "name": "沈博士不明白",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
@@ -7903,7 +7924,7 @@
           "platform": "bilibili",
           "id": "429711841",
           "name": "综艺哔哔机",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.33"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -8114,6 +8135,13 @@
           "id": "443014411",
           "name": "上海女超人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "443344970",
+          "name": "喵叽漫",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.55"
         },
         {
           "type": "creator",
@@ -9266,6 +9294,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "606425314",
+          "name": "王小贱-王者荣耀",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "607563758",
           "name": "北京卫视生命缘",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
@@ -9623,6 +9658,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "687802004",
+          "name": "洲洲老王",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "690886435",
           "name": "YouTube助眠收藏",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
@@ -9703,6 +9745,13 @@
           "id": "700608201",
           "name": "好屏如潮",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "70093",
+          "name": "12dora",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -9955,6 +10004,13 @@
           "id": "9194505",
           "name": "潇洒的转转笔",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "92238788",
+          "name": "失控的王叔叔",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
