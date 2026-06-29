@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T13:10:19.742Z",
+  "generatedAt": "2026-06-29T14:10:21.008Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3358,6 +3358,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "396388451",
+          "name": "火影忍者萝卜",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "397180707",
           "name": "油管小王子Terry",
           "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.91"
@@ -3675,7 +3682,7 @@
           "platform": "bilibili",
           "id": "473495962",
           "name": "腾讯新闻",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.03"
         },
         {
           "type": "creator",
@@ -3998,6 +4005,13 @@
           "id": "527233131",
           "name": "时色放流",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "52845729",
+          "name": "Sovia同志",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
