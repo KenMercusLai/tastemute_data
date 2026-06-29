@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T13:10:15.379Z",
+  "generatedAt": "2026-06-29T14:10:15.367Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4485,6 +4485,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546595578612595",
+          "name": "你被竺拱了",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546595603777730",
           "name": "TWS_PLEDIS",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
@@ -5041,6 +5048,13 @@
           "id": "3546725472012374",
           "name": "影视使我快乐",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546725685922162",
+          "name": "以晨AI",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -7558,6 +7572,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "396388451",
+          "name": "火影忍者萝卜",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "396916604",
           "name": "马陆Malo",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
@@ -8288,7 +8309,7 @@
           "platform": "bilibili",
           "id": "473495962",
           "name": "腾讯新闻",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.03"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.03"
         },
         {
           "type": "creator",
@@ -9010,6 +9031,13 @@
           "id": "527233131",
           "name": "时色放流",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "52845729",
+          "name": "Sovia同志",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -9814,7 +9842,7 @@
           "platform": "bilibili",
           "id": "8237763",
           "name": "阿张RayZhang",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.11"
         },
         {
           "type": "creator",
