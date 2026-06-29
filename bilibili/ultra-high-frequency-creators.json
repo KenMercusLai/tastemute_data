@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T09:10:20.521Z",
+  "generatedAt": "2026-06-29T10:10:20.289Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -257,6 +257,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "12879173",
+          "name": "观测者零号",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1289388278",
           "name": "动物猿记事本",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
@@ -309,6 +316,13 @@
           "id": "1334078880",
           "name": "上海轶瞳网络",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13651973",
+          "name": "郭庆梓律师",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -533,6 +547,13 @@
           "id": "159699716",
           "name": "蛋儿de忧伤",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1598924877",
+          "name": "易秋不是泥鳅",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -2192,6 +2213,13 @@
           "id": "3546847222172344",
           "name": "村间顾影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546849115900794",
+          "name": "NEXZ_official",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -4254,13 +4282,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "88237916",
-          "name": "马龙MA1ONG_反恐航线",
-          "reason": "Average upload gap <= 1 days; videos=17; avg_gap_days=0.81"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "8878219",
           "name": "吃蛋挞的折棒",
           "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.95"
@@ -4289,6 +4310,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "925253",
+          "name": "好胃口的我",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.17"
@@ -4313,6 +4341,13 @@
           "id": "9666167",
           "name": "VV音乐局",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9717562",
+          "name": "星际老男孩",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.78"
         },
         {
           "type": "creator",
