@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T20:10:20.689Z",
+  "generatedAt": "2026-06-29T21:10:19.130Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -211,6 +211,13 @@
           "id": "11582322",
           "name": "黑化方块",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11703718",
+          "name": "米尔Miru",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -687,6 +694,13 @@
           "id": "1744580599",
           "name": "NBA",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "174510224",
+          "name": "国士通儒",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -1447,6 +1461,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "341425341",
+          "name": "渣渣辉-哈佛比回收",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "343348",
           "name": "口袋迷ag",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
@@ -2143,6 +2164,13 @@
           "id": "3546737964747183",
           "name": "不墨迹真测评",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546739109792577",
+          "name": "鲤鱼蛋002",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
         },
         {
           "type": "creator",
