@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T11:10:19.511Z",
+  "generatedAt": "2026-06-29T12:10:19.896Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1251,6 +1251,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "29764228",
+          "name": "大盗游戏",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "299946576",
           "name": "巨炮zzzzzz",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.82"
@@ -2112,9 +2119,23 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546778829850973",
+          "name": "晚月_Tsuki",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546780710996335",
           "name": "桃姐恋爱",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546787375745664",
+          "name": "AA建材强姐",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -2500,6 +2521,13 @@
           "id": "3546930737055759",
           "name": "郭律说",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546931303287217",
+          "name": "大也撩影",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -3465,7 +3493,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -3480,6 +3508,13 @@
           "id": "434786180",
           "name": "和平精英",
           "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "435003416",
+          "name": "Owen在英国",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.75"
         },
         {
           "type": "creator",
@@ -3577,7 +3612,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=75; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 1 days; videos=77; avg_gap_days=0.13"
         },
         {
           "type": "creator",
