@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T16:10:15.401Z",
+  "generatedAt": "2026-06-29T17:10:15.493Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -266,7 +266,7 @@
           "platform": "bilibili",
           "id": "108532523",
           "name": "英雄联盟赛事",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.25"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -2499,7 +2499,7 @@
           "platform": "bilibili",
           "id": "239384911",
           "name": "春风满马",
-          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.37"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -2682,6 +2682,13 @@
           "id": "25629038",
           "name": "多巴安工作室",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "25637648",
+          "name": "欲见樱",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.86"
         },
         {
           "type": "creator",
@@ -7236,6 +7243,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707007546689921",
+          "name": "陈年老叶_YE",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "370871812",
           "name": "sparkle0822",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.30"
@@ -7379,6 +7393,13 @@
           "id": "383551518",
           "name": "水论文的程序猿-水导",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "383666009",
+          "name": "京东",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -7883,6 +7904,13 @@
           "id": "413630249",
           "name": "一颗霉屎的桔勒勒",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "413703",
+          "name": "独立游戏蜥蜴君",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -8604,6 +8632,13 @@
           "id": "4878173",
           "name": "泥萌都是托",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487969417",
+          "name": "古灵-再次黑化",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.77"
         },
         {
           "type": "creator",
