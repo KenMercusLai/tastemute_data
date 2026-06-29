@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T21:10:19.130Z",
+  "generatedAt": "2026-06-29T22:10:19.796Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -56,7 +56,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -3561,6 +3561,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "414509783",
+          "name": "老张的鞋Deron",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "417121586",
           "name": "醉逍遥游戏解说",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.27"
@@ -3619,7 +3626,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -3738,7 +3745,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=78; avg_gap_days=0.26"
+          "reason": "Average upload gap <= 1 days; videos=79; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -3808,7 +3815,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 1 days; videos=72; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=73; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -4240,6 +4247,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "609553048",
+          "name": "平衡术王业坤",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "613064099",
           "name": "勇哥餐饮创业路",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
@@ -4257,6 +4271,13 @@
           "id": "61430918",
           "name": "SEGA世嘉官方",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "61879712",
+          "name": "老司机hot",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.75"
         },
         {
           "type": "creator",
