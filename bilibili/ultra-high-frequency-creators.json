@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T15:10:19.864Z",
+  "generatedAt": "2026-06-29T16:10:20.002Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -435,6 +435,13 @@
           "id": "1497463202",
           "name": "晓艳教英语",
           "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1501388421",
+          "name": "爱吃_茯苓糕",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -988,6 +995,13 @@
           "id": "227842005",
           "name": "大都会的车西Pen",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "229111653",
+          "name": "一只宝鸽鸽",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -1653,6 +1667,13 @@
           "id": "3494379868129760",
           "name": "凋零音乐库",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494380555995930",
+          "name": "飞熊搞实力",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -3626,7 +3647,14 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=77; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 1 days; videos=78; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "456829943",
+          "name": "公安部新闻宣传局",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -4089,6 +4117,13 @@
           "id": "593958569",
           "name": "威观点",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "59550906",
+          "name": "wuhu动画人空间",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.35"
         },
         {
           "type": "creator",
