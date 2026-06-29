@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T22:10:19.796Z",
+  "generatedAt": "2026-06-29T23:10:19.843Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -635,6 +635,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "16720403",
+          "name": "pcyxjy",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1674460318",
           "name": "地层世界",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.02"
@@ -806,6 +813,13 @@
           "id": "1864431101",
           "name": "舒甜的车",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1874236854",
+          "name": "皮蛋教官",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -994,7 +1008,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -1461,6 +1475,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "33913124",
+          "name": "剧体的骚客",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "341425341",
           "name": "渣渣辉-哈佛比回收",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -1762,6 +1783,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537111932209769",
+          "name": "傲世丶神罚",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537118842325025",
           "name": "不是学长是学弟",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
@@ -1835,6 +1863,13 @@
           "id": "3546392037427376",
           "name": "CSGO赛事Jun",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546557150399193",
+          "name": "野人追剧Yr",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -3626,7 +3661,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.08"
         },
         {
           "type": "creator",
