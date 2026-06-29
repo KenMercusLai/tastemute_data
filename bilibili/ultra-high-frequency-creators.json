@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T07:10:18.921Z",
+  "generatedAt": "2026-06-29T08:10:19.465Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -810,6 +810,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2029129181",
+          "name": "蛋仔灰灰",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2035556081",
           "name": "堂主lee",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.99"
@@ -910,7 +917,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 1 days; videos=28; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -1076,6 +1083,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "264361296",
+          "name": "四季茶话社",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "26607148",
           "name": "青铜树海",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.88"
@@ -1107,6 +1121,13 @@
           "id": "275930985",
           "name": "新青年",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "27752387",
+          "name": "飞羽仙狂",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -1856,6 +1877,13 @@
           "id": "3546633058912804",
           "name": "中天全球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546633342028158",
+          "name": "白薇恩V",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -3862,6 +3890,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "577875634",
+          "name": "河南都市频道",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "578067354",
           "name": "木落Ch",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.43"
@@ -3900,6 +3935,13 @@
           "id": "60232120",
           "name": "小叮当频道",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "607563758",
+          "name": "北京卫视生命缘",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
         },
         {
           "type": "creator",
