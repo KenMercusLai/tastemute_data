@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T12:10:15.372Z",
+  "generatedAt": "2026-06-29T13:10:15.379Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -372,6 +372,13 @@
           "id": "1121360699",
           "name": "猫meme的小亦",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1122546479",
+          "name": "我是自由君",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.93"
         },
         {
           "type": "creator",
@@ -952,7 +959,7 @@
           "platform": "bilibili",
           "id": "1467772",
           "name": "封茗囧菌",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -3057,6 +3064,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "293804266",
+          "name": "半个朋友yee",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296086460",
           "name": "F1世界锦标赛",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.30"
@@ -5066,13 +5080,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3546751115987218",
-          "name": "MEOVV_TBL",
-          "reason": "Average upload gap <= 2 days; videos=16; avg_gap_days=1.99"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3546752302975108",
           "name": "阿贞爱上了语文",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
@@ -6746,6 +6753,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706943451433464",
+          "name": "THEBLACKLABEL",
+          "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706943503862319",
           "name": "电子气泡-SORA",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
@@ -8293,6 +8307,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "476106917",
+          "name": "蹦大魔",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "476597598",
           "name": "大大葡萄AI",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.86"
@@ -8839,6 +8860,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "52103692",
+          "name": "不老的老回",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "521607802",
           "name": "天硕天硕",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.97"
@@ -9044,7 +9072,7 @@
           "platform": "bilibili",
           "id": "551188239",
           "name": "企鹅带带北极熊",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.96"
         },
         {
           "type": "creator",
@@ -9682,6 +9710,13 @@
           "id": "71786018",
           "name": "伤信_",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "71961695",
+          "name": "没挤进百灵鸟小窝的人",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
