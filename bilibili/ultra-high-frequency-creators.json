@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T06:10:19.510Z",
+  "generatedAt": "2026-06-29T07:10:18.921Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -127,6 +127,13 @@
           "id": "1104888238",
           "name": "喵喵看世界",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "111019476",
+          "name": "抽象老祖Meme",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -2035,6 +2042,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546791100287478",
+          "name": "落客李",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546795441391669",
           "name": "飒野博士",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
@@ -3400,6 +3414,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "448165099",
+          "name": "军情D7处",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "454167824",
           "name": "冠希从不破防",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
@@ -3430,7 +3451,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=74; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 1 days; videos=75; avg_gap_days=0.13"
         },
         {
           "type": "creator",
