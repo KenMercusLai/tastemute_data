@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T21:10:21.256Z",
+  "generatedAt": "2026-06-30T22:10:20.974Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -203,7 +203,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -687,6 +687,13 @@
           "id": "165001727",
           "name": "lulu和露爸",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1651653587",
+          "name": "赛车区马修",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -3631,6 +3638,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707001599167122",
+          "name": "蛋仔刀盾骑士",
+          "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707002171689043",
           "name": "边牧点点-",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.90"
@@ -4509,6 +4523,13 @@
           "id": "515155585",
           "name": "快看",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "517433879",
+          "name": "中国警察网",
+          "reason": "Average upload gap <= 1 days; videos=45; avg_gap_days=0.45"
         },
         {
           "type": "creator",
