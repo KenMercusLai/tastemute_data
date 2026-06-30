@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T16:10:20.095Z",
+  "generatedAt": "2026-06-30T17:10:20.909Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1048,6 +1048,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2100812983",
+          "name": "莱雨雨official",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2128487337",
           "name": "aespa",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.22"
@@ -1359,6 +1366,13 @@
           "id": "280973906",
           "name": "EdgeAITech",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "283069183",
+          "name": "虎牙刘牛",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
         },
         {
           "type": "creator",
