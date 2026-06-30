@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T15:10:21.032Z",
+  "generatedAt": "2026-06-30T16:10:20.095Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -470,13 +470,6 @@
           "id": "1443100697",
           "name": "人民武警",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1447640221",
-          "name": "普通の宁",
-          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -1786,6 +1779,13 @@
           "id": "3493267830213183",
           "name": "沙雕布鲁斯",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493272787880903",
+          "name": "Dawn的多肉青鳉",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
