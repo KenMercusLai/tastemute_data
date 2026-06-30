@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T07:10:19.760Z",
+  "generatedAt": "2026-06-30T08:10:19.562Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -757,6 +757,13 @@
           "id": "174510224",
           "name": "国士通儒",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1768293786",
+          "name": "萌蛋夜袭",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -2777,6 +2784,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546935755541061",
+          "name": "小星不太黑",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546935921216397",
           "name": "土猪看剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
@@ -3431,6 +3445,13 @@
           "id": "3707002171689043",
           "name": "边牧点点-",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707005808151353",
+          "name": "小辉同学vlog",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
         },
         {
           "type": "creator",
