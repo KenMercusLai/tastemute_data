@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T09:10:15.346Z",
+  "generatedAt": "2026-06-30T10:10:15.568Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1594,6 +1594,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1696853179",
+          "name": "科学疯子2048",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1700726815",
           "name": "迷寂城",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.16"
@@ -2938,6 +2945,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "25839238",
+          "name": "林北菌er",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2596047",
           "name": "咕嘎可爱日常",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.82"
@@ -3487,6 +3501,13 @@
           "id": "30973654",
           "name": "网易阴阳师手游",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "312307019",
+          "name": "Dicky_Q",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.07"
         },
         {
           "type": "creator",
@@ -7474,6 +7495,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706948568483884",
+          "name": "大橘小剧",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706950873254558",
           "name": "天昊解说",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=0.75"
@@ -7519,6 +7547,13 @@
           "id": "3706959876327428",
           "name": "无敌姜神",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706960165734620",
+          "name": "灶台阿连",
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -9009,7 +9044,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=83; avg_gap_days=0.26"
+          "reason": "Average upload gap <= 2 days; videos=87; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -9128,7 +9163,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=74; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=75; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -9359,7 +9394,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -10165,6 +10200,13 @@
           "id": "60232120",
           "name": "小叮当频道",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "602451236",
+          "name": "成宇讲故事",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.89"
         },
         {
           "type": "creator",
