@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T07:10:15.435Z",
+  "generatedAt": "2026-06-30T08:10:15.508Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1723,6 +1723,13 @@
           "id": "17669771",
           "name": "丸子好好",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1768293786",
+          "name": "萌蛋夜袭",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -4184,6 +4191,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493140277233695",
+          "name": "晚安--喵星人",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493142732998844",
           "name": "权威潘大杨",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.59"
@@ -6459,6 +6473,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546935755541061",
+          "name": "小星不太黑",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546935921216397",
           "name": "土猪看剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.34"
@@ -7782,6 +7803,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707005808151353",
+          "name": "小辉同学vlog",
+          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707007393598231",
           "name": "烛龙三角洲行动",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.05"
@@ -9098,6 +9126,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "476903614",
+          "name": "何为武",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "477091300",
           "name": "旅行者欧耶",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
@@ -9192,6 +9227,13 @@
           "id": "482647474",
           "name": "小莉帮忙",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "482976959",
+          "name": "航拍-V",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.99"
         },
         {
           "type": "creator",
