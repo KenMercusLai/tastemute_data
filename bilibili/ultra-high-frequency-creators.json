@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T19:10:20.282Z",
+  "generatedAt": "2026-06-30T20:10:20.080Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3127,6 +3127,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632317910223639",
+          "name": "安特live",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632319887837439",
           "name": "b醒着做u饿梦",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
@@ -4411,6 +4418,13 @@
           "id": "504512557",
           "name": "BT财经",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "507342836",
+          "name": "子鼠暗区突围",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
