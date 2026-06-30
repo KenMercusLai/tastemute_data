@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T20:10:15.719Z",
+  "generatedAt": "2026-06-30T21:10:15.942Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3253,6 +3253,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "280439787",
+          "name": "小小小砸墨",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2804493",
           "name": "恬欣欣的成长日记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
@@ -3508,6 +3515,13 @@
           "id": "296465852",
           "name": "我爱吃派大星",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "297367147",
+          "name": "天羽柚子",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -6690,6 +6704,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546919500515754",
+          "name": "风芒新闻",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546920075135233",
           "name": "偆泥凾",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.47"
@@ -8107,6 +8128,13 @@
           "id": "3706996794591721",
           "name": "葡萄牙国家足球队",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706996951877968",
+          "name": "丫丫跟爸爸的外卖日记",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.83"
         },
         {
           "type": "creator",
@@ -9696,6 +9724,13 @@
           "id": "482976959",
           "name": "航拍-V",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "483158245",
+          "name": "我叫阿尔卑微",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.44"
         },
         {
           "type": "creator",
