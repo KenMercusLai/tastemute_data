@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T19:10:15.906Z",
+  "generatedAt": "2026-06-30T20:10:15.719Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7180,6 +7180,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632317910223639",
+          "name": "安特live",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632319835409017",
           "name": "都市零协会",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
@@ -10046,6 +10053,13 @@
           "id": "506388561",
           "name": "探T",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "507342836",
+          "name": "子鼠暗区突围",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
