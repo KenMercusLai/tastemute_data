@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T04:10:19.826Z",
+  "generatedAt": "2026-06-30T05:10:19.990Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -292,6 +292,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "128912828",
+          "name": "沙月ちゃん",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1289388278",
           "name": "动物猿记事本",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
@@ -316,6 +323,13 @@
           "id": "1309193711",
           "name": "香姐和老杨",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1312279649",
+          "name": "熊大排行",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -372,6 +386,13 @@
           "id": "1384406308",
           "name": "纽约尼克斯",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1385119005",
+          "name": "农村人旭旭",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
         },
         {
           "type": "creator",
@@ -2098,6 +2119,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546646036089074",
+          "name": "阿妮爱听歌",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546652994439663",
           "name": "我在奥星做游戏",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
@@ -3662,6 +3690,13 @@
           "id": "414509783",
           "name": "老张的鞋Deron",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "416261149",
+          "name": "油纸伞大师",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
