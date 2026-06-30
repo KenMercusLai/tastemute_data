@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T22:10:16.391Z",
+  "generatedAt": "2026-06-30T23:10:15.852Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -957,6 +957,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1380697881",
+          "name": "ChrisJames_",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1384406308",
           "name": "纽约尼克斯",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
@@ -1111,9 +1118,16 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1463996771",
+          "name": "暗区突围小船子",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1467772",
           "name": "封茗囧菌",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -1499,6 +1513,13 @@
           "id": "1614266208",
           "name": "克里森CHINA",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1614292",
+          "name": "想要一只小派蒙",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.92"
         },
         {
           "type": "creator",
@@ -3127,6 +3148,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "268810504",
+          "name": "安徽共青团",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "268941858",
           "name": "磊哥游戏",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
@@ -3918,6 +3946,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "333896150",
+          "name": "擦擦玩游戏",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "335603094",
           "name": "一腔诗意喂了丑",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.80"
@@ -4026,6 +4061,13 @@
           "id": "3461568140413116",
           "name": "一只普通的魈厨",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461569883146300",
+          "name": "老鸭好卡",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.29"
         },
         {
           "type": "creator",
@@ -8790,6 +8832,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "399564258",
+          "name": "合理又河里",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3998599",
           "name": "李弱可",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -9856,7 +9905,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.06"
         },
         {
           "type": "creator",
