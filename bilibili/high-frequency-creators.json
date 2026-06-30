@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T11:10:15.962Z",
+  "generatedAt": "2026-06-30T12:10:16.234Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4982,6 +4982,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546595370994294",
+          "name": "愚蠢的狐nick",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546595578612595",
           "name": "你被竺拱了",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.75"
@@ -5411,7 +5418,7 @@
           "platform": "bilibili",
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.99"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -5976,6 +5983,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546848155404966",
+          "name": "芳芳萤火突击",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546848606292751",
           "name": "师叔助你",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.18"
@@ -6042,6 +6056,13 @@
           "id": "3546856908917475",
           "name": "无畏契约手游",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546857487731451",
+          "name": "华芙喵wafu",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -6917,6 +6938,13 @@
           "id": "3632314034686602",
           "name": "城南城北纪实",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632316347845439",
+          "name": "RoommatesShow",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.45"
         },
         {
           "type": "creator",
@@ -8078,7 +8106,7 @@
           "platform": "bilibili",
           "id": "383705385",
           "name": "淡淡Dancey",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -9212,7 +9240,7 @@
           "platform": "bilibili",
           "id": "474595627",
           "name": "CSGO官方赛事",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -9373,7 +9401,7 @@
           "platform": "bilibili",
           "id": "4856007",
           "name": "迷影社",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -10886,6 +10914,13 @@
           "id": "74126025",
           "name": "想抱莉莉娅的云天",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "74193649",
+          "name": "_eldarC",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.74"
         },
         {
           "type": "creator",
