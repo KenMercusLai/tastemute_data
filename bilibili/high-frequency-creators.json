@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T15:10:16.002Z",
+  "generatedAt": "2026-06-30T16:10:15.557Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -915,6 +915,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1350760258",
+          "name": "上官正义-北京",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "13651973",
           "name": "郭庆梓律师",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
@@ -1050,7 +1057,7 @@
           "platform": "bilibili",
           "id": "1447640221",
           "name": "普通の宁",
-          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.74"
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.04"
         },
         {
           "type": "creator",
@@ -1092,7 +1099,7 @@
           "platform": "bilibili",
           "id": "1467772",
           "name": "封茗囧菌",
-          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -2332,6 +2339,13 @@
           "id": "2068141799",
           "name": "雀门琦琦",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "206916906",
+          "name": "猫萌大当家",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -4397,6 +4411,13 @@
           "id": "3493270386641766",
           "name": "祈君祥",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493272787880903",
+          "name": "Dawn的多肉青鳉",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -8027,6 +8048,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707002133941050",
+          "name": "Sway的乐评小站",
+          "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707002171689043",
           "name": "边牧点点-",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.90"
@@ -8695,6 +8723,13 @@
           "id": "409086587",
           "name": "一个被老婆磨平的90后",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4096581",
+          "name": "病院坂saki",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -11229,13 +11264,6 @@
           "id": "89014291",
           "name": "二战艺术家y",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "90307199",
-          "name": "Emily9333",
-          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.93"
         },
         {
           "type": "creator",
