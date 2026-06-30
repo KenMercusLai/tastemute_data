@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T11:10:21.354Z",
+  "generatedAt": "2026-06-30T12:10:25.258Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2254,7 +2254,7 @@
           "platform": "bilibili",
           "id": "3546682562185440",
           "name": "゚゚゚゚゚知更鸟",
-          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.99"
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -2504,6 +2504,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546848155404966",
+          "name": "芳芳萤火突击",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546849115900794",
           "name": "NEXZ_official",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.52"
@@ -2528,6 +2535,13 @@
           "id": "3546856550304530",
           "name": "黄沙大圣圣",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546857487731451",
+          "name": "华芙喵wafu",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -4074,7 +4088,7 @@
           "platform": "bilibili",
           "id": "474595627",
           "name": "CSGO官方赛事",
-          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -4130,7 +4144,7 @@
           "platform": "bilibili",
           "id": "4856007",
           "name": "迷影社",
-          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 1 days; videos=45; avg_gap_days=0.15"
         },
         {
           "type": "creator",
