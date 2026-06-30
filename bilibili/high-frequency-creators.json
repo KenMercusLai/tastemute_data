@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T03:10:15.347Z",
+  "generatedAt": "2026-06-30T04:10:15.348Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2938,6 +2938,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2729902",
+          "name": "ciyo",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "273460306",
           "name": "巨构ai",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
@@ -3995,6 +4002,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493111189736293",
+          "name": "心理能量1101",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493113028938255",
           "name": "雫雨aqua",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.98"
@@ -4474,6 +4488,13 @@
           "id": "352479603",
           "name": "SauceSoy",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "353001022",
+          "name": "淘淘酱酱",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -5160,6 +5181,13 @@
           "id": "3546665417968066",
           "name": "Rap轻松学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546666045017053",
+          "name": "小饼食记",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -9100,7 +9128,7 @@
           "platform": "bilibili",
           "id": "487614876",
           "name": "四川观察",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.11"
         },
         {
           "type": "creator",
