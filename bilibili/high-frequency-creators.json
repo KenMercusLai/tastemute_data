@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T21:10:15.942Z",
+  "generatedAt": "2026-06-30T22:10:16.391Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -441,7 +441,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -757,6 +757,13 @@
           "id": "1273265116",
           "name": "皓篮球",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1276916",
+          "name": "久久漫漫339",
+          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.82"
         },
         {
           "type": "creator",
@@ -1555,6 +1562,13 @@
           "id": "165011",
           "name": "海碗炸炸",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1651653587",
+          "name": "赛车区马修",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -4233,6 +4247,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493090738309746",
+          "name": "左右大大",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493092757867141",
           "name": "晓艳英语考研",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.75"
@@ -5398,6 +5419,13 @@
           "id": "3546632826128697",
           "name": "宝藏研究社",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546632993900916",
+          "name": "看主页收哈弗币换馒头",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.04"
         },
         {
           "type": "creator",
@@ -8181,6 +8209,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707001599167122",
+          "name": "蛋仔刀盾骑士",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707002133941050",
           "name": "Sway的乐评小站",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.60"
@@ -9721,6 +9756,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "482818849",
+          "name": "云顶猫咪",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "482976959",
           "name": "航拍-V",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.99"
@@ -10221,6 +10263,13 @@
           "id": "515791866",
           "name": "是阿森同学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "517433879",
+          "name": "中国警察网",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.45"
         },
         {
           "type": "creator",
