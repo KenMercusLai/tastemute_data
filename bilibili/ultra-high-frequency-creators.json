@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T05:10:19.990Z",
+  "generatedAt": "2026-06-30T06:10:19.430Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -350,7 +350,7 @@
           "platform": "bilibili",
           "id": "1322953481",
           "name": "心刚音乐库",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -1849,6 +1849,13 @@
           "id": "3537118842325025",
           "name": "不是学长是学弟",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537122084522360",
+          "name": "牛蜥蜴吃蜥蜴",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
         },
         {
           "type": "creator",
