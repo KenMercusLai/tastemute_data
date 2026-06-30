@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T10:10:20.622Z",
+  "generatedAt": "2026-06-30T11:10:21.354Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -196,7 +196,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1065,6 +1065,13 @@
           "id": "21577052",
           "name": "摄影师金先生",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "21619102",
+          "name": "网易逆水寒",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -2101,6 +2108,13 @@
           "id": "3546612464880074",
           "name": "梁伟考研英语",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546613416986721",
+          "name": "一个孤独Cheems",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -3750,6 +3764,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "41067978",
+          "name": "暴怒的哈密瓜",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "412719797",
           "name": "YouTube精彩视频-",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
@@ -4187,6 +4208,13 @@
           "id": "493250188",
           "name": "UFC终极格斗冠军赛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "494436551",
+          "name": "都市报道",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
