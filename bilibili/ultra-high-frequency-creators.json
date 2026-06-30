@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T13:10:20.638Z",
+  "generatedAt": "2026-06-30T14:10:20.279Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1681,6 +1681,13 @@
           "id": "3493106756356581",
           "name": "季大浪爱钓鱼",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493122545813507",
+          "name": "kono迪莫Sama",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -4306,6 +4313,13 @@
           "id": "502170118",
           "name": "沐幽和璃泽",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "502774633",
+          "name": "小汪玩游戏",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.97"
         },
         {
           "type": "creator",
