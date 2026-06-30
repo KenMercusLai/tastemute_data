@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T10:10:15.568Z",
+  "generatedAt": "2026-06-30T11:10:15.962Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -434,7 +434,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1993,6 +1993,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1893536951",
+          "name": "奇葩马铃薯",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1894563281",
           "name": "哔哩哔哩毕业歌会",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.59"
@@ -2500,6 +2507,13 @@
           "id": "216149391",
           "name": "汤圆小猪咪呀",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "21619102",
+          "name": "网易逆水寒",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -5069,6 +5083,13 @@
           "id": "3546612464880074",
           "name": "梁伟考研英语",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546613416986721",
+          "name": "一个孤独Cheems",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -8517,6 +8538,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "41067978",
+          "name": "暴怒的哈密瓜",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "410877001",
           "name": "喵心GG",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
@@ -8709,6 +8737,13 @@
           "id": "429886010",
           "name": "GameSir盖世小鸡官方",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "429908251",
+          "name": "泽友io",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.93"
         },
         {
           "type": "creator",
@@ -9504,6 +9539,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "494436551",
+          "name": "都市报道",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "494669258",
           "name": "每日CS2",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.17"
@@ -10008,6 +10050,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "545698827",
+          "name": "莫洺其喵",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "549746",
           "name": "猫月漫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.75"
@@ -10192,7 +10241,7 @@
           "platform": "bilibili",
           "id": "6014992",
           "name": "叫我棉被",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.06"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
         },
         {
           "type": "creator",
@@ -10333,6 +10382,13 @@
           "id": "626796832",
           "name": "洛克王国世界",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "627195541",
+          "name": "MC鱼本Yuber",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
         },
         {
           "type": "creator",
