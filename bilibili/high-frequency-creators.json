@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T01:10:15.331Z",
+  "generatedAt": "2026-06-30T02:10:15.489Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -413,7 +413,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -2574,6 +2574,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "23422518",
+          "name": "辟芷景",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "23618219",
           "name": "问肯局长是不是基",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.62"
@@ -3295,6 +3302,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "30012688",
+          "name": "不正经的af",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "300468096",
           "name": "七里翔78",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.40"
@@ -3403,6 +3417,13 @@
           "id": "315414902",
           "name": "龙神观影",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "315554376",
+          "name": "穿越火线",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -7649,6 +7670,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "379542281",
+          "name": "贱徐",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "380593855",
           "name": "苏杰伦第五人格",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.43"
@@ -8421,7 +8449,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -8687,7 +8715,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=79; avg_gap_days=0.26"
+          "reason": "Average upload gap <= 2 days; videos=83; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -9819,6 +9847,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "607437137",
+          "name": "追慕ING",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "607563758",
           "name": "北京卫视生命缘",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
@@ -10437,7 +10472,7 @@
           "platform": "bilibili",
           "id": "8237763",
           "name": "阿张RayZhang",
-          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.11"
         },
         {
           "type": "creator",
