@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T17:10:20.909Z",
+  "generatedAt": "2026-06-30T18:10:19.902Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -92,6 +92,13 @@
           "id": "105777129",
           "name": "POE魔法学院",
           "reason": "Average upload gap <= 1 days; videos=56; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "107873360",
+          "name": "莱昂凯shyeark",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -967,6 +974,13 @@
           "id": "2003685778",
           "name": "士六视界",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2010516584",
+          "name": "全能的桩宝",
+          "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -3955,7 +3969,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -3984,6 +3998,13 @@
           "id": "4351252",
           "name": "贵州2频道百姓关注",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "436553623",
+          "name": "咖啡醉足球",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.50"
         },
         {
           "type": "creator",
