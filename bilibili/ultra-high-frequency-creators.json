@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T23:10:19.843Z",
+  "generatedAt": "2026-06-30T00:10:19.894Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2392,6 +2392,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546856550304530",
+          "name": "黄沙大圣圣",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546859528260150",
           "name": "池塘里的奶糖",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
@@ -3183,6 +3190,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706965540735662",
+          "name": "心之所向kd",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706970626329208",
           "name": "一捆牛仔AllStar",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.93"
@@ -3858,6 +3872,13 @@
           "id": "4743764",
           "name": "名师论坛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "474595627",
+          "name": "CSGO官方赛事",
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.42"
         },
         {
           "type": "creator",
