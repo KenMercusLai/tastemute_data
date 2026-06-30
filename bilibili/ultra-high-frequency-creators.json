@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T14:10:20.279Z",
+  "generatedAt": "2026-06-30T15:10:21.032Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -393,6 +393,13 @@
           "id": "13651973",
           "name": "郭庆梓律师",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1367408582",
+          "name": "道文清风虞玄见",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -1513,6 +1520,13 @@
           "id": "32026774",
           "name": "侦探许烦烦",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32434670",
+          "name": "十一点包子",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -2889,6 +2903,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546942999103780",
+          "name": "文心游龙",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546946304215968",
           "name": "B站我够帅",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.50"
@@ -3305,6 +3326,13 @@
           "id": "3706941398321296",
           "name": "好物推荐-易蕤荀",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706942249765262",
+          "name": "花火火Official_",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
