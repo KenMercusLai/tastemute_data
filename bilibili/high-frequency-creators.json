@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T07:10:15.588Z",
+  "generatedAt": "2026-07-01T08:10:15.629Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1804,6 +1804,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1749710516",
+          "name": "超级爱下雨天",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "175333301",
           "name": "哇周某人",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.79"
@@ -3578,6 +3585,13 @@
           "id": "296465852",
           "name": "我爱吃派大星",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2973568",
+          "name": "言笑Ryo",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -9450,7 +9464,7 @@
           "platform": "bilibili",
           "id": "441076921",
           "name": "寒页_",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.09"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.09"
         },
         {
           "type": "creator",
