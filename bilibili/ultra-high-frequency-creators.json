@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T18:10:21.087Z",
+  "generatedAt": "2026-07-01T19:10:21.830Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -243,6 +243,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "11882236",
+          "name": "Agroce",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1221164058",
           "name": "狼队王者荣耀分部",
           "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.95"
@@ -477,6 +484,13 @@
           "id": "1443100697",
           "name": "人民武警",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1467894241",
+          "name": "火星驻地办马主任",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -1023,6 +1037,13 @@
           "id": "2010516584",
           "name": "全能的桩宝",
           "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "201691516",
+          "name": "狗沫GM",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -4768,6 +4789,13 @@
           "id": "555640450",
           "name": "王川科普",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "55876294",
+          "name": "大雄031203",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
         },
         {
           "type": "creator",
