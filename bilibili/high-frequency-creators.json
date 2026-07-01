@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T01:10:15.649Z",
+  "generatedAt": "2026-07-01T02:10:16.126Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1657,6 +1657,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "168460212",
+          "name": "风恋夏又蝶恋花",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1685024055",
           "name": "star星视频",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.00"
@@ -3246,6 +3253,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "276579356",
+          "name": "摸头白鹦鹉",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27752387",
           "name": "飞羽仙狂",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.74"
@@ -3620,6 +3634,13 @@
           "id": "300695613",
           "name": "欢乐纸条颂",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "304580067",
+          "name": "索尼音乐国际",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -11214,7 +11235,7 @@
           "platform": "bilibili",
           "id": "686127",
           "name": "籽岷",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.48"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.48"
         },
         {
           "type": "creator",
