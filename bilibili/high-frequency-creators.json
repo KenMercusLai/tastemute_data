@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T23:10:15.852Z",
+  "generatedAt": "2026-07-01T00:10:16.342Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7488,6 +7488,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690986031024443",
+          "name": "明正英",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690986358180338",
           "name": "大才小瓜",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
@@ -10676,6 +10683,13 @@
           "id": "586960020",
           "name": "那位Navi",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "588101992",
+          "name": "下水道第一鼠信",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
         },
         {
           "type": "creator",
