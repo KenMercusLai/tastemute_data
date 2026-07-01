@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T14:10:16.087Z",
+  "generatedAt": "2026-07-01T15:10:15.881Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3787,7 +3787,7 @@
           "platform": "bilibili",
           "id": "31536760",
           "name": "EDG电子竞技俱乐部",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.65"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.65"
         },
         {
           "type": "creator",
@@ -6046,6 +6046,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546742343600468",
+          "name": "果汁猫meme",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546745478843098",
           "name": "为男发声の林团长",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
@@ -6861,6 +6868,13 @@
           "id": "3546914022754526",
           "name": "帮帮妈妈-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546916147169444",
+          "name": "火影鱼丸酱",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -9595,6 +9609,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "448786235",
+          "name": "翻斗花园de呆呆",
+          "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "448973088",
           "name": "北回归线小院",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.78"
@@ -10466,6 +10487,13 @@
           "id": "517433879",
           "name": "中国警察网",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "517468401",
+          "name": "三联生活实验室",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.96"
         },
         {
           "type": "creator",
