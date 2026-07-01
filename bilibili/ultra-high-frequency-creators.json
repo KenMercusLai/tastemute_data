@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T22:10:21.585Z",
+  "generatedAt": "2026-07-01T23:10:20.270Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5019,7 +5019,7 @@
           "platform": "bilibili",
           "id": "669334488",
           "name": "环球音乐中国",
-          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.02"
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.02"
         },
         {
           "type": "creator",
