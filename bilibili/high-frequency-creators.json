@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T22:10:16.396Z",
+  "generatedAt": "2026-07-01T23:10:15.758Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6816,6 +6816,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546907217496827",
+          "name": "萧慕白1",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546907232176766",
           "name": "YouTube-武器精选",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.00"
@@ -11389,7 +11396,7 @@
           "platform": "bilibili",
           "id": "669334488",
           "name": "环球音乐中国",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.02"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.02"
         },
         {
           "type": "creator",
