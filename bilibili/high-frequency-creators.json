@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T19:10:16.402Z",
+  "generatedAt": "2026-07-01T20:10:15.389Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2696,6 +2696,13 @@
           "id": "2170934",
           "name": "明月庄主",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "219405122",
+          "name": "凌晨三点秋名山",
+          "reason": "Average upload gap <= 2 days; videos=12; avg_gap_days=1.56"
         },
         {
           "type": "creator",
