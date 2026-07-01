@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T08:10:21.098Z",
+  "generatedAt": "2026-07-01T09:10:20.028Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -960,6 +960,13 @@
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19157252",
+          "name": "雷肾",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -2052,6 +2059,13 @@
           "id": "3537112158702089",
           "name": "世一六道斑",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537115897924286",
+          "name": "荔视频",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
         },
         {
           "type": "creator",
