@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T07:10:19.337Z",
+  "generatedAt": "2026-07-01T08:10:21.098Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -796,6 +796,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1749710516",
+          "name": "超级爱下雨天",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1768293786",
           "name": "萌蛋夜袭",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
@@ -1478,6 +1485,13 @@
           "id": "296465852",
           "name": "我爱吃派大星",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2973568",
+          "name": "言笑Ryo",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
