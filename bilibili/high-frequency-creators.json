@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T08:10:15.629Z",
+  "generatedAt": "2026-07-01T09:10:15.964Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2157,6 +2157,13 @@
           "id": "1915056903",
           "name": "暗区突围",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19157252",
+          "name": "雷肾",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -4999,6 +5006,13 @@
           "id": "3537112158702089",
           "name": "世一六道斑",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537115897924286",
+          "name": "荔视频",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
         },
         {
           "type": "creator",
@@ -8939,7 +8953,7 @@
           "platform": "bilibili",
           "id": "401315430",
           "name": "星瞳_Official",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.96"
         },
         {
           "type": "creator",
@@ -10956,6 +10970,13 @@
           "id": "61443545",
           "name": "超级桂花糕",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "61838763",
+          "name": "波西米亚c",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.51"
         },
         {
           "type": "creator",
