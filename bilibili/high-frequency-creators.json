@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T09:10:15.964Z",
+  "generatedAt": "2026-07-01T10:10:16.219Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10417,6 +10417,13 @@
           "id": "517433879",
           "name": "中国警察网",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "517491339",
+          "name": "好奇星人知识喵",
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.32"
         },
         {
           "type": "creator",
