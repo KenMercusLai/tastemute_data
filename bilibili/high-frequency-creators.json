@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T02:10:16.126Z",
+  "generatedAt": "2026-07-01T03:10:16.437Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7999,6 +7999,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706965540735373",
+          "name": "温峥嵘",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706965540735662",
           "name": "心之所向kd",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
@@ -10914,6 +10921,13 @@
           "id": "6250993",
           "name": "看看新闻Knews",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "626297715",
+          "name": "荒草音乐",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
         },
         {
           "type": "creator",
