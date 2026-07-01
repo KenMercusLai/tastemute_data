@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T10:10:16.219Z",
+  "generatedAt": "2026-07-01T11:10:15.807Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1317,6 +1317,13 @@
           "id": "1539932365",
           "name": "李_鸿政",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1540635171",
+          "name": "亦轩无畏契约",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -7873,6 +7880,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706939330529347",
+          "name": "禾视动画",
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706940358134552",
           "name": "重生之我在英国炸薯条",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.23"
@@ -8736,7 +8750,7 @@
           "platform": "bilibili",
           "id": "391586627",
           "name": "鬼鬼goghost",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.10"
         },
         {
           "type": "creator",
