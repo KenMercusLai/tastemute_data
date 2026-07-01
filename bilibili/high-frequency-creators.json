@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T06:10:15.680Z",
+  "generatedAt": "2026-07-01T07:10:15.588Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10512,6 +10512,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "524432475",
+          "name": "陕西警方",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "52502322",
           "name": "小管同學",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.48"
@@ -11782,6 +11789,13 @@
           "id": "97213827",
           "name": "潜艇伟伟迷",
           "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "97306998",
+          "name": "糊涂的宁哥",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.01"
         },
         {
           "type": "creator",
