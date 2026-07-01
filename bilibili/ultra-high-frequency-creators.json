@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T10:10:21.391Z",
+  "generatedAt": "2026-07-01T11:10:20.269Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3466,6 +3466,13 @@
           "id": "3706933393492459",
           "name": "陈皮三角洲",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706939330529347",
+          "name": "禾视动画",
+          "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.81"
         },
         {
           "type": "creator",
