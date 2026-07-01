@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T18:10:15.897Z",
+  "generatedAt": "2026-07-01T19:10:16.402Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -533,6 +533,13 @@
           "id": "1185017133",
           "name": "ITZY",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11882236",
+          "name": "Agroce",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -1128,6 +1135,13 @@
           "id": "1467772",
           "name": "封茗囧菌",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1467894241",
+          "name": "火星驻地办马主任",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -2360,6 +2374,13 @@
           "id": "2010516584",
           "name": "全能的桩宝",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "201691516",
+          "name": "狗沫GM",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -4754,6 +4775,13 @@
           "id": "3493288048855826",
           "name": "不会剪辑的小草",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493289724480016",
+          "name": "海底赶海",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -10816,6 +10844,13 @@
           "id": "558679553",
           "name": "秀儿衫就这样",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "55876294",
+          "name": "大雄031203",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.64"
         },
         {
           "type": "creator",
