@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T11:10:15.807Z",
+  "generatedAt": "2026-07-01T12:10:16.347Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1699,6 +1699,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1703465813",
+          "name": "老莫讲宇宙",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "170403786",
           "name": "士口加I",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.05"
@@ -2136,6 +2143,13 @@
           "id": "1904174",
           "name": "英语雪梨老师",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1905206817",
+          "name": "洛阳网",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -4499,6 +4513,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493136269576291",
+          "name": "803反诈",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493137005677523",
           "name": "Will游戏堂",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.37"
@@ -5020,6 +5041,13 @@
           "id": "3537115897924286",
           "name": "荔视频",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537117080718205",
+          "name": "阿東学长",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.45"
         },
         {
           "type": "creator",
@@ -5790,6 +5818,13 @@
           "id": "3546687932991974",
           "name": "绝区零第一可爱兔宝",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546694243322287",
+          "name": "PCKCOOL",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.30"
         },
         {
           "type": "creator",
