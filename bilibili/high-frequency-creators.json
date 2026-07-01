@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T04:10:16.175Z",
+  "generatedAt": "2026-07-01T05:10:15.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3365,6 +3365,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "28314637",
+          "name": "表面兄弟七哥",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "283310205",
           "name": "韩路有点意思",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.27"
@@ -5272,6 +5279,13 @@
           "id": "3546591034083329",
           "name": "小藤777",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546594741848906",
+          "name": "团团的一家-团团记",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
         },
         {
           "type": "creator",
