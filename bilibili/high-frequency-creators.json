@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T03:10:16.437Z",
+  "generatedAt": "2026-07-01T04:10:16.175Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3841,6 +3841,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "324473490",
+          "name": "中国青年报",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "32450305",
           "name": "丷涂山红红",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.75"
@@ -4964,6 +4971,13 @@
           "id": "3537111932209769",
           "name": "傲世丶神罚",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537112158702089",
+          "name": "世一六道斑",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
