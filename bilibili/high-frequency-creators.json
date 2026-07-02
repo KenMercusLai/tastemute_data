@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T02:10:15.793Z",
+  "generatedAt": "2026-07-02T03:10:15.720Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4443,6 +4443,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493104340437460",
+          "name": "大冰直播间",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493106756356581",
           "name": "季大浪爱钓鱼",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
@@ -7596,6 +7603,13 @@
           "id": "3690975432018906",
           "name": "只只漫漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690975469766697",
+          "name": "子义三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.43"
         },
         {
           "type": "creator",
