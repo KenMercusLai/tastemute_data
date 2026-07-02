@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T11:10:20.630Z",
+  "generatedAt": "2026-07-02T12:10:20.100Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -217,7 +217,7 @@
           "platform": "bilibili",
           "id": "11332884",
           "name": "Key725",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.71"
         },
         {
           "type": "creator",
@@ -1062,6 +1062,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2005765733",
+          "name": "虾吱菌Ebi",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2010516584",
           "name": "全能的桩宝",
           "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.89"
@@ -1611,6 +1618,13 @@
           "id": "306476803",
           "name": "王心凌FM",
           "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "308022433",
+          "name": "茶茶招堡-橙珞",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -3232,6 +3246,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546978375960667",
+          "name": "语小九",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546978954775149",
           "name": "华强北猴哥数码",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.64"
@@ -3473,6 +3494,13 @@
           "id": "3690985613691763",
           "name": "中天小事",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690986844719605",
+          "name": "绿宝石GreenGem",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
         },
         {
           "type": "creator",
@@ -4768,6 +4796,13 @@
           "id": "515155585",
           "name": "快看",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "516094876",
+          "name": "串爆的社会实践",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.89"
         },
         {
           "type": "creator",
