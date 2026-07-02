@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T12:10:20.100Z",
+  "generatedAt": "2026-07-02T13:10:19.869Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -404,6 +404,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1358014912",
+          "name": "白樱iridescent",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "13651973",
           "name": "郭庆梓律师",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
@@ -721,7 +728,7 @@
           "platform": "bilibili",
           "id": "1651653587",
           "name": "赛车区马修",
-          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.57"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -1965,6 +1972,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493257409464519",
+          "name": "骆驼新星",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493261928827813",
           "name": "蛋仔饭特稀",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.73"
@@ -2623,6 +2637,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546727258786543",
+          "name": "bbnoyuan",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546737964747183",
           "name": "不墨迹真测评",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.93"
@@ -3235,6 +3256,13 @@
           "id": "3546968718576133",
           "name": "必购",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546970421463186",
+          "name": "颗秒排行",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
         },
         {
           "type": "creator",
@@ -3911,6 +3939,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707007286642999",
+          "name": "小福猪动漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707007546689921",
           "name": "陈年老叶_YE",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.78"
@@ -4047,6 +4082,13 @@
           "id": "388742853",
           "name": "PlayStation",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "389492882",
+          "name": "梦幻光o",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -4473,7 +4515,7 @@
           "platform": "bilibili",
           "id": "46470268",
           "name": "央视军事",
-          "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=74; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -5083,6 +5125,13 @@
           "id": "61879712",
           "name": "老司机hot",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "620775745",
+          "name": "杰特潘",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.39"
         },
         {
           "type": "creator",
