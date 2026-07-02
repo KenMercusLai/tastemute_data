@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T04:10:20.212Z",
+  "generatedAt": "2026-07-02T05:10:19.815Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -750,6 +750,13 @@
           "id": "1681299250",
           "name": "迈阿密热火",
           "reason": "Average upload gap <= 1 days; videos=12; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1684104875",
+          "name": "津漂三晋人",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -2651,6 +2658,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546789307222639",
+          "name": "千尘绝区零",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546791100287478",
           "name": "落客李",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
@@ -3389,6 +3403,13 @@
           "id": "3690975469766697",
           "name": "子义三角洲行动",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690975635442198",
+          "name": "幻影追剧",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
         },
         {
           "type": "creator",
