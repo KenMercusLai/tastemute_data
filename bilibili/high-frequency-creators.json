@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T06:10:15.409Z",
+  "generatedAt": "2026-07-02T07:10:15.397Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5122,6 +5122,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537109900069069",
+          "name": "果果子的奶奶",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537111126903306",
           "name": "林正蓝天师三角洲",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.92"
@@ -8310,6 +8317,13 @@
           "id": "3706965540735662",
           "name": "心之所向kd",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706966857746904",
+          "name": "新疆楊大大",
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=0.37"
         },
         {
           "type": "creator",
