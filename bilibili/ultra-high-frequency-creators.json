@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T06:10:20.049Z",
+  "generatedAt": "2026-07-02T07:10:19.959Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3711,6 +3711,13 @@
           "id": "3706965540735662",
           "name": "心之所向kd",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706966857746904",
+          "name": "新疆楊大大",
+          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.37"
         },
         {
           "type": "creator",
