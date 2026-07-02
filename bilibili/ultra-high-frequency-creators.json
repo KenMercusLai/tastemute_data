@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T20:10:21.197Z",
+  "generatedAt": "2026-07-02T21:10:20.780Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1267,7 +1267,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -1461,6 +1461,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "257958427",
+          "name": "bilibili新国辩",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "25839238",
           "name": "林北菌er",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
@@ -1569,13 +1576,6 @@
           "id": "283069183",
           "name": "虎牙刘牛",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "283691575",
-          "name": "吉罗很快乐",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -2231,6 +2231,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "351783646",
+          "name": "爱足球的谢宇宁",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3519797",
           "name": "战术级子轩",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.92"
@@ -2472,6 +2479,13 @@
           "id": "3546591034083329",
           "name": "小藤777",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546593938639500",
+          "name": "罗胖罗振宇",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -3512,6 +3526,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632313923537585",
+          "name": "哈基米曼波三角洲行动",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632314034686602",
           "name": "城南城北纪实",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.01"
@@ -4429,6 +4450,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "414615582",
+          "name": "咪咕体育",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "416261149",
           "name": "油纸伞大师",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
@@ -4648,7 +4676,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=90; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=92; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -5496,6 +5524,13 @@
           "id": "695415885",
           "name": "名门天后-邪恶人格",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "697389811",
+          "name": "P-apyrus",
+          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.48"
         },
         {
           "type": "creator",
