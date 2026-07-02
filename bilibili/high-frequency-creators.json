@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T23:10:15.758Z",
+  "generatedAt": "2026-07-02T00:10:16.298Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11037,6 +11037,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "604213477",
+          "name": "韵汐小乐园",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "605433916",
           "name": "诡秘之主官方",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.30"
@@ -11712,6 +11719,13 @@
           "id": "75",
           "name": "丸子",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "76501610",
+          "name": "霹雳大凤凰",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.88"
         },
         {
           "type": "creator",
