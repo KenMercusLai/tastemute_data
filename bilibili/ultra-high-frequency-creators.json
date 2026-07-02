@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T21:10:20.780Z",
+  "generatedAt": "2026-07-02T22:10:20.320Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1771,7 +1771,7 @@
           "platform": "bilibili",
           "id": "324473490",
           "name": "中国青年报",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -1912,6 +1912,13 @@
           "id": "3493075135498407",
           "name": "Go1denApple",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493077486405823",
+          "name": "丁盾盾",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -2822,6 +2829,13 @@
           "id": "3546778829850973",
           "name": "晚月_Tsuki",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546779343653733",
+          "name": "英雄亚冠ACL",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -4522,7 +4536,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.08"
         },
         {
           "type": "creator",
