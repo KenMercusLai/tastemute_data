@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T13:10:19.869Z",
+  "generatedAt": "2026-07-02T14:10:21.043Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -203,7 +203,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=56; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -267,6 +267,13 @@
           "id": "12394995",
           "name": "粗犷毛线君",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1240188952",
+          "name": "说真相",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -2035,6 +2042,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493275807779732",
+          "name": "可乐动画吖",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493277877668090",
           "name": "Tiramisu_sk",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.85"
@@ -2087,6 +2101,13 @@
           "id": "3494365804628834",
           "name": "杂食玩家北华念",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "349437526",
+          "name": "B站土木宗当归",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -2276,6 +2297,13 @@
           "id": "3546392437984168",
           "name": "粥千千Money_",
           "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546556890352244",
+          "name": "第四面墙外-",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -3659,6 +3687,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706930832869634",
+          "name": "蛋仔派对阿金",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706933393492459",
           "name": "陈皮三角洲",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.55"
@@ -3904,6 +3939,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706997107067068",
+          "name": "老王在远古",
+          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706998401009977",
           "name": "Soulthrower飞刀冠军",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
@@ -3956,6 +3998,13 @@
           "id": "3707009648036141",
           "name": "内向老赵",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707016581221211",
+          "name": "内向的手机店老板",
+          "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -4487,14 +4536,14 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=87; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=88; avg_gap_days=0.32"
         },
         {
           "type": "creator",
           "platform": "bilibili",
           "id": "456829943",
           "name": "公安部新闻宣传局",
-          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.23"
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -4530,6 +4579,13 @@
           "id": "470995011",
           "name": "蔡雅奇刑法",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "471050418",
+          "name": "马未都",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -4775,6 +4831,13 @@
           "id": "504512557",
           "name": "BT财经",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "505379154",
+          "name": "太白雪动漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
         },
         {
           "type": "creator",
