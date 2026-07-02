@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T16:10:20.568Z",
+  "generatedAt": "2026-07-02T17:10:21.582Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -407,6 +407,13 @@
           "id": "1334078880",
           "name": "上海轶瞳网络",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1339268",
+          "name": "农民新八",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.81"
         },
         {
           "type": "creator",
@@ -1338,6 +1345,13 @@
           "id": "23972272",
           "name": "苦练李香兰",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2412557",
+          "name": "龟仙人龟娘",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -3533,6 +3547,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690975343938310",
+          "name": "蓝莓是只狸花猫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690975432018906",
           "name": "只只漫漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.96"
@@ -4639,6 +4660,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "472913454",
+          "name": "街足小鑫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "4729816",
           "name": "赵小爽729",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
@@ -4760,7 +4788,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 1 days; videos=45; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -5363,6 +5391,13 @@
           "id": "676801913",
           "name": "Tsyi意仔",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "68982145",
+          "name": "南墙Miao喵",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.93"
         },
         {
           "type": "creator",
