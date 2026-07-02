@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T17:10:21.582Z",
+  "generatedAt": "2026-07-02T18:10:20.058Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1093,6 +1093,13 @@
           "id": "2010516584",
           "name": "全能的桩宝",
           "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2013376075",
+          "name": "HoYoFair",
+          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -2395,6 +2402,13 @@
           "id": "3546564792420361",
           "name": "暴走黄老板",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546568328218880",
+          "name": "央视文旅",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -4599,7 +4613,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=89; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=90; avg_gap_days=0.32"
         },
         {
           "type": "creator",
