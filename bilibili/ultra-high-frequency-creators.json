@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T19:10:21.302Z",
+  "generatedAt": "2026-07-02T20:10:21.197Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -28,7 +28,7 @@
           "platform": "bilibili",
           "id": "1004246390",
           "name": "无畏契约电竞",
-          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -50,6 +50,13 @@
           "id": "102999485",
           "name": "华为终端",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10303206",
+          "name": "环球时报",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -140,7 +147,7 @@
           "platform": "bilibili",
           "id": "108532523",
           "name": "英雄联盟赛事",
-          "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.25"
+          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -981,6 +988,13 @@
           "id": "1864431101",
           "name": "舒甜的车",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1867070039",
+          "name": "久叶末",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.73"
         },
         {
           "type": "creator",
@@ -5195,6 +5209,13 @@
           "id": "58443290",
           "name": "---阿酒---",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "587050283",
+          "name": "三国杀",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
         },
         {
           "type": "creator",
