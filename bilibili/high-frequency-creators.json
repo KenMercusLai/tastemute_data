@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T21:10:15.591Z",
+  "generatedAt": "2026-07-02T22:10:16.239Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -617,6 +617,13 @@
           "id": "1212205382",
           "name": "国补一线员",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1213282302",
+          "name": "我的音乐你听吗",
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -4200,7 +4207,7 @@
           "platform": "bilibili",
           "id": "324473490",
           "name": "中国青年报",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -4600,6 +4607,13 @@
           "id": "3493077352188815",
           "name": "童锦程最深情的男人",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493077486405823",
+          "name": "丁盾盾",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -6630,6 +6644,13 @@
           "id": "3546778829850973",
           "name": "晚月_Tsuki",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546779343653733",
+          "name": "英雄亚冠ACL",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -10157,7 +10178,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -10200,6 +10221,13 @@
           "id": "435216912",
           "name": "达说特说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "43563506",
+          "name": "湖南共青团",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -10452,6 +10480,13 @@
           "id": "454339869",
           "name": "一只皮卡丘__",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "454418057",
+          "name": "得soyo得天下",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.56"
         },
         {
           "type": "creator",
