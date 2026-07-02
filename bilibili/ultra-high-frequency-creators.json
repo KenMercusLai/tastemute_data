@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-01T23:10:20.270Z",
+  "generatedAt": "2026-07-02T00:10:20.741Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4873,6 +4873,13 @@
           "id": "60232120",
           "name": "小叮当频道",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "604213477",
+          "name": "韵汐小乐园",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
