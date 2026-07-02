@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T14:10:15.432Z",
+  "generatedAt": "2026-07-02T15:10:15.578Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3715,6 +3715,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "29226636",
+          "name": "木槿CN",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "292627743",
           "name": "疯狂的西蒙斯",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.77"
@@ -4870,6 +4877,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493274260081625",
+          "name": "我乃厨师长",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493275730184754",
           "name": "博文追剧",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
@@ -4915,6 +4929,13 @@
           "id": "3493280597674468",
           "name": "咸蛋黄19002",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493281709165090",
+          "name": "ATEEZ_Official",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -7239,6 +7260,13 @@
           "id": "3546923113909191",
           "name": "凯歌炒饭-山治",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546924208622401",
+          "name": "爱分享的塔米",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -10171,7 +10199,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=88; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -10326,6 +10354,13 @@
           "id": "474595627",
           "name": "CSGO官方赛事",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "475527546",
+          "name": "零响晤人",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.39"
         },
         {
           "type": "creator",
