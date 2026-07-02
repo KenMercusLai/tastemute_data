@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T05:10:19.815Z",
+  "generatedAt": "2026-07-02T06:10:20.049Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -56,7 +56,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.88"
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -449,6 +449,13 @@
           "id": "1393144937",
           "name": "短剧女神",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13934589",
+          "name": "嗨氏丶",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -2448,6 +2455,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546645614562148",
+          "name": "胡说老王商业思维",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546646036089074",
           "name": "阿妮爱听歌",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
@@ -2969,6 +2983,13 @@
           "id": "3546905697061655",
           "name": "宇宙没有售后",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546905892096226",
+          "name": "舆论装甲车",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.14"
         },
         {
           "type": "creator",
@@ -3932,6 +3953,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "382644004",
+          "name": "时灵时不灵兮",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "383666009",
           "name": "京东",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
@@ -4327,6 +4355,13 @@
           "id": "448165099",
           "name": "军情D7处",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "449704680",
+          "name": "意识DT",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -5213,6 +5248,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "7267829",
+          "name": "盘特拉",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "72969462",
           "name": "笔给你你来写_",
           "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.49"
@@ -5286,6 +5328,13 @@
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "94016100",
+          "name": "Houson猴姆独家",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
