@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T22:10:20.320Z",
+  "generatedAt": "2026-07-02T23:10:19.784Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -880,6 +880,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "17716502",
+          "name": "福建争有趣",
+          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "178549",
           "name": "八爪鱼fishly",
           "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.66"
@@ -1748,6 +1755,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "318488460",
+          "name": "游小浪Game",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "319100322",
           "name": "杰哥相亲",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.51"
@@ -1940,6 +1954,13 @@
           "id": "3493083209533523",
           "name": "SkinSpotlights",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493087382866600",
+          "name": "JayMe官方粉丝社区",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -3533,6 +3554,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632305123887976",
+          "name": "海盐气泡番剧社",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632313441192505",
           "name": "账号已注销",
           "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.09"
@@ -4422,6 +4450,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "405724215",
+          "name": "夸克_Quark",
+          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "406873071",
           "name": "宫阙万间做土",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.25"
@@ -5083,6 +5118,13 @@
           "id": "517468401",
           "name": "三联生活实验室",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "519739982",
+          "name": "冰糖方糕",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.39"
         },
         {
           "type": "creator",
