@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T03:10:21.045Z",
+  "generatedAt": "2026-07-02T04:10:20.212Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -509,6 +509,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "14773882",
+          "name": "杂食颖颖",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "14793642",
           "name": "NighTa奈特",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
@@ -995,6 +1002,13 @@
           "id": "19157252",
           "name": "雷肾",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1942206390",
+          "name": "酸黄瓜和通哥",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -2189,6 +2203,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546388740704590",
+          "name": "超高清4k修复",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546389868972074",
           "name": "小米汽车",
           "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.57"
@@ -2437,6 +2458,13 @@
           "id": "3546653000731413",
           "name": "你的纪录片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546659933915854",
+          "name": "小虾米的冒险",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
