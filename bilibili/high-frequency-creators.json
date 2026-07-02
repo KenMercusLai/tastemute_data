@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T17:10:16.731Z",
+  "generatedAt": "2026-07-02T18:10:15.650Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -484,6 +484,13 @@
           "id": "1138234999",
           "name": "比奇堡历险记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "114002580",
+          "name": "坂柳奏",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.22"
         },
         {
           "type": "creator",
@@ -1594,6 +1601,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1609962522",
+          "name": "峰峰V吃鸡V",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "16110280",
           "name": "jojo瑞兹",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.11"
@@ -2198,7 +2212,7 @@
           "platform": "bilibili",
           "id": "1885634",
           "name": "Areazi_",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -2493,6 +2507,13 @@
           "id": "2010516584",
           "name": "全能的桩宝",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2013376075",
+          "name": "HoYoFair",
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -2997,6 +3018,13 @@
           "id": "23097435",
           "name": "罗永浩粉丝团",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23103953",
+          "name": "暗区梅理猫",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.07"
         },
         {
           "type": "creator",
@@ -5594,6 +5622,13 @@
           "id": "3546564792420361",
           "name": "暴走黄老板",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546568328218880",
+          "name": "央视文旅",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -10318,7 +10353,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=90; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -10480,6 +10515,13 @@
           "id": "474595627",
           "name": "CSGO官方赛事",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "475323100",
+          "name": "Paper朱",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
         },
         {
           "type": "creator",
