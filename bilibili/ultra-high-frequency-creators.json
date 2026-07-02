@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T18:10:20.058Z",
+  "generatedAt": "2026-07-02T19:10:21.302Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1307,6 +1307,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "22981231",
+          "name": "-串子-",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "229825068",
           "name": "爱炸毛的小煤球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
@@ -1358,7 +1365,7 @@
           "platform": "bilibili",
           "id": "2412557",
           "name": "龟仙人龟娘",
-          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -2451,6 +2458,13 @@
           "id": "3546591034083329",
           "name": "小藤777",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546604292278822",
+          "name": "楞小欠",
+          "reason": "Average upload gap <= 1 days; videos=10; avg_gap_days=0.87"
         },
         {
           "type": "creator",
@@ -4569,6 +4583,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "451320374",
+          "name": "央视网快看",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "454167824",
           "name": "冠希从不破防",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
@@ -5285,7 +5306,7 @@
           "platform": "bilibili",
           "id": "6250993",
           "name": "看看新闻Knews",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.03"
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.03"
         },
         {
           "type": "creator",
