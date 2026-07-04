@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-04T11:10:15.412Z",
+  "generatedAt": "2026-07-04T12:10:16.005Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3414,6 +3414,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1908537643",
+          "name": "咻咻满在发光",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1909477211",
           "name": "用AI玩转生活",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
@@ -3893,6 +3900,13 @@
           "id": "2051232429",
           "name": "军盲逆袭班",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2051467033",
+          "name": "星洛游戏分享",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.60"
         },
         {
           "type": "creator",
@@ -10162,6 +10176,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546848144918656",
+          "name": "傻狗与AI",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546848155404966",
           "name": "芳芳萤火突击",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
@@ -11012,6 +11033,13 @@
           "id": "3546919695550649",
           "name": "每日积累",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546919697648462",
+          "name": "紫桐小窝",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -15195,6 +15223,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "405484897",
+          "name": "龙翔可乐",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "405724215",
           "name": "夸克_Quark",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.70"
@@ -16653,7 +16688,7 @@
           "platform": "bilibili",
           "id": "481323155",
           "name": "小雪_喵",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.95"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.95"
         },
         {
           "type": "creator",
