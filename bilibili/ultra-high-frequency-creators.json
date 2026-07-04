@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-04T04:10:20.583Z",
+  "generatedAt": "2026-07-04T05:10:20.441Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -211,6 +211,13 @@
           "id": "1093343902",
           "name": "公益动漫社",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1098042985",
+          "name": "探秘笔记",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -1265,6 +1272,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1749214803",
+          "name": "空间捕手-",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1749710516",
           "name": "超级爱下雨天",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.70"
@@ -2126,6 +2140,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "25516977",
+          "name": "飞云渡月的白菜",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "25629038",
           "name": "多巴安工作室",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=1.00"
@@ -2819,6 +2840,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3461582562527249",
+          "name": "健康LOVE",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "346344723",
           "name": "中国足球小将",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.44"
@@ -3039,6 +3067,13 @@
           "id": "3493139715197482",
           "name": "红果山大王",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493142282111602",
+          "name": "聊天恋爱指南",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -4114,6 +4149,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546712962500999",
+          "name": "大型纪录片之王",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546715500055234",
           "name": "三千里追鸭",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
@@ -4215,6 +4257,13 @@
           "id": "3546739109792577",
           "name": "鲤鱼蛋002",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546741104183937",
+          "name": "油管精選字幕组",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
         },
         {
           "type": "creator",
@@ -6655,6 +6704,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706990041762512",
+          "name": "可可想分享",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706991146961757",
           "name": "垃圾桶翻丝袜",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
@@ -7652,6 +7708,13 @@
           "id": "449704680",
           "name": "意识DT",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "450593259",
+          "name": "冷夜愚歌",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.78"
         },
         {
           "type": "creator",
