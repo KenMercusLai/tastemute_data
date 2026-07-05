@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T06:10:22.259Z",
+  "generatedAt": "2026-07-05T07:10:22.075Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2833,6 +2833,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "27689629",
+          "name": "战神的利刃-",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27752387",
           "name": "飞羽仙狂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
@@ -4194,6 +4201,13 @@
           "id": "3494366354082721",
           "name": "赢视杂谈",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494368386222410",
+          "name": "泡泡剧解析",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
