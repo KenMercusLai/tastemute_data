@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T06:10:16.809Z",
+  "generatedAt": "2026-07-05T07:10:17.004Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1142,6 +1142,13 @@
           "id": "1227140964",
           "name": "龚杨杰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1228364685",
+          "name": "我是露露lulu呀",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.48"
         },
         {
           "type": "creator",
@@ -4625,6 +4632,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2078936111",
+          "name": "长话短说了",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "20804689",
           "name": "李宇春疯狂工作室",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.79"
@@ -5944,6 +5958,13 @@
           "id": "27671761",
           "name": "放松解压音乐馆",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "27689629",
+          "name": "战神的利刃-",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -8790,6 +8811,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494368386222410",
+          "name": "泡泡剧解析",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494369006979716",
           "name": "在下逗宗",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.68"
@@ -11159,6 +11187,13 @@
           "id": "3546770701290061",
           "name": "泡芙卷卷g",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546770994891625",
+          "name": "样样不废话",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
         },
         {
           "type": "creator",
