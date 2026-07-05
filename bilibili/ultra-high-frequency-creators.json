@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T15:10:21.839Z",
+  "generatedAt": "2026-07-05T16:10:21.287Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3673,6 +3673,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "347443092",
+          "name": "时间倒退十年",
+          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "348493898",
           "name": "人类史学家",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
@@ -5675,6 +5682,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546818000456330",
+          "name": "幺幺动漫1",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546818656864699",
           "name": "脑补-大揭秘",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.71"
@@ -5888,6 +5902,13 @@
           "id": "3546853096294581",
           "name": "哪吒动画",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546853266164324",
+          "name": "米粒975",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -8601,6 +8622,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706977630817065",
+          "name": "勿念安_",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706977704216743",
           "name": "绘梦师Coco",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.82"
@@ -8821,6 +8849,13 @@
           "id": "3706997107067068",
           "name": "老王在远古",
           "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706997232896650",
+          "name": "韩老魔漫剧",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
         },
         {
           "type": "creator",
