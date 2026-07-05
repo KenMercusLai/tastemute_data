@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T13:10:16.677Z",
+  "generatedAt": "2026-07-05T14:10:16.549Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1324,6 +1324,13 @@
           "id": "12586317",
           "name": "cccccccccccc2018",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1258830034",
+          "name": "bili_21030657733",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=0.96"
         },
         {
           "type": "creator",
@@ -4810,6 +4817,13 @@
           "id": "2102365375",
           "name": "一五老师选好书上好课",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2103702846",
+          "name": "知识科普怪",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.94"
         },
         {
           "type": "creator",
@@ -10708,6 +10722,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546683812088265",
+          "name": "中外史鉴",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546687117200352",
           "name": "AI生图教程",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
@@ -14323,6 +14344,13 @@
           "id": "36335732",
           "name": "老实人林少",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "363430107",
+          "name": "时光琉影",
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -18835,6 +18863,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "436456555",
+          "name": "渡说电影",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "436553623",
           "name": "咖啡醉足球",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
@@ -22828,6 +22863,13 @@
           "id": "696098667",
           "name": "张世先",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "696369491",
+          "name": "lin距离社交",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
         },
         {
           "type": "creator",
