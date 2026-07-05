@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T15:10:16.477Z",
+  "generatedAt": "2026-07-05T16:10:16.446Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7733,6 +7733,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "347443092",
+          "name": "时间倒退十年",
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "347667464",
           "name": "老爸评测",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
@@ -10099,6 +10106,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546609094756643",
+          "name": "千寻简笔画102",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546610422253638",
           "name": "哎哎电影",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.38"
@@ -10897,6 +10911,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546714487130888",
+          "name": "又长一岁重名了",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546715500055234",
           "name": "三千里追鸭",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
@@ -11576,6 +11597,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546795384769164",
+          "name": "刹那观察室",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546795441391669",
           "name": "飒野博士",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
@@ -11684,6 +11712,13 @@
           "id": "3546817360824486",
           "name": "森火南明",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546818000456330",
+          "name": "幺幺动漫1",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -11803,6 +11838,13 @@
           "id": "3546829991971305",
           "name": "博哥音乐库",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546830417693175",
+          "name": "落叶观察室",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -12020,6 +12062,13 @@
           "id": "3546853096294581",
           "name": "哪吒动画",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546853266164324",
+          "name": "米粒975",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -16266,6 +16315,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706977630817065",
+          "name": "勿念安_",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706977704216743",
           "name": "绘梦师Coco",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.82"
@@ -16668,6 +16724,13 @@
           "id": "3706997163690610",
           "name": "阿根廷国家足球队",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706997232896650",
+          "name": "韩老魔漫剧",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.04"
         },
         {
           "type": "creator",
