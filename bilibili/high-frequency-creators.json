@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T14:10:16.549Z",
+  "generatedAt": "2026-07-05T15:10:16.477Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -946,6 +946,13 @@
           "id": "1174070015",
           "name": "哔哩历史研究员",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1179637796",
+          "name": "慧慧饱饱呀",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -16318,6 +16325,13 @@
           "id": "3706979048491748",
           "name": "小波波甜啦啦茶饮师",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706979159640963",
+          "name": "青禾光影",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.44"
         },
         {
           "type": "creator",
