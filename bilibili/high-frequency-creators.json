@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T09:10:16.720Z",
+  "generatedAt": "2026-07-05T10:10:17.031Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1036,7 +1036,7 @@
           "platform": "bilibili",
           "id": "1201878532",
           "name": "TEAM-COMYA",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.78"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -8811,6 +8811,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494354406607479",
+          "name": "阿悬说电影",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494356847691889",
           "name": "小奶猫08",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.61"
@@ -8947,6 +8954,13 @@
           "id": "3494377917778169",
           "name": "雾野漫游-",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494378341403426",
+          "name": "梗学堂",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -15475,6 +15489,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706935937337649",
+          "name": "不爱钓鱼的虾仁动画漫",
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706937453579038",
           "name": "秋鸿有声",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
@@ -17249,6 +17270,13 @@
           "id": "38568774",
           "name": "鬼叔黍",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "385914850",
+          "name": "zj1d",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -23563,6 +23591,13 @@
           "id": "9797765",
           "name": "颜兔沙雕动画",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "98610101",
+          "name": "照理说事",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
