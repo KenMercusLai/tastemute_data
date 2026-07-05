@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T13:10:21.954Z",
+  "generatedAt": "2026-07-05T14:10:22.421Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -638,6 +638,13 @@
           "id": "12586317",
           "name": "cccccccccccc2018",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1258830034",
+          "name": "bili_21030657733",
+          "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=0.96"
         },
         {
           "type": "creator",
@@ -5188,6 +5195,13 @@
           "id": "3546683629636415",
           "name": "奇遇紫金牛",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546683812088265",
+          "name": "中外史鉴",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
