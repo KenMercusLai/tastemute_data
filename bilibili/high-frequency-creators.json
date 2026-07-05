@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T10:10:17.031Z",
+  "generatedAt": "2026-07-05T11:10:16.973Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7302,6 +7302,13 @@
           "id": "333056401",
           "name": "绿化锂",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "333725866",
+          "name": "张昊泽zhz",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.55"
         },
         {
           "type": "creator",
