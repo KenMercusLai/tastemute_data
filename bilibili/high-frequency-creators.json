@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T02:10:15.770Z",
+  "generatedAt": "2026-07-05T03:10:16.773Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13070,6 +13070,13 @@
           "id": "3546952327235979",
           "name": "番茄土豆听书",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546953006713427",
+          "name": "光影麻瓜",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
         },
         {
           "type": "creator",
