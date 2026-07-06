@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T11:10:17.060Z",
+  "generatedAt": "2026-07-06T12:10:16.593Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18219,6 +18219,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706995800541355",
+          "name": "视界追踪",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706996219972154",
           "name": "桑葚游戏解说",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.61"
@@ -18627,7 +18634,7 @@
           "platform": "bilibili",
           "id": "373076765",
           "name": "TYLOO电子竞技俱乐部",
-          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.20"
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -21642,6 +21649,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "479773060",
+          "name": "雪野lovetactic",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "479927340",
           "name": "鶴莉",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.88"
@@ -22513,6 +22527,13 @@
           "id": "504799975",
           "name": "达哥在上海",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "50484302",
+          "name": "烈焰双雄",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.68"
         },
         {
           "type": "creator",
