@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T11:10:22.837Z",
+  "generatedAt": "2026-07-06T12:10:21.054Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9819,6 +9819,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706995800541355",
+          "name": "视界追踪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706996219972154",
           "name": "桑葚游戏解说",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
@@ -11579,6 +11586,13 @@
           "id": "479466027",
           "name": "阿琛漫馆",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "479773060",
+          "name": "雪野lovetactic",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
         },
         {
           "type": "creator",
