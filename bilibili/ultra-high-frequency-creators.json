@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T02:10:22.256Z",
+  "generatedAt": "2026-07-06T03:10:22.179Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4912,6 +4912,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537123466545328",
+          "name": "CreatPPT",
+          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537124309600392",
           "name": "知识研究猿",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
@@ -6161,6 +6168,13 @@
           "id": "3546819541863216",
           "name": "新月漫剧社",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546819653011506",
+          "name": "迷影阿福",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.81"
         },
         {
           "type": "creator",
@@ -7810,6 +7824,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "356587254",
+          "name": "和君ZH",
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.34"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "356759194",
           "name": "还没是我",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
@@ -7897,6 +7918,13 @@
           "id": "3632304794634287",
           "name": "逗鹅影视",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632304815606091",
+          "name": "蓝星狗头军师",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
         },
         {
           "type": "creator",
@@ -8296,6 +8324,13 @@
           "id": "3690973309700188",
           "name": "爱吃板栗饼干",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690973309700527",
+          "name": "宠物喵汪社",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -8947,6 +8982,13 @@
           "id": "3691013042342082",
           "name": "小居王者丶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "369414557",
+          "name": "汪德福o",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -9780,6 +9822,13 @@
           "id": "3707001599167122",
           "name": "蛋仔刀盾骑士",
           "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707002115066468",
+          "name": "bili_35686710893",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
         },
         {
           "type": "creator",
