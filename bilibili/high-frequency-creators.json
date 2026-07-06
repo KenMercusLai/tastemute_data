@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T10:10:16.813Z",
+  "generatedAt": "2026-07-06T11:10:17.060Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11110,6 +11110,13 @@
           "id": "3546641462201016",
           "name": "是甜菜小怡",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546642728880978",
+          "name": "Hi-Fi无损音乐",
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.94"
         },
         {
           "type": "creator",
