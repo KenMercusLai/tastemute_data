@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T12:10:16.593Z",
+  "generatedAt": "2026-07-06T13:10:16.534Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15153,6 +15153,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "35974338",
+          "name": "0零凛",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "35974778",
           "name": "LarryRay丷",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
@@ -21484,6 +21491,13 @@
           "id": "475527546",
           "name": "零响晤人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "475530550",
+          "name": "绛临SYH",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.42"
         },
         {
           "type": "creator",
