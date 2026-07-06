@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T15:10:16.354Z",
+  "generatedAt": "2026-07-06T16:10:16.390Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4676,7 +4676,7 @@
           "platform": "bilibili",
           "id": "1980666392",
           "name": "哔哩哔哩篮球赛事",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -5993,6 +5993,13 @@
           "id": "24215475",
           "name": "小安苒AIGC",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "242269437",
+          "name": "笑梦诗词",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -13312,6 +13319,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546877320497667",
+          "name": "青清漫社",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546877477783801",
           "name": "毛选笔记",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.84"
@@ -16871,6 +16885,13 @@
           "id": "3691013042342082",
           "name": "小居王者丶",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "36936765",
+          "name": "布鲁诺OvO",
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -23231,6 +23252,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "525377706",
+          "name": "小埋来也yyy",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "525647027",
           "name": "半彩AI",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.94"
@@ -25334,6 +25362,13 @@
           "id": "73441013",
           "name": "枫叶边城",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "74070204",
+          "name": "足球人物志",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.80"
         },
         {
           "type": "creator",
