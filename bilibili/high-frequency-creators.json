@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T21:10:16.189Z",
+  "generatedAt": "2026-07-06T22:10:16.231Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1919,6 +1919,13 @@
           "id": "1359799278",
           "name": "过哥街拍",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1360666107",
+          "name": "FellTheWord",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -4103,6 +4110,13 @@
           "id": "184538069",
           "name": "castelu",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1845649836",
+          "name": "回形帧CS2",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -14887,6 +14901,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546973999204508",
+          "name": "拒绝桑",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546974359914533",
           "name": "Liuziqiaw",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
@@ -17676,6 +17697,13 @@
           "id": "3706957101796091",
           "name": "海绵宝宝捉迷藏",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706957173099223",
+          "name": "到灯塔去-CH",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.84"
         },
         {
           "type": "creator",
