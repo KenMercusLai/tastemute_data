@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T17:10:16.374Z",
+  "generatedAt": "2026-07-06T18:10:16.400Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6865,6 +6865,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "28522144",
+          "name": "胖虎不说废话",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "285336289",
           "name": "征西将军_晚8点播",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
@@ -9381,6 +9388,13 @@
           "id": "3493283376400464",
           "name": "唯一天游戏",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493286882838935",
+          "name": "竞赛学长在清北",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -20973,6 +20987,13 @@
           "id": "443014411",
           "name": "上海女超人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "443196209",
+          "name": "YY的日常报备鸭",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
