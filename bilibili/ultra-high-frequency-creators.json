@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T15:10:21.609Z",
+  "generatedAt": "2026-07-06T16:10:22.986Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2345,7 +2345,7 @@
           "platform": "bilibili",
           "id": "1980666392",
           "name": "哔哩哔哩篮球赛事",
-          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -6655,6 +6655,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546877320497667",
+          "name": "青清漫社",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546877477783801",
           "name": "毛选笔记",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.84"
@@ -9045,6 +9052,13 @@
           "id": "3691013042342082",
           "name": "小居王者丶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "36936765",
+          "name": "布鲁诺OvO",
+          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -13301,6 +13315,13 @@
           "id": "73441013",
           "name": "枫叶边城",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "74070204",
+          "name": "足球人物志",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.80"
         },
         {
           "type": "creator",
