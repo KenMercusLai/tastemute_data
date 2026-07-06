@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T22:10:16.231Z",
+  "generatedAt": "2026-07-06T23:10:16.235Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10372,6 +10372,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546382956759627",
+          "name": "钢琴奶奶-尹松",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546383214709452",
           "name": "宇宙-揭秘o",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.96"
@@ -10501,6 +10508,13 @@
           "id": "3546557571926751",
           "name": "终南山喵9",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546557934733791",
+          "name": "XLG电竞俱乐部",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.65"
         },
         {
           "type": "creator",
@@ -24893,6 +24907,13 @@
           "id": "660891901",
           "name": "无敌大脸T",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "660956113",
+          "name": "在下伊隐",
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.65"
         },
         {
           "type": "creator",
