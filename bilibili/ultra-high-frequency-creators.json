@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T17:10:21.525Z",
+  "generatedAt": "2026-07-06T18:10:21.603Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3319,6 +3319,13 @@
           "id": "284930602",
           "name": "FLXX-ZeroTwo",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "28522144",
+          "name": "胖虎不说废话",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -11250,6 +11257,13 @@
           "id": "443014411",
           "name": "上海女超人",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "443196209",
+          "name": "YY的日常报备鸭",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
