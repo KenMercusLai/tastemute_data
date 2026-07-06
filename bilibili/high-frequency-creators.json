@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T19:10:16.282Z",
+  "generatedAt": "2026-07-06T20:10:16.292Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20851,6 +20851,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "43761392",
+          "name": "陈汉西",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "43764108",
           "name": "赛博天国",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.22"
@@ -24697,6 +24704,13 @@
           "id": "647409444",
           "name": "无期迷途",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "649022917",
+          "name": "火星方阵",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
