@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T21:10:21.435Z",
+  "generatedAt": "2026-07-06T22:10:21.675Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -953,6 +953,13 @@
           "id": "1358014912",
           "name": "白樱iridescent",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1360666107",
+          "name": "FellTheWord",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
