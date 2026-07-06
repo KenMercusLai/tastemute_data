@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T16:10:22.986Z",
+  "generatedAt": "2026-07-06T17:10:21.525Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22,6 +22,13 @@
           "id": "1002402208",
           "name": "发芽的小草丛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1002898910",
+          "name": "动动体育",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -2241,6 +2248,13 @@
           "id": "1928955395",
           "name": "每日一个故事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1930592055",
+          "name": "天才虫二AI",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -6851,6 +6865,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546900653411047",
+          "name": "电影研究社",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546900749879803",
           "name": "念一说漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
@@ -7736,6 +7757,13 @@
           "id": "3546976853429085",
           "name": "小文最爱看电影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546977463699891",
+          "name": "bili_61488858705",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
         },
         {
           "type": "creator",
