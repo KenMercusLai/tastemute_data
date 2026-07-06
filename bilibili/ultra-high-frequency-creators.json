@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T20:10:22.480Z",
+  "generatedAt": "2026-07-06T21:10:21.435Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2136,6 +2136,13 @@
           "id": "1868573343",
           "name": "你-随风飘扬",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1868652536",
+          "name": "耀志的声音",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -8517,6 +8524,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690974121297958",
+          "name": "嘀咚听漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690974167435546",
           "name": "顺心音乐台",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.65"
@@ -10921,6 +10935,13 @@
           "id": "41114185",
           "name": "zhaoryanarkroyal",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "412198578",
+          "name": "a困了咩",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
         },
         {
           "type": "creator",
