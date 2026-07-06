@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T14:10:16.393Z",
+  "generatedAt": "2026-07-06T15:10:16.354Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4271,6 +4271,13 @@
           "id": "189736517",
           "name": "洛沐墨",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "189866857",
+          "name": "国防时报TV",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
         },
         {
           "type": "creator",
@@ -15853,6 +15860,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690970778438226",
+          "name": "唧唧复唧影",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690970877004619",
           "name": "呼啦呼啦2313",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.43"
@@ -22541,6 +22555,13 @@
           "id": "50466923",
           "name": "摆烂呆瓜王",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504747785",
+          "name": "物理思考者",
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.06"
         },
         {
           "type": "creator",
