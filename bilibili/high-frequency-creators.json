@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T06:10:16.906Z",
+  "generatedAt": "2026-07-06T07:10:16.961Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17683,6 +17683,13 @@
           "id": "3706976294931145",
           "name": "烽烟观天下",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706976762596167",
+          "name": "Hi陈小拉",
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.90"
         },
         {
           "type": "creator",
