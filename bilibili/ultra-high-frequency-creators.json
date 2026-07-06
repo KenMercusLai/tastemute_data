@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T18:10:21.603Z",
+  "generatedAt": "2026-07-06T19:10:21.466Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -635,6 +635,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "122550417",
+          "name": "小宁记录广西平陆运河",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1227140964",
           "name": "龚杨杰",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.90"
@@ -1044,6 +1051,13 @@
           "id": "140821889",
           "name": "七十岁低保老头",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1408260350",
+          "name": "枷锁解説",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -4474,6 +4488,13 @@
           "id": "3493270606842829",
           "name": "笑点集中营",
           "reason": "Average upload gap <= 1 days; videos=22; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493270697020007",
+          "name": "云外徐生",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
         },
         {
           "type": "creator",
@@ -8930,6 +8951,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690998163049227",
+          "name": "阿敏看世界",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690998423095689",
           "name": "空天论剑",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
@@ -11418,6 +11446,13 @@
           "id": "457931441",
           "name": "我要一抹光",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "458144350",
+          "name": "bili_94531476311",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
         },
         {
           "type": "creator",
