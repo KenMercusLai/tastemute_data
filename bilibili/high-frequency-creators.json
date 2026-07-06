@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T08:10:17.043Z",
+  "generatedAt": "2026-07-06T09:10:16.933Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8139,6 +8139,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "344339614",
+          "name": "米德在线",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3451754",
           "name": "觅渡Dzg",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
@@ -15198,6 +15205,13 @@
           "id": "361544096",
           "name": "修齐Echo",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3626348",
+          "name": "4姐小羊",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.94"
         },
         {
           "type": "creator",
