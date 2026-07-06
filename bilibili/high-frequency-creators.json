@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T13:10:16.534Z",
+  "generatedAt": "2026-07-06T14:10:16.393Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -35,7 +35,7 @@
           "platform": "bilibili",
           "id": "1004246390",
           "name": "无畏契约电竞",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -5237,6 +5237,13 @@
           "id": "2094881410",
           "name": "洛杉矶湖人",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "209711352",
+          "name": "热血707",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=2.00"
         },
         {
           "type": "creator",
