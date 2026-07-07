@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T06:10:21.652Z",
+  "generatedAt": "2026-07-07T07:10:22.657Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3991,6 +3991,13 @@
           "id": "343348",
           "name": "口袋迷ag",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "343677761",
+          "name": "西岸电波收音机",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -8496,6 +8503,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690970453379180",
+          "name": "糯米团子工作室",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690970778438226",
           "name": "唧唧复唧影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
@@ -9248,6 +9262,13 @@
           "id": "3706923977279795",
           "name": "大嘴6886",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.24"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706925696944833",
+          "name": "当心节奏大师",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -10452,6 +10473,13 @@
           "id": "383461118",
           "name": "我就是心净",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "383540103",
+          "name": "暖鹤",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -11831,6 +11859,13 @@
           "id": "480282888",
           "name": "摩杰座骑行学院",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "480754885",
+          "name": "蛙天帝qazplm",
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=1.00"
         },
         {
           "type": "creator",
