@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T18:10:22.529Z",
+  "generatedAt": "2026-07-07T19:10:21.616Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3571,6 +3571,13 @@
           "id": "29226636",
           "name": "木槿CN",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "293932578",
+          "name": "杨城影剪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -10211,6 +10218,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706988984797619",
+          "name": "娱乐星小鱼",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706989257427476",
           "name": "你被骗了_反常识",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
@@ -11124,6 +11138,13 @@
           "id": "395706016",
           "name": "李奡解说",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "395825716",
+          "name": "今生kj",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
