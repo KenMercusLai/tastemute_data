@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T00:10:22.003Z",
+  "generatedAt": "2026-07-07T01:10:20.897Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3886,6 +3886,13 @@
           "id": "33114953",
           "name": "KG-Area21",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "332707559",
+          "name": "你的空想时间",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
