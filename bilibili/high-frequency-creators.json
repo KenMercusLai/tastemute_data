@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T12:10:15.417Z",
+  "generatedAt": "2026-07-07T13:10:16.209Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -666,6 +666,13 @@
           "id": "1107653918",
           "name": "流浪的独孤老狼",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1108258316",
+          "name": "乌苏小八",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=1.38"
         },
         {
           "type": "creator",
@@ -2031,6 +2038,13 @@
           "id": "1384406308",
           "name": "纽约尼克斯",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1384586420",
+          "name": "白厄周年企划组",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -24508,6 +24522,13 @@
           "id": "591160684",
           "name": "中国青年网",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "591346027",
+          "name": "向明燃剪",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.79"
         },
         {
           "type": "creator",
