@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T16:10:21.764Z",
+  "generatedAt": "2026-07-07T17:10:21.866Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5276,6 +5276,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546394388335189",
+          "name": "漫说漫剪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546556890352244",
           "name": "第四面墙外-",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
@@ -8237,6 +8244,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632302261274788",
+          "name": "阿乐漫影",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632303777516250",
           "name": "日子慢慢走快乐天天有",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
@@ -9357,6 +9371,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3691007713479523",
+          "name": "顶点视频",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3691007715576360",
           "name": "扯肚紫推剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
@@ -9388,6 +9409,13 @@
           "id": "3691011452701635",
           "name": "云云纪实",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691012687923766",
+          "name": "历史说呀",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
         },
         {
           "type": "creator",
@@ -9521,6 +9549,13 @@
           "id": "3706930832869634",
           "name": "蛋仔派对阿金",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706931585747142",
+          "name": "北京与挣",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
         },
         {
           "type": "creator",
@@ -10606,6 +10641,13 @@
           "id": "377909755",
           "name": "烟链科技",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "378386929",
+          "name": "天上天下天地无双漫画",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -11803,6 +11845,13 @@
           "id": "4552751",
           "name": "威力电竞格斗游戏解说",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "456271091",
+          "name": "大峰哥看世界",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
         },
         {
           "type": "creator",
@@ -13718,6 +13767,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "692125079",
+          "name": "孤勇者的胡子",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "693357588",
           "name": "街霸2哈尔滨孟哥",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
@@ -13903,6 +13959,13 @@
           "id": "83495421",
           "name": "数理分享",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8433663",
+          "name": "大毛讲里",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
         },
         {
           "type": "creator",
