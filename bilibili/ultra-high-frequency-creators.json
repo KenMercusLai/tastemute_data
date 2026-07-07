@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T07:10:22.657Z",
+  "generatedAt": "2026-07-07T08:10:21.717Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1734,6 +1734,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1695044973",
+          "name": "青云观影",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1696541",
           "name": "马小猩的日常",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
@@ -2136,6 +2143,13 @@
           "id": "1864593373",
           "name": "加点芝麻酱kk",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1864674231",
+          "name": "别利切夫在极地",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
         },
         {
           "type": "creator",
@@ -5517,6 +5531,13 @@
           "id": "3546625865681622",
           "name": "小闹小闹丫",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546630691228208",
+          "name": "平平纪实家",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.30"
         },
         {
           "type": "creator",
@@ -10085,6 +10106,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706998438759029",
+          "name": "抹茶不打烊",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706998514256661",
           "name": "铁柱姐001",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
@@ -11828,6 +11856,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "479124589",
+          "name": "泡泡漫剧场",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "479466027",
           "name": "阿琛漫馆",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.87"
@@ -13504,6 +13539,13 @@
           "id": "697389811",
           "name": "P-apyrus",
           "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "698056492",
+          "name": "舆论反击之狐_攸",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
         },
         {
           "type": "creator",
