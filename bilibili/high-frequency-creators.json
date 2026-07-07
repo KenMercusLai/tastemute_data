@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T02:10:15.391Z",
+  "generatedAt": "2026-07-07T03:10:16.473Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14792,6 +14792,13 @@
           "id": "3546957393955016",
           "name": "行业知几何",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546958887127591",
+          "name": "丨可乐QQ糖丨",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.83"
         },
         {
           "type": "creator",
