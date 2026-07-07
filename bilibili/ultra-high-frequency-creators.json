@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T23:10:21.836Z",
+  "generatedAt": "2026-07-07T00:10:22.003Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -782,6 +782,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1287804864",
+          "name": "追忆流逝的岁月",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "12879173",
           "name": "观测者零号",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.96"
@@ -1408,6 +1415,13 @@
           "id": "1540999",
           "name": "五彩哥哥",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1543291907",
+          "name": "柳智宇的分享",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
         },
         {
           "type": "creator",
@@ -4835,6 +4849,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "349721082",
+          "name": "清华大学",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "349749180",
           "name": "CS2万事屋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
@@ -6368,6 +6389,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546839569664686",
+          "name": "木婉同人迷",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546839741630899",
           "name": "阿康说百态",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.01"
@@ -6644,6 +6672,13 @@
           "id": "3546872853563947",
           "name": "我的世界我做主up",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546873304451897",
+          "name": "马老师数学课堂",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -7414,6 +7449,13 @@
           "id": "3546937875762085",
           "name": "记录片频道",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546937894635912",
+          "name": "夜夜文馆",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -9339,6 +9381,13 @@
           "id": "3706942268639908",
           "name": "洒脱的八目雅迪",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706942763567276",
+          "name": "月岛梨",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.18"
         },
         {
           "type": "creator",
@@ -11709,6 +11758,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "479583730",
+          "name": "cocktail_814",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "479773060",
           "name": "雪野lovetactic",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
@@ -12426,6 +12482,13 @@
           "id": "523978853",
           "name": "三月兔的兔",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "524148845",
+          "name": "懒惰致富家",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
         },
         {
           "type": "creator",
