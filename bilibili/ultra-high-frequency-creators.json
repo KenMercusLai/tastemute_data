@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T11:10:22.473Z",
+  "generatedAt": "2026-07-07T12:10:20.971Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5339,6 +5339,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546579482970409",
+          "name": "情情说漫酱",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546583054420470",
           "name": "XFinds寻宝",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.38"
@@ -8692,6 +8699,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690973771073658",
+          "name": "观社会百态GM",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690973779462950",
           "name": "咕噜球咕噜",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
@@ -9626,6 +9640,13 @@
           "id": "3706948971137658",
           "name": "小兰漫剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706949021469581",
+          "name": "DBPAT",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -13713,7 +13734,7 @@
           "platform": "bilibili",
           "id": "72969462",
           "name": "笔给你你来写_",
-          "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.49"
+          "reason": "Average upload gap <= 1 days; videos=68; avg_gap_days=0.49"
         },
         {
           "type": "creator",
