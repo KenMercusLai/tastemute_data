@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T18:10:16.310Z",
+  "generatedAt": "2026-07-07T19:10:16.331Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6354,6 +6354,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "249442793",
+          "name": "认知进阶之路",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "249534564",
           "name": "XGG7878",
           "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=1.04"
@@ -7421,6 +7428,13 @@
           "id": "293804266",
           "name": "半个朋友yee",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "293932578",
+          "name": "杨城影剪",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -9955,6 +9969,13 @@
           "id": "3494353263659251",
           "name": "幻术光明神",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494353494345852",
+          "name": "南哥教恋爱",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -18394,6 +18415,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706960375450212",
+          "name": "怪兽健身房",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706960423684867",
           "name": "咕嘎小企鹅的日常",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
@@ -18950,6 +18978,13 @@
           "id": "3706988210948183",
           "name": "沈博士不明白",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706988984797619",
+          "name": "娱乐星小鱼",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -20413,6 +20448,13 @@
           "id": "395706016",
           "name": "李奡解说",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "395825716",
+          "name": "今生kj",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -25481,6 +25523,13 @@
           "id": "627829640",
           "name": "大当赏",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "628429549",
+          "name": "宁怡说剧",
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.83"
         },
         {
           "type": "creator",
