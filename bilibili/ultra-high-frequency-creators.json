@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T04:10:20.070Z",
+  "generatedAt": "2026-07-07T05:10:20.804Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5426,6 +5426,13 @@
           "id": "3546613416986721",
           "name": "一个孤独Cheems",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546616021649949",
+          "name": "泽央zeyang",
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -11263,7 +11270,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.65"
         },
         {
           "type": "creator",
