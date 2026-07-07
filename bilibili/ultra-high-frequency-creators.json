@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T03:10:21.281Z",
+  "generatedAt": "2026-07-07T04:10:20.070Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9833,6 +9833,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706982437488984",
+          "name": "小知花秀惠",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706982924028267",
           "name": "中文配音看世界",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
@@ -11513,6 +11520,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "456406720",
+          "name": "思思漫馆",
+          "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "456550493",
           "name": "旋律断层",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
@@ -12370,6 +12384,13 @@
           "id": "514405742",
           "name": "阿弥陀佛法王子",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "515106190",
+          "name": "小腿包の",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.81"
         },
         {
           "type": "creator",
