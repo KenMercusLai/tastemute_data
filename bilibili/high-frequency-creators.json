@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T10:10:16.378Z",
+  "generatedAt": "2026-07-07T11:10:16.321Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4208,6 +4208,13 @@
           "id": "1857297765",
           "name": "AI漫剧生成全流程",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1862506988",
+          "name": "历史长河中的旅行者",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -14915,6 +14922,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546957425412753",
+          "name": "谁家的喵咪",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546958887127591",
           "name": "丨可乐QQ糖丨",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.83"
@@ -15632,6 +15646,13 @@
           "id": "3632300944263796",
           "name": "郭律-_-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632301703432535",
+          "name": "拟人生物研究所",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -25397,6 +25418,13 @@
           "id": "670460218",
           "name": "夏日枯竭中",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "670894606",
+          "name": "娜塔莎一家",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.99"
         },
         {
           "type": "creator",
