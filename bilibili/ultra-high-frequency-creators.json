@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T08:10:21.717Z",
+  "generatedAt": "2026-07-07T09:10:22.341Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1625,6 +1625,13 @@
           "id": "1646960168",
           "name": "兔娘的星萤",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1648186395",
+          "name": "小萱的宝藏音乐",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -5395,6 +5402,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546604321639347",
+          "name": "月亮失重丶",
+          "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546605019990782",
           "name": "社恐的号线",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.35"
@@ -6259,6 +6273,13 @@
           "id": "3546799675542161",
           "name": "琪琪饼干kiki",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546800791226541",
+          "name": "B站名人精选课堂",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
         },
         {
           "type": "creator",
@@ -10225,6 +10246,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707008825952659",
+          "name": "_小小说剧",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707009648036141",
           "name": "内向老赵",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.64"
@@ -11089,6 +11117,13 @@
           "id": "41114185",
           "name": "zhaoryanarkroyal",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "411880020",
+          "name": "叶虎",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
         },
         {
           "type": "creator",
