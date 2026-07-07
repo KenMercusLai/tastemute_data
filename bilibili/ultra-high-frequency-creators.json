@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T05:10:20.804Z",
+  "generatedAt": "2026-07-07T06:10:21.652Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13077,13 +13077,6 @@
           "id": "622971788",
           "name": "叐乔黉燃兆",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "6250993",
-          "name": "看看新闻Knews",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.03"
         },
         {
           "type": "creator",
