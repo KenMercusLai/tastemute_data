@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T17:10:21.866Z",
+  "generatedAt": "2026-07-07T18:10:22.529Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3575,6 +3575,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "29440965",
+          "name": "超级小桀的日常",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "295586356",
           "name": "科幻广告",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
@@ -3963,6 +3970,13 @@
           "id": "330554850",
           "name": "笑颜依旧DY",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "330585948",
+          "name": "财哥的人生百态",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -4866,6 +4880,13 @@
           "id": "3494364661680328",
           "name": "星十代",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494365542484937",
+          "name": "うちは一イタチ",
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.98"
         },
         {
           "type": "creator",
@@ -8412,6 +8433,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632308223478314",
+          "name": "花好月圆的6",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632308628228934",
           "name": "郭律情感",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
@@ -8702,6 +8730,13 @@
           "id": "3690970778438226",
           "name": "唧唧复唧影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690971172703193",
+          "name": "忽悠鬼叮叮",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -11191,6 +11226,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "400365277",
+          "name": "集帅の日常小动漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "400925524",
           "name": "丨零二丨",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
@@ -13336,6 +13378,13 @@
           "id": "608097572",
           "name": "搬运知识金砖",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "60892637",
+          "name": "゙7c",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
         },
         {
           "type": "creator",
