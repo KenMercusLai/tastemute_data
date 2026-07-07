@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T09:10:16.429Z",
+  "generatedAt": "2026-07-07T10:10:16.378Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10694,6 +10694,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546565411080614",
+          "name": "鸟鸟影视",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546567380306751",
           "name": "我在B站追漫剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
@@ -10872,6 +10879,13 @@
           "id": "3546591034083329",
           "name": "小藤777",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546592848120041",
+          "name": "梦限大MewType",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -13746,6 +13760,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546891193158354",
+          "name": "奇幻影视馆",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546891581131068",
           "name": "蛋仔海绵宝宝",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
@@ -14274,6 +14295,13 @@
           "id": "3546916589668889",
           "name": "-请叫我王哥-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546916992322291",
+          "name": "菲菲余不许哭",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -17319,6 +17347,13 @@
           "id": "3706926890223844",
           "name": "金色小圆盾",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706927007664568",
+          "name": "周周爱看影",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -24809,6 +24844,13 @@
           "id": "620775745",
           "name": "杰特潘",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "622863051",
+          "name": "随心Kan世界",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
         },
         {
           "type": "creator",
