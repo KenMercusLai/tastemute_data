@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T01:10:16.065Z",
+  "generatedAt": "2026-07-07T02:10:15.391Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10029,6 +10029,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "352197787",
+          "name": "爬不寄抗毒籽",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "352320387",
           "name": "澈澈Fault",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.14"
@@ -10613,6 +10620,13 @@
           "id": "3546563722872842",
           "name": "七彩风车糖",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546563848702041",
+          "name": "宇宙揭秘R",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.97"
         },
         {
           "type": "creator",
@@ -14145,6 +14159,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546914595277437",
+          "name": "晚风音乐_",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546915805334198",
           "name": "每日中天",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
@@ -15919,6 +15940,13 @@
           "id": "3632319694900144",
           "name": "小乐乐cUt",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632319782980432",
+          "name": "推特X兔哥",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -21469,7 +21497,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -22198,6 +22226,13 @@
           "id": "485319475",
           "name": "xun大力小学数学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "485469443",
+          "name": "入梦寒光",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.61"
         },
         {
           "type": "creator",
@@ -23948,6 +23983,13 @@
           "id": "5626714",
           "name": "肯塔基基_",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "566877217",
+          "name": "西瓜玩游戏彡",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.80"
         },
         {
           "type": "creator",
