@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T00:10:16.339Z",
+  "generatedAt": "2026-07-07T01:10:16.065Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8044,6 +8044,13 @@
           "id": "332609353",
           "name": "走火的司登",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.24"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "332707559",
+          "name": "你的空想时间",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -25600,6 +25607,13 @@
           "id": "71888439",
           "name": "砍柴半佛",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "71923484",
+          "name": "小陈的脚凑凑的",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.96"
         },
         {
           "type": "creator",
