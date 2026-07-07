@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T10:10:21.668Z",
+  "generatedAt": "2026-07-07T11:10:22.473Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2136,6 +2136,13 @@
           "id": "1850390461",
           "name": "2点0耶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1862506988",
+          "name": "历史长河中的旅行者",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -8121,6 +8128,13 @@
           "id": "3632300944263796",
           "name": "郭律-_-",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632301703432535",
+          "name": "拟人生物研究所",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.41"
         },
         {
           "type": "creator",
