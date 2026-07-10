@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-10T13:10:22.911Z",
+  "generatedAt": "2026-07-10T14:10:21.711Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3032,6 +3032,13 @@
           "id": "229825068",
           "name": "爱炸毛的小煤球",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23012314",
+          "name": "非人非我",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -7782,6 +7789,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546938259540182",
+          "name": "奶萌香小布丁",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546938827868243",
           "name": "布什漫剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
@@ -9560,6 +9574,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3691008476842601",
+          "name": "倾河雪",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3691009131153598",
           "name": "你细品wow",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.17"
@@ -10596,6 +10617,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707003962657568",
+          "name": "哪都通后勤部",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707005808151353",
           "name": "小辉同学vlog",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.99"
@@ -10746,6 +10774,13 @@
           "id": "3707019064248641",
           "name": "今鱼小姐",
           "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "371061846",
+          "name": "辫子哥BraidGuy",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.83"
         },
         {
           "type": "creator",
