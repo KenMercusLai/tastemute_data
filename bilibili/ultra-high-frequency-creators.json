@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-10T15:10:22.674Z",
+  "generatedAt": "2026-07-10T16:10:23.073Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1524,6 +1524,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "15741969",
+          "name": "像素范",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1574807565",
           "name": "小黄和华子",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
@@ -2938,6 +2945,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21752191",
+          "name": "比笨猪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "219601623",
           "name": "Go-Talent",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.56"
@@ -3830,6 +3844,13 @@
           "id": "312734436",
           "name": "我劝你不要不识好歹丷",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "31288362",
+          "name": "穆穆酱OVO",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -7180,6 +7201,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546889356053088",
+          "name": "历史民间故事",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546889685305519",
           "name": "我的世界杂谈",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
@@ -7456,6 +7484,13 @@
           "id": "3546908832303222",
           "name": "北京羽铮",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546909050407665",
+          "name": "荒影说漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -8744,6 +8779,13 @@
           "id": "3632314923878621",
           "name": "老聂讲史",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632314942753062",
+          "name": "浑河蓑笠翁",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.39"
         },
         {
           "type": "creator",
@@ -11653,6 +11695,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "412353471",
+          "name": "历史映像机",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "412719797",
           "name": "YouTube精彩视频-",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
@@ -12580,6 +12629,13 @@
           "id": "484952173",
           "name": "无涯叨影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "485108553",
+          "name": "恶鬼养殖场",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
         },
         {
           "type": "creator",
@@ -13980,6 +14036,13 @@
           "id": "664185960",
           "name": "壹元影视",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6662952",
+          "name": "听见鹣鲽",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
         },
         {
           "type": "creator",
