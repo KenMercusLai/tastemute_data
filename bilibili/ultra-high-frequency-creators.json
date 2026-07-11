@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T12:10:21.755Z",
+  "generatedAt": "2026-07-11T13:10:22.365Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -208,6 +208,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1038531865",
+          "name": "B哩B哩放映厅",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1040680334",
           "name": "山河有声",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.32"
@@ -225,6 +232,13 @@
           "id": "1045994892",
           "name": "小魂-同名",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10475789",
+          "name": "烦烦烦6653333",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -288,6 +302,13 @@
           "id": "1059171612",
           "name": "英雄无敌3斗蛐蛐频道",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1061363844",
+          "name": "拿真心换伤心",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -887,6 +908,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1279347025",
+          "name": "77探影",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "12799703",
           "name": "包包入侵SSR",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.80"
@@ -1030,6 +1058,13 @@
           "id": "1317995537",
           "name": "cheems落幕",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1318260",
+          "name": "神吃鱼",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -1191,6 +1226,13 @@
           "id": "1384586420",
           "name": "白厄周年企划组",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1384630292",
+          "name": "B站名人演讲",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -2693,6 +2735,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1942399375",
+          "name": "被窝聊电影",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1942408324",
           "name": "超感科学",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
@@ -3148,6 +3197,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2110169909",
+          "name": "-奇闻探秘",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "211294986",
           "name": "迷彩_军魂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
@@ -3239,6 +3295,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "216675905",
+          "name": "又一个uu",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "21752191",
           "name": "比笨猪",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
@@ -3249,6 +3312,13 @@
           "id": "218785371",
           "name": "董大韵",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "218818485",
+          "name": "郑青春谈天地",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -3816,6 +3886,13 @@
           "id": "27752387",
           "name": "飞羽仙狂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "277908429",
+          "name": "环球新知",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.75"
         },
         {
           "type": "creator",
@@ -4688,6 +4765,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "343576372",
+          "name": "暗黑制片人",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "343677761",
           "name": "西岸电波收音机",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
@@ -4898,6 +4982,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493082196609035",
+          "name": "玉楼剧场",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493082215484049",
           "name": "股痴养心",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
@@ -4936,6 +5027,13 @@
           "id": "3493089272400650",
           "name": "i古城萧笙",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493091474410211",
+          "name": "七幻书漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -5577,6 +5675,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494358313601376",
+          "name": "羊羊动漫世界",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494358904998139",
           "name": "军武兔探长",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -6025,6 +6130,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546376562543291",
+          "name": "搞科研的江师兄",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546377810348504",
           "name": "纵论天下之事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.55"
@@ -6406,6 +6518,13 @@
           "id": "3546605586221616",
           "name": "冰可乐漫画",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546606422985406",
+          "name": "-生活观察员",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -6994,6 +7113,13 @@
           "id": "3546716030634151",
           "name": "成功的名字叫奋斗吧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546716125006201",
+          "name": "草莓啵啵真好喝",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -7887,6 +8013,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546872977295406",
+          "name": "上流漫社丶",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546873304451897",
           "name": "马老师数学课堂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
@@ -8286,6 +8419,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546905522997634",
+          "name": "吃瓜群众第一站",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.50"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546905697061655",
           "name": "宇宙没有售后",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.99"
@@ -8657,6 +8797,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546924317674122",
+          "name": "阿宁探剧",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546924808407268",
           "name": "白山茶zxl",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
@@ -9017,6 +9164,13 @@
           "id": "3546951133956114",
           "name": "阴阳同人迷",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546951748422241",
+          "name": "红峰的光之少年",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -10099,6 +10253,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690972154169414",
+          "name": "东西所里",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690972162558461",
           "name": "瓮傘叐汆秋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -10172,6 +10333,13 @@
           "id": "3690973464890067",
           "name": "财气小甜饼666",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690973613788057",
+          "name": "广西阿榴",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.08"
         },
         {
           "type": "creator",
@@ -10456,6 +10624,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690986217670669",
+          "name": "漫剧故事馆",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690986406414491",
           "name": "雾锁寒潭浮生未歇",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.20"
@@ -10638,6 +10813,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690993186507387",
+          "name": "每日前沿冲浪手",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690993780000891",
           "name": "地球不无聊",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
@@ -10655,6 +10837,13 @@
           "id": "3690994318969201",
           "name": "世间百态记录者",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690994560141841",
+          "name": "小鱼舟游",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -11485,6 +11674,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706966421539501",
+          "name": "吉吉放映室",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706966857746904",
           "name": "新疆楊大大",
           "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.37"
@@ -11558,6 +11754,13 @@
           "id": "3706973767862577",
           "name": "下午好12345",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706974006937909",
+          "name": "欢乐玩家屋",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -13165,6 +13368,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "415451670",
+          "name": "大不列颠行者",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "41594788",
           "name": "佟掌柜Tarot",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.86"
@@ -13406,6 +13616,13 @@
           "id": "4351252",
           "name": "贵州2频道百姓关注",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "436111045",
+          "name": "寞凹猫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -13658,6 +13875,13 @@
           "id": "456271091",
           "name": "大峰哥看世界",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "456284799",
+          "name": "XDx_先进生产力",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.30"
         },
         {
           "type": "creator",
@@ -14152,6 +14376,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "485084721",
+          "name": "KARAKU_",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "485108553",
           "name": "恶鬼养殖场",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
@@ -14488,6 +14719,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "500248987",
+          "name": "祥马听音乐",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.88"
@@ -14701,6 +14939,13 @@
           "id": "515374156",
           "name": "硬核玩家sevokk",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "515375437",
+          "name": "哔哩大学財经学院",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
         },
         {
           "type": "creator",
