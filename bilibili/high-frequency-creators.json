@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T19:10:16.776Z",
+  "generatedAt": "2026-07-11T20:10:16.670Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -673,6 +673,13 @@
           "id": "1080316566",
           "name": "考研英语晓燕",
           "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1080387403",
+          "name": "燃烧的显卡菌",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.97"
         },
         {
           "type": "creator",
@@ -1856,6 +1863,13 @@
           "id": "1273265116",
           "name": "皓篮球",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1273881569",
+          "name": "小张玩AI",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -6832,7 +6846,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -14369,6 +14383,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546724591209028",
+          "name": "猫猫君-关注送模组",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546724614277513",
           "name": "肿瘤于福壮",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
@@ -18534,6 +18555,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632303607646698",
+          "name": "蛋仔小奶龙吖",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632303777516250",
           "name": "日子慢慢走快乐天天有",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
@@ -20567,6 +20595,13 @@
           "id": "369679961",
           "name": "苏维埃无悔",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "370185451",
+          "name": "雪_芙",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.48"
         },
         {
           "type": "creator",
@@ -25215,6 +25250,13 @@
           "id": "439019448",
           "name": "外网种花家的兔",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "439240996",
+          "name": "勇哥歪讲",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.37"
         },
         {
           "type": "creator",
