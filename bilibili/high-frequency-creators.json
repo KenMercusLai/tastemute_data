@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T20:10:16.670Z",
+  "generatedAt": "2026-07-11T21:10:16.753Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -519,6 +519,13 @@
           "id": "1061363844",
           "name": "拿真心换伤心",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "106546321",
+          "name": "叶莱斯-就要逗你",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -2266,6 +2273,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1339689710",
+          "name": "ai酷儿小剧场吖",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1341792465",
           "name": "吉卟缇",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
@@ -2903,6 +2917,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1472495251",
+          "name": "JAMETIME搬运组",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "147546636",
           "name": "无畏契约",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.24"
@@ -3340,6 +3361,13 @@
           "id": "1563385862",
           "name": "转生成为毛毛",
           "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1567864095",
+          "name": "第五衲老师",
+          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -4901,6 +4929,13 @@
           "id": "183751118",
           "name": "YouTube英语听说",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1837878918",
+          "name": "我是真的苹果羊",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -26390,7 +26425,7 @@
           "platform": "bilibili",
           "id": "480041786",
           "name": "无限の陈皮",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.39"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.84"
         },
         {
           "type": "creator",
