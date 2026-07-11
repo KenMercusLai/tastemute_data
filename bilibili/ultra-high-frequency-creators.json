@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T15:10:23.866Z",
+  "generatedAt": "2026-07-11T16:10:22.559Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -414,6 +414,13 @@
           "id": "108634763",
           "name": "减肥秃了头",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1087482281",
+          "name": "外交部发言人办公室",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -1142,6 +1149,13 @@
           "id": "1339268",
           "name": "农民新八",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1344682462",
+          "name": "陇上阿斌",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -11401,6 +11415,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706937879300234",
+          "name": "小六子哪里跑",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706938462308964",
           "name": "蜡笔小新漫剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
@@ -13623,6 +13644,13 @@
           "id": "429913769",
           "name": "Econmedian",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "430100854",
+          "name": "苦茶就是荼",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.80"
         },
         {
           "type": "creator",
