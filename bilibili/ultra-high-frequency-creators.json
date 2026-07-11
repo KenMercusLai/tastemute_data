@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T16:10:22.559Z",
+  "generatedAt": "2026-07-11T17:10:22.674Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2112,6 +2112,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1716937698",
+          "name": "雪菱不愛吃雪梨",
+          "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "171766569",
           "name": "小阿峰世间万物",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
@@ -2752,6 +2759,13 @@
           "id": "19342311",
           "name": "秋不知鸭",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1938121503",
+          "name": "峻宁峻宁",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -14964,6 +14978,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "507158767",
+          "name": "奇奇导演在重庆",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "507342836",
           "name": "子鼠暗区突围",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
@@ -15877,6 +15898,13 @@
           "id": "627479509",
           "name": "雲宠",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "627541349",
+          "name": "kanmt",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.85"
         },
         {
           "type": "creator",
