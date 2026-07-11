@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T17:10:22.674Z",
+  "generatedAt": "2026-07-11T18:10:34.321Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2752,6 +2752,13 @@
           "id": "1930592055",
           "name": "天才虫二AI",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19334905",
+          "name": "档案Archivare",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.40"
         },
         {
           "type": "creator",
@@ -7624,6 +7631,13 @@
           "id": "3546800791226541",
           "name": "B站名人精选课堂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546801669933097",
+          "name": "勇哥餐饮原创",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
         },
         {
           "type": "creator",
