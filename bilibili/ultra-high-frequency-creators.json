@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T21:10:21.479Z",
+  "generatedAt": "2026-07-11T22:10:25.309Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -203,7 +203,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.34"
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -4247,6 +4247,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "296463180",
+          "name": "兰宵宫滴嘟滴嘟",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296465852",
           "name": "我爱吃派大星",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.44"
@@ -5601,6 +5608,13 @@
           "id": "3493283376400464",
           "name": "唯一天游戏",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493286343871080",
+          "name": "应急食品-原神",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -9164,6 +9178,13 @@
           "id": "3546940581087645",
           "name": "正经风度",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546942162340729",
+          "name": "鱼晚猛攻",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.81"
         },
         {
           "type": "creator",
