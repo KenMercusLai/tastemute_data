@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T14:10:22.637Z",
+  "generatedAt": "2026-07-11T15:10:23.866Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -729,6 +729,13 @@
           "id": "1202523923",
           "name": "AICheng动漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1204617514",
+          "name": "懒得洗牌的社长",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -7187,6 +7194,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546717257468183",
+          "name": "小郭在三角洲行动中",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546717603498082",
           "name": "阿瑟传奇纪录片呀",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
@@ -7862,6 +7876,13 @@
           "id": "3546852156770311",
           "name": "阿柒说影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546852561520665",
+          "name": "易秋解说",
+          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.91"
         },
         {
           "type": "creator",
@@ -8863,6 +8884,13 @@
           "id": "3546922017097978",
           "name": "短道速滑小土豆",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546922767878421",
+          "name": "NEKOKABURI乐队",
+          "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -12458,6 +12486,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707017558493316",
+          "name": "蜡笔派大辛",
+          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707018676275560",
           "name": "福满今生",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
@@ -13889,6 +13924,13 @@
           "id": "449973505",
           "name": "老赵译戈多",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "450563391",
+          "name": "比奇堡-世一泳裤",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
         },
         {
           "type": "creator",
