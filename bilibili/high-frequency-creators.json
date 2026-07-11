@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T17:10:16.950Z",
+  "generatedAt": "2026-07-11T18:10:16.599Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2591,6 +2591,13 @@
           "id": "1415440487",
           "name": "长崎家的苏幽梨",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1416817067",
+          "name": "流光星河Lopa",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -5377,6 +5384,13 @@
           "id": "193262326",
           "name": "音乐Wu哥",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19334905",
+          "name": "档案Archivare",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
         },
         {
           "type": "creator",
@@ -8664,6 +8678,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "297185117",
+          "name": "-此间晴空万里",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "297191433",
           "name": "西阳大锤",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
@@ -9269,6 +9290,13 @@
           "id": "32283445",
           "name": "橘咪我放蒸笼了",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32293157",
+          "name": "无印良谱",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.46"
         },
         {
           "type": "creator",
@@ -11495,6 +11523,13 @@
           "id": "3494353567746383",
           "name": "德国足球甲级联赛",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494353609689218",
+          "name": "日忧自由人",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.19"
         },
         {
           "type": "creator",
@@ -15051,6 +15086,13 @@
           "id": "3546800791226541",
           "name": "B站名人精选课堂",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546801669933097",
+          "name": "勇哥餐饮原创",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -23192,6 +23234,13 @@
           "id": "386259169",
           "name": "狗蛋科普",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "386348296",
+          "name": "MC动画怪物学院",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
         },
         {
           "type": "creator",
