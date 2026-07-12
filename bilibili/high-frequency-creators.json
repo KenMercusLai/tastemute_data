@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T03:10:17.710Z",
+  "generatedAt": "2026-07-12T04:10:16.985Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10158,6 +10158,13 @@
           "id": "3461573458790921",
           "name": "推演笔记",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461573769169342",
+          "name": "大鱼游戏队长",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.38"
         },
         {
           "type": "creator",
@@ -25730,6 +25737,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "44635701",
+          "name": "墙角涂鸦",
+          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "446901063",
           "name": "糖小希official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.11"
@@ -31627,6 +31641,13 @@
           "id": "925253",
           "name": "好胃口的我",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "92601724",
+          "name": "科普中国",
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=0.57"
         },
         {
           "type": "creator",
