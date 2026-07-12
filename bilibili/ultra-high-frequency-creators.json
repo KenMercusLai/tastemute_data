@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T05:10:21.517Z",
+  "generatedAt": "2026-07-12T06:10:25.907Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1566,6 +1566,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1495976292",
+          "name": "T-Christine",
+          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1496322664",
           "name": "极速影视库",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
@@ -3003,7 +3010,7 @@
           "platform": "bilibili",
           "id": "2013376075",
           "name": "HoYoFair",
-          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.21"
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -12787,6 +12794,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "381978430",
+          "name": "老曹的XuanYi_璇翼之心",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "382334148",
           "name": "阿林动漫_",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
@@ -16455,6 +16469,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "692175859",
+          "name": "阿呆去流浪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "693357588",
           "name": "街霸2哈尔滨孟哥",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
@@ -16521,6 +16542,13 @@
           "id": "698056492",
           "name": "舆论反击之狐_攸",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "698396117",
+          "name": "老萧说车",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
