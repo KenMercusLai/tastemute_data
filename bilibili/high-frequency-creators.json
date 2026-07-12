@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T02:10:16.905Z",
+  "generatedAt": "2026-07-12T03:10:17.710Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5157,6 +5157,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "186864384",
+          "name": "一只玉儿鸭",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1868652536",
           "name": "耀志的声音",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.46"
@@ -7946,6 +7953,13 @@
           "id": "268941858",
           "name": "磊哥游戏",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "27033880",
+          "name": "抖漫工作室",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -11653,6 +11667,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494350088571125",
+          "name": "足谈社",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494350480738883",
           "name": "中国新闻网",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.04"
@@ -13196,6 +13217,13 @@
           "id": "3546594037205762",
           "name": "北街木子轩",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546594223851858",
+          "name": "蛋蛋的幽霜",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.04"
         },
         {
           "type": "creator",
@@ -27686,6 +27714,13 @@
           "id": "505017639",
           "name": "奥力给我来了",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "505112333",
+          "name": "黄埔剧场",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.84"
         },
         {
           "type": "creator",
