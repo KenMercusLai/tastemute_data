@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T01:10:21.641Z",
+  "generatedAt": "2026-07-12T02:10:22.944Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -589,6 +589,13 @@
           "id": "114281354",
           "name": "杜克的声控台",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1143200066",
+          "name": "毅魄混剪",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -3820,6 +3827,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "258873110",
+          "name": "墨鱼动画",
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "25926642",
           "name": "唤为昆仑之地",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
@@ -6469,6 +6483,13 @@
           "id": "3546572411374129",
           "name": "地缘新视野",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546574294616231",
+          "name": "杰哥观察者模式启动中",
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -9815,6 +9836,13 @@
           "id": "359131017",
           "name": "苏颜小辰",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "36251906",
+          "name": "伍迪浩克",
+          "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -14189,7 +14217,7 @@
           "platform": "bilibili",
           "id": "46207951",
           "name": "落橘生秋",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.19"
         },
         {
           "type": "creator",
