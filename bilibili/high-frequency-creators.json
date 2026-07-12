@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T00:10:16.746Z",
+  "generatedAt": "2026-07-12T01:10:16.762Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4254,6 +4254,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1717999800",
+          "name": "tx君少",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "171906694",
           "name": "没有梦想的oni13",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.21"
@@ -5580,6 +5587,13 @@
           "id": "1953777724",
           "name": "如果可以一直不长大",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1954997940",
+          "name": "午餐肉艺术家葛世贤",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -9073,6 +9087,13 @@
           "id": "308632",
           "name": "-镜魔-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "308831912",
+          "name": "星辰三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -22769,6 +22790,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707013196417391",
+          "name": "咖啡妙妙屋",
+          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707013347412596",
           "name": "柒羽动漫剧场",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.22"
@@ -29401,6 +29429,13 @@
           "id": "606504190",
           "name": "bili_606504190",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "606671036",
+          "name": "木楠暗区突围",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
         },
         {
           "type": "creator",
