@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T03:10:27.028Z",
+  "generatedAt": "2026-07-12T04:10:22.300Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14047,6 +14047,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "44635701",
+          "name": "墙角涂鸦",
+          "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "448165099",
           "name": "军情D7处",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
@@ -16850,6 +16857,13 @@
           "id": "925253",
           "name": "好胃口的我",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "92601724",
+          "name": "科普中国",
+          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.57"
         },
         {
           "type": "creator",
