@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T04:10:22.300Z",
+  "generatedAt": "2026-07-12T05:10:21.517Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -553,7 +553,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=58; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=59; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1148,7 +1148,7 @@
           "platform": "bilibili",
           "id": "1339268",
           "name": "农民新八",
-          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.81"
+          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.81"
         },
         {
           "type": "creator",
