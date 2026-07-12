@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T23:10:16.780Z",
+  "generatedAt": "2026-07-12T00:10:16.746Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1036,7 +1036,7 @@
           "platform": "bilibili",
           "id": "11332884",
           "name": "Key725",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.71"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -5339,6 +5339,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "19113357",
+          "name": "渡宇视角",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1912249087",
           "name": "一克麻辣毛蛋儿",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.74"
@@ -5776,6 +5783,13 @@
           "id": "198375523",
           "name": "毓庾彧",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1984512",
+          "name": "Sherry龙小葵",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.45"
         },
         {
           "type": "creator",
@@ -12500,6 +12514,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546373951588920",
+          "name": "低配挂机研讨会",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546376562543291",
           "name": "搞科研的江师兄",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
@@ -14673,6 +14694,13 @@
           "id": "3546739109792577",
           "name": "鲤鱼蛋002",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546740483427281",
+          "name": "爱吃虾肉的虾仁动画漫",
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -20165,6 +20193,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690992112764937",
+          "name": "傻甜迪k",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690992374909302",
           "name": "顶级纪录片",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.27"
@@ -22825,6 +22860,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "37090749",
+          "name": "东海xx",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "371061846",
           "name": "辫子哥BraidGuy",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.83"
@@ -24977,13 +25019,6 @@
           "id": "429711841",
           "name": "综艺哔哔机",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.33"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "429886010",
-          "name": "GameSir盖世小鸡官方",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -27980,13 +28015,6 @@
           "id": "517468401",
           "name": "三联生活实验室",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.96"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "517491339",
-          "name": "好奇星人知识喵",
-          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.32"
         },
         {
           "type": "creator",
