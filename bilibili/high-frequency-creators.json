@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T12:10:15.509Z",
+  "generatedAt": "2026-07-13T13:10:15.397Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6823,6 +6823,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2137589551",
+          "name": "李大霄",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2142894144",
           "name": "鳄神记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.91"
@@ -12367,6 +12374,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537105305208954",
+          "name": "小忆动漫",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537106035018583",
           "name": "RIIZE",
           "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.63"
@@ -12908,7 +12922,7 @@
           "platform": "bilibili",
           "id": "3546557934733791",
           "name": "XLG电竞俱乐部",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.65"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.65"
         },
         {
           "type": "creator",
@@ -19619,6 +19633,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "368215834",
+          "name": "风言漫剧",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690970310773011",
           "name": "_自然风_",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
@@ -20517,7 +20538,7 @@
           "platform": "bilibili",
           "id": "3690996246251875",
           "name": "dog吃慕斯",
-          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.31"
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.99"
         },
         {
           "type": "creator",
