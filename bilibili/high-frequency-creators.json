@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T11:10:15.367Z",
+  "generatedAt": "2026-07-13T12:10:15.509Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -350,7 +350,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=0.85"
+          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -7883,6 +7883,13 @@
           "id": "262264570",
           "name": "枯叶cccccc",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "26234408",
+          "name": "莫凡的退休生活",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -29135,6 +29142,13 @@
           "id": "55876294",
           "name": "大雄031203",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "562100312",
+          "name": "未名07",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.46"
         },
         {
           "type": "creator",
