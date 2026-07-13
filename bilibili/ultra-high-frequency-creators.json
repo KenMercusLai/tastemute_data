@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T17:10:21.916Z",
+  "generatedAt": "2026-07-13T18:10:21.573Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8181,6 +8181,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546867631655908",
+          "name": "遥迁忆姐弟组合",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546868149652364",
           "name": "佳佳姐的心语",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
@@ -14722,6 +14729,13 @@
           "id": "483522694",
           "name": "火星课堂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4835397",
+          "name": "陈青doro",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.53"
         },
         {
           "type": "creator",
