@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T08:10:15.398Z",
+  "generatedAt": "2026-07-13T09:10:15.688Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5643,6 +5643,13 @@
           "id": "1954997940",
           "name": "午餐肉艺术家葛世贤",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19550011",
+          "name": "章鱼哥治愈馆",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -13574,6 +13581,13 @@
           "id": "3546616021649949",
           "name": "泽央zeyang",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546617514821738",
+          "name": "河北文旅",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -24274,6 +24288,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "39777637",
+          "name": "超英队长",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "398097839",
           "name": "白二羽",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
@@ -25117,6 +25138,13 @@
           "id": "421225943",
           "name": "小星科普宇宙1",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "421447642",
+          "name": "daLincom",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.93"
         },
         {
           "type": "creator",
@@ -28112,7 +28140,7 @@
           "platform": "bilibili",
           "id": "514592664",
           "name": "阿源_wuii_",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.99"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -29877,6 +29905,13 @@
           "id": "622971788",
           "name": "叐乔黉燃兆",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "624708064",
+          "name": "三金啊GC",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.53"
         },
         {
           "type": "creator",
