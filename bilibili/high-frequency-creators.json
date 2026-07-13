@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T16:10:16.195Z",
+  "generatedAt": "2026-07-13T17:10:16.899Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3610,6 +3610,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1592280108",
+          "name": "CBRO西柏路",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "159356532",
           "name": "橘文祥",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
@@ -4404,6 +4411,13 @@
           "id": "1738515234",
           "name": "子衿动漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1739162042",
+          "name": "就想Rua一下",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -5503,6 +5517,13 @@
           "id": "1927374657",
           "name": "三角洲七杀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1927945006",
+          "name": "老马与小白动画官方",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -11646,6 +11667,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493291129572027",
+          "name": "战争警戒牢蒙斯克",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493291144251692",
           "name": "骑山峰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.35"
@@ -14175,7 +14203,7 @@
           "platform": "bilibili",
           "id": "3546666053404749",
           "name": "娜娜美丫",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -19787,6 +19815,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690973202745878",
+          "name": "钝刀伊克",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690973307603358",
           "name": "萌宠晴晴",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
@@ -21337,6 +21372,13 @@
           "id": "3706941540927581",
           "name": "历不忘",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706941748546151",
+          "name": "沧笙4",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -31689,7 +31731,7 @@
           "platform": "bilibili",
           "id": "86881329",
           "name": "梦求真暗区突围",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.69"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.69"
         },
         {
           "type": "creator",
