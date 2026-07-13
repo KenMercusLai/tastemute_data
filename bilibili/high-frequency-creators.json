@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T14:10:15.668Z",
+  "generatedAt": "2026-07-13T15:10:15.414Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19339,6 +19339,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632314452020104",
+          "name": "新清风6084",
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3632314475088080",
           "name": "苹果7175",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.11"
@@ -23098,6 +23105,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707019563370948",
+          "name": "沈迟888",
+          "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "370862957",
           "name": "芝士ChizZ",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
@@ -25466,7 +25480,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=0.65"
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=0.71"
         },
         {
           "type": "creator",
