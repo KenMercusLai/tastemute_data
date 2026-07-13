@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T10:10:15.405Z",
+  "generatedAt": "2026-07-13T11:10:15.367Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -27326,6 +27326,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "489595529",
+          "name": "R白哥",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "489812923",
           "name": "竹枫destiny",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
@@ -28624,6 +28631,13 @@
           "id": "525377706",
           "name": "小埋来也yyy",
           "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "525624824",
+          "name": "荒野牧荒者",
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -31319,6 +31333,13 @@
           "id": "74193649",
           "name": "_eldarC",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7466789",
+          "name": "Jerryprpr",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.74"
         },
         {
           "type": "creator",
