@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T13:10:15.397Z",
+  "generatedAt": "2026-07-13T14:10:15.668Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1394,6 +1394,13 @@
           "id": "1194936353",
           "name": "有点欲望的悍妇",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1196199895",
+          "name": "小糖仁在此",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -24869,6 +24876,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "412799192",
+          "name": "闲时碎影",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=0.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "412829001",
           "name": "鼠小条sxt",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.75"
@@ -25222,6 +25236,13 @@
           "id": "4238285",
           "name": "深辰S",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "423871735",
+          "name": "六六五三画生",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.37"
         },
         {
           "type": "creator",
