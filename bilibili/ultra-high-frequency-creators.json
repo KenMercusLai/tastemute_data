@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T07:10:20.818Z",
+  "generatedAt": "2026-07-13T08:10:20.440Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13886,6 +13886,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "435117938",
+          "name": "方方子OmO",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "4351252",
           "name": "贵州2频道百姓关注",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
@@ -14729,6 +14736,13 @@
           "id": "486070088",
           "name": "宠物动漫科普",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "486194856",
+          "name": "stars雨w",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.93"
         },
         {
           "type": "creator",
@@ -16541,7 +16555,7 @@
           "platform": "bilibili",
           "id": "697389811",
           "name": "P-apyrus",
-          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 1 days; videos=45; avg_gap_days=0.48"
         },
         {
           "type": "creator",
