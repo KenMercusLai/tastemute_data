@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T07:10:16.372Z",
+  "generatedAt": "2026-07-13T07:10:15.386Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5418,7 +5418,7 @@
           "platform": "bilibili",
           "id": "1915056903",
           "name": "暗区突围",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.83"
         },
         {
           "type": "creator",
@@ -6476,6 +6476,13 @@
           "id": "20925715",
           "name": "黑色的風虎",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2094023032",
+          "name": "橘山走过风",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -7973,7 +7980,7 @@
           "platform": "bilibili",
           "id": "268810504",
           "name": "安徽共青团",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -8156,6 +8163,13 @@
           "id": "275150466",
           "name": "袁岚峰",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "275639718",
+          "name": "拆迁本拆",
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.51"
         },
         {
           "type": "creator",
@@ -22902,6 +22916,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707012378527814",
+          "name": "大鱼meme",
+          "reason": "Average upload gap <= 2 days; videos=11; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707012816833154",
           "name": "小志看漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
@@ -23520,7 +23541,7 @@
           "platform": "bilibili",
           "id": "384298638",
           "name": "浙江共青团",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.52"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -24766,7 +24787,7 @@
           "platform": "bilibili",
           "id": "412829001",
           "name": "鼠小条sxt",
-          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.75"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.75"
         },
         {
           "type": "creator",
@@ -26138,7 +26159,7 @@
           "platform": "bilibili",
           "id": "46207951",
           "name": "落橘生秋",
-          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -28488,6 +28509,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "52428278",
+          "name": "半杯可乐喵",
+          "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "524432475",
           "name": "陕西警方",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
@@ -29797,6 +29825,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "621019974",
+          "name": "依依思吾一世",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "622863051",
           "name": "随心Kan世界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
@@ -30968,7 +31003,7 @@
           "platform": "bilibili",
           "id": "70093",
           "name": "12dora",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.84"
         },
         {
           "type": "creator",
