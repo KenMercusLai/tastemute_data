@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T09:10:20.807Z",
+  "generatedAt": "2026-07-13T10:10:20.903Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -12650,6 +12650,13 @@
           "id": "3707019064248641",
           "name": "今鱼小姐",
           "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "370862957",
+          "name": "芝士ChizZ",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
