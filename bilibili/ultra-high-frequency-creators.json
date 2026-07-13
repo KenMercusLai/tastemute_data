@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T07:10:27.417Z",
+  "generatedAt": "2026-07-13T07:10:20.818Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14252,7 +14252,7 @@
           "platform": "bilibili",
           "id": "46207951",
           "name": "落橘生秋",
-          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -16010,6 +16010,13 @@
           "id": "620775745",
           "name": "杰特潘",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "621019974",
+          "name": "依依思吾一世",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.52"
         },
         {
           "type": "creator",
