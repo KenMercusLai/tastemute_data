@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T12:10:20.461Z",
+  "generatedAt": "2026-07-13T13:10:26.193Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3340,6 +3340,13 @@
           "id": "2136691962",
           "name": "维纳世界",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2137589551",
+          "name": "李大霄",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -10452,6 +10459,13 @@
           "id": "368195577",
           "name": "敬业丶vlog",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "368215834",
+          "name": "风言漫剧",
+          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.15"
         },
         {
           "type": "creator",
