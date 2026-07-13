@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T09:10:15.688Z",
+  "generatedAt": "2026-07-13T10:10:15.405Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -960,6 +960,13 @@
           "id": "11173348",
           "name": "下饭音乐",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "111803100",
+          "name": "忆昨日叹今夕往事随风",
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.68"
         },
         {
           "type": "creator",
@@ -23052,6 +23059,13 @@
           "id": "3707019064248641",
           "name": "今鱼小姐",
           "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "370862957",
+          "name": "芝士ChizZ",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
