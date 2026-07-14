@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T08:10:15.619Z",
+  "generatedAt": "2026-07-14T09:10:16.379Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9686,6 +9686,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "322327937",
+          "name": "芸尔意兮",
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "32283445",
           "name": "橘咪我放蒸笼了",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
@@ -10186,6 +10193,13 @@
           "id": "343348",
           "name": "口袋迷ag",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "34349217",
+          "name": "刃性哥哥",
+          "reason": "Average upload gap <= 2 days; videos=227; avg_gap_days=1.80"
         },
         {
           "type": "creator",
@@ -13613,6 +13627,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546604904647412",
+          "name": "来壹份黄油蟹蟹",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546605019990782",
           "name": "社恐的号线",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.35"
@@ -15723,6 +15744,13 @@
           "id": "3546818656864699",
           "name": "脑补-大揭秘",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.71"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546818818345258",
+          "name": "酒来一丝",
+          "reason": "Average upload gap <= 2 days; videos=108; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -23448,6 +23476,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "37534850",
+          "name": "小欧模玩",
+          "reason": "Average upload gap <= 2 days; videos=111; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "375480637",
           "name": "AAA同谐星神",
           "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.85"
@@ -29702,6 +29737,13 @@
           "id": "587050283",
           "name": "三国杀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "587466102",
+          "name": "リナ守護者の煎餅マン",
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.91"
         },
         {
           "type": "creator",
