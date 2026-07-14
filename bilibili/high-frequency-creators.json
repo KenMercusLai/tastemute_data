@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T21:10:16.734Z",
+  "generatedAt": "2026-07-14T22:10:16.816Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2535,6 +2535,13 @@
           "id": "1375678265",
           "name": "大明白李淑芬",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1377118912",
+          "name": "硬汉阿雷",
+          "reason": "Average upload gap <= 2 days; videos=6027; avg_gap_days=0.80"
         },
         {
           "type": "creator",
