@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T10:10:21.787Z",
+  "generatedAt": "2026-07-14T11:10:21.024Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3263,13 +3263,6 @@
           "id": "2098187058",
           "name": "热火阿豪",
           "reason": "Average upload gap <= 1 days; videos=29; avg_gap_days=0.93"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "2098334661",
-          "name": "若勿忘我_毅心",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -14288,6 +14281,13 @@
           "id": "450593259",
           "name": "冷夜愚歌",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "45088263",
+          "name": "芙宁娜家的猫",
+          "reason": "Average upload gap <= 1 days; videos=64; avg_gap_days=0.95"
         },
         {
           "type": "creator",
