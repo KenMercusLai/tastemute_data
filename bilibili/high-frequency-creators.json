@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T12:10:15.547Z",
+  "generatedAt": "2026-07-14T13:10:16.095Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10645,6 +10645,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493076200851994",
+          "name": "秦文玚本人",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493076804831543",
           "name": "程天啊",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
@@ -15405,6 +15412,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546774797027546",
+          "name": "绘梦_无用师",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546775484893232",
           "name": "电趣",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.99"
@@ -17970,6 +17984,13 @@
           "id": "3546941401074170",
           "name": "油管小兔",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546941614983704",
+          "name": "小梨ovi2",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.93"
         },
         {
           "type": "creator",
@@ -22755,6 +22776,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706989886573214",
+          "name": "三雨没生活",
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706990041762512",
           "name": "可可想分享",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.37"
@@ -24172,6 +24200,13 @@
           "id": "388007145",
           "name": "元情花",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "388211648",
+          "name": "于小于哈",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.41"
         },
         {
           "type": "creator",
