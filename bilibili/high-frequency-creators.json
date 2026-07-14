@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T14:10:16.392Z",
+  "generatedAt": "2026-07-14T15:10:16.396Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4345,6 +4345,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "171149043",
+          "name": "KT-CX",
+          "reason": "Average upload gap <= 2 days; videos=172; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1711970281",
           "name": "AA轩故事汇",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.10"
@@ -6084,6 +6091,13 @@
           "id": "20048600",
           "name": "神牛教丶教主",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2005048189",
+          "name": "洛手人才-阿离",
+          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -16077,6 +16091,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546847194909608",
+          "name": "子彧糯糯",
+          "reason": "Average upload gap <= 2 days; videos=80; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546847222172344",
           "name": "村间顾影",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.29"
@@ -16976,6 +16997,13 @@
           "id": "3546897860004492",
           "name": "VBAI小剧场",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546897925016493",
+          "name": "虾仁爱动画动漫馆",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.17"
         },
         {
           "type": "creator",
@@ -18061,6 +18089,13 @@
           "id": "3546946438432785",
           "name": "小琳爱带土",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546946761394212",
+          "name": "寒夜爱电影解说",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -20158,6 +20193,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690974419094498",
+          "name": "我的AI日记",
+          "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690974440065761",
           "name": "小瓜子坚强版",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
@@ -21295,6 +21337,13 @@
           "id": "3706923320871033",
           "name": "咪宝今天不上班",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706923394271736",
+          "name": "由乃AI漫剧制作",
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -31942,6 +31991,13 @@
           "id": "7656600",
           "name": "关注点开或者个性签名",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "76713314",
+          "name": "我是流泪小熊头",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
         },
         {
           "type": "creator",
