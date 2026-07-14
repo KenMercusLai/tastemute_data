@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T20:10:16.917Z",
+  "generatedAt": "2026-07-14T21:10:16.734Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7005,6 +7005,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21594056",
+          "name": "柒月与呆瓜",
+          "reason": "Average upload gap <= 2 days; videos=65; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "215986465",
           "name": "大连理工大学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.99"
@@ -7043,6 +7050,13 @@
           "id": "21752191",
           "name": "比笨猪",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "21840109",
+          "name": "秩序善良の咕哒子",
+          "reason": "Average upload gap <= 2 days; videos=201; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -18422,6 +18436,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546962336942704",
+          "name": "娜姐说游",
+          "reason": "Average upload gap <= 2 days; videos=12; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546962529880734",
           "name": "赞赞不喜欢玩游戏",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.85"
@@ -24575,6 +24596,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "39320988",
+          "name": "王者人格小A",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "393275268",
           "name": "李狗派",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
@@ -29674,6 +29702,13 @@
           "id": "552379823",
           "name": "一只优雅的荷包蛋",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "552530237",
+          "name": "公瑾侯桑",
+          "reason": "Average upload gap <= 2 days; videos=176; avg_gap_days=1.07"
         },
         {
           "type": "creator",
