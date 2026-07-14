@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T19:10:16.895Z",
+  "generatedAt": "2026-07-14T20:10:16.917Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7880,6 +7880,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "253506417",
+          "name": "林哲观车",
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2536539",
           "name": "这波老倒霉蛋了",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.81"
@@ -7910,7 +7917,7 @@
           "platform": "bilibili",
           "id": "25566221",
           "name": "藏根的云",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.99"
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.99"
         },
         {
           "type": "creator",
