@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T11:10:21.024Z",
+  "generatedAt": "2026-07-14T12:10:20.361Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17291,6 +17291,13 @@
           "id": "9914744",
           "name": "AIGC茶茶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "99984492",
+          "name": "永雏塔菲变声器",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
         }
       ],
       "keywords": []
