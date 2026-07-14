@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T18:10:21.573Z",
+  "generatedAt": "2026-07-14T06:10:20.520Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1114,13 +1114,6 @@
           "id": "1322953481",
           "name": "心刚音乐库",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.48"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "13282928",
-          "name": "小钻石酱",
-          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -3514,7 +3507,7 @@
           "platform": "bilibili",
           "id": "22839600",
           "name": "佛珠战神",
-          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -4698,6 +4691,13 @@
           "id": "326083737",
           "name": "小弯为所欲为",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "326351420",
+          "name": "雷海居头",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.44"
         },
         {
           "type": "creator",
@@ -12689,6 +12689,20 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3707017596242318",
+          "name": "纪录片ovo",
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707018221193783",
+          "name": "只看爆扣",
+          "reason": "Average upload gap <= 1 days; videos=14; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3707018676275560",
           "name": "福满今生",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.03"
@@ -13564,13 +13578,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "406129419",
-          "name": "HLGames",
-          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "40619707",
           "name": "从0单排学习的飞象",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
@@ -13923,7 +13930,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=56; avg_gap_days=0.71"
+          "reason": "Average upload gap <= 1 days; videos=57; avg_gap_days=0.71"
         },
         {
           "type": "creator",
@@ -14455,7 +14462,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 1 days; videos=88; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=89; avg_gap_days=0.22"
         },
         {
           "type": "creator",
