@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T07:10:20.131Z",
+  "generatedAt": "2026-07-14T08:10:20.966Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2038,6 +2038,13 @@
           "id": "1681299250",
           "name": "迈阿密热火",
           "reason": "Average upload gap <= 1 days; videos=12; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1683191280",
+          "name": "常风-传武实战",
+          "reason": "Average upload gap <= 1 days; videos=133; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -11163,6 +11170,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690995013126708",
+          "name": "全球国际视野",
+          "reason": "Average upload gap <= 1 days; videos=30; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690995117984486",
           "name": "盘腿讲神话",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
@@ -11172,6 +11186,13 @@
           "platform": "bilibili",
           "id": "3690995753420935",
           "name": "安-少轩",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690996013468317",
+          "name": "30岁大叔看世界",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
         },
         {
@@ -14698,6 +14719,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "481532126",
+          "name": "戏子说漫",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "482008535",
           "name": "落尽千帆皆不是",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -14917,7 +14945,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.06"
         },
         {
           "type": "creator",
