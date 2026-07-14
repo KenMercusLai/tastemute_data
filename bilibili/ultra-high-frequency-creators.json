@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T14:10:21.671Z",
+  "generatedAt": "2026-07-14T15:10:21.344Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7992,6 +7992,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546847194909608",
+          "name": "子彧糯糯",
+          "reason": "Average upload gap <= 1 days; videos=80; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546847222172344",
           "name": "村间顾影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
@@ -9388,6 +9395,13 @@
           "id": "3546946438432785",
           "name": "小琳爱带土",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546946761394212",
+          "name": "寒夜爱电影解说",
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.26"
         },
         {
           "type": "creator",
