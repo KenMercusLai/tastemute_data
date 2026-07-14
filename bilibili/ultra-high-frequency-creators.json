@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T17:10:22.375Z",
+  "generatedAt": "2026-07-14T18:10:21.572Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5685,6 +5685,13 @@
           "id": "3493279519738197",
           "name": "奶芙泡泡c",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493281033882192",
+          "name": "遇仙记-刘宇",
+          "reason": "Average upload gap <= 1 days; videos=148; avg_gap_days=0.08"
         },
         {
           "type": "creator",
