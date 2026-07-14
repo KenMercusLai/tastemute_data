@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T11:10:16.191Z",
+  "generatedAt": "2026-07-14T12:10:15.547Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -32684,6 +32684,13 @@
           "id": "99175401",
           "name": "朽火",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "99984492",
+          "name": "永雏塔菲变声器",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.89"
         }
       ],
       "keywords": []
