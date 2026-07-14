@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T13:10:16.095Z",
+  "generatedAt": "2026-07-14T14:10:16.392Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -26136,6 +26136,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "4398002",
+          "name": "灯露椎名",
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "439868658",
           "name": "五菱银标",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.23"
@@ -26691,7 +26698,7 @@
           "platform": "bilibili",
           "id": "46207951",
           "name": "落橘生秋",
-          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -27343,6 +27350,13 @@
           "id": "481237760",
           "name": "星球官方号",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "481253456",
+          "name": "P7GAB",
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -28008,6 +28022,13 @@
           "id": "493980850",
           "name": "下饭动漫酱",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "494124838",
+          "name": "伴山拾字",
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.99"
         },
         {
           "type": "creator",
