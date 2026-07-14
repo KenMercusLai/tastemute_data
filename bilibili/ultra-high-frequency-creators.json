@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T06:10:20.520Z",
+  "generatedAt": "2026-07-14T07:10:20.131Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3666,6 +3666,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "241199113",
+          "name": "僵尸教授-",
+          "reason": "Average upload gap <= 1 days; videos=178; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2412557",
           "name": "龟仙人龟娘",
           "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.13"
@@ -4425,6 +4432,13 @@
           "id": "305008287",
           "name": "棉花糖向前冲",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "305615452",
+          "name": "西瓜灯团长",
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -6364,6 +6378,13 @@
           "id": "3546389868972074",
           "name": "小米汽车",
           "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546390357608960",
+          "name": "棂镹",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -9640,6 +9661,13 @@
           "id": "3546973604940631",
           "name": "黑猫兔兔",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546973607037706",
+          "name": "军武牢真",
+          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=0.06"
         },
         {
           "type": "creator",
