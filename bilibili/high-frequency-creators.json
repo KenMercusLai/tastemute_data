@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T16:10:16.452Z",
+  "generatedAt": "2026-07-14T17:10:16.862Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8979,6 +8979,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "29359651",
+          "name": "灰烬重生之心",
+          "reason": "Average upload gap <= 2 days; videos=285; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "293745556",
           "name": "中天评论",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.04"
@@ -9241,6 +9248,13 @@
           "id": "303294765",
           "name": "由乃AI教程",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "30393176",
+          "name": "唯恨天涯远-4K",
+          "reason": "Average upload gap <= 2 days; videos=404; avg_gap_days=1.92"
         },
         {
           "type": "creator",
@@ -20469,6 +20483,13 @@
           "id": "3690983707379923",
           "name": "机智本智zbp",
           "reason": "Average upload gap <= 2 days; videos=13; avg_gap_days=1.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690983717865991",
+          "name": "窈窕淑女lly",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.50"
         },
         {
           "type": "creator",
@@ -32341,6 +32362,13 @@
           "id": "89227208",
           "name": "八零数学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "89238184",
+          "name": "卦师佐風",
+          "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=2.00"
         },
         {
           "type": "creator",
