@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T10:10:20.683Z",
+  "generatedAt": "2026-07-15T11:10:20.387Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -841,6 +841,13 @@
           "id": "1240188952",
           "name": "说真相",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12403633",
+          "name": "残暴布袋熊",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -7803,6 +7810,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546813111995208",
+          "name": "奥星热浪",
+          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546814041033142",
           "name": "纪录片bro",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.20"
@@ -12902,6 +12916,13 @@
           "id": "374010276",
           "name": "做一庸人",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "374820311",
+          "name": "志乃-指導教授",
+          "reason": "Average upload gap <= 1 days; videos=89; avg_gap_days=0.42"
         },
         {
           "type": "creator",
