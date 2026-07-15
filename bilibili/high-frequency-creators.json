@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T08:10:15.903Z",
+  "generatedAt": "2026-07-15T09:10:15.387Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -25324,6 +25324,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "409278060",
+          "name": "RFFFF-",
+          "reason": "Average upload gap <= 2 days; videos=218; avg_gap_days=1.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "4096581",
           "name": "病院坂saki",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.52"
@@ -25873,6 +25880,13 @@
           "id": "430100854",
           "name": "苦茶就是荼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "43010734",
+          "name": "foolish_dogve",
+          "reason": "Average upload gap <= 2 days; videos=230; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -31808,7 +31822,7 @@
           "platform": "bilibili",
           "id": "70070",
           "name": "v猫诺v",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.35"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.35"
         },
         {
           "type": "creator",
