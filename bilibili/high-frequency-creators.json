@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T10:10:15.393Z",
+  "generatedAt": "2026-07-15T11:10:15.412Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1699,6 +1699,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "12403633",
+          "name": "残暴布袋熊",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "12434430",
           "name": "LinusTechTips",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
@@ -2212,7 +2219,7 @@
           "platform": "bilibili",
           "id": "1317031",
           "name": "墨夜影舞",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.47"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -2346,6 +2353,13 @@
           "id": "1337856191",
           "name": "困困不知道哦",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13384816",
+          "name": "真正的战士阿泽",
+          "reason": "Average upload gap <= 2 days; videos=390; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -8050,7 +8064,7 @@
           "platform": "bilibili",
           "id": "261263814",
           "name": "蕉激",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -15800,6 +15814,13 @@
           "id": "3546812298299855",
           "name": "M桃花匠l",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546813111995208",
+          "name": "奥星热浪",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -23689,6 +23710,13 @@
           "id": "374010276",
           "name": "做一庸人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "374820311",
+          "name": "志乃-指導教授",
+          "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -32131,6 +32159,13 @@
           "id": "76783215",
           "name": "诸葛墨镜",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "76837610",
+          "name": "中国石油",
+          "reason": "Average upload gap <= 2 days; videos=278; avg_gap_days=1.05"
         },
         {
           "type": "creator",
