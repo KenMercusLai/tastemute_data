@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T22:10:16.816Z",
+  "generatedAt": "2026-07-15T08:10:15.903Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1338,6 +1338,13 @@
           "id": "1176364334",
           "name": "凌韵104",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11790512",
+          "name": "塔米糕ovo",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -9269,6 +9276,13 @@
           "id": "302492426",
           "name": "小地狱人间",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3030017",
+          "name": "雷电-游戏电波",
+          "reason": "Average upload gap <= 2 days; videos=430; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -24767,6 +24781,13 @@
           "id": "3960347",
           "name": "博闫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "39625692",
+          "name": "男子汉动漫",
+          "reason": "Average upload gap <= 2 days; videos=103; avg_gap_days=1.11"
         },
         {
           "type": "creator",
