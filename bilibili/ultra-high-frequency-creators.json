@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T11:10:20.387Z",
+  "generatedAt": "2026-07-16T08:10:20.267Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -225,6 +225,13 @@
           "id": "1040680334",
           "name": "山河有声",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "104092224",
+          "name": "中新视频",
+          "reason": "Average upload gap <= 1 days; videos=521; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -16052,6 +16059,13 @@
           "id": "592370102",
           "name": "小辉教你开公司",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "59346044",
+          "name": "好赛雷切片",
+          "reason": "Average upload gap <= 1 days; videos=297; avg_gap_days=0.10"
         },
         {
           "type": "creator",
