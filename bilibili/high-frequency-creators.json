@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T21:10:15.661Z",
+  "generatedAt": "2026-07-16T22:10:15.715Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2836,6 +2836,13 @@
           "id": "1427659913",
           "name": "桃染衣",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1432773397",
+          "name": "观海的鲁夫",
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.33"
         },
         {
           "type": "creator",
@@ -12717,6 +12724,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537106211179005",
+          "name": "凌小桑-",
+          "reason": "Average upload gap <= 2 days; videos=746; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537107003902809",
           "name": "安茵anke",
           "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.33"
@@ -19027,6 +19041,13 @@
           "id": "355704565",
           "name": "秘籍啊给",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "355832766",
+          "name": "荫茨Yintz",
+          "reason": "Average upload gap <= 2 days; videos=152; avg_gap_days=1.68"
         },
         {
           "type": "creator",
