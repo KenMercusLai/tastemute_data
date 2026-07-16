@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T11:10:15.412Z",
+  "generatedAt": "2026-07-16T08:10:15.522Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -390,6 +390,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "104092224",
+          "name": "中新视频",
+          "reason": "Average upload gap <= 2 days; videos=521; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1042383998",
           "name": "建造师德米特里",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
@@ -561,6 +568,13 @@
           "id": "1065833230",
           "name": "凌小星lxx",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "106600096",
+          "name": "百歌人很猛",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.36"
         },
         {
           "type": "creator",
@@ -7106,6 +7120,13 @@
           "id": "219405122",
           "name": "凌晨三点秋名山",
           "reason": "Average upload gap <= 2 days; videos=12; avg_gap_days=1.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "219450887",
+          "name": "每天说交通",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -26675,6 +26696,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "452600545",
+          "name": "悬疑MOVIE",
+          "reason": "Average upload gap <= 2 days; videos=357; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "453439022",
           "name": "CSGO自分z",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.09"
@@ -29713,6 +29741,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "5484488",
+          "name": "小小少女不饮酒",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "548888758",
           "name": "虎牙蒙主",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
@@ -30199,6 +30234,13 @@
           "id": "592370102",
           "name": "小辉教你开公司",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "59346044",
+          "name": "好赛雷切片",
+          "reason": "Average upload gap <= 2 days; videos=297; avg_gap_days=0.10"
         },
         {
           "type": "creator",
