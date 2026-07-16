@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T08:10:20.267Z",
+  "generatedAt": "2026-07-16T21:10:20.362Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11649,13 +11649,6 @@
           "id": "3706929935288619",
           "name": "老胡说说日记",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3706930495228149",
-          "name": "Misen-",
-          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.80"
         },
         {
           "type": "creator",
