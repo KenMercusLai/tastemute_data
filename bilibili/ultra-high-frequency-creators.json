@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T15:10:20.463Z",
+  "generatedAt": "2026-07-18T16:10:20.895Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3081,6 +3081,13 @@
           "id": "2014663121",
           "name": "蔚蓝的大海怪",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2016013132",
+          "name": "西木科普馆",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
         },
         {
           "type": "creator",
@@ -13636,7 +13643,7 @@
           "platform": "bilibili",
           "id": "3995500",
           "name": "鱼雪余",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.82"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -14225,6 +14232,13 @@
           "id": "437388833",
           "name": "AKA阿蹦",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "438398241",
+          "name": "骑迹龙龙",
+          "reason": "Average upload gap <= 1 days; videos=57; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -16472,6 +16486,13 @@
           "id": "636480988",
           "name": "算法防线",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "638172632",
+          "name": "搜狐新闻",
+          "reason": "Average upload gap <= 1 days; videos=251; avg_gap_days=0.12"
         },
         {
           "type": "creator",
