@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T18:10:16.102Z",
+  "generatedAt": "2026-07-18T19:10:15.983Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2899,6 +2899,13 @@
           "id": "1434443037",
           "name": "乌鸦坐飞机FF",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14353151",
+          "name": "你猫哥呀",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -6679,6 +6686,13 @@
           "id": "2082970320",
           "name": "十万个梗的知识",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "20840409",
+          "name": "陈九仙啊",
+          "reason": "Average upload gap <= 2 days; videos=117; avg_gap_days=1.87"
         },
         {
           "type": "creator",
@@ -10498,6 +10512,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "344990811",
+          "name": "丨鑫森淼焱磊丨",
+          "reason": "Average upload gap <= 2 days; videos=341; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3451754",
           "name": "觅渡Dzg",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.85"
@@ -12692,6 +12713,13 @@
           "id": "350988058",
           "name": "高星卡手",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "35128176",
+          "name": "小甜甜阿七",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -21876,6 +21904,13 @@
           "id": "3706931749325647",
           "name": "七月日记簿",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706932879689758",
+          "name": "天秀漫馆",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=0.87"
         },
         {
           "type": "creator",
@@ -32893,7 +32928,7 @@
           "platform": "bilibili",
           "id": "89633734",
           "name": "说书人阿阵",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=0.95"
         },
         {
           "type": "creator",
