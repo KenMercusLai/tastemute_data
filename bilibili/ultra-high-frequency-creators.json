@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T14:10:21.124Z",
+  "generatedAt": "2026-07-18T15:10:20.463Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4011,7 +4011,7 @@
           "platform": "bilibili",
           "id": "272957290",
           "name": "楚河录播组",
-          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.50"
+          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.87"
         },
         {
           "type": "creator",
