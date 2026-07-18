@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T13:10:16.289Z",
+  "generatedAt": "2026-07-18T14:10:16.367Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4424,7 +4424,7 @@
           "platform": "bilibili",
           "id": "171086",
           "name": "肚子饱饱丶",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -26447,6 +26447,13 @@
           "id": "43764108",
           "name": "赛博天国",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "438145294",
+          "name": "有一点dddd",
+          "reason": "Average upload gap <= 2 days; videos=91; avg_gap_days=1.21"
         },
         {
           "type": "creator",
