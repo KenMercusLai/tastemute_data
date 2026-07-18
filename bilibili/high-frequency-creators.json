@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T09:10:15.871Z",
+  "generatedAt": "2026-07-18T10:10:16.241Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6375,6 +6375,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2038638286",
+          "name": "小奥制作人",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2043767",
           "name": "Blaink",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
@@ -8324,6 +8331,13 @@
           "id": "271185110",
           "name": "多壳特儿",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2718711",
+          "name": "王道長",
+          "reason": "Average upload gap <= 2 days; videos=536; avg_gap_days=0.93"
         },
         {
           "type": "creator",
@@ -13466,6 +13480,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546570029009227",
+          "name": "由乃野生设计师",
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546570282764898",
           "name": "TOPScout视界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
@@ -16101,6 +16122,13 @@
           "id": "3546825218853464",
           "name": "风行天边",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546827401988673",
+          "name": "火锅喵Music",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -21796,6 +21824,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706937797511716",
+          "name": "顶级AI教程",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706937879300234",
           "name": "小六子哪里跑",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
@@ -24781,6 +24816,13 @@
           "id": "393327436",
           "name": "不追番会断电",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "393671271",
+          "name": "胡凯利_洞主",
+          "reason": "Average upload gap <= 2 days; videos=157; avg_gap_days=0.74"
         },
         {
           "type": "creator",
