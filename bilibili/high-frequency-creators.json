@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T22:10:16.055Z",
+  "generatedAt": "2026-07-18T23:10:15.510Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -36,6 +36,13 @@
           "id": "1002898910",
           "name": "动动体育",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10029520",
+          "name": "MC烤土豆",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -1972,6 +1979,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1263987303",
+          "name": "龙族卡塞尔之门",
+          "reason": "Average upload gap <= 2 days; videos=156; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "12653252",
           "name": "我自高处不胜寒",
           "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.72"
@@ -3869,6 +3883,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1607211136",
+          "name": "锰狐教头-三角洲指南",
+          "reason": "Average upload gap <= 2 days; videos=114; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1609962522",
           "name": "峰峰V吃鸡V",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.02"
@@ -4537,6 +4558,13 @@
           "id": "171906694",
           "name": "没有梦想的oni13",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1719833502",
+          "name": "提瓦特调查猿",
+          "reason": "Average upload gap <= 2 days; videos=116; avg_gap_days=0.90"
         },
         {
           "type": "creator",
@@ -17876,6 +17904,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546914280704696",
+          "name": "冷杉Firtree军剪",
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546914335230309",
           "name": "露乐动漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.22"
@@ -28390,6 +28425,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "488457934",
+          "name": "苹果味塑料袋",
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "488699427",
           "name": "90AIGC",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
@@ -32971,6 +33013,13 @@
           "id": "89093979",
           "name": "少爷阿jie",
           "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "89133463",
+          "name": "小小小尹啊",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
         },
         {
           "type": "creator",
