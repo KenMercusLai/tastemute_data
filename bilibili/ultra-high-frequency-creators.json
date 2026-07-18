@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T16:10:20.895Z",
+  "generatedAt": "2026-07-18T17:10:20.977Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -750,6 +750,13 @@
           "id": "1196199895",
           "name": "小糖仁在此",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1198059973",
+          "name": "某不知名的玩家P",
+          "reason": "Average upload gap <= 1 days; videos=105; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -10102,6 +10109,13 @@
           "id": "3632302261274788",
           "name": "阿乐漫影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632302764591396",
+          "name": "爽剧与动漫",
+          "reason": "Average upload gap <= 1 days; videos=120; avg_gap_days=0.54"
         },
         {
           "type": "creator",
