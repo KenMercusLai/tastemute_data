@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T17:10:20.977Z",
+  "generatedAt": "2026-07-18T18:10:20.637Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -560,7 +560,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=64; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=65; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -4985,6 +4985,13 @@
           "id": "341425341",
           "name": "渣渣辉-哈佛比回收",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "342646",
+          "name": "CS青木",
+          "reason": "Average upload gap <= 1 days; videos=283; avg_gap_days=0.95"
         },
         {
           "type": "creator",
