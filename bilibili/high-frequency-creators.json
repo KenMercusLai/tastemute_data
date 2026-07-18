@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T20:10:16.362Z",
+  "generatedAt": "2026-07-18T21:10:15.849Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -364,7 +364,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=0.85"
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -2794,6 +2794,13 @@
           "id": "14141146",
           "name": "痞大菠萝派",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1414351987",
+          "name": "ZEROBASEONE",
+          "reason": "Average upload gap <= 2 days; videos=488; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -5615,6 +5622,13 @@
           "id": "1909477211",
           "name": "用AI玩转生活",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1910543792",
+          "name": "小shyzz",
+          "reason": "Average upload gap <= 2 days; videos=114; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -9983,6 +9997,13 @@
           "id": "32356793",
           "name": "怎么又买呀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "324207806",
+          "name": "南译丷",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -32957,6 +32978,13 @@
           "id": "89238184",
           "name": "卦师佐風",
           "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "895617",
+          "name": "CME6大神犬",
+          "reason": "Average upload gap <= 2 days; videos=148; avg_gap_days=1.47"
         },
         {
           "type": "creator",
