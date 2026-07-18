@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T19:10:15.983Z",
+  "generatedAt": "2026-07-18T20:10:16.362Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14544,6 +14544,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546657887095194",
+          "name": "衣宁ovo",
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546658763704787",
           "name": "油菜Fafa丶",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.30"
@@ -24533,6 +24540,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "38518347",
+          "name": "高郁唯森",
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "38530894",
           "name": "有妖气的昵称",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
@@ -25712,6 +25726,13 @@
           "id": "410039839",
           "name": "疯狂的小抽",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "41027667",
+          "name": "夜羽露西娅",
+          "reason": "Average upload gap <= 2 days; videos=809; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -27378,6 +27399,13 @@
           "id": "471515996",
           "name": "薯条麦乐叽",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "471815857",
+          "name": "pvp250",
+          "reason": "Average upload gap <= 2 days; videos=492; avg_gap_days=1.18"
         },
         {
           "type": "creator",
@@ -29240,6 +29268,13 @@
           "id": "514592664",
           "name": "阿源_wuii_",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "514964724",
+          "name": "鬼川教官",
+          "reason": "Average upload gap <= 2 days; videos=79; avg_gap_days=0.83"
         },
         {
           "type": "creator",
