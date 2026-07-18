@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T20:10:21.089Z",
+  "generatedAt": "2026-07-18T21:10:20.830Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -203,7 +203,7 @@
           "platform": "bilibili",
           "id": "10330740",
           "name": "观察者网",
-          "reason": "Average upload gap <= 1 days; videos=59; avg_gap_days=0.85"
+          "reason": "Average upload gap <= 1 days; videos=63; avg_gap_days=0.85"
         },
         {
           "type": "creator",
