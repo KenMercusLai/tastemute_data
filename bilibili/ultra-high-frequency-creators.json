@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T18:10:20.637Z",
+  "generatedAt": "2026-07-18T19:10:20.810Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11758,6 +11758,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706932879689758",
+          "name": "天秀漫馆",
+          "reason": "Average upload gap <= 1 days; videos=28; avg_gap_days=0.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706933192165705",
           "name": "歆妍漫舍",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
@@ -17220,7 +17227,7 @@
           "platform": "bilibili",
           "id": "89633734",
           "name": "说书人阿阵",
-          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.95"
         },
         {
           "type": "creator",
