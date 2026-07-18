@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T14:10:16.367Z",
+  "generatedAt": "2026-07-18T15:10:15.989Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8379,7 +8379,7 @@
           "platform": "bilibili",
           "id": "272957290",
           "name": "楚河录播组",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=0.50"
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=0.87"
         },
         {
           "type": "creator",
@@ -12090,6 +12090,13 @@
           "id": "3493296420686687",
           "name": "欣欣向荣随手拍",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493296502475236",
+          "name": "小小臭乐美",
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -32397,6 +32404,13 @@
           "id": "7509355",
           "name": "秦沐雨er",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7600646",
+          "name": "么么辰的游戏百宝箱",
+          "reason": "Average upload gap <= 2 days; videos=286; avg_gap_days=1.92"
         },
         {
           "type": "creator",
