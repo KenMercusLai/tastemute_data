@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T09:10:20.737Z",
+  "generatedAt": "2026-07-18T10:10:21.219Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3988,6 +3988,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2718711",
+          "name": "王道長",
+          "reason": "Average upload gap <= 1 days; videos=536; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "272492422",
           "name": "猫九myy",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
@@ -7953,6 +7960,13 @@
           "id": "3546825218853464",
           "name": "风行天边",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546827401988673",
+          "name": "火锅喵Music",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -13455,6 +13469,13 @@
           "id": "393327436",
           "name": "不追番会断电",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "393671271",
+          "name": "胡凯利_洞主",
+          "reason": "Average upload gap <= 1 days; videos=157; avg_gap_days=0.74"
         },
         {
           "type": "creator",
