@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T11:10:15.901Z",
+  "generatedAt": "2026-07-18T12:10:15.393Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10974,6 +10974,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493085912763265",
+          "name": "TXT_OFFICIAL",
+          "reason": "Average upload gap <= 2 days; videos=359; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493086074243369",
           "name": "凯男老师的恋爱课",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.73"
@@ -12286,6 +12293,13 @@
           "id": "3494361614518652",
           "name": "大型纪录片P",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494361614518974",
+          "name": "楯文曲星波川海",
+          "reason": "Average upload gap <= 2 days; videos=100; avg_gap_days=1.96"
         },
         {
           "type": "creator",
@@ -18285,6 +18299,13 @@
           "id": "3546943682775235",
           "name": "雷神普化天尊孟三竖",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546944850888738",
+          "name": "李大厨家常菜",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
