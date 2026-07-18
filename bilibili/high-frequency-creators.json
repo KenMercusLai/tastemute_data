@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T08:10:15.803Z",
+  "generatedAt": "2026-07-18T09:10:15.871Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10057,6 +10057,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "328271007",
+          "name": "青蜂侠-Bee",
+          "reason": "Average upload gap <= 2 days; videos=616; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "328442637",
           "name": "小张给你的情书",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
@@ -18054,6 +18061,13 @@
           "id": "3546933266222016",
           "name": "精彩名人汇",
           "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546933742275318",
+          "name": "蜡笔小心眼9527",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -26360,6 +26374,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "43831821",
+          "name": "百里浪丶",
+          "reason": "Average upload gap <= 2 days; videos=640; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "438413982",
           "name": "AtlasCuriosity",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
@@ -30252,6 +30273,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "589735947",
+          "name": "蹦极窝瓜",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "589888335",
           "name": "CuteRemilia",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.23"
@@ -32033,6 +32061,13 @@
           "id": "701501151",
           "name": "互助路图图",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "701504969",
+          "name": "闪电新闻",
+          "reason": "Average upload gap <= 2 days; videos=537; avg_gap_days=0.04"
         },
         {
           "type": "creator",
