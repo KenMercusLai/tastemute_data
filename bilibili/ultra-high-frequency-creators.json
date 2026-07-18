@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T22:10:20.590Z",
+  "generatedAt": "2026-07-18T23:10:20.157Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1909,6 +1909,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1607211136",
+          "name": "锰狐教头-三角洲指南",
+          "reason": "Average upload gap <= 1 days; videos=114; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "161260897",
           "name": "王小量化日记",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
@@ -2192,6 +2199,13 @@
           "id": "171766569",
           "name": "小阿峰世间万物",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1719833502",
+          "name": "提瓦特调查猿",
+          "reason": "Average upload gap <= 1 days; videos=116; avg_gap_days=0.90"
         },
         {
           "type": "creator",
