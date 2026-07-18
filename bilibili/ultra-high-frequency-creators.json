@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T21:10:20.830Z",
+  "generatedAt": "2026-07-18T22:10:20.590Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11621,6 +11621,13 @@
           "id": "3691012696312483",
           "name": "油炸超级无敌大勾史",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691012736157890",
+          "name": "Q仔X_Official",
+          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.77"
         },
         {
           "type": "creator",
