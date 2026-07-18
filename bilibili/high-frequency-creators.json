@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T07:10:15.857Z",
+  "generatedAt": "2026-07-18T08:10:15.803Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1058,6 +1058,13 @@
           "id": "1131457022",
           "name": "人民日报",
           "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1131626424",
+          "name": "齐岚OvO",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -21600,6 +21607,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706927523564319",
+          "name": "基建狂魔大潘",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706927806679784",
           "name": "单手食光",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
@@ -23696,6 +23710,13 @@
           "id": "3707019563370948",
           "name": "沈迟888",
           "reason": "Average upload gap <= 2 days; videos=15; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707022228851250",
+          "name": "法国国家足球队",
+          "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=1.01"
         },
         {
           "type": "creator",
