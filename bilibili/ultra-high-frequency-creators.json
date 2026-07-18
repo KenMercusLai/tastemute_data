@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T06:10:20.606Z",
+  "generatedAt": "2026-07-18T07:10:20.399Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -560,7 +560,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=59; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=63; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1226,6 +1226,13 @@
           "id": "1368397383",
           "name": "影子小剧社",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.24"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1369778540",
+          "name": "影子刑偵录",
+          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -4191,6 +4198,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "285286947",
+          "name": "橘鸦Juya",
+          "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "285336289",
           "name": "征西将军_晚8点播",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
@@ -6580,7 +6594,7 @@
           "platform": "bilibili",
           "id": "3546568328218880",
           "name": "央视文旅",
-          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.23"
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -14609,7 +14623,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 1 days; videos=89; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=90; avg_gap_days=0.22"
         },
         {
           "type": "creator",
