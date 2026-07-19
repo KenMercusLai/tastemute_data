@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T02:10:15.736Z",
+  "generatedAt": "2026-07-19T03:10:16.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -26157,6 +26157,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "417071810",
+          "name": "一分钟速评",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "417121586",
           "name": "醉逍遥游戏解说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.27"
@@ -32061,6 +32068,13 @@
           "id": "675844011",
           "name": "林总linn",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "676233930",
+          "name": "简易长矛汉化组",
+          "reason": "Average upload gap <= 2 days; videos=145; avg_gap_days=0.95"
         },
         {
           "type": "creator",
