@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T00:10:21.137Z",
+  "generatedAt": "2026-07-19T01:10:21.203Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14652,6 +14652,13 @@
           "id": "470107440",
           "name": "青丝iam",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "470510666",
+          "name": "超勇的二等饼干",
+          "reason": "Average upload gap <= 1 days; videos=214; avg_gap_days=0.85"
         },
         {
           "type": "creator",
