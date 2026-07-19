@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T02:10:19.970Z",
+  "generatedAt": "2026-07-19T03:10:21.078Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16829,6 +16829,13 @@
           "id": "6756999",
           "name": "英文白斑马",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "676233930",
+          "name": "简易长矛汉化组",
+          "reason": "Average upload gap <= 1 days; videos=145; avg_gap_days=0.95"
         },
         {
           "type": "creator",
