@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T00:10:15.906Z",
+  "generatedAt": "2026-07-19T01:10:16.334Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3781,6 +3781,13 @@
           "id": "15879736",
           "name": "噑噒壭壱漫社",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1588360739",
+          "name": "野人电影说",
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -15429,6 +15436,13 @@
           "id": "3546734210845549",
           "name": "AI出图-由乃",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546734393296919",
+          "name": "虚无_缥缈梦",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.04"
         },
         {
           "type": "creator",
@@ -27452,6 +27466,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "470510666",
+          "name": "超勇的二等饼干",
+          "reason": "Average upload gap <= 2 days; videos=214; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "47083624",
           "name": "帕林persist",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.02"
@@ -32991,7 +33012,7 @@
           "platform": "bilibili",
           "id": "884798",
           "name": "蓝天上的流云",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.52"
         },
         {
           "type": "creator",
