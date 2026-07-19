@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T23:10:15.510Z",
+  "generatedAt": "2026-07-19T00:10:15.906Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3554,6 +3554,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1543503106",
+          "name": "送OwO",
+          "reason": "Average upload gap <= 2 days; videos=231; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1544008396",
           "name": "梗百科",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.84"
@@ -6742,6 +6749,13 @@
           "id": "20840409",
           "name": "陈九仙啊",
           "reason": "Average upload gap <= 2 days; videos=117; avg_gap_days=1.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2086168524",
+          "name": "春余夏浅",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -32761,6 +32775,13 @@
           "id": "81240780",
           "name": "军武白板",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8183775",
+          "name": "盐铁桶子",
+          "reason": "Average upload gap <= 2 days; videos=774; avg_gap_days=1.11"
         },
         {
           "type": "creator",
