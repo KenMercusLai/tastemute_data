@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T03:10:21.078Z",
+  "generatedAt": "2026-07-19T04:10:20.901Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1338,6 +1338,13 @@
           "id": "13934589",
           "name": "嗨氏丶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13959972",
+          "name": "骇丶c",
+          "reason": "Average upload gap <= 1 days; videos=424; avg_gap_days=0.73"
         },
         {
           "type": "creator",
@@ -3239,6 +3246,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "207080734",
+          "name": "彼岸渐影",
+          "reason": "Average upload gap <= 1 days; videos=68; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2071691173",
           "name": "无畏契约赛事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
@@ -4159,6 +4173,13 @@
           "id": "2804493",
           "name": "恬欣欣的成长日记",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "280537892",
+          "name": "雷雷雷雷雷子呀",
+          "reason": "Average upload gap <= 1 days; videos=28; avg_gap_days=0.63"
         },
         {
           "type": "creator",
