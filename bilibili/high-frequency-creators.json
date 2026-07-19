@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T01:10:16.334Z",
+  "generatedAt": "2026-07-19T02:10:15.736Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1051,6 +1051,13 @@
           "id": "11241685",
           "name": "爱莉希雅office",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1125242358",
+          "name": "小北格斗",
+          "reason": "Average upload gap <= 2 days; videos=301; avg_gap_days=1.10"
         },
         {
           "type": "creator",
@@ -4261,6 +4268,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1667114801",
+          "name": "皆舜JS",
+          "reason": "Average upload gap <= 2 days; videos=74; avg_gap_days=1.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1670942266",
           "name": "悠轩游轩",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.00"
@@ -6909,7 +6923,7 @@
           "platform": "bilibili",
           "id": "2104998517",
           "name": "永帅乒乓",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.14"
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.14"
         },
         {
           "type": "creator",
@@ -22734,6 +22748,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706961006693160",
+          "name": "HARDCOAE",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706962107697353",
           "name": "爱打牌的艾利欧",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.66"
@@ -24626,7 +24647,7 @@
           "platform": "bilibili",
           "id": "385085361",
           "name": "T8star-Aix",
-          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.88"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -28820,6 +28841,13 @@
           "id": "496848037",
           "name": "一块融化的冰",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "497358483",
+          "name": "MIB探员K",
+          "reason": "Average upload gap <= 2 days; videos=238; avg_gap_days=1.07"
         },
         {
           "type": "creator",
