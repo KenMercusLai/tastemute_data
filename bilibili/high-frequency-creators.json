@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T04:10:16.256Z",
+  "generatedAt": "2026-07-22T10:10:15.444Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6154,6 +6154,13 @@
           "id": "1978333794",
           "name": "爱吃薯条の炸鸡",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1980421641",
+          "name": "捕快云缨",
+          "reason": "Average upload gap <= 2 days; videos=102; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -15601,6 +15608,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546741183875852",
+          "name": "赤发三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546741563460336",
           "name": "美女追我N条街",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
@@ -20333,6 +20347,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3632320330336705",
+          "name": "史前委员会",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "36335732",
           "name": "老实人林少",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
@@ -24410,6 +24431,13 @@
           "id": "381381664",
           "name": "素素素素华",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "381386822",
+          "name": "武器百事通",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.91"
         },
         {
           "type": "creator",
