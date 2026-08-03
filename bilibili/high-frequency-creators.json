@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T07:00:17.754Z",
+  "generatedAt": "2026-08-03T08:00:20.178Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2689,6 +2689,13 @@
           "id": "1339689710",
           "name": "ai酷儿小剧场吖",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1340733361",
+          "name": "看牛牛电影",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -7756,7 +7763,7 @@
           "platform": "bilibili",
           "id": "2098334661",
           "name": "若勿忘我_毅心",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -10053,6 +10060,13 @@
           "id": "284549159",
           "name": "第5音乐台",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "284908601",
+          "name": "芷雪睡不醒",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=2.00"
         },
         {
           "type": "creator",
