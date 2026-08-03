@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T01:00:21.553Z",
+  "generatedAt": "2026-08-03T02:00:18.974Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1779,6 +1779,13 @@
           "id": "1227140964",
           "name": "龚杨杰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1227322027",
+          "name": "猫meme羊仔",
+          "reason": "Average upload gap <= 2 days; videos=64; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -33034,6 +33041,13 @@
           "id": "515705169",
           "name": "飞飞推漫馆",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "515745520",
+          "name": "凌痕QAQ",
+          "reason": "Average upload gap <= 2 days; videos=712; avg_gap_days=0.19"
         },
         {
           "type": "creator",

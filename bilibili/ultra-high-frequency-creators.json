@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T01:00:21.553Z",
+  "generatedAt": "2026-08-03T02:00:18.974Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16682,6 +16682,13 @@
           "id": "515375437",
           "name": "哔哩大学財经学院",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "515745520",
+          "name": "凌痕QAQ",
+          "reason": "Average upload gap <= 1 days; videos=712; avg_gap_days=0.19"
         },
         {
           "type": "creator",
