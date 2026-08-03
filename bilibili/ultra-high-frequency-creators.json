@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T18:00:17.280Z",
+  "generatedAt": "2026-08-03T19:00:21.104Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1793,6 +1793,13 @@
           "id": "1538099870",
           "name": "我想你了兔娘",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1540771251",
+          "name": "90婚介所官方账号",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.05"
         },
         {
           "type": "creator",
