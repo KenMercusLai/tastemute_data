@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T20:00:16.206Z",
+  "generatedAt": "2026-08-03T21:00:21.619Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2168,6 +2168,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1263382816",
+          "name": "skfn-TV",
+          "reason": "Average upload gap <= 2 days; videos=85; avg_gap_days=1.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1263497596",
           "name": "战地摄像机IOAoI",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.57"
@@ -3697,6 +3704,13 @@
           "id": "1501388421",
           "name": "爱吃_茯苓糕",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "150227122",
+          "name": "退役程序员",
+          "reason": "Average upload gap <= 2 days; videos=372; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -11431,7 +11445,7 @@
           "platform": "bilibili",
           "id": "324473490",
           "name": "中国青年报",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -15513,6 +15527,13 @@
           "id": "3546570282764898",
           "name": "TOPScout视界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546570343581961",
+          "name": "反卷文化",
+          "reason": "Average upload gap <= 2 days; videos=96; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -20896,6 +20917,13 @@
           "id": "3546933742275318",
           "name": "蜡笔小心眼9527",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546933958282121",
+          "name": "我的世界伊若",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
