@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T17:00:19.124Z",
+  "generatedAt": "2026-08-03T18:00:17.280Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1975,6 +1975,13 @@
           "id": "1249954025",
           "name": "十一的看脸日记",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1250115313",
+          "name": "臭蛋老师-围棋文学",
+          "reason": "Average upload gap <= 2 days; videos=120; avg_gap_days=1.78"
         },
         {
           "type": "creator",
@@ -17123,6 +17130,13 @@
           "id": "3546701572869014",
           "name": "你的麦克阿瑟纪录片",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546702296386082",
+          "name": "陈述2333",
+          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.00"
         },
         {
           "type": "creator",

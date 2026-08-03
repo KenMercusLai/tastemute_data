@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T17:00:19.124Z",
+  "generatedAt": "2026-08-03T18:00:17.280Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7925,6 +7925,13 @@
           "id": "3546701572869014",
           "name": "你的麦克阿瑟纪录片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546702296386082",
+          "name": "陈述2333",
+          "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=1.00"
         },
         {
           "type": "creator",
