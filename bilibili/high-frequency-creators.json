@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T08:00:20.178Z",
+  "generatedAt": "2026-08-03T09:00:19.105Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6970,6 +6970,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "198818528",
+          "name": "SUN同學",
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1991105236",
           "name": "竞技侠客",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
@@ -13475,7 +13482,7 @@
           "platform": "bilibili",
           "id": "3493273484135157",
           "name": "一只铃音喵l-v-l",
-          "reason": "Average upload gap <= 2 days; videos=148; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=149; avg_gap_days=1.67"
         },
         {
           "type": "creator",
@@ -32492,6 +32499,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "50094288",
+          "name": "死神怪蜀黍",
+          "reason": "Average upload gap <= 2 days; videos=108; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.88"
@@ -35530,6 +35544,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "649678280",
+          "name": "电电大脑瓜",
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "650663945",
           "name": "诺拉Nora_Heitis",
           "reason": "Average upload gap <= 2 days; videos=339; avg_gap_days=1.63"
@@ -35693,7 +35714,7 @@
           "platform": "bilibili",
           "id": "660956113",
           "name": "在下伊隐",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.65"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.65"
         },
         {
           "type": "creator",
