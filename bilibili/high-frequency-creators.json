@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T00:00:16.440Z",
+  "generatedAt": "2026-08-03T01:00:21.553Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1636,6 +1636,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1208377561",
+          "name": "温柔的小辣椒妹",
+          "reason": "Average upload gap <= 2 days; videos=83; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1209085892",
           "name": "天樊-带人",
           "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=1.32"
@@ -2234,6 +2241,13 @@
           "id": "12799703",
           "name": "包包入侵SSR",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1280267062",
+          "name": "账号已注销4573185049",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -12780,6 +12794,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493115218365162",
+          "name": "今天我才知道c",
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493115776207311",
           "name": "溺水之鱼儿",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
@@ -17179,6 +17200,13 @@
           "id": "3546720210258217",
           "name": "最热大型纪录片",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546720363350453",
+          "name": "真实记录馆",
+          "reason": "Average upload gap <= 2 days; videos=105; avg_gap_days=1.49"
         },
         {
           "type": "creator",

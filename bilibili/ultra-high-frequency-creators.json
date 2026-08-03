@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T00:00:16.440Z",
+  "generatedAt": "2026-08-03T01:00:21.553Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -775,6 +775,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1208377561",
+          "name": "温柔的小辣椒妹",
+          "reason": "Average upload gap <= 1 days; videos=83; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1210468676",
           "name": "雅雅说漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
@@ -974,6 +981,13 @@
           "id": "12799703",
           "name": "包包入侵SSR",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1280267062",
+          "name": "账号已注销4573185049",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.13"
         },
         {
           "type": "creator",
