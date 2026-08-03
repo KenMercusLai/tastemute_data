@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T12:00:18.014Z",
+  "generatedAt": "2026-08-03T13:00:20.227Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -85,6 +85,13 @@
           "id": "1006955656",
           "name": "童年辟风港",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1007147412",
+          "name": "面包钓摩卡",
+          "reason": "Average upload gap <= 2 days; videos=163; avg_gap_days=0.94"
         },
         {
           "type": "creator",
