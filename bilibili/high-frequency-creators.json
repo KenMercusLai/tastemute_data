@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T09:00:19.105Z",
+  "generatedAt": "2026-08-03T10:00:18.260Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6452,6 +6452,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1917973342",
+          "name": "中国媳妇卡佳",
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1918016728",
           "name": "OS视界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
@@ -8947,6 +8954,13 @@
           "id": "244320144",
           "name": "坠机纪录片",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "244495262",
+          "name": "有个同事叫亚当",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -29415,6 +29429,13 @@
           "id": "419222712",
           "name": "优雅爱温柔Q",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "419276035",
+          "name": "跑酷野人杰",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.94"
         },
         {
           "type": "creator",
