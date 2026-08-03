@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T03:00:17.591Z",
+  "generatedAt": "2026-08-03T04:00:19.532Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11380,6 +11380,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "325384407",
+          "name": "幻灵蜗牛",
+          "reason": "Average upload gap <= 2 days; videos=1035; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "325597646",
           "name": "CV-蛤蟆镜-无偿配音",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.85"
@@ -17386,6 +17393,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546730211576533",
+          "name": "雪落初三",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546731050437180",
           "name": "AI出图",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.16"
@@ -20294,6 +20308,13 @@
           "id": "3546913458621290",
           "name": "请耳朵吃顿好的",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546913741736748",
+          "name": "崔文浩洗纹身vlog",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",

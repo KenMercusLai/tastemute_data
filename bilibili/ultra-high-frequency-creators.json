@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T03:00:17.591Z",
+  "generatedAt": "2026-08-03T04:00:19.532Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9717,6 +9717,13 @@
           "id": "3546913303431611",
           "name": "凌凌漫馆",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546913741736748",
+          "name": "崔文浩洗纹身vlog",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
