@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T11:00:19.267Z",
+  "generatedAt": "2026-08-03T12:00:18.014Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4803,6 +4803,13 @@
           "id": "1667114801",
           "name": "皆舜JS",
           "reason": "Average upload gap <= 2 days; videos=74; avg_gap_days=1.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1670745037",
+          "name": "独白LIFE",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -29450,6 +29457,13 @@
           "id": "41958039",
           "name": "传播正能量壁鱼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "41980034",
+          "name": "碳水仙人_B站",
+          "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=2.00"
         },
         {
           "type": "creator",
