@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T16:00:17.887Z",
+  "generatedAt": "2026-08-03T17:00:19.124Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1044,6 +1044,13 @@
           "id": "1289388278",
           "name": "动物猿记事本",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1289888",
+          "name": "东北虎行",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
         },
         {
           "type": "creator",
