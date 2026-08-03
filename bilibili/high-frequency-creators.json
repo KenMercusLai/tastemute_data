@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T21:00:21.619Z",
+  "generatedAt": "2026-08-03T22:00:17.838Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -413,7 +413,7 @@
           "platform": "bilibili",
           "id": "104092224",
           "name": "中新视频",
-          "reason": "Average upload gap <= 2 days; videos=521; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=522; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -30821,7 +30821,7 @@
           "platform": "bilibili",
           "id": "455594814",
           "name": "九霄长星",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -31767,6 +31767,13 @@
           "id": "482448059",
           "name": "邱小五猫meme",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "482474107",
+          "name": "河北工业大学官方",
+          "reason": "Average upload gap <= 2 days; videos=204; avg_gap_days=1.08"
         },
         {
           "type": "creator",
