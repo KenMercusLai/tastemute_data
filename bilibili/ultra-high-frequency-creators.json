@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T13:00:20.227Z",
+  "generatedAt": "2026-08-03T14:00:21.156Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8244,6 +8244,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546763082336982",
+          "name": "维多夫妻在中国",
+          "reason": "Average upload gap <= 1 days; videos=56; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546764135106746",
           "name": "曼波曼波嗨皮",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
@@ -10452,6 +10459,13 @@
           "id": "3546965142931704",
           "name": "蛛蛛子也",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546966466234581",
+          "name": "游戏宅报",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.44"
         },
         {
           "type": "creator",
