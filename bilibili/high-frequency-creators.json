@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T15:00:20.314Z",
+  "generatedAt": "2026-08-03T16:00:17.887Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4387,6 +4387,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1604888116",
+          "name": "喵机一号",
+          "reason": "Average upload gap <= 2 days; videos=98; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1607211136",
           "name": "锰狐教头-三角洲指南",
           "reason": "Average upload gap <= 2 days; videos=114; avg_gap_days=0.86"
@@ -8258,6 +8265,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21652031",
+          "name": "七帆梓NanahoAzusa",
+          "reason": "Average upload gap <= 2 days; videos=500; avg_gap_days=1.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "216675905",
           "name": "又一个uu",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.25"
@@ -11306,6 +11320,13 @@
           "id": "32160597",
           "name": "落锦墨",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "321902254",
+          "name": "荷包蛋-洛克王国世界",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.91"
         },
         {
           "type": "creator",
