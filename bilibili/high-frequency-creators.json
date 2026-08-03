@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T14:00:21.156Z",
+  "generatedAt": "2026-08-03T15:00:20.314Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -21883,6 +21883,13 @@
           "id": "3546983010666913",
           "name": "头号个体",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546984042466084",
+          "name": "来一碗炒饭-刘松",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.90"
         },
         {
           "type": "creator",
