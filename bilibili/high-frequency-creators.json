@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T22:00:17.838Z",
+  "generatedAt": "2026-08-03T23:00:17.925Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5727,6 +5727,13 @@
           "id": "179346335",
           "name": "隔壁小贾-暗区突围",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1793756432",
+          "name": "阿科车与生活",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -14743,6 +14750,13 @@
           "id": "3537108518046204",
           "name": "星羽冥",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537108601932112",
+          "name": "栗子007A",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.71"
         },
         {
           "type": "creator",
@@ -35764,6 +35778,13 @@
           "id": "652312612",
           "name": "溯su_su",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "652586568",
+          "name": "叶子带帅比",
+          "reason": "Average upload gap <= 2 days; videos=105; avg_gap_days=1.52"
         },
         {
           "type": "creator",
