@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T02:00:18.974Z",
+  "generatedAt": "2026-08-03T03:00:17.591Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -950,6 +950,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "11015159",
+          "name": "精灵宝钻v2",
+          "reason": "Average upload gap <= 2 days; videos=144; avg_gap_days=1.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "11021614",
           "name": "我是瑞斯拜",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.69"
@@ -1086,6 +1093,13 @@
           "id": "1121360699",
           "name": "猫meme的小亦",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "112205271",
+          "name": "龙武仙",
+          "reason": "Average upload gap <= 2 days; videos=155; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -13273,6 +13287,13 @@
           "id": "3493262484572295",
           "name": "EXO",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493262557972567",
+          "name": "纳雅欣野白猫氿绘",
+          "reason": "Average upload gap <= 2 days; videos=163; avg_gap_days=0.45"
         },
         {
           "type": "creator",
@@ -36618,6 +36639,13 @@
           "id": "74193649",
           "name": "_eldarC",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "74210998",
+          "name": "我也有细节啦",
+          "reason": "Average upload gap <= 2 days; videos=229; avg_gap_days=0.85"
         },
         {
           "type": "creator",
