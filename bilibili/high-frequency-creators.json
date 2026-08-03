@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T19:00:21.104Z",
+  "generatedAt": "2026-08-03T20:00:16.206Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15328,6 +15328,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546558941366987",
+          "name": "纤灵儿er",
+          "reason": "Average upload gap <= 2 days; videos=148; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546559260133500",
           "name": "简单物理一不能学不会",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.62"
@@ -22625,6 +22632,13 @@
           "id": "3632308628228934",
           "name": "郭律情感",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632308630326076",
+          "name": "我只有一个胃",
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=1.87"
         },
         {
           "type": "creator",
