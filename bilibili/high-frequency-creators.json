@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T05:00:16.590Z",
+  "generatedAt": "2026-08-03T06:00:16.931Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -932,6 +932,13 @@
           "id": "109624402",
           "name": "牢中牢的牢猫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1097651254",
+          "name": "花糕糕-",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -35428,6 +35435,13 @@
           "id": "646421226",
           "name": "奈依依レム",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "646477053",
+          "name": "红警北风",
+          "reason": "Average upload gap <= 2 days; videos=102; avg_gap_days=1.72"
         },
         {
           "type": "creator",
