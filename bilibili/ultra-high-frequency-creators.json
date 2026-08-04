@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T22:00:15.968Z",
+  "generatedAt": "2026-08-04T23:00:20.285Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6277,6 +6277,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493282371865364",
+          "name": "冰岛军官的心怒",
+          "reason": "Average upload gap <= 1 days; videos=129; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493282686437997",
           "name": "bili_67509445824",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.70"
@@ -6448,6 +6455,13 @@
           "id": "3494353557261069",
           "name": "Tutu影视剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494354767317193",
+          "name": "新材料黄维",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -10942,6 +10956,13 @@
           "id": "356759194",
           "name": "还没是我",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "357833435",
+          "name": "渴X的鱼_反应视频_",
+          "reason": "Average upload gap <= 1 days; videos=699; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -16217,6 +16238,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "483787858",
+          "name": "环球网",
+          "reason": "Average upload gap <= 1 days; videos=140; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "484253629",
           "name": "小龙漫解",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
@@ -16745,6 +16773,13 @@
           "id": "507834545",
           "name": "雷鸟也怕打雷啊",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "508654880",
+          "name": "封面新闻",
+          "reason": "Average upload gap <= 1 days; videos=153; avg_gap_days=0.13"
         },
         {
           "type": "creator",
