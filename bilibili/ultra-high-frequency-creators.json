@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:00:16.910Z",
+  "generatedAt": "2026-08-04T21:00:17.628Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3001,6 +3001,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1929088027",
+          "name": "陈聿弘讲经典",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1930592055",
           "name": "天才虫二AI",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
@@ -4828,6 +4835,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "303469491",
+          "name": "闪耀暖暖",
+          "reason": "Average upload gap <= 1 days; videos=305; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "304451810",
           "name": "Fentwer",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.23"
@@ -5195,6 +5209,13 @@
           "id": "328060284",
           "name": "真嗣个巴嘎",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32824126",
+          "name": "喵七洛克王国世界",
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.97"
         },
         {
           "type": "creator",
