@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T01:00:23.997Z",
+  "generatedAt": "2026-08-04T02:00:20.303Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -36296,6 +36296,13 @@
           "id": "678058602",
           "name": "赛博小doro",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "678331973",
+          "name": "c姐姐tc",
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=1.77"
         },
         {
           "type": "creator",
