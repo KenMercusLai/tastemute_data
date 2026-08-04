@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T03:00:23.097Z",
+  "generatedAt": "2026-08-04T04:00:22.902Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4432,6 +4432,13 @@
           "id": "1604888116",
           "name": "喵机一号",
           "reason": "Average upload gap <= 2 days; videos=98; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1606544986",
+          "name": "乘风说财",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.60"
         },
         {
           "type": "creator",
