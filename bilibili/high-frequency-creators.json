@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T11:00:21.163Z",
+  "generatedAt": "2026-08-04T12:00:18.357Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2563,13 +2563,6 @@
           "id": "131580584",
           "name": "知先财情",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1317031",
-          "name": "墨夜影舞",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -23882,6 +23875,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690984823064837",
+          "name": "喂鸡恰逢雨天",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690985378810373",
           "name": "小姜的猫meme剧场",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
@@ -27966,6 +27966,13 @@
           "id": "38665940",
           "name": "Soleil-JJ",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "386846356",
+          "name": "欧得--布莱克",
+          "reason": "Average upload gap <= 2 days; videos=167; avg_gap_days=1.26"
         },
         {
           "type": "creator",
