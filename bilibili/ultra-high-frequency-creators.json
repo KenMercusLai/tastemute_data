@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T21:00:17.628Z",
+  "generatedAt": "2026-08-04T22:00:15.968Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2500,6 +2500,13 @@
           "id": "17802257",
           "name": "熊嗝鸽",
           "reason": "Average upload gap <= 1 days; videos=265; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "178149939",
+          "name": "cok小呆",
+          "reason": "Average upload gap <= 1 days; videos=93; avg_gap_days=0.43"
         },
         {
           "type": "creator",
