@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T13:00:19.463Z",
+  "generatedAt": "2026-08-04T14:00:18.817Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15520,6 +15520,13 @@
           "id": "450593259",
           "name": "冷夜愚歌",
           "reason": "Average upload gap <= 1 days; videos=21; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "450690066",
+          "name": "嘟噜汤圆",
+          "reason": "Average upload gap <= 1 days; videos=101; avg_gap_days=0.30"
         },
         {
           "type": "creator",

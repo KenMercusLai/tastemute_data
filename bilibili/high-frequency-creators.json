@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T13:00:19.463Z",
+  "generatedAt": "2026-08-04T14:00:18.817Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8100,6 +8100,13 @@
           "id": "2123251767",
           "name": "开心的倩姐",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2123397",
+          "name": "Cekai世界",
+          "reason": "Average upload gap <= 2 days; videos=90; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -17288,6 +17295,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546712220109027",
+          "name": "沐风吟月醉",
+          "reason": "Average upload gap <= 2 days; videos=160; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546712406755461",
           "name": "小董嘴挑真难搞",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
@@ -20714,6 +20728,13 @@
           "id": "3546919697648462",
           "name": "紫桐小窝",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546919714425092",
+          "name": "祈枝枝_",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.30"
         },
         {
           "type": "creator",
@@ -27529,6 +27550,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "380364687",
+          "name": "全员11人",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "380429634",
           "name": "忐忑的可乐饼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.17"
@@ -30738,6 +30766,13 @@
           "id": "450660660",
           "name": "蓝桥星雨",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "450690066",
+          "name": "嘟噜汤圆",
+          "reason": "Average upload gap <= 2 days; videos=101; avg_gap_days=0.30"
         },
         {
           "type": "creator",
@@ -34245,13 +34280,6 @@
           "id": "548044176",
           "name": "孤芳夜叶",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "5484488",
-          "name": "小小少女不饮酒",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.95"
         },
         {
           "type": "creator",
