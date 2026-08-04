@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:00:27.898Z",
+  "generatedAt": "2026-08-04T20:00:16.910Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -27336,6 +27336,13 @@
           "id": "3707025628334176",
           "name": "微光邮局",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707026041473261",
+          "name": "Deatqwq",
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.47"
         },
         {
           "type": "creator",
