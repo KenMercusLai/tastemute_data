@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:00:18.916Z",
+  "generatedAt": "2026-08-04T16:00:17.016Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -21530,6 +21530,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546957677070765",
+          "name": "Qinalove",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546957719013858",
           "name": "孟潇xy",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
@@ -27833,6 +27840,13 @@
           "id": "383705385",
           "name": "淡淡Dancey",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "383865880",
+          "name": "超级大雪糕糕糕",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.43"
         },
         {
           "type": "creator",
