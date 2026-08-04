@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:00:20.068Z",
+  "generatedAt": "2026-08-04T18:00:16.494Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2416,6 +2416,13 @@
           "id": "12916053",
           "name": "安烟夫人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12921053",
+          "name": "欠着蛋糕的罗曼",
+          "reason": "Average upload gap <= 2 days; videos=423; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -8237,6 +8244,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2139891520",
+          "name": "DarkUndead-",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "214021340",
           "name": "老王游戏情报站",
           "reason": "Average upload gap <= 2 days; videos=144; avg_gap_days=0.85"
@@ -11135,6 +11149,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "312613350",
+          "name": "HQM-Hugo魁Music",
+          "reason": "Average upload gap <= 2 days; videos=185; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "312734436",
           "name": "我劝你不要不识好歹丷",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.77"
@@ -13070,6 +13091,13 @@
           "id": "3493122545813507",
           "name": "kono迪莫Sama",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493123185445375",
+          "name": "真男人就该玩波提欧",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -21992,6 +22020,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546979820899040",
+          "name": "晴天三角洲oVo",
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546980091431311",
           "name": "B购",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.00"
@@ -24620,6 +24655,13 @@
           "id": "3691006461479873",
           "name": "-春桃酿",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691006732011875",
+          "name": "黑黑大帅剧场",
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.12"
         },
         {
           "type": "creator",
@@ -34553,13 +34595,6 @@
           "id": "5724114",
           "name": "邪剑仙喵瑞莉娅",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "572486169",
-          "name": "Neuro音乐",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.26"
         },
         {
           "type": "creator",

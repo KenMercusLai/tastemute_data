@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:00:20.068Z",
+  "generatedAt": "2026-08-04T18:00:16.494Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3638,6 +3638,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2139891520",
+          "name": "DarkUndead-",
+          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "214021340",
           "name": "老王游戏情报站",
           "reason": "Average upload gap <= 1 days; videos=144; avg_gap_days=0.85"
@@ -4905,6 +4912,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "312613350",
+          "name": "HQM-Hugo魁Music",
+          "reason": "Average upload gap <= 1 days; videos=185; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "312734436",
           "name": "我劝你不要不识好歹丷",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
@@ -5839,6 +5853,13 @@
           "id": "3493122545813507",
           "name": "kono迪莫Sama",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493123185445375",
+          "name": "真男人就该玩波提欧",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
         },
         {
           "type": "creator",
@@ -10753,6 +10774,13 @@
           "id": "3546979820898984",
           "name": "我爱看油管",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546979820899040",
+          "name": "晴天三角洲oVo",
+          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.27"
         },
         {
           "type": "creator",
