@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T02:00:20.303Z",
+  "generatedAt": "2026-08-04T03:00:23.097Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -21281,6 +21281,13 @@
           "id": "3546950039243584",
           "name": "唐公主玉儿解说",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546950523685406",
+          "name": "精分小酒酒",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
