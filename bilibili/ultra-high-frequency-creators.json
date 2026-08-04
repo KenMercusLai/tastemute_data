@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T12:00:18.357Z",
+  "generatedAt": "2026-08-04T13:00:19.463Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10361,6 +10361,13 @@
           "id": "3546949737253260",
           "name": "卡拉米纪实",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546949783390762",
+          "name": "圣达菲セイダフィ",
+          "reason": "Average upload gap <= 1 days; videos=58; avg_gap_days=0.73"
         },
         {
           "type": "creator",

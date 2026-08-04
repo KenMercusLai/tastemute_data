@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T12:00:18.357Z",
+  "generatedAt": "2026-08-04T13:00:19.463Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5839,6 +5839,13 @@
           "id": "180680164",
           "name": "醉酒的丘丘人",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1807935917",
+          "name": "致远悟到",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -17834,6 +17841,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546745160075661",
+          "name": "大熊悠游",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546745478843098",
           "name": "为男发声の林团长",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.50"
@@ -21309,6 +21323,13 @@
           "id": "3546949737253260",
           "name": "卡拉米纪实",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546949783390762",
+          "name": "圣达菲セイダフィ",
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=0.73"
         },
         {
           "type": "creator",
@@ -36170,6 +36191,13 @@
           "id": "670158805",
           "name": "有宇漫解说",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "670433402",
+          "name": "小祥燃剪",
+          "reason": "Average upload gap <= 2 days; videos=120; avg_gap_days=1.64"
         },
         {
           "type": "creator",
