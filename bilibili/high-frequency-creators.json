@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:00:18.817Z",
+  "generatedAt": "2026-08-04T15:00:18.916Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -57,6 +57,13 @@
           "id": "1004814622",
           "name": "奇遇原始人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1004939949",
+          "name": "MillonW",
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=0.90"
         },
         {
           "type": "creator",
@@ -6623,6 +6630,13 @@
           "id": "19248926",
           "name": "孤烟暮蝉",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1925124263",
+          "name": "按E见摩",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.69"
         },
         {
           "type": "creator",
@@ -30640,6 +30654,13 @@
           "id": "444502075",
           "name": "九先生6",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "44471110",
+          "name": "井阳-注意诈骗私信",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.00"
         },
         {
           "type": "creator",
