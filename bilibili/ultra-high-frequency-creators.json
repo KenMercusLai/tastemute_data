@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:00:16.494Z",
+  "generatedAt": "2026-08-04T19:00:27.898Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3053,6 +3053,13 @@
           "id": "1943562889",
           "name": "熊猫观影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1945684635",
+          "name": "曼联足球俱乐部",
+          "reason": "Average upload gap <= 1 days; videos=239; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -17508,6 +17515,13 @@
           "id": "603262838",
           "name": "酱酱放映室",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "603358091",
+          "name": "困了就睡觉去_",
+          "reason": "Average upload gap <= 1 days; videos=98; avg_gap_days=0.44"
         },
         {
           "type": "creator",

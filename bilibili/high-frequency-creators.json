@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:00:16.494Z",
+  "generatedAt": "2026-08-04T19:00:27.898Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5374,6 +5374,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "173463778",
+          "name": "一只小钟意y",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "17368510",
           "name": "DoroPP",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.94"
@@ -6795,6 +6802,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1945684635",
+          "name": "曼联足球俱乐部",
+          "reason": "Average upload gap <= 2 days; videos=239; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1947404128",
           "name": "二狗App-单身青年街访",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
@@ -7008,6 +7022,13 @@
           "id": "1974861742",
           "name": "王同学oi",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19753486",
+          "name": "老黎老了流泪了",
+          "reason": "Average upload gap <= 2 days; videos=237; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -22183,7 +22204,7 @@
           "platform": "bilibili",
           "id": "355832766",
           "name": "荫茨Yintz",
-          "reason": "Average upload gap <= 2 days; videos=153; avg_gap_days=1.68"
+          "reason": "Average upload gap <= 2 days; videos=156; avg_gap_days=1.68"
         },
         {
           "type": "creator",
@@ -32737,6 +32758,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "496143815",
+          "name": "孙尚书Plus",
+          "reason": "Average upload gap <= 2 days; videos=168; avg_gap_days=1.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "496315",
           "name": "异世界基建大魔王",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
@@ -35099,6 +35127,13 @@
           "id": "603262838",
           "name": "酱酱放映室",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "603358091",
+          "name": "困了就睡觉去_",
+          "reason": "Average upload gap <= 2 days; videos=98; avg_gap_days=0.44"
         },
         {
           "type": "creator",
