@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T00:00:20.488Z",
+  "generatedAt": "2026-08-04T01:00:23.997Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3018,6 +3018,13 @@
           "id": "1388457432",
           "name": "一枫O",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13897629",
+          "name": "史蒂芬怪",
+          "reason": "Average upload gap <= 2 days; videos=435; avg_gap_days=1.21"
         },
         {
           "type": "creator",
