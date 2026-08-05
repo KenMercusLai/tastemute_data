@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T06:00:33.112Z",
+  "generatedAt": "2026-08-05T07:00:20.901Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2969,6 +2969,13 @@
           "id": "1371768406",
           "name": "娱乐影视说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1372241958",
+          "name": "趋势天哥",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.96"
         },
         {
           "type": "creator",
