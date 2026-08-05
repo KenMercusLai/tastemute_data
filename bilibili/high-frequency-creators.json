@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T21:00:19.928Z",
+  "generatedAt": "2026-08-05T22:00:21.818Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20868,6 +20868,13 @@
           "id": "3546912315673397",
           "name": "猎梦者哇咔吖",
           "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546912680577689",
+          "name": "大千动漫丶",
+          "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=1.58"
         },
         {
           "type": "creator",
