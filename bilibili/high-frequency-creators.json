@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T20:00:21.434Z",
+  "generatedAt": "2026-08-05T21:00:19.928Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -24711,6 +24711,13 @@
           "id": "3690995117984486",
           "name": "盘腿讲神话",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690995122178549",
+          "name": "鱼片时间",
+          "reason": "Average upload gap <= 2 days; videos=62; avg_gap_days=1.01"
         },
         {
           "type": "creator",
