@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T08:00:28.875Z",
+  "generatedAt": "2026-08-05T09:00:29.646Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15797,13 +15797,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3546568466630679",
-          "name": "ai设计-由乃",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3546568537934379",
           "name": "历史X档案",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
@@ -15842,6 +15835,13 @@
           "id": "3546570029009227",
           "name": "由乃野生设计师",
           "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546570029009812",
+          "name": "由乃的AI设计台",
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.37"
         },
         {
           "type": "creator",
@@ -23819,6 +23819,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690972963670268",
+          "name": "教AI的由乃",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690973202745878",
           "name": "钝刀伊克",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.47"
@@ -25887,6 +25894,13 @@
           "id": "3706950084725414",
           "name": "憨憨大王哇",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706950162319671",
+          "name": "长庚ChangGengovo",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.30"
         },
         {
           "type": "creator",
