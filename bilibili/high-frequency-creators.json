@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T13:00:31.901Z",
+  "generatedAt": "2026-08-05T14:00:37.939Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -31298,6 +31298,13 @@
           "id": "45088263",
           "name": "芙宁娜家的猫",
           "reason": "Average upload gap <= 2 days; videos=64; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "450882837",
+          "name": "一叮当猫一",
+          "reason": "Average upload gap <= 2 days; videos=413; avg_gap_days=1.32"
         },
         {
           "type": "creator",
