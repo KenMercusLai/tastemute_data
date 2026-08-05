@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T11:00:36.890Z",
+  "generatedAt": "2026-08-05T12:00:21.558Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -32369,13 +32369,6 @@
           "id": "481321782",
           "name": "笑脸凯-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.43"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "481323155",
-          "name": "小雪_喵",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.95"
         },
         {
           "type": "creator",
