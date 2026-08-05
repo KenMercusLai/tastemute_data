@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T03:00:19.295Z",
+  "generatedAt": "2026-08-05T04:00:16.605Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5839,6 +5839,13 @@
           "id": "1793756432",
           "name": "阿科车与生活",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1794233969",
+          "name": "山东消防",
+          "reason": "Average upload gap <= 2 days; videos=125; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -16924,6 +16931,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546654751852778",
+          "name": "向料食品",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546656060475674",
           "name": "三角洲力竭折木",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.72"
@@ -23661,6 +23675,13 @@
           "id": "368215834",
           "name": "风言漫剧",
           "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "368660722",
+          "name": "李祥JasonLee",
+          "reason": "Average upload gap <= 2 days; videos=86; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -34998,6 +35019,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "57094175",
+          "name": "风间小撤澈",
+          "reason": "Average upload gap <= 2 days; videos=251; avg_gap_days=1.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "571307144",
           "name": "雅迪电动车官方",
           "reason": "Average upload gap <= 2 days; videos=163; avg_gap_days=1.72"
@@ -38606,6 +38634,13 @@
           "id": "99021108",
           "name": "穿书动漫社",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "99090307",
+          "name": "方9言",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
         },
         {
           "type": "creator",

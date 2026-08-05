@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T03:00:19.295Z",
+  "generatedAt": "2026-08-05T04:00:16.605Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2598,6 +2598,13 @@
           "id": "1793756432",
           "name": "阿科车与生活",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1794233969",
+          "name": "山东消防",
+          "reason": "Average upload gap <= 1 days; videos=125; avg_gap_days=0.89"
         },
         {
           "type": "creator",
