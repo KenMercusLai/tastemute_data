@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T16:00:25.689Z",
+  "generatedAt": "2026-08-05T17:00:32.959Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14743,6 +14743,13 @@
           "id": "396000729",
           "name": "孙耀说家具",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "396010372",
+          "name": "庄哈哈-三角洲行动",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
         },
         {
           "type": "creator",
