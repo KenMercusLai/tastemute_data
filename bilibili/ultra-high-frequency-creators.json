@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T00:00:22.681Z",
+  "generatedAt": "2026-08-05T01:00:17.061Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -572,6 +572,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1130533805",
+          "name": "幽幻似梓",
+          "reason": "Average upload gap <= 1 days; videos=101; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
           "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.17"
@@ -866,6 +873,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1234113456",
+          "name": "猴头猫菇",
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1234879831",
           "name": "剧多多up",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
@@ -1016,6 +1030,13 @@
           "id": "1280267062",
           "name": "账号已注销4573185049",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12808503",
+          "name": "哈集美红豆",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
         },
         {
           "type": "creator",
@@ -9007,6 +9028,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546854258117153",
+          "name": "我的世界啊鸡",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546854618827604",
           "name": "福运长虹",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.08"
@@ -14782,6 +14810,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "400926246",
+          "name": "暗区猎人_厨窗进阶",
+          "reason": "Average upload gap <= 1 days; videos=260; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "401117766",
           "name": "德皮剪辑Sir",
           "reason": "Average upload gap <= 1 days; videos=155; avg_gap_days=0.63"
@@ -15344,7 +15379,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=58; avg_gap_days=0.71"
+          "reason": "Average upload gap <= 1 days; videos=62; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -15799,7 +15834,7 @@
           "platform": "bilibili",
           "id": "456664753",
           "name": "央视新闻",
-          "reason": "Average upload gap <= 1 days; videos=100; avg_gap_days=0.48"
+          "reason": "Average upload gap <= 1 days; videos=102; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -17942,6 +17977,13 @@
           "id": "639617127",
           "name": "糯米CG",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "641678272",
+          "name": "阿笛Andy是奸商",
+          "reason": "Average upload gap <= 1 days; videos=105; avg_gap_days=0.68"
         },
         {
           "type": "creator",
