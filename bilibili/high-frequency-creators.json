@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T09:00:29.646Z",
+  "generatedAt": "2026-08-05T11:00:36.890Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10487,6 +10487,13 @@
           "id": "286696732",
           "name": "糖仔-琅声雅集",
           "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "28677456",
+          "name": "劉俊朗",
+          "reason": "Average upload gap <= 2 days; videos=207; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -29477,7 +29484,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.25"
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.25"
         },
         {
           "type": "creator",
@@ -29807,6 +29814,13 @@
           "id": "41114185",
           "name": "zhaoryanarkroyal",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "411234078",
+          "name": "醒一醒囍囍睡",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.67"
         },
         {
           "type": "creator",
@@ -32942,7 +32956,7 @@
           "platform": "bilibili",
           "id": "490334938",
           "name": "中国军视网",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.42"
         },
         {
           "type": "creator",
