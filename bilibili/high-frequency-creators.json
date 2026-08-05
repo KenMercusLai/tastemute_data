@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T19:00:20.245Z",
+  "generatedAt": "2026-08-05T20:00:21.434Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17529,6 +17529,13 @@
           "id": "3546700090181882",
           "name": "被殃及的咸鱼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546700306189009",
+          "name": "报告老师V",
+          "reason": "Average upload gap <= 2 days; videos=128; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -37723,7 +37730,7 @@
           "platform": "bilibili",
           "id": "7600646",
           "name": "么么辰的游戏百宝箱",
-          "reason": "Average upload gap <= 2 days; videos=286; avg_gap_days=1.92"
+          "reason": "Average upload gap <= 2 days; videos=288; avg_gap_days=1.92"
         },
         {
           "type": "creator",
