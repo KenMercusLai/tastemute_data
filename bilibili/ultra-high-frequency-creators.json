@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T12:00:21.558Z",
+  "generatedAt": "2026-08-05T13:00:31.901Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16437,13 +16437,6 @@
           "id": "485469443",
           "name": "入梦寒光",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "4856007",
-          "name": "迷影社",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.15"
         },
         {
           "type": "creator",
