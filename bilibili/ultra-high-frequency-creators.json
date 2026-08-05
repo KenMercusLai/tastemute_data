@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T01:00:17.061Z",
+  "generatedAt": "2026-08-05T02:00:18.313Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5370,6 +5370,13 @@
           "id": "335603094",
           "name": "一腔诗意喂了丑",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "335667686",
+          "name": "手忙脚乱-",
+          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.65"
         },
         {
           "type": "creator",
@@ -10981,6 +10988,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546984451410107",
+          "name": "小郑AI吖",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.40"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546984478672936",
           "name": "见你一面动漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
@@ -16003,6 +16017,13 @@
           "id": "473837611",
           "name": "新华社",
           "reason": "Average upload gap <= 1 days; videos=95; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "473904412",
+          "name": "拜仁慕尼黑足球俱乐部",
+          "reason": "Average upload gap <= 1 days; videos=322; avg_gap_days=0.47"
         },
         {
           "type": "creator",
