@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T04:00:16.605Z",
+  "generatedAt": "2026-08-05T05:00:22.211Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9164,6 +9164,13 @@
           "id": "241771582",
           "name": "开朗的菠萝头大王",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "242086614",
+          "name": "大澈澈澈",
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.42"
         },
         {
           "type": "creator",
