@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T08:00:26.782Z",
+  "generatedAt": "2026-08-06T09:00:32.014Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14134,6 +14134,13 @@
           "id": "3493288048855826",
           "name": "小Qの小草",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493288665417911",
+          "name": "敖小丙1688",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -32950,6 +32957,13 @@
           "id": "48775109",
           "name": "施特略夫丶",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487763254",
+          "name": "Starshine刹那",
+          "reason": "Average upload gap <= 2 days; videos=138; avg_gap_days=1.68"
         },
         {
           "type": "creator",
