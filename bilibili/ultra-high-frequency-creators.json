@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T07:00:25.398Z",
+  "generatedAt": "2026-08-06T08:00:26.782Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5685,6 +5685,13 @@
           "id": "347767680",
           "name": "大娘的爷们",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "347850432",
+          "name": "阿波尼亚的戒律",
+          "reason": "Average upload gap <= 1 days; videos=160; avg_gap_days=0.74"
         },
         {
           "type": "creator",
