@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T13:00:20.857Z",
+  "generatedAt": "2026-08-06T14:00:44.155Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6739,6 +6739,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1921012413",
+          "name": "被期盼的魂厨",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1921421092",
           "name": "芙宁娜的枕边书单",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
@@ -12048,6 +12055,13 @@
           "id": "331514361",
           "name": "苏醒游戏解说",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "331542464",
+          "name": "溪溪布枯",
+          "reason": "Average upload gap <= 2 days; videos=106; avg_gap_days=1.17"
         },
         {
           "type": "creator",
