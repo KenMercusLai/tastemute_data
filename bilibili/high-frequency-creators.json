@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T22:00:30.361Z",
+  "generatedAt": "2026-08-06T23:00:34.927Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15737,6 +15737,13 @@
           "id": "3546393362827800",
           "name": "水fan-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546393727732095",
+          "name": "爱搞笑的九月的柿子",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.63"
         },
         {
           "type": "creator",
