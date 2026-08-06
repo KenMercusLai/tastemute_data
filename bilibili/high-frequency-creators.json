@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T21:00:20.647Z",
+  "generatedAt": "2026-08-06T22:00:30.361Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8561,7 +8561,7 @@
           "platform": "bilibili",
           "id": "21619102",
           "name": "网易逆水寒",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.52"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -28232,6 +28232,13 @@
           "id": "380064329",
           "name": "张飞中",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "380067441",
+          "name": "好听音乐_李子乔",
+          "reason": "Average upload gap <= 2 days; videos=93; avg_gap_days=1.96"
         },
         {
           "type": "creator",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T21:00:20.647Z",
+  "generatedAt": "2026-08-06T22:00:30.361Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3766,7 +3766,7 @@
           "platform": "bilibili",
           "id": "21619102",
           "name": "网易逆水寒",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.52"
         },
         {
           "type": "creator",
