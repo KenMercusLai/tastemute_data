@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T19:00:25.652Z",
+  "generatedAt": "2026-08-06T20:00:35.661Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5458,6 +5458,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "17326472",
+          "name": "纳维戈特",
+          "reason": "Average upload gap <= 2 days; videos=335; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "173463778",
           "name": "一只小钟意y",
           "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.59"
@@ -5657,6 +5664,13 @@
           "id": "1762595670",
           "name": "清雨漫馆",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1763106905",
+          "name": "一只灵柚儿",
+          "reason": "Average upload gap <= 2 days; videos=121; avg_gap_days=1.27"
         },
         {
           "type": "creator",
@@ -28866,6 +28880,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "389007",
+          "name": "因果交流電灯-",
+          "reason": "Average upload gap <= 2 days; videos=307; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "389064308",
           "name": "一格历史",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.50"
@@ -37205,7 +37226,7 @@
           "platform": "bilibili",
           "id": "676233930",
           "name": "简易长矛汉化组",
-          "reason": "Average upload gap <= 2 days; videos=145; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 2 days; videos=146; avg_gap_days=1.10"
         },
         {
           "type": "creator",
