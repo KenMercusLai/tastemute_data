@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T02:00:48.112Z",
+  "generatedAt": "2026-08-06T03:00:26.682Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14295,6 +14295,13 @@
           "id": "382017678",
           "name": "奔向火星",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "382135157",
+          "name": "骑士热音",
+          "reason": "Average upload gap <= 1 days; videos=764; avg_gap_days=0.85"
         },
         {
           "type": "creator",
