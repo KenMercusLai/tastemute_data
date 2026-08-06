@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T00:00:29.496Z",
+  "generatedAt": "2026-08-06T01:00:21.688Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1219,6 +1219,13 @@
           "id": "1132573802",
           "name": "我叫鑫法O",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1135473169",
+          "name": "尘音_",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.18"
         },
         {
           "type": "creator",
@@ -13350,6 +13357,13 @@
           "id": "3493127360874665",
           "name": "AK燃剪",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493127400720889",
+          "name": "肖茂咪和肖茂",
+          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.00"
         },
         {
           "type": "creator",

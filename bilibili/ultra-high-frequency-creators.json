@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T00:00:29.496Z",
+  "generatedAt": "2026-08-06T01:00:21.688Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5986,6 +5986,13 @@
           "id": "3493124682811738",
           "name": "法力无边魏律师",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493127400720889",
+          "name": "肖茂咪和肖茂",
+          "reason": "Average upload gap <= 1 days; videos=25; avg_gap_days=1.00"
         },
         {
           "type": "creator",
