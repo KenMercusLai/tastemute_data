@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T04:00:31.395Z",
+  "generatedAt": "2026-08-06T05:00:25.659Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2654,6 +2654,13 @@
           "id": "180680164",
           "name": "醉酒的丘丘人",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1815720512",
+          "name": "Snake-s-",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
         },
         {
           "type": "creator",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T04:00:31.395Z",
+  "generatedAt": "2026-08-06T05:00:25.659Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5979,6 +5979,13 @@
           "id": "1811805578",
           "name": "万维猫动画",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1815720512",
+          "name": "Snake-s-",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -12327,7 +12334,7 @@
           "platform": "bilibili",
           "id": "344990811",
           "name": "丨鑫森淼焱磊丨",
-          "reason": "Average upload gap <= 2 days; videos=341; avg_gap_days=1.05"
+          "reason": "Average upload gap <= 2 days; videos=355; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -24750,6 +24757,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690994369301126",
+          "name": "碎碎念的鱼丸",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690994560141841",
           "name": "小鱼舟游",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
@@ -27686,6 +27700,13 @@
           "id": "3707017124382984",
           "name": "小恐同学夜话",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707017241823740",
+          "name": "Eat_with_Boki",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.00"
         },
         {
           "type": "creator",
