@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T20:00:35.661Z",
+  "generatedAt": "2026-08-06T21:00:20.647Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6993,7 +6993,7 @@
           "platform": "bilibili",
           "id": "19531191",
           "name": "大老师Gin",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.81"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.81"
         },
         {
           "type": "creator",
@@ -7400,6 +7400,13 @@
           "id": "2005048189",
           "name": "洛手人才-阿离",
           "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2005425358",
+          "name": "肉吃面条",
+          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=1.74"
         },
         {
           "type": "creator",
