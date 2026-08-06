@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T06:00:26.114Z",
+  "generatedAt": "2026-08-06T07:00:25.398Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7721,7 +7721,7 @@
           "platform": "bilibili",
           "id": "2057655323",
           "name": "河南卫视",
-          "reason": "Average upload gap <= 2 days; videos=2230; avg_gap_days=0.55"
+          "reason": "Average upload gap <= 2 days; videos=2231; avg_gap_days=0.55"
         },
         {
           "type": "creator",
@@ -8687,7 +8687,7 @@
           "platform": "bilibili",
           "id": "222103174",
           "name": "央视网",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.20"
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -18313,6 +18313,13 @@
           "id": "3546752302975108",
           "name": "阿贞爱上了语文",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546753129252899",
+          "name": "且听心声丨穆祉丞",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.03"
         },
         {
           "type": "creator",
@@ -32074,7 +32081,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=96; avg_gap_days=0.22"
         },
         {
           "type": "creator",
