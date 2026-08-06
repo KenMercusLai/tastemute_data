@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T11:00:25.887Z",
+  "generatedAt": "2026-08-06T12:00:26.346Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5972,6 +5972,13 @@
           "id": "1807935917",
           "name": "致远悟到",
           "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "18089802",
+          "name": "王贱同志",
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -17235,6 +17242,13 @@
           "id": "3546666741271173",
           "name": "懂十点人情世故",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546667011804115",
+          "name": "沫沫超爱喝",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -34070,6 +34084,13 @@
           "id": "514160959",
           "name": "鹿儿说漫",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "514162688",
+          "name": "燃动漫游",
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.88"
         },
         {
           "type": "creator",
