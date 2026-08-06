@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T01:00:21.688Z",
+  "generatedAt": "2026-08-06T02:00:48.112Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7411,6 +7411,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546591463999681",
+          "name": "烛影千年",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546592848120041",
           "name": "梦限大MewType",
           "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.79"
@@ -8653,6 +8660,13 @@
           "id": "3546795441391669",
           "name": "飒野博士",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546797117016175",
+          "name": "坤坤篮球qwe",
+          "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.00"
         },
         {
           "type": "creator",

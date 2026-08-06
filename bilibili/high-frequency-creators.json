@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T01:00:21.688Z",
+  "generatedAt": "2026-08-06T02:00:48.112Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1114,6 +1114,13 @@
           "id": "111803100",
           "name": "忆昨日叹今夕往事随风",
           "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1120527201",
+          "name": "酱汁丸子头",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -4908,6 +4915,13 @@
           "id": "1660596871",
           "name": "布鲁斯三角洲",
           "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1661114026",
+          "name": "翻江Dragon",
+          "reason": "Average upload gap <= 2 days; videos=144; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -16133,6 +16147,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546591463999681",
+          "name": "烛影千年",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546592848120041",
           "name": "梦限大MewType",
           "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.79"
@@ -18824,6 +18845,13 @@
           "id": "3546796343167199",
           "name": "良子本人胃袋这一块",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546797117016175",
+          "name": "坤坤篮球qwe",
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.00"
         },
         {
           "type": "creator",
