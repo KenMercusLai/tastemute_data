@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T12:00:26.346Z",
+  "generatedAt": "2026-08-06T13:00:20.857Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13634,6 +13634,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493143162915173",
+          "name": "君安_Official",
+          "reason": "Average upload gap <= 2 days; videos=101; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493143745923364",
           "name": "繁星说大车",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
@@ -14589,6 +14596,13 @@
           "id": "3494364158364618",
           "name": "来讲以后的故事",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494364561016963",
+          "name": "本杰明Benjamin军剪",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.86"
         },
         {
           "type": "creator",
@@ -21050,13 +21064,6 @@
           "id": "3546914022754526",
           "name": "帮帮妈妈-",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546914280704696",
-          "name": "冷杉Firtree军剪",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.67"
         },
         {
           "type": "creator",
