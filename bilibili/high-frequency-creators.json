@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T21:00:24.624Z",
+  "generatedAt": "2026-08-07T22:00:44.102Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37934,6 +37934,13 @@
           "id": "695758601",
           "name": "二师兄不好拉",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "695833905",
+          "name": "-紫茶吃冰瓜PurTea-",
+          "reason": "Average upload gap <= 2 days; videos=155; avg_gap_days=1.80"
         },
         {
           "type": "creator",
