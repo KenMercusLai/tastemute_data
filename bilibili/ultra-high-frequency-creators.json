@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T03:00:22.340Z",
+  "generatedAt": "2026-08-07T04:00:19.682Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -722,6 +722,13 @@
           "id": "11703718",
           "name": "米尔Miru",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1171983488",
+          "name": "账号已注销1171983488",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.81"
         },
         {
           "type": "creator",
@@ -2252,6 +2259,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1680726406",
+          "name": "王者小白呀",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1681299250",
           "name": "迈阿密热火",
           "reason": "Average upload gap <= 1 days; videos=12; avg_gap_days=0.99"
@@ -3169,6 +3183,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "195163821",
+          "name": "此身为筑",
+          "reason": "Average upload gap <= 1 days; videos=75; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1954997940",
           "name": "午餐肉艺术家葛世贤",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
@@ -3452,6 +3473,13 @@
           "id": "2048846876",
           "name": "晨姐漫馆",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2050292600",
+          "name": "小虾Music",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -14176,6 +14204,13 @@
           "id": "3707019563370948",
           "name": "沈迟888",
           "reason": "Average upload gap <= 1 days; videos=15; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3707019913595437",
+          "name": "小美追漫记",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.42"
         },
         {
           "type": "creator",
