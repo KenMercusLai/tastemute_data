@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T07:00:25.227Z",
+  "generatedAt": "2026-08-07T08:00:19.781Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3851,6 +3851,13 @@
           "id": "1499896348",
           "name": "音律宝藏库",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1500812933",
+          "name": "小梅vlog",
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=1.95"
         },
         {
           "type": "creator",
