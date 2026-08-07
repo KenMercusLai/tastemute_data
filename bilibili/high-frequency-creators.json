@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T17:00:25.580Z",
+  "generatedAt": "2026-08-07T18:00:26.879Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8743,7 +8743,7 @@
           "platform": "bilibili",
           "id": "21778636",
           "name": "中国日报",
-          "reason": "Average upload gap <= 2 days; videos=432; avg_gap_days=0.67"
+          "reason": "Average upload gap <= 2 days; videos=458; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -9633,6 +9633,13 @@
           "id": "25215790",
           "name": "阿孟的养猫日记",
           "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "252440184",
+          "name": "神桥",
+          "reason": "Average upload gap <= 2 days; videos=286; avg_gap_days=1.76"
         },
         {
           "type": "creator",
@@ -20588,13 +20595,6 @@
           "id": "3546887669942619",
           "name": "小满meme-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546887896434953",
-          "name": "泛术力口重型音乐",
-          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.98"
         },
         {
           "type": "creator",
@@ -34580,7 +34580,7 @@
           "platform": "bilibili",
           "id": "514978269",
           "name": "时光代理人",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.16"
         },
         {
           "type": "creator",
