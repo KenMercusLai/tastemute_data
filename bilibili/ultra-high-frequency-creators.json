@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T02:00:23.690Z",
+  "generatedAt": "2026-08-07T03:00:22.340Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1254,6 +1254,13 @@
           "id": "1339268",
           "name": "农民新八",
           "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1342618780",
+          "name": "麦版斗蛐蛐社",
+          "reason": "Average upload gap <= 1 days; videos=27; avg_gap_days=0.76"
         },
         {
           "type": "creator",
@@ -4355,6 +4362,13 @@
           "id": "27033880",
           "name": "抖漫工作室",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "271481714",
+          "name": "某中二的鸽子",
+          "reason": "Average upload gap <= 1 days; videos=94; avg_gap_days=0.97"
         },
         {
           "type": "creator",
@@ -19118,6 +19132,13 @@
           "id": "97993617",
           "name": "嘻嘻长剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "98326818",
+          "name": "風信子の思念",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
         },
         {
           "type": "creator",
