@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T13:00:35.543Z",
+  "generatedAt": "2026-08-07T14:00:22.545Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8132,6 +8132,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546685026339662",
+          "name": "宝马交战",
+          "reason": "Average upload gap <= 1 days; videos=72; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546685034728241",
           "name": "愚耕移山",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
@@ -13748,7 +13755,7 @@
           "platform": "bilibili",
           "id": "3706990048053578",
           "name": "神圣的音乐",
-          "reason": "Average upload gap <= 1 days; videos=49; avg_gap_days=0.27"
+          "reason": "Average upload gap <= 1 days; videos=89; avg_gap_days=0.23"
         },
         {
           "type": "creator",
