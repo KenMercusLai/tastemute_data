@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T05:00:21.340Z",
+  "generatedAt": "2026-08-07T06:00:28.937Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2521,6 +2521,13 @@
           "id": "1293409882",
           "name": "愛白洲梓",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12935636",
+          "name": "董仲颖BVR",
+          "reason": "Average upload gap <= 2 days; videos=92; avg_gap_days=1.66"
         },
         {
           "type": "creator",
