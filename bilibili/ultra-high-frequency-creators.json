@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T23:00:34.927Z",
+  "generatedAt": "2026-08-07T00:00:36.282Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1597,6 +1597,13 @@
           "id": "1446216885",
           "name": "阿强动画丶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1447736",
+          "name": "吉事堡",
+          "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.84"
         },
         {
           "type": "creator",
