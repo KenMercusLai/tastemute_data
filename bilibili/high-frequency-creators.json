@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T18:00:26.879Z",
+  "generatedAt": "2026-08-07T19:00:41.346Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37528,6 +37528,13 @@
           "id": "67245592",
           "name": "校长说漫剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6725694",
+          "name": "拖拖不太懒",
+          "reason": "Average upload gap <= 2 days; videos=138; avg_gap_days=1.89"
         },
         {
           "type": "creator",
