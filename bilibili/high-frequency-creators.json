@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T07:00:42.624Z",
+  "generatedAt": "2026-08-08T08:00:32.792Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6735,6 +6735,13 @@
           "id": "1906554165",
           "name": "linux5454",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1906776281",
+          "name": "朱志鑫放映厅",
+          "reason": "Average upload gap <= 2 days; videos=504; avg_gap_days=0.87"
         },
         {
           "type": "creator",
@@ -18396,7 +18403,7 @@
           "platform": "bilibili",
           "id": "3546733097257650",
           "name": "春秋蝉鸣重少年",
-          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.79"
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -29925,7 +29932,7 @@
           "platform": "bilibili",
           "id": "399573560",
           "name": "繁了个星a",
-          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.16"
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.32"
         },
         {
           "type": "creator",
