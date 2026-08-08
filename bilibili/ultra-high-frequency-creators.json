@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:00:30.237Z",
+  "generatedAt": "2026-08-08T19:00:32.669Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -12678,6 +12678,13 @@
           "id": "3690998423095689",
           "name": "空天论剑",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690998775416972",
+          "name": "军武那兔",
+          "reason": "Average upload gap <= 1 days; videos=110; avg_gap_days=0.11"
         },
         {
           "type": "creator",

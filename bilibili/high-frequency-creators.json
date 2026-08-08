@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:00:30.237Z",
+  "generatedAt": "2026-08-08T19:00:32.669Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6532,6 +6532,13 @@
           "id": "1864674231",
           "name": "别利切夫在极地",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1866746559",
+          "name": "至纯之境",
+          "reason": "Average upload gap <= 2 days; videos=90; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -25424,7 +25431,7 @@
           "platform": "bilibili",
           "id": "3690998775416972",
           "name": "军武那兔",
-          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.19"
+          "reason": "Average upload gap <= 2 days; videos=110; avg_gap_days=0.11"
         },
         {
           "type": "creator",
