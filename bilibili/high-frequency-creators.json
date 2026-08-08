@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:00:26.871Z",
+  "generatedAt": "2026-08-08T15:00:29.923Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2311,6 +2311,13 @@
           "id": "1268631936",
           "name": "你的老闲鱼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1269118848",
+          "name": "CX_Tysun",
+          "reason": "Average upload gap <= 2 days; videos=136; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -11732,7 +11739,7 @@
           "platform": "bilibili",
           "id": "316955775",
           "name": "勾手老大娘邓肯",
-          "reason": "Average upload gap <= 2 days; videos=165; avg_gap_days=1.13"
+          "reason": "Average upload gap <= 2 days; videos=178; avg_gap_days=1.28"
         },
         {
           "type": "creator",
@@ -20245,6 +20252,13 @@
           "id": "3546866388043896",
           "name": "欢愉星の神",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546866994121088",
+          "name": "素质教育狼教",
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.44"
         },
         {
           "type": "creator",
