@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T10:00:48.271Z",
+  "generatedAt": "2026-08-08T11:00:37.819Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19300,6 +19300,13 @@
           "id": "3546800791226541",
           "name": "B站名人精选课堂",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546801353263804",
+          "name": "轩轩醉漫",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -38759,7 +38766,7 @@
           "platform": "bilibili",
           "id": "8739477",
           "name": "老实憨厚的笑笑",
-          "reason": "Average upload gap <= 2 days; videos=242; avg_gap_days=0.54"
+          "reason": "Average upload gap <= 2 days; videos=282; avg_gap_days=0.34"
         },
         {
           "type": "creator",
