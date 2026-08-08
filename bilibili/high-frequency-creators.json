@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:00:29.923Z",
+  "generatedAt": "2026-08-08T16:00:25.167Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5668,6 +5668,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1745814593",
+          "name": "大胜歌歌",
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "17473054",
           "name": "肥先森漫推",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.41"
@@ -6217,6 +6224,13 @@
           "id": "1824572595",
           "name": "环球新視野",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1825616079",
+          "name": "珊瑚一心",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.64"
         },
         {
           "type": "creator",
