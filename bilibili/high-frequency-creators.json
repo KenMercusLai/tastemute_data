@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T13:00:29.658Z",
+  "generatedAt": "2026-08-08T14:00:26.871Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11691,6 +11691,13 @@
           "id": "315774349",
           "name": "笔心无忧BX",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "31578954",
+          "name": "街健呆木头",
+          "reason": "Average upload gap <= 2 days; videos=107; avg_gap_days=1.63"
         },
         {
           "type": "creator",
