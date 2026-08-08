@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T12:00:35.729Z",
+  "generatedAt": "2026-08-08T13:00:29.658Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11915,6 +11915,13 @@
           "id": "323321748",
           "name": "善全观世",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "323357649",
+          "name": "鬼渐van火影",
+          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=1.47"
         },
         {
           "type": "creator",
