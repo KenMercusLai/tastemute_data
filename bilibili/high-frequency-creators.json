@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T11:00:37.819Z",
+  "generatedAt": "2026-08-08T12:00:35.729Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -36020,6 +36020,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "589754519",
+          "name": "i奶盖儿酸",
+          "reason": "Average upload gap <= 2 days; videos=136; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "589888335",
           "name": "CuteRemilia",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.23"
@@ -37506,7 +37513,7 @@
           "platform": "bilibili",
           "id": "670091980",
           "name": "强哥本人号",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.79"
         },
         {
           "type": "creator",
