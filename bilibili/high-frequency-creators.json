@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T22:00:29.579Z",
+  "generatedAt": "2026-08-09T23:00:19.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13307,7 +13307,7 @@
           "platform": "bilibili",
           "id": "3493084878866519",
           "name": "XT行同陌路",
-          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=1.08"
+          "reason": "Average upload gap <= 2 days; videos=80; avg_gap_days=1.92"
         },
         {
           "type": "creator",
@@ -14225,13 +14225,6 @@
           "id": "3493265760324363",
           "name": "宇宙探MI",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3493266754374530",
-          "name": "喵一笑",
-          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=1.44"
         },
         {
           "type": "creator",
@@ -18075,6 +18068,13 @@
           "id": "3546698011904019",
           "name": "老六信息速刷",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546698225813841",
+          "name": "木示点符号",
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.69"
         },
         {
           "type": "creator",
@@ -34370,7 +34370,7 @@
           "platform": "bilibili",
           "id": "503941332",
           "name": "虾仁动画沙雕社",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=0.83"
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -36694,7 +36694,7 @@
           "platform": "bilibili",
           "id": "610499292",
           "name": "老邦配音",
-          "reason": "Average upload gap <= 2 days; videos=96; avg_gap_days=1.17"
+          "reason": "Average upload gap <= 2 days; videos=97; avg_gap_days=1.51"
         },
         {
           "type": "creator",
