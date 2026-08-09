@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T17:00:28.404Z",
+  "generatedAt": "2026-08-09T18:00:26.886Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15748,6 +15748,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537122187282734",
+          "name": "MC_雨目",
+          "reason": "Average upload gap <= 2 days; videos=117; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537123277801478",
           "name": "小苍老师6688",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.31"
@@ -21448,7 +21455,7 @@
           "platform": "bilibili",
           "id": "3546912315673397",
           "name": "猎梦者哇咔吖",
-          "reason": "Average upload gap <= 2 days; videos=14; avg_gap_days=1.44"
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.47"
         },
         {
           "type": "creator",

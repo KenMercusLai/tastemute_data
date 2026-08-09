@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T17:00:28.404Z",
+  "generatedAt": "2026-08-09T18:00:26.886Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7092,6 +7092,13 @@
           "id": "3537122147437427",
           "name": "GC713",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537122187282734",
+          "name": "MC_雨目",
+          "reason": "Average upload gap <= 1 days; videos=117; avg_gap_days=1.00"
         },
         {
           "type": "creator",
