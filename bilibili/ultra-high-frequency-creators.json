@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T19:00:30.171Z",
+  "generatedAt": "2026-08-09T20:00:24.897Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13333,6 +13333,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706954700557005",
+          "name": "我是半糖主义",
+          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706955671538366",
           "name": "镜先生KS",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.76"
@@ -18852,6 +18859,13 @@
           "id": "746399",
           "name": "祝你夜梦清吉",
           "reason": "Average upload gap <= 1 days; videos=278; avg_gap_days=0.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7582245",
+          "name": "cc大能行",
+          "reason": "Average upload gap <= 1 days; videos=355; avg_gap_days=0.95"
         },
         {
           "type": "creator",
