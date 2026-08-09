@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T02:00:38.417Z",
+  "generatedAt": "2026-08-09T03:00:29.203Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15009,6 +15009,13 @@
           "id": "3494370122664796",
           "name": "烫手冰激凌",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494370359642886",
+          "name": "蛋仔蓝胖",
+          "reason": "Average upload gap <= 2 days; videos=135; avg_gap_days=1.98"
         },
         {
           "type": "creator",
