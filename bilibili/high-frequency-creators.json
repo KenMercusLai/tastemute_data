@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T14:00:21.717Z",
+  "generatedAt": "2026-08-09T15:00:21.893Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22120,7 +22120,7 @@
           "platform": "bilibili",
           "id": "3546941568845839",
           "name": "赛博审判官",
-          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.57"
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -32782,13 +32782,6 @@
           "id": "474595627",
           "name": "CSGO官方赛事",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.42"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "474614728",
-          "name": "猫儿已成精",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.84"
         },
         {
           "type": "creator",
