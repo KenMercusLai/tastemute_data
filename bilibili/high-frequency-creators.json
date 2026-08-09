@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T00:00:45.184Z",
+  "generatedAt": "2026-08-09T01:00:18.426Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11016,13 +11016,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "291969069",
-          "name": "凯文不是老师",
-          "reason": "Average upload gap <= 2 days; videos=110; avg_gap_days=1.75"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "292057296",
           "name": "鼠鼠漫剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.86"
@@ -12769,6 +12762,13 @@
           "id": "3461571401485150",
           "name": "风间_苍月",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461571609102962",
+          "name": "StrayKids",
+          "reason": "Average upload gap <= 2 days; videos=244; avg_gap_days=1.50"
         },
         {
           "type": "creator",
@@ -16728,6 +16728,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546600274135661",
+          "name": "JAKEMILLER",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546601119287659",
           "name": "天下人物事",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.14"
@@ -19370,6 +19377,13 @@
           "id": "3546803358140910",
           "name": "binbin灰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546803863554752",
+          "name": "IDID_starship",
+          "reason": "Average upload gap <= 2 days; videos=277; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -30163,7 +30177,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.25"
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.20"
         },
         {
           "type": "creator",
