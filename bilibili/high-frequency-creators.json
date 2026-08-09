@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T06:00:35.281Z",
+  "generatedAt": "2026-08-09T07:00:25.157Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1359,6 +1359,13 @@
           "id": "1148495373",
           "name": "小虾看世界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1149064559",
+          "name": "十六萤Izayoi",
+          "reason": "Average upload gap <= 2 days; videos=121; avg_gap_days=1.40"
         },
         {
           "type": "creator",
@@ -38269,7 +38276,7 @@
           "platform": "bilibili",
           "id": "70093",
           "name": "12dora",
-          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.84"
         },
         {
           "type": "creator",
