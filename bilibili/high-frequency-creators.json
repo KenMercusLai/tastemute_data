@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T04:00:25.539Z",
+  "generatedAt": "2026-08-09T05:00:31.074Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11929,6 +11929,13 @@
           "id": "321902254",
           "name": "荷包蛋-洛克王国世界",
           "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "321952379",
+          "name": "1rua1",
+          "reason": "Average upload gap <= 2 days; videos=286; avg_gap_days=1.35"
         },
         {
           "type": "creator",
@@ -31535,7 +31542,7 @@
           "platform": "bilibili",
           "id": "43707221",
           "name": "4A广告提案网",
-          "reason": "Average upload gap <= 2 days; videos=528; avg_gap_days=0.90"
+          "reason": "Average upload gap <= 2 days; videos=551; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -32488,6 +32495,13 @@
           "id": "471050418",
           "name": "马未都",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "471086585",
+          "name": "牛不帅",
+          "reason": "Average upload gap <= 2 days; videos=168; avg_gap_days=1.62"
         },
         {
           "type": "creator",
@@ -39088,7 +39102,7 @@
           "platform": "bilibili",
           "id": "90078790",
           "name": "论装逼你是赢不过我的",
-          "reason": "Average upload gap <= 2 days; videos=103; avg_gap_days=1.37"
+          "reason": "Average upload gap <= 2 days; videos=112; avg_gap_days=1.68"
         },
         {
           "type": "creator",
