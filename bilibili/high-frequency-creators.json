@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T16:00:21.869Z",
+  "generatedAt": "2026-08-09T17:00:28.404Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11151,7 +11151,7 @@
           "platform": "bilibili",
           "id": "294629817",
           "name": "挑战79吃一月",
-          "reason": "Average upload gap <= 2 days; videos=84; avg_gap_days=1.37"
+          "reason": "Average upload gap <= 2 days; videos=92; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -22722,7 +22722,7 @@
           "platform": "bilibili",
           "id": "3546971256130116",
           "name": "404属地观察者",
-          "reason": "Average upload gap <= 2 days; videos=64; avg_gap_days=1.52"
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -36653,6 +36653,13 @@
           "id": "610499292",
           "name": "老邦配音",
           "reason": "Average upload gap <= 2 days; videos=96; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "61072666",
+          "name": "莫可呆-AIGC",
+          "reason": "Average upload gap <= 2 days; videos=83; avg_gap_days=1.84"
         },
         {
           "type": "creator",
