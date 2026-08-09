@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T01:00:18.426Z",
+  "generatedAt": "2026-08-09T02:00:38.417Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -581,7 +581,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=73; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 1 days; videos=74; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -15610,7 +15610,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=62; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 1 days; videos=63; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -18460,13 +18460,6 @@
           "id": "672416566",
           "name": "老实的刘教练说车",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "673375678",
-          "name": "NCT",
-          "reason": "Average upload gap <= 1 days; videos=23; avg_gap_days=0.84"
         },
         {
           "type": "creator",

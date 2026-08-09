@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T01:00:18.426Z",
+  "generatedAt": "2026-08-09T02:00:38.417Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1211,7 +1211,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=74; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -1793,6 +1793,13 @@
           "id": "1213282302",
           "name": "我的音乐你听吗",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1214263045",
+          "name": "SUPERJUNIOR",
+          "reason": "Average upload gap <= 2 days; videos=179; avg_gap_days=1.17"
         },
         {
           "type": "creator",
@@ -3039,6 +3046,13 @@
           "id": "1369856",
           "name": "Alegriaia",
           "reason": "Average upload gap <= 2 days; videos=356; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1371089143",
+          "name": "林志炫",
+          "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -12579,7 +12593,7 @@
           "platform": "bilibili",
           "id": "3437466",
           "name": "風精聖歌",
-          "reason": "Average upload gap <= 2 days; videos=85; avg_gap_days=1.09"
+          "reason": "Average upload gap <= 2 days; videos=100; avg_gap_days=1.03"
         },
         {
           "type": "creator",
@@ -24883,6 +24897,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690984097450052",
+          "name": "LNGSHOT4SHO",
+          "reason": "Average upload gap <= 2 days; videos=91; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690984133102451",
           "name": "枪火电影",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
@@ -29027,6 +29048,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "384526620",
+          "name": "旅行团乐队",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "38464308",
           "name": "无用之人wf",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.73"
@@ -31290,7 +31318,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=62; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -35964,6 +35992,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "580331305",
+          "name": "WayV_official",
+          "reason": "Average upload gap <= 2 days; videos=292; avg_gap_days=1.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "5814222",
           "name": "帝都南城人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.66"
@@ -37689,13 +37724,6 @@
           "id": "67299944",
           "name": "李三金Alex看世界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.20"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "673375678",
-          "name": "NCT",
-          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.84"
         },
         {
           "type": "creator",
