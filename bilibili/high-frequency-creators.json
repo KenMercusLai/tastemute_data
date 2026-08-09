@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T09:00:26.202Z",
+  "generatedAt": "2026-08-09T10:00:29.625Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -38998,13 +38998,6 @@
           "id": "88379907",
           "name": "我真的不会代数",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.15"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "884798",
-          "name": "蓝天上的流云",
-          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.58"
         },
         {
           "type": "creator",
