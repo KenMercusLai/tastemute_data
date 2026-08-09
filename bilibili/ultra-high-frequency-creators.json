@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T21:00:18.279Z",
+  "generatedAt": "2026-08-09T22:00:29.579Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -12656,7 +12656,7 @@
           "platform": "bilibili",
           "id": "3690997319994305",
           "name": "易易动画",
-          "reason": "Average upload gap <= 1 days; videos=31; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -18012,6 +18012,13 @@
           "id": "60892637",
           "name": "゙7c",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "609205885",
+          "name": "肆弦の壁纸收藏馆",
+          "reason": "Average upload gap <= 1 days; videos=104; avg_gap_days=0.78"
         },
         {
           "type": "creator",

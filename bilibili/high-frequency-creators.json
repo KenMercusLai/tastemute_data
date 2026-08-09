@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T21:00:18.279Z",
+  "generatedAt": "2026-08-09T22:00:29.579Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17554,6 +17554,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546657717225519",
+          "name": "缚命の钥",
+          "reason": "Average upload gap <= 2 days; videos=90; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546657887095194",
           "name": "衣宁ovo",
           "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.93"
@@ -25438,7 +25445,7 @@
           "platform": "bilibili",
           "id": "3690997319994305",
           "name": "易易动画",
-          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.00"
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -36653,6 +36660,13 @@
           "id": "608979151",
           "name": "暗影心声",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "609205885",
+          "name": "肆弦の壁纸收藏馆",
+          "reason": "Average upload gap <= 2 days; videos=104; avg_gap_days=0.78"
         },
         {
           "type": "creator",
