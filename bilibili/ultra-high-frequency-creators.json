@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T12:00:26.759Z",
+  "generatedAt": "2026-08-09T13:00:32.767Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17725,6 +17725,13 @@
           "id": "58443290",
           "name": "---阿酒---",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "58586",
+          "name": "肖恩Shawn_Official",
+          "reason": "Average upload gap <= 1 days; videos=337; avg_gap_days=0.00"
         },
         {
           "type": "creator",
