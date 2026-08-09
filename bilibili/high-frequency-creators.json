@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T03:00:29.203Z",
+  "generatedAt": "2026-08-09T04:00:25.539Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3410,6 +3410,13 @@
           "id": "1427096789",
           "name": "染染子呀_",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1427321339",
+          "name": "李波中式单口秀",
+          "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=1.21"
         },
         {
           "type": "creator",
@@ -38948,7 +38955,7 @@
           "platform": "bilibili",
           "id": "88096372",
           "name": "高大大坤",
-          "reason": "Average upload gap <= 2 days; videos=126; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=158; avg_gap_days=0.47"
         },
         {
           "type": "creator",
