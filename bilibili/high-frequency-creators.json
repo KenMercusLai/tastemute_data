@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T13:00:32.767Z",
+  "generatedAt": "2026-08-09T14:00:21.717Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1023,6 +1023,13 @@
           "id": "1104963966",
           "name": "夏春秋减脂版",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11050075",
+          "name": "godpit",
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -17704,6 +17711,13 @@
           "id": "3546669224298959",
           "name": "米来哆哆",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546671046724203",
+          "name": "我真是大6",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.85"
         },
         {
           "type": "creator",
