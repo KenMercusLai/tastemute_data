@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T15:00:21.893Z",
+  "generatedAt": "2026-08-09T16:00:21.869Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15429,6 +15429,13 @@
           "id": "417121586",
           "name": "醉逍遥游戏解说",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "417360813",
+          "name": "高燃动漫社",
+          "reason": "Average upload gap <= 1 days; videos=94; avg_gap_days=0.69"
         },
         {
           "type": "creator",
