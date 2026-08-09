@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T11:00:19.304Z",
+  "generatedAt": "2026-08-09T12:00:26.759Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10578,13 +10578,6 @@
           "id": "281743858",
           "name": "丁胖子讲师-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "281773914",
-          "name": "温华-国服夏侯惇",
-          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.41"
         },
         {
           "type": "creator",
