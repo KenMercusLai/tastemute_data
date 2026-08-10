@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T21:00:47.146Z",
+  "generatedAt": "2026-08-10T22:00:34.408Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15806,7 +15806,7 @@
           "platform": "bilibili",
           "id": "3537121358908282",
           "name": "ishowspeedsui",
-          "reason": "Average upload gap <= 2 days; videos=65; avg_gap_days=1.11"
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.38"
         },
         {
           "type": "creator",
