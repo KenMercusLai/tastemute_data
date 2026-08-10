@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T00:00:33.996Z",
+  "generatedAt": "2026-08-10T01:00:24.578Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -953,6 +953,13 @@
           "id": "1251125029",
           "name": "巷尾看人间",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1251655784",
+          "name": "柠檬罗勒与猫",
+          "reason": "Average upload gap <= 1 days; videos=151; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -2507,6 +2514,13 @@
           "id": "175870152",
           "name": "资源汇社区",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "17619939",
+          "name": "月桂channel",
+          "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -15533,7 +15547,14 @@
           "platform": "bilibili",
           "id": "426242175",
           "name": "一只大冰块",
-          "reason": "Average upload gap <= 1 days; videos=266; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 1 days; videos=267; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "426571",
+          "name": "梅喝咖啡",
+          "reason": "Average upload gap <= 1 days; videos=213; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -15834,7 +15855,7 @@
           "platform": "bilibili",
           "id": "440555",
           "name": "神圣的楼兰我",
-          "reason": "Average upload gap <= 1 days; videos=1581; avg_gap_days=0.56"
+          "reason": "Average upload gap <= 1 days; videos=1688; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -18872,7 +18893,7 @@
           "platform": "bilibili",
           "id": "746399",
           "name": "祝你夜梦清吉",
-          "reason": "Average upload gap <= 1 days; videos=278; avg_gap_days=0.08"
+          "reason": "Average upload gap <= 1 days; videos=279; avg_gap_days=0.12"
         },
         {
           "type": "creator",
