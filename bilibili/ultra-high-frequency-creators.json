@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T01:00:24.578Z",
+  "generatedAt": "2026-08-10T02:00:23.963Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1674,6 +1674,13 @@
           "id": "1467894241",
           "name": "火星驻地办马主任",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1468263689",
+          "name": "小哥燃剪",
+          "reason": "Average upload gap <= 1 days; videos=69; avg_gap_days=0.89"
         },
         {
           "type": "creator",
