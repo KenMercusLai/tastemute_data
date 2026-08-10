@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T12:00:31.804Z",
+  "generatedAt": "2026-08-10T13:00:29.249Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10878,7 +10878,7 @@
           "platform": "bilibili",
           "id": "28711628",
           "name": "温柔冒险团",
-          "reason": "Average upload gap <= 2 days; videos=122; avg_gap_days=0.88"
+          "reason": "Average upload gap <= 2 days; videos=158; avg_gap_days=0.98"
         },
         {
           "type": "creator",
@@ -35218,13 +35218,6 @@
           "id": "522710751",
           "name": "RaceTrack",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.18"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "522964045",
-          "name": "纯真的40酱",
-          "reason": "Average upload gap <= 2 days; videos=164; avg_gap_days=1.66"
         },
         {
           "type": "creator",
