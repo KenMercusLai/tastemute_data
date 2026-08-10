@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T23:00:19.530Z",
+  "generatedAt": "2026-08-10T00:00:33.996Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2010,6 +2010,13 @@
           "id": "12403633",
           "name": "残暴布袋熊",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1240524515",
+          "name": "托比哔哔哔",
+          "reason": "Average upload gap <= 2 days; videos=126; avg_gap_days=1.94"
         },
         {
           "type": "creator",
@@ -15015,7 +15022,7 @@
           "platform": "bilibili",
           "id": "3494368650463717",
           "name": "难办那就摆烂吧",
-          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.09"
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.12"
         },
         {
           "type": "creator",
@@ -33544,7 +33551,7 @@
           "platform": "bilibili",
           "id": "486428793",
           "name": "欧阳编曲小课堂",
-          "reason": "Average upload gap <= 2 days; videos=85; avg_gap_days=0.94"
+          "reason": "Average upload gap <= 2 days; videos=104; avg_gap_days=0.90"
         },
         {
           "type": "creator",
@@ -39529,7 +39536,7 @@
           "platform": "bilibili",
           "id": "96805400",
           "name": "键盘手77-朱茵琪",
-          "reason": "Average upload gap <= 2 days; videos=161; avg_gap_days=1.48"
+          "reason": "Average upload gap <= 2 days; videos=170; avg_gap_days=1.59"
         },
         {
           "type": "creator",
