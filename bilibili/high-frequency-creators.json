@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T03:00:29.652Z",
+  "generatedAt": "2026-08-10T04:00:23.573Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6711,6 +6711,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "18827825",
+          "name": "无畏牢叶",
+          "reason": "Average upload gap <= 2 days; videos=88; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1885634",
           "name": "Areazi_",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.05"
@@ -12243,7 +12250,7 @@
           "platform": "bilibili",
           "id": "328398587",
           "name": "山楂盖饭zzZZZ",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.20"
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.61"
         },
         {
           "type": "creator",
@@ -19139,13 +19146,6 @@
           "id": "3546775524739241",
           "name": "RBW_Official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546775644277096",
-          "name": "10月不摆烂",
-          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.86"
         },
         {
           "type": "creator",
@@ -38711,13 +38711,6 @@
           "id": "77962578",
           "name": "柯尔不短",
           "reason": "Average upload gap <= 2 days; videos=256; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "78507973",
-          "name": "小米米沙",
-          "reason": "Average upload gap <= 2 days; videos=1099; avg_gap_days=1.89"
         },
         {
           "type": "creator",
