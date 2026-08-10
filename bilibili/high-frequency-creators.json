@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T13:00:29.249Z",
+  "generatedAt": "2026-08-10T14:00:25.842Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16525,13 +16525,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3546578394548722",
-          "name": "暗区突围无限",
-          "reason": "Average upload gap <= 2 days; videos=141; avg_gap_days=1.46"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3546578690247487",
           "name": "勝勇",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.63"
@@ -32254,6 +32247,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "453130010",
+          "name": "守村人铁蛋儿B",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "453439022",
           "name": "CSGO自分z",
           "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=1.09"
@@ -34532,13 +34532,6 @@
           "id": "506039443",
           "name": "AI短剧制作教学_",
           "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.76"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "50621949",
-          "name": "OldBa1",
-          "reason": "Average upload gap <= 2 days; videos=257; avg_gap_days=1.83"
         },
         {
           "type": "creator",
