@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T11:00:24.714Z",
+  "generatedAt": "2026-08-10T12:00:31.804Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8510,6 +8510,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "211700578",
+          "name": "光遇手游",
+          "reason": "Average upload gap <= 2 days; videos=133; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "21174966",
           "name": "就叫我大仙吧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.48"
@@ -15610,7 +15617,7 @@
           "platform": "bilibili",
           "id": "3537108891338981",
           "name": "乌妤小丸子",
-          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -38760,13 +38767,6 @@
           "id": "80569724",
           "name": "杜雨说AI",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.12"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "8060090",
-          "name": "爪子drumdoll",
-          "reason": "Average upload gap <= 2 days; videos=307; avg_gap_days=1.85"
         },
         {
           "type": "creator",
