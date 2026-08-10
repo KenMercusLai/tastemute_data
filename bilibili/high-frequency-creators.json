@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T20:00:32.101Z",
+  "generatedAt": "2026-08-10T21:00:47.146Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -30247,7 +30247,7 @@
           "platform": "bilibili",
           "id": "401117766",
           "name": "德皮剪辑Sir",
-          "reason": "Average upload gap <= 2 days; videos=155; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=187; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -37829,13 +37829,6 @@
           "id": "670894606",
           "name": "娜塔莎一家",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.99"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "671293162",
-          "name": "---木夕--",
-          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.79"
         },
         {
           "type": "creator",
