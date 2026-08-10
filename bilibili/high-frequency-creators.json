@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T22:00:34.408Z",
+  "generatedAt": "2026-08-10T23:00:26.535Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14015,6 +14015,13 @@
           "id": "3493140277233695",
           "name": "晚安--喵星人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493141581662406",
+          "name": "户外胡三浪",
+          "reason": "Average upload gap <= 2 days; videos=184; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -32844,7 +32851,7 @@
           "platform": "bilibili",
           "id": "473909211",
           "name": "体育梗百科",
-          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=0.55"
+          "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=0.94"
         },
         {
           "type": "creator",
