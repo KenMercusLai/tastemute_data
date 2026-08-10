@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T06:00:26.162Z",
+  "generatedAt": "2026-08-10T07:00:19.614Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19437,6 +19437,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546799094631194",
+          "name": "爱丽速子LightSpeed",
+          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546799675542161",
           "name": "琪琪饼干kiki",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.57"
@@ -21064,6 +21071,13 @@
           "id": "3546899908921573",
           "name": "唒唒漫画咯",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546900313672459",
+          "name": "牛爷爷袋鼠三角洲电竞",
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=1.89"
         },
         {
           "type": "creator",
