@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T16:00:24.162Z",
+  "generatedAt": "2026-08-10T17:00:29.810Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20251,7 +20251,7 @@
           "platform": "bilibili",
           "id": "3546857466759434",
           "name": "蛋仔凸凸",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.93"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.87"
         },
         {
           "type": "creator",
@@ -39040,13 +39040,6 @@
           "id": "87632868",
           "name": "cissyxs",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.94"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "87788811",
-          "name": "新儿说游",
-          "reason": "Average upload gap <= 2 days; videos=120; avg_gap_days=1.73"
         },
         {
           "type": "creator",
