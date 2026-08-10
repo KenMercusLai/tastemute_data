@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T19:00:39.802Z",
+  "generatedAt": "2026-08-10T20:00:32.101Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37780,6 +37780,13 @@
           "id": "669481934",
           "name": "蓝星特快瓜",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "669615815",
+          "name": "楠宝seven",
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.58"
         },
         {
           "type": "creator",
