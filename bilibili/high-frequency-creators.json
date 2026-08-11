@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T05:00:32.690Z",
+  "generatedAt": "2026-08-11T06:00:36.558Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2416,6 +2416,13 @@
           "id": "1278230807",
           "name": "一心伴读",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1279329386",
+          "name": "丹佛掘金",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -5041,6 +5048,13 @@
           "id": "1652602227",
           "name": "茄子ayo",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "16548749",
+          "name": "冉冉不甜v",
+          "reason": "Average upload gap <= 2 days; videos=98; avg_gap_days=1.42"
         },
         {
           "type": "creator",
