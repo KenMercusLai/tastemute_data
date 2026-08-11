@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T18:00:37.162Z",
+  "generatedAt": "2026-08-11T19:00:40.434Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4929,6 +4929,13 @@
           "id": "1637988484",
           "name": "晓乐呀123",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1638046250",
+          "name": "o小猫辅食o",
+          "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=1.80"
         },
         {
           "type": "creator",
