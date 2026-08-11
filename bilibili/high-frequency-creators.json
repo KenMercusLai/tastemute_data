@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T13:00:30.910Z",
+  "generatedAt": "2026-08-11T14:00:29.172Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19031,6 +19031,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546760800635557",
+          "name": "绝区零-小蓝",
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546760991476484",
           "name": "绝望咸鱼日常",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.84"
@@ -24410,6 +24417,13 @@
           "id": "365189583",
           "name": "芝士丨情报局",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "365257036",
+          "name": "鲁铎尔象征",
+          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=1.42"
         },
         {
           "type": "creator",
