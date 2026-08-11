@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T04:00:34.899Z",
+  "generatedAt": "2026-08-11T05:00:32.690Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -34441,6 +34441,13 @@
           "id": "502866430",
           "name": "S自由骑士",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "502966208",
+          "name": "平于晏",
+          "reason": "Average upload gap <= 2 days; videos=109; avg_gap_days=1.58"
         },
         {
           "type": "creator",
