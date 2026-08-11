@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T17:00:35.159Z",
+  "generatedAt": "2026-08-11T18:00:37.162Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22776,6 +22776,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546966279588799",
+          "name": "忧郁瓜崽",
+          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546966466234581",
           "name": "游戏宅报",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.44"
@@ -32810,6 +32817,13 @@
           "id": "472594309",
           "name": "动物档案",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "472693771",
+          "name": "第一次与你交谈",
+          "reason": "Average upload gap <= 2 days; videos=150; avg_gap_days=1.95"
         },
         {
           "type": "creator",
