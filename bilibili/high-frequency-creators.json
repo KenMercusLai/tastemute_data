@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T03:00:31.817Z",
+  "generatedAt": "2026-08-11T04:00:34.899Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16164,6 +16164,13 @@
           "id": "3546393362827800",
           "name": "水fan-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546393421547584",
+          "name": "余音绕星轨",
+          "reason": "Average upload gap <= 2 days; videos=65; avg_gap_days=1.84"
         },
         {
           "type": "creator",
