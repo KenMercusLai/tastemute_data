@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T09:00:45.238Z",
+  "generatedAt": "2026-08-11T10:00:30.077Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9583,7 +9583,7 @@
           "platform": "bilibili",
           "id": "243907438",
           "name": "澄闪啵啵",
-          "reason": "Average upload gap <= 2 days; videos=118; avg_gap_days=0.86"
+          "reason": "Average upload gap <= 2 days; videos=120; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -32872,7 +32872,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=96; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=120; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -33580,6 +33580,13 @@
           "id": "485319475",
           "name": "xun大力小学数学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "485420127",
+          "name": "Mu_云流",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=2.00"
         },
         {
           "type": "creator",
