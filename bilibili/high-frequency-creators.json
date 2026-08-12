@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T00:00:32.418Z",
+  "generatedAt": "2026-08-12T01:00:28.408Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2766,6 +2766,13 @@
           "id": "13206722",
           "name": "我叫萧凯文",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13213440",
+          "name": "千城万叶",
+          "reason": "Average upload gap <= 2 days; videos=164; avg_gap_days=1.69"
         },
         {
           "type": "creator",
@@ -14197,6 +14204,13 @@
           "id": "3493146061179082",
           "name": "禅心平常",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493256851622152",
+          "name": "星舞莓-ベリー",
+          "reason": "Average upload gap <= 2 days; videos=76; avg_gap_days=1.25"
         },
         {
           "type": "creator",
