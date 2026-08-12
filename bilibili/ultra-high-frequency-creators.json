@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T17:00:25.458Z",
+  "generatedAt": "2026-08-12T18:00:50.302Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18957,6 +18957,13 @@
           "id": "80509102",
           "name": "披萨OB",
           "reason": "Average upload gap <= 1 days; videos=76; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8167659",
+          "name": "止尚谈冰",
+          "reason": "Average upload gap <= 1 days; videos=72; avg_gap_days=0.94"
         },
         {
           "type": "creator",

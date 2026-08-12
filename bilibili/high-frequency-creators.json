@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T17:00:25.458Z",
+  "generatedAt": "2026-08-12T18:00:50.302Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -708,13 +708,6 @@
           "id": "1072229486",
           "name": "多巴胺斋戒",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.70"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1072842577",
-          "name": "嘻嘻nja",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -9675,6 +9668,13 @@
           "id": "243566998",
           "name": "挖沟连彭沟长",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "243681035",
+          "name": "wuli小周",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.30"
         },
         {
           "type": "creator",
@@ -39033,6 +39033,13 @@
           "id": "81240780",
           "name": "军武白板",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8167659",
+          "name": "止尚谈冰",
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=0.94"
         },
         {
           "type": "creator",
