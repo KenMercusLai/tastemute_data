@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T08:00:41.497Z",
+  "generatedAt": "2026-08-12T09:00:35.050Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -582,13 +582,6 @@
           "id": "1130533805",
           "name": "幽幻似梓",
           "reason": "Average upload gap <= 1 days; videos=101; avg_gap_days=0.85"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1131457022",
-          "name": "人民日报",
-          "reason": "Average upload gap <= 1 days; videos=75; avg_gap_days=0.17"
         },
         {
           "type": "creator",

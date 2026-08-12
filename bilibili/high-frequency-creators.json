@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T08:00:41.497Z",
+  "generatedAt": "2026-08-12T09:00:35.050Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1218,7 +1218,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=75; avg_gap_days=0.17"
+          "reason": "Average upload gap <= 2 days; videos=76; avg_gap_days=1.97"
         },
         {
           "type": "creator",
