@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T02:00:36.006Z",
+  "generatedAt": "2026-08-12T03:00:28.519Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4873,6 +4873,13 @@
           "id": "1624000731",
           "name": "大冰谈",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1625693678",
+          "name": "甘井羽衣_Official",
+          "reason": "Average upload gap <= 2 days; videos=145; avg_gap_days=1.95"
         },
         {
           "type": "creator",
@@ -28890,6 +28897,13 @@
           "id": "37791459",
           "name": "太合音乐",
           "reason": "Average upload gap <= 2 days; videos=349; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "37795984",
+          "name": "吓得我脸白",
+          "reason": "Average upload gap <= 2 days; videos=379; avg_gap_days=1.99"
         },
         {
           "type": "creator",
