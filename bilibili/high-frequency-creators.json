@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T13:00:28.572Z",
+  "generatedAt": "2026-08-12T14:00:25.751Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -39173,6 +39173,13 @@
           "id": "85508942",
           "name": "解说伟伟",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "85803565",
+          "name": "北大糖的数学课",
+          "reason": "Average upload gap <= 2 days; videos=134; avg_gap_days=1.84"
         },
         {
           "type": "creator",
