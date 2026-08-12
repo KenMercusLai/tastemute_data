@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T03:00:28.519Z",
+  "generatedAt": "2026-08-12T04:00:36.579Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18859,6 +18859,13 @@
           "id": "7206252",
           "name": "跟着油管去健身",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7260546",
+          "name": "MiMemory",
+          "reason": "Average upload gap <= 1 days; videos=86; avg_gap_days=0.81"
         },
         {
           "type": "creator",

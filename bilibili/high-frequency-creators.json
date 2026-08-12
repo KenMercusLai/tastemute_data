@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T03:00:28.519Z",
+  "generatedAt": "2026-08-12T04:00:36.579Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -38718,6 +38718,13 @@
           "id": "7208891",
           "name": "扑克墨鱼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7260546",
+          "name": "MiMemory",
+          "reason": "Average upload gap <= 2 days; videos=86; avg_gap_days=0.81"
         },
         {
           "type": "creator",
