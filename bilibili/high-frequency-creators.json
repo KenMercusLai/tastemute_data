@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T04:00:36.579Z",
+  "generatedAt": "2026-08-12T05:00:35.110Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3438,6 +3438,13 @@
           "id": "1422339931",
           "name": "大白动漫吖",
           "reason": "Average upload gap <= 2 days; videos=133; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14235376",
+          "name": "今日影评",
+          "reason": "Average upload gap <= 2 days; videos=235; avg_gap_days=1.94"
         },
         {
           "type": "creator",
@@ -11373,6 +11380,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "296842815",
+          "name": "李永乐考研团队",
+          "reason": "Average upload gap <= 2 days; videos=544; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296926406",
           "name": "迷糊了吖",
           "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.93"
@@ -14610,6 +14624,13 @@
           "id": "3493282841627107",
           "name": "Melon爸爸",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493283298805939",
+          "name": "-ooooi-",
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=2.00"
         },
         {
           "type": "creator",
