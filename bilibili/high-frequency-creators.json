@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T12:00:33.210Z",
+  "generatedAt": "2026-08-12T13:00:28.572Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3816,6 +3816,13 @@
           "id": "1476175832",
           "name": "就可以了可以吗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1477163533",
+          "name": "小鱼Guitar",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.61"
         },
         {
           "type": "creator",
