@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T23:01:50.376Z",
+  "generatedAt": "2026-08-12T00:00:32.418Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7936,6 +7936,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "20390404",
+          "name": "东南卫视",
+          "reason": "Average upload gap <= 2 days; videos=1468; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2043767",
           "name": "Blaink",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
@@ -13405,7 +13412,7 @@
           "platform": "bilibili",
           "id": "3493082817366845",
           "name": "JLRS-jayfm",
-          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=0.80"
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -31584,7 +31591,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 2 days; videos=65; avg_gap_days=0.70"
         },
         {
           "type": "creator",
