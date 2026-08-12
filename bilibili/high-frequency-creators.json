@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T06:00:39.626Z",
+  "generatedAt": "2026-08-12T07:00:30.130Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3501,6 +3501,13 @@
           "id": "1433013551",
           "name": "运气好诶",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "14331850",
+          "name": "真穹哔兄弟",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.94"
         },
         {
           "type": "creator",
