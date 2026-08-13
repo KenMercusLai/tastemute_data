@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T21:00:25.505Z",
+  "generatedAt": "2026-08-13T22:00:35.610Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -30171,6 +30171,13 @@
           "id": "394521779",
           "name": "小汤姆T0m",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "394743476",
+          "name": "笨鸟不会飞--",
+          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.53"
         },
         {
           "type": "creator",
