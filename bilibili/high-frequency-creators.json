@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T07:00:31.645Z",
+  "generatedAt": "2026-08-13T08:00:25.041Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20168,6 +20168,13 @@
           "id": "3546843726220192",
           "name": "觉醒青年说",
           "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546845410232332",
+          "name": "周根的游戏小屋",
+          "reason": "Average upload gap <= 2 days; videos=157; avg_gap_days=1.95"
         },
         {
           "type": "creator",
