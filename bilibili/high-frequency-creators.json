@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T09:00:26.202Z",
+  "generatedAt": "2026-08-13T10:00:32.715Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6168,6 +6168,13 @@
           "id": "1794774850",
           "name": "小趴菜影视呀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1795226261",
+          "name": "清水达牢爷",
+          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=1.39"
         },
         {
           "type": "creator",
