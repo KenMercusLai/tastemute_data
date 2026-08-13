@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T19:00:23.574Z",
+  "generatedAt": "2026-08-13T20:00:28.158Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3277,6 +3277,13 @@
           "id": "1395358062",
           "name": "乌薪王丶葛温",
           "reason": "Average upload gap <= 2 days; videos=1370; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "13958517",
+          "name": "鬃毛",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -9857,6 +9864,13 @@
           "id": "25048847",
           "name": "莫娜摸鱼专用",
           "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2508317",
+          "name": "Sakuya将军",
+          "reason": "Average upload gap <= 2 days; videos=211; avg_gap_days=0.34"
         },
         {
           "type": "creator",
@@ -29083,6 +29097,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "379769189",
+          "name": "野生面壁者章南海",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "379770000",
           "name": "白票书生",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
@@ -29275,6 +29296,13 @@
           "id": "382334148",
           "name": "阿林动漫_",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "382337524",
+          "name": "圈宁CeoxNim",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.38"
         },
         {
           "type": "creator",
@@ -32761,6 +32789,13 @@
           "id": "457718620",
           "name": "蛋仔小九九",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "457846961",
+          "name": "岳老撕的猜想",
+          "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=1.67"
         },
         {
           "type": "creator",
