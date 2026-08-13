@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T13:00:21.572Z",
+  "generatedAt": "2026-08-13T14:00:36.094Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10319,6 +10319,13 @@
           "id": "268941858",
           "name": "磊哥游戏",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "27002871",
+          "name": "托尼YUの模玩博物馆",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.80"
         },
         {
           "type": "creator",
