@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T04:00:37.854Z",
+  "generatedAt": "2026-08-13T05:00:29.820Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10059,7 +10059,7 @@
           "platform": "bilibili",
           "id": "25666164",
           "name": "恩雅NYA",
-          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.89"
+          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -10508,13 +10508,6 @@
           "id": "27492426",
           "name": "戒社",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.31"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "27500557",
-          "name": "梦轩dada",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.34"
         },
         {
           "type": "creator",
@@ -38935,6 +38928,13 @@
           "id": "7491221",
           "name": "高战士",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7498623",
+          "name": "ずいかくfami",
+          "reason": "Average upload gap <= 2 days; videos=181; avg_gap_days=1.95"
         },
         {
           "type": "creator",
