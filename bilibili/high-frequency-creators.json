@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T01:00:25.951Z",
+  "generatedAt": "2026-08-13T02:00:25.418Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14316,6 +14316,13 @@
           "id": "3493258122496540",
           "name": "小次郎说漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493258269296969",
+          "name": "勇哥与神人",
+          "reason": "Average upload gap <= 2 days; videos=143; avg_gap_days=0.38"
         },
         {
           "type": "creator",
@@ -38452,6 +38459,13 @@
           "id": "694209723",
           "name": "佳楠很难丨直播切片",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "694458664",
+          "name": "在下知昂张",
+          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=1.47"
         },
         {
           "type": "creator",
