@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T02:00:25.418Z",
+  "generatedAt": "2026-08-13T03:00:31.303Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16052,6 +16052,13 @@
           "id": "451320374",
           "name": "央视网快看",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "451469992",
+          "name": "牢盾狗_三角洲行动",
+          "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.84"
         },
         {
           "type": "creator",
