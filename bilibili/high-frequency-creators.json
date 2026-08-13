@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T23:00:23.442Z",
+  "generatedAt": "2026-08-13T00:00:33.325Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5104,6 +5104,13 @@
           "id": "165548459",
           "name": "奚成TUSK",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "165584808",
+          "name": "泷辰XD",
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.84"
         },
         {
           "type": "creator",
