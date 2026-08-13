@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T12:00:35.596Z",
+  "generatedAt": "2026-08-13T13:00:21.572Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7467,6 +7467,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546568045103359",
+          "name": "敖敖鱼y",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546568328218880",
           "name": "央视文旅",
           "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.23"
@@ -9079,7 +9086,7 @@
           "platform": "bilibili",
           "id": "3546832674228356",
           "name": "白对川",
-          "reason": "Average upload gap <= 1 days; videos=169; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=174; avg_gap_days=0.97"
         },
         {
           "type": "creator",
