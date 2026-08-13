@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T06:00:31.158Z",
+  "generatedAt": "2026-08-13T07:00:31.645Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5580,6 +5580,13 @@
           "id": "338167021",
           "name": "国1铠南瓜",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "33829723",
+          "name": "殷阁下的哈尼",
+          "reason": "Average upload gap <= 1 days; videos=159; avg_gap_days=0.73"
         },
         {
           "type": "creator",
