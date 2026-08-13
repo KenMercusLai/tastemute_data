@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T18:00:36.566Z",
+  "generatedAt": "2026-08-13T19:00:23.574Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15135,6 +15135,13 @@
           "id": "3494355318868160",
           "name": "化学那些事er",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494356252101417",
+          "name": "JDG无畏契约分部",
+          "reason": "Average upload gap <= 2 days; videos=121; avg_gap_days=1.25"
         },
         {
           "type": "creator",
