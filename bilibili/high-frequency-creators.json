@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T15:00:29.145Z",
+  "generatedAt": "2026-08-13T16:00:25.047Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9693,6 +9693,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "243118474",
+          "name": "爵受受",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "243566998",
           "name": "挖沟连彭沟长",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.74"
@@ -10592,6 +10599,13 @@
           "id": "2776060",
           "name": "二代二代",
           "reason": "Average upload gap <= 2 days; videos=381; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "277612109",
+          "name": "省立精神病科王院长",
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.61"
         },
         {
           "type": "creator",
@@ -29223,6 +29237,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3820766",
+          "name": "闪电tata",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "382099637",
           "name": "小小神乐丶",
           "reason": "Average upload gap <= 2 days; videos=254; avg_gap_days=1.37"
@@ -34300,7 +34321,7 @@
           "platform": "bilibili",
           "id": "492866630",
           "name": "SK_KAOS",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.81"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.81"
         },
         {
           "type": "creator",
@@ -34462,6 +34483,13 @@
           "id": "497203796",
           "name": "老王在隔壁152",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "497336749",
+          "name": "Dust_Overlord",
+          "reason": "Average upload gap <= 2 days; videos=106; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -36456,7 +36484,7 @@
           "platform": "bilibili",
           "id": "5842837",
           "name": "云在在子",
-          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.15"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.27"
         },
         {
           "type": "creator",
