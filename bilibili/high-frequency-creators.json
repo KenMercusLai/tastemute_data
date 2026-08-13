@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T00:00:33.325Z",
+  "generatedAt": "2026-08-13T01:00:25.951Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4894,6 +4894,13 @@
           "id": "1625693678",
           "name": "甘井羽衣_Official",
           "reason": "Average upload gap <= 2 days; videos=145; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "162821447",
+          "name": "Tom舞为食猫",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.63"
         },
         {
           "type": "creator",
