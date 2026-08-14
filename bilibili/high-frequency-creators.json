@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T10:00:19.732Z",
+  "generatedAt": "2026-08-14T11:00:31.386Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -729,13 +729,6 @@
           "id": "1074636993",
           "name": "老懂是我了_DongGaming",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "107565283",
-          "name": "猫爪星痕",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -7504,7 +7497,7 @@
           "platform": "bilibili",
           "id": "19691708",
           "name": "亡影老陈",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.47"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.47"
         },
         {
           "type": "creator",
