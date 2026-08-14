@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T20:00:25.093Z",
+  "generatedAt": "2026-08-14T21:00:42.866Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19118,6 +19118,13 @@
           "id": "85508942",
           "name": "解说伟伟",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "85800522",
+          "name": "鲤茨Litzzz",
+          "reason": "Average upload gap <= 1 days; videos=103; avg_gap_days=0.99"
         },
         {
           "type": "creator",

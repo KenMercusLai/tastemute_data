@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T20:00:25.093Z",
+  "generatedAt": "2026-08-14T21:00:42.866Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7715,6 +7715,13 @@
           "id": "1998851590",
           "name": "鲨海解说呀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1999107460",
+          "name": "来点狗狗",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -29720,6 +29727,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "386145024",
+          "name": "庄询翎",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "386198118",
           "name": "太空无垠007",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.80"
@@ -39495,6 +39509,13 @@
           "id": "85508942",
           "name": "解说伟伟",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "85800522",
+          "name": "鲤茨Litzzz",
+          "reason": "Average upload gap <= 2 days; videos=103; avg_gap_days=0.99"
         },
         {
           "type": "creator",
