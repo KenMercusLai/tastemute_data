@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T01:00:21.955Z",
+  "generatedAt": "2026-08-14T02:00:26.899Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6714,6 +6714,13 @@
           "id": "1864674231",
           "name": "别利切夫在极地",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1864711584",
+          "name": "使命居士",
+          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=1.06"
         },
         {
           "type": "creator",
@@ -29636,6 +29643,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "386300969",
+          "name": "DarkTraveler",
+          "reason": "Average upload gap <= 2 days; videos=158; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "386348296",
           "name": "MC动画怪物学院",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.16"
@@ -33587,6 +33601,13 @@
           "id": "480823370",
           "name": "艺术塑型者東",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "48084221",
+          "name": "蜜雪冰城官方站",
+          "reason": "Average upload gap <= 2 days; videos=196; avg_gap_days=1.88"
         },
         {
           "type": "creator",
