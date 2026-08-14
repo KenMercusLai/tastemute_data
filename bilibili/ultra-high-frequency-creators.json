@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T13:00:33.107Z",
+  "generatedAt": "2026-08-14T14:00:48.517Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3767,6 +3767,13 @@
           "id": "211294986",
           "name": "迷彩_军魂",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2114847153",
+          "name": "贝极星周报",
+          "reason": "Average upload gap <= 1 days; videos=411; avg_gap_days=0.36"
         },
         {
           "type": "creator",
