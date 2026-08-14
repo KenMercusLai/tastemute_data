@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T23:00:29.583Z",
+  "generatedAt": "2026-08-14T00:00:29.062Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -31820,6 +31820,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "433903307",
+          "name": "小馒小头头",
+          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "433907966",
           "name": "CC酱的",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
@@ -37801,6 +37808,13 @@
           "id": "650663945",
           "name": "诺拉Nora_Heitis",
           "reason": "Average upload gap <= 2 days; videos=339; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "651031033",
+          "name": "钥神-三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.98"
         },
         {
           "type": "creator",
