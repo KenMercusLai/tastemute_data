@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T15:00:36.547Z",
+  "generatedAt": "2026-08-14T16:00:45.051Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5115,6 +5115,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1654042101",
+          "name": "唯美风景线",
+          "reason": "Average upload gap <= 2 days; videos=180; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "16548749",
           "name": "冉冉不甜v",
           "reason": "Average upload gap <= 2 days; videos=98; avg_gap_days=1.42"
@@ -7833,7 +7840,7 @@
           "platform": "bilibili",
           "id": "2010516584",
           "name": "全能的桩宝",
-          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.89"
+          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=0.92"
         },
         {
           "type": "creator",
@@ -27014,6 +27021,13 @@
           "id": "3706950162319671",
           "name": "长庚ChangGengovo",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706950506252519",
+          "name": "铜钱捞湿91",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.79"
         },
         {
           "type": "creator",
