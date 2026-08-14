@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T11:00:31.386Z",
+  "generatedAt": "2026-08-14T12:00:37.723Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9451,6 +9451,13 @@
           "id": "233108841",
           "name": "命运-冠位指定",
           "reason": "Average upload gap <= 2 days; videos=287; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "233111602",
+          "name": "给我一杯咖啡好吗",
+          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=1.94"
         },
         {
           "type": "creator",
@@ -21105,7 +21112,7 @@
           "platform": "bilibili",
           "id": "3546885096736805",
           "name": "爱涟tv",
-          "reason": "Average upload gap <= 2 days; videos=101; avg_gap_days=0.38"
+          "reason": "Average upload gap <= 2 days; videos=102; avg_gap_days=0.38"
         },
         {
           "type": "creator",
@@ -23332,6 +23339,13 @@
           "id": "3546977463699891",
           "name": "bili_61488858705",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546978218674438",
+          "name": "星夜昔涟",
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.33"
         },
         {
           "type": "creator",
@@ -38750,6 +38764,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "696529441",
+          "name": "涩会永子哥",
+          "reason": "Average upload gap <= 2 days; videos=178; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "696957614",
           "name": "大叔胖",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=1.70"
@@ -39271,13 +39292,6 @@
           "id": "8095884",
           "name": "Super小柴郡",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "80993844",
-          "name": "仙舟联盟的社区事件簿",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.79"
         },
         {
           "type": "creator",
