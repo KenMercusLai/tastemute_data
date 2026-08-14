@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T05:00:25.273Z",
+  "generatedAt": "2026-08-14T06:00:30.085Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2465,6 +2465,13 @@
           "id": "1739997894",
           "name": "芹玖说漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "174287646",
+          "name": "月枫下的妖精",
+          "reason": "Average upload gap <= 1 days; videos=387; avg_gap_days=0.63"
         },
         {
           "type": "creator",

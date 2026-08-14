@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T05:00:25.273Z",
+  "generatedAt": "2026-08-14T06:00:30.085Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5787,6 +5787,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "174287646",
+          "name": "月枫下的妖精",
+          "reason": "Average upload gap <= 2 days; videos=387; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1743593860",
           "name": "我牌哪去了",
           "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=0.95"
@@ -10360,7 +10367,7 @@
           "platform": "bilibili",
           "id": "268810504",
           "name": "安徽共青团",
-          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -11103,6 +11110,13 @@
           "id": "287524841",
           "name": "一只鹅企",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "287531248",
+          "name": "金甲战士阿伟",
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.76"
         },
         {
           "type": "creator",
@@ -30717,6 +30731,13 @@
           "id": "403760327",
           "name": "不记仇的忠会",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "403942135",
+          "name": "寻航道长",
+          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=1.04"
         },
         {
           "type": "creator",
