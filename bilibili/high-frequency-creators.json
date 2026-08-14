@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T04:00:32.351Z",
+  "generatedAt": "2026-08-14T05:00:25.273Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -491,6 +491,13 @@
           "id": "10475789",
           "name": "烦烦烦6653333",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1048823204",
+          "name": "殷花红",
+          "reason": "Average upload gap <= 2 days; videos=107; avg_gap_days=1.80"
         },
         {
           "type": "creator",
@@ -3323,6 +3330,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1402209327",
+          "name": "CMG观察",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1402229439",
           "name": "大丙搞笑配音",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.16"
@@ -6119,6 +6133,13 @@
           "id": "1789327594",
           "name": "相亲恋爱规划师-白硕",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "178939200",
+          "name": "雨鸭嘎嘎乱杀",
+          "reason": "Average upload gap <= 2 days; videos=83; avg_gap_days=1.90"
         },
         {
           "type": "creator",
