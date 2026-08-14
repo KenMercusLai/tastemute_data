@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T16:00:45.051Z",
+  "generatedAt": "2026-08-14T17:00:40.663Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9829,6 +9829,13 @@
           "id": "24674998",
           "name": "小鹏汽车",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2470355",
+          "name": "哈里叔叔",
+          "reason": "Average upload gap <= 2 days; videos=62; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -39187,13 +39194,6 @@
           "id": "7498623",
           "name": "ずいかくfami",
           "reason": "Average upload gap <= 2 days; videos=181; avg_gap_days=1.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "75",
-          "name": "丸子",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.01"
         },
         {
           "type": "creator",

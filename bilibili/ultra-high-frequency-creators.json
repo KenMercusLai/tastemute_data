@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T16:00:45.051Z",
+  "generatedAt": "2026-08-14T17:00:40.663Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4257,6 +4257,13 @@
           "id": "24674998",
           "name": "小鹏汽车",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2470355",
+          "name": "哈里叔叔",
+          "reason": "Average upload gap <= 1 days; videos=62; avg_gap_days=0.00"
         },
         {
           "type": "creator",
