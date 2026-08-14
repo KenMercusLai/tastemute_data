@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T06:00:30.085Z",
+  "generatedAt": "2026-08-14T07:00:20.684Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2821,7 +2821,7 @@
           "platform": "bilibili",
           "id": "13282928",
           "name": "小钻石酱",
-          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.01"
+          "reason": "Average upload gap <= 2 days; videos=23; avg_gap_days=0.96"
         },
         {
           "type": "creator",
@@ -27025,6 +27025,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706950856477521",
+          "name": "任泽-",
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706950873254558",
           "name": "天昊解说",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=0.75"
@@ -29604,6 +29611,13 @@
           "id": "38530894",
           "name": "有妖气的昵称",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "385507435",
+          "name": "不啦不啦小星瞳",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.67"
         },
         {
           "type": "creator",
