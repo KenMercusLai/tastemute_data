@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T02:00:26.899Z",
+  "generatedAt": "2026-08-14T03:00:40.271Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37511,6 +37511,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "628831193",
+          "name": "呆毛咸鱼王",
+          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "628860846",
           "name": "鲨鲨会原谅你的",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.37"
@@ -38844,6 +38851,13 @@
           "id": "701992306",
           "name": "随遇而安乐呀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "702483062",
+          "name": "刘大涛丨实用心理学",
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.37"
         },
         {
           "type": "creator",
