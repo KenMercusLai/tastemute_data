@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T19:00:43.793Z",
+  "generatedAt": "2026-08-14T20:00:25.093Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11733,6 +11733,13 @@
           "id": "303469491",
           "name": "闪耀暖暖",
           "reason": "Average upload gap <= 2 days; videos=305; avg_gap_days=0.09"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "303768720",
+          "name": "男上司-三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.95"
         },
         {
           "type": "creator",
