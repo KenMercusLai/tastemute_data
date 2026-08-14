@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T03:00:40.271Z",
+  "generatedAt": "2026-08-14T04:00:32.351Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3711,13 +3711,6 @@
           "id": "1455933",
           "name": "苏苏的美食记录",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1458767615",
-          "name": "张维为",
-          "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=1.79"
         },
         {
           "type": "creator",
