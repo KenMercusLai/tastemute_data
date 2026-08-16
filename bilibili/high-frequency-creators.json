@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T19:00:26.756Z",
+  "generatedAt": "2026-08-16T20:00:33.793Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16423,6 +16423,13 @@
           "id": "3546388084295775",
           "name": "最中立的电竞",
           "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546388503726456",
+          "name": "爱神漫剧馆",
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.95"
         },
         {
           "type": "creator",
