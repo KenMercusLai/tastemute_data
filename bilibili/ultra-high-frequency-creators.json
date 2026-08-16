@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T20:00:33.793Z",
+  "generatedAt": "2026-08-16T21:00:42.821Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6511,6 +6511,13 @@
           "id": "3493273226185448",
           "name": "龙岛蛋壳",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493273641420827",
+          "name": "小吉祥鲨",
+          "reason": "Average upload gap <= 1 days; videos=133; avg_gap_days=0.59"
         },
         {
           "type": "creator",
