@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T16:00:18.391Z",
+  "generatedAt": "2026-08-16T17:00:29.795Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -30143,6 +30143,13 @@
           "id": "391730733",
           "name": "炸麦了",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "391930545",
+          "name": "Maki的完美算术教室",
+          "reason": "Average upload gap <= 2 days; videos=402; avg_gap_days=0.32"
         },
         {
           "type": "creator",
