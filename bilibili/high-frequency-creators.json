@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T17:00:29.795Z",
+  "generatedAt": "2026-08-16T18:00:20.217Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -32397,13 +32397,6 @@
           "id": "441076921",
           "name": "寒页_",
           "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.09"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "441167301",
-          "name": "分析学爱好者",
-          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.05"
         },
         {
           "type": "creator",
