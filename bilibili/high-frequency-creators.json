@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:00:16.953Z",
+  "generatedAt": "2026-08-16T13:00:23.998Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5720,6 +5720,13 @@
           "id": "17326472",
           "name": "纳维戈特",
           "reason": "Average upload gap <= 2 days; videos=335; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1733656316",
+          "name": "永令羽Lynn",
+          "reason": "Average upload gap <= 2 days; videos=82; avg_gap_days=0.00"
         },
         {
           "type": "creator",
