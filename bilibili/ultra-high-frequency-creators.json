@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T05:00:29.915Z",
+  "generatedAt": "2026-08-16T09:00:34.769Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3305,6 +3305,13 @@
           "id": "1969954525",
           "name": "蒜粉",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1970200754",
+          "name": "心球仪周报",
+          "reason": "Average upload gap <= 1 days; videos=217; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -14973,7 +14980,7 @@
           "platform": "bilibili",
           "id": "393091539",
           "name": "三角洲经济学教父",
-          "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.59"
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -16275,7 +16282,7 @@
           "platform": "bilibili",
           "id": "46207951",
           "name": "落橘生秋",
-          "reason": "Average upload gap <= 1 days; videos=57; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 1 days; videos=58; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -16304,6 +16311,13 @@
           "id": "470510666",
           "name": "超勇的二等饼干",
           "reason": "Average upload gap <= 1 days; videos=214; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "470682098",
+          "name": "飞车的散装电音",
+          "reason": "Average upload gap <= 1 days; videos=10; avg_gap_days=0.41"
         },
         {
           "type": "creator",
