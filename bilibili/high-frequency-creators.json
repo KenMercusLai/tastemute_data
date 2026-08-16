@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T18:00:20.217Z",
+  "generatedAt": "2026-08-16T19:00:26.756Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15041,6 +15041,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493294497597661",
+          "name": "欧大帅-欧多桑电竞",
+          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493295814609004",
           "name": "女当家哎嘿",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.43"
@@ -16948,6 +16955,13 @@
           "id": "3546584625186941",
           "name": "183的冯予希律师",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546585172543783",
+          "name": "联盟邪生",
+          "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=1.84"
         },
         {
           "type": "creator",
