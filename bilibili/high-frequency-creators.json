@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T12:00:24.181Z",
+  "generatedAt": "2026-08-17T13:00:29.109Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1225,7 +1225,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=76; avg_gap_days=1.97"
+          "reason": "Average upload gap <= 2 days; videos=77; avg_gap_days=1.97"
         },
         {
           "type": "creator",
@@ -33307,6 +33307,13 @@
           "id": "472755538",
           "name": "AG超玩会王者荣耀一诺",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "472824065",
+          "name": "Sai不会弹琴",
+          "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=1.67"
         },
         {
           "type": "creator",
