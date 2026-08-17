@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T00:00:26.569Z",
+  "generatedAt": "2026-08-17T01:00:22.451Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4488,6 +4488,13 @@
           "id": "1575257567",
           "name": "琵琶妃",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1576045433",
+          "name": "强风吹拂的阿翼",
+          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.84"
         },
         {
           "type": "creator",
