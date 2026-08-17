@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T13:00:29.109Z",
+  "generatedAt": "2026-08-17T14:00:29.959Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5362,7 +5362,7 @@
           "platform": "bilibili",
           "id": "1684104875",
           "name": "津漂三晋人",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -7729,6 +7729,13 @@
           "id": "1995880259",
           "name": "行离编辑部",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "199707739",
+          "name": "九神NineGods",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.74"
         },
         {
           "type": "creator",
