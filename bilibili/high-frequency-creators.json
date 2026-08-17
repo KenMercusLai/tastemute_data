@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T11:00:18.726Z",
+  "generatedAt": "2026-08-17T12:00:24.181Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1295,7 +1295,7 @@
           "platform": "bilibili",
           "id": "114002580",
           "name": "坂柳奏",
-          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.31"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.31"
         },
         {
           "type": "creator",
@@ -2451,6 +2451,13 @@
           "id": "1280267062",
           "name": "账号已注销4573185049",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1280289656",
+          "name": "橘kikuko",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -40313,7 +40320,7 @@
           "platform": "bilibili",
           "id": "98627270",
           "name": "哔哩哔哩国创",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.79"
+          "reason": "Average upload gap <= 2 days; videos=75; avg_gap_days=1.32"
         },
         {
           "type": "creator",

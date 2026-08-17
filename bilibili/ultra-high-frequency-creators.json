@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T11:00:18.726Z",
+  "generatedAt": "2026-08-17T12:00:24.181Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19489,13 +19489,6 @@
           "id": "98610101",
           "name": "照理说事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "98627270",
-          "name": "哔哩哔哩国创",
-          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.79"
         },
         {
           "type": "creator",
