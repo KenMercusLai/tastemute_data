@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T01:00:22.451Z",
+  "generatedAt": "2026-08-17T02:00:20.504Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -421,6 +421,13 @@
           "id": "10835521",
           "name": "在下刀哥",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10839695",
+          "name": "BZ随机舞蹈共享舞台",
+          "reason": "Average upload gap <= 1 days; videos=82; avg_gap_days=0.00"
         },
         {
           "type": "creator",
