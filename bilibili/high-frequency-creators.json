@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T16:00:18.066Z",
+  "generatedAt": "2026-08-17T17:00:28.868Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -35166,6 +35166,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "505704436",
+          "name": "星空幻想DLN",
+          "reason": "Average upload gap <= 2 days; videos=244; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "506039443",
           "name": "AI短剧制作教学_",
           "reason": "Average upload gap <= 2 days; videos=10; avg_gap_days=1.76"
@@ -39688,6 +39695,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "86912924",
+          "name": "炫蓝xl",
+          "reason": "Average upload gap <= 2 days; videos=285; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "87179285",
           "name": "阿楸同学",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
@@ -40271,7 +40285,7 @@
           "platform": "bilibili",
           "id": "9717562",
           "name": "星际老男孩",
-          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=0.78"
+          "reason": "Average upload gap <= 2 days; videos=64; avg_gap_days=0.78"
         },
         {
           "type": "creator",
