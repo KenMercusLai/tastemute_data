@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T23:00:41.299Z",
+  "generatedAt": "2026-08-17T00:00:26.569Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7033,6 +7033,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3517233",
+          "name": "牛头人太空陆战队队长",
+          "reason": "Average upload gap <= 1 days; videos=185; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "351783646",
           "name": "爱足球的谢宇宁",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.76"
@@ -7413,7 +7420,7 @@
           "platform": "bilibili",
           "id": "3546392437984168",
           "name": "粥千千Money_",
-          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.54"
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -10543,6 +10550,13 @@
           "id": "3546931303287217",
           "name": "大也撩影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546932295239762",
+          "name": "聚贤堂-",
+          "reason": "Average upload gap <= 1 days; videos=87; avg_gap_days=0.58"
         },
         {
           "type": "creator",
