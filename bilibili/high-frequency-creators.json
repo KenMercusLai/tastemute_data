@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T17:00:28.868Z",
+  "generatedAt": "2026-08-17T18:00:28.600Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19738,6 +19738,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546786377501413",
+          "name": "吉一大人",
+          "reason": "Average upload gap <= 2 days; videos=159; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546787375745664",
           "name": "AA建材强姐",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.70"
@@ -33293,6 +33300,13 @@
           "id": "472594309",
           "name": "动物档案",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "472626328",
+          "name": "郑醒醒啊",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.57"
         },
         {
           "type": "creator",
