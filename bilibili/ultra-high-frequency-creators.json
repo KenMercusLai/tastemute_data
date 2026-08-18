@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T14:00:23.055Z",
+  "generatedAt": "2026-08-18T16:00:23.575Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16387,7 +16387,7 @@
           "platform": "bilibili",
           "id": "46207951",
           "name": "落橘生秋",
-          "reason": "Average upload gap <= 1 days; videos=58; avg_gap_days=0.19"
+          "reason": "Average upload gap <= 1 days; videos=59; avg_gap_days=0.19"
         },
         {
           "type": "creator",
@@ -17298,6 +17298,13 @@
           "id": "502170118",
           "name": "沐幽和璃泽",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "5026273",
+          "name": "0w0岚岚ラン",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.04"
         },
         {
           "type": "creator",
