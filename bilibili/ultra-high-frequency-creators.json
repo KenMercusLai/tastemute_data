@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T18:00:41.517Z",
+  "generatedAt": "2026-08-18T20:00:43.592Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4298,7 +4298,7 @@
           "platform": "bilibili",
           "id": "243907438",
           "name": "澄闪啵啵",
-          "reason": "Average upload gap <= 1 days; videos=120; avg_gap_days=0.86"
+          "reason": "Average upload gap <= 1 days; videos=121; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -6014,6 +6014,13 @@
           "id": "3493078335752595",
           "name": "陈晨晨o",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493079736650552",
+          "name": "尤文图斯足球俱乐部",
+          "reason": "Average upload gap <= 1 days; videos=227; avg_gap_days=0.34"
         },
         {
           "type": "creator",
