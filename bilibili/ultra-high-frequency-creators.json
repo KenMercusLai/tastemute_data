@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T21:00:40.099Z",
+  "generatedAt": "2026-08-18T22:00:32.844Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1219,6 +1219,13 @@
           "id": "1312279649",
           "name": "熊大排行",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1313650809",
+          "name": "马莎拉车",
+          "reason": "Average upload gap <= 1 days; videos=82; avg_gap_days=0.43"
         },
         {
           "type": "creator",

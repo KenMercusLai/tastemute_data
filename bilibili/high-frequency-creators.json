@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T21:00:40.099Z",
+  "generatedAt": "2026-08-18T22:00:32.844Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2738,6 +2738,13 @@
           "id": "1313365570",
           "name": "江西消防",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1313650809",
+          "name": "马莎拉车",
+          "reason": "Average upload gap <= 2 days; videos=82; avg_gap_days=0.43"
         },
         {
           "type": "creator",
