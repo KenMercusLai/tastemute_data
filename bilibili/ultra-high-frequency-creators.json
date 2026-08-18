@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:00:23.575Z",
+  "generatedAt": "2026-08-18T17:00:27.115Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4285,6 +4285,13 @@
           "id": "242477856",
           "name": "酷酷蛮蛮",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2431441",
+          "name": "究刺_Official",
+          "reason": "Average upload gap <= 1 days; videos=1814; avg_gap_days=0.74"
         },
         {
           "type": "creator",

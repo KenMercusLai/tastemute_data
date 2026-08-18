@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:00:23.575Z",
+  "generatedAt": "2026-08-18T17:00:27.115Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9850,6 +9850,13 @@
           "id": "243118474",
           "name": "爵受受",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2431441",
+          "name": "究刺_Official",
+          "reason": "Average upload gap <= 2 days; videos=1814; avg_gap_days=0.74"
         },
         {
           "type": "creator",
@@ -30714,6 +30721,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "397556296",
+          "name": "肃临天",
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3976691",
           "name": "Hagn",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.68"
@@ -39600,6 +39614,13 @@
           "id": "79953250",
           "name": "青柠小柑橘",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "80148988",
+          "name": "青璃Aori",
+          "reason": "Average upload gap <= 2 days; videos=99; avg_gap_days=1.64"
         },
         {
           "type": "creator",
