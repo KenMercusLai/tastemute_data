@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T07:00:29.600Z",
+  "generatedAt": "2026-08-18T09:00:25.943Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3592,6 +3592,13 @@
           "id": "2051467033",
           "name": "星洛游戏分享",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2053540126",
+          "name": "莺本斋",
+          "reason": "Average upload gap <= 1 days; videos=82; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -7750,6 +7757,13 @@
           "id": "3546601119287659",
           "name": "天下人物事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546602104949723",
+          "name": "墨影辰熙MYCX_淮屿团",
+          "reason": "Average upload gap <= 1 days; videos=151; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -16189,6 +16203,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "452186841",
+          "name": "巡庆音律音游赛事",
+          "reason": "Average upload gap <= 1 days; videos=65; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "452306912",
           "name": "板鸭象棋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.87"
@@ -16584,6 +16605,13 @@
           "id": "478056299",
           "name": "铱制大炒饭",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "478088",
+          "name": "樱满通行",
+          "reason": "Average upload gap <= 1 days; videos=734; avg_gap_days=0.42"
         },
         {
           "type": "creator",
