@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T06:00:34.265Z",
+  "generatedAt": "2026-08-18T07:00:29.600Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10451,7 +10451,7 @@
           "platform": "bilibili",
           "id": "268810504",
           "name": "安徽共青团",
-          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -36230,6 +36230,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "53258",
+          "name": "Seven个吉他",
+          "reason": "Average upload gap <= 2 days; videos=128; avg_gap_days=1.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "53265107",
           "name": "夏梦迪-高考物理",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.31"
@@ -39061,6 +39068,13 @@
           "id": "699110573",
           "name": "圆球鼠STG",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "700085399",
+          "name": "山西省文化和旅游厅",
+          "reason": "Average upload gap <= 2 days; videos=461; avg_gap_days=1.38"
         },
         {
           "type": "creator",
