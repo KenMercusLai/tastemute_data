@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T17:00:27.115Z",
+  "generatedAt": "2026-08-18T18:00:41.517Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16504,6 +16504,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "473490777",
+          "name": "MMML剪辑",
+          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "473495962",
           "name": "腾讯新闻",
           "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.03"
@@ -18285,6 +18292,13 @@
           "id": "608097572",
           "name": "搬运知识金砖",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "60824211",
+          "name": "Polyadenylation",
+          "reason": "Average upload gap <= 1 days; videos=202; avg_gap_days=0.58"
         },
         {
           "type": "creator",

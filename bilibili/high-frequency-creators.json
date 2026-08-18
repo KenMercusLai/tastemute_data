@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T17:00:27.115Z",
+  "generatedAt": "2026-08-18T18:00:41.517Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2976,6 +2976,13 @@
           "id": "1344682462",
           "name": "陇上阿斌",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1345490248",
+          "name": "WT今日战雷",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.30"
         },
         {
           "type": "creator",
@@ -31024,7 +31031,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.20"
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=1.20"
         },
         {
           "type": "creator",
@@ -33524,6 +33531,13 @@
           "id": "47334700",
           "name": "木探长",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "473490777",
+          "name": "MMML剪辑",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.23"
         },
         {
           "type": "creator",
@@ -37514,6 +37528,13 @@
           "id": "608097572",
           "name": "搬运知识金砖",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "60824211",
+          "name": "Polyadenylation",
+          "reason": "Average upload gap <= 2 days; videos=202; avg_gap_days=0.58"
         },
         {
           "type": "creator",
