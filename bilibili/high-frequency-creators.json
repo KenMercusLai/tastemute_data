@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T04:00:24.967Z",
+  "generatedAt": "2026-08-19T06:00:27.375Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5118,6 +5118,13 @@
           "id": "1648186395",
           "name": "小萱的宝藏音乐",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1648378030",
+          "name": "作言Zy",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.80"
         },
         {
           "type": "creator",
@@ -11485,6 +11492,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "29273851",
+          "name": "搞体能的咸鱼",
+          "reason": "Average upload gap <= 2 days; videos=86; avg_gap_days=1.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "292971409",
           "name": "即是例外",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.49"
@@ -15226,6 +15240,13 @@
           "id": "3493297907567491",
           "name": "彩虹六号攻势",
           "reason": "Average upload gap <= 2 days; videos=91; avg_gap_days=1.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493298243111485",
+          "name": "小面包吖two",
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.85"
         },
         {
           "type": "creator",
