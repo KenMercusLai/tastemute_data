@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T06:00:27.375Z",
+  "generatedAt": "2026-08-19T07:00:25.917Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15601,6 +15601,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3494372240788445",
+          "name": "军事科普-",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3494372270148534",
           "name": "世界吞噬怪",
           "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=0.55"
@@ -27641,6 +27648,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706964414564694",
+          "name": "美菲拉斯萨麦尔",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706964494257105",
           "name": "婚姻爱情观",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.22"
@@ -37906,13 +37920,6 @@
           "id": "626765264",
           "name": "氵_南风",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.95"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "627014606",
-          "name": "琪不董推理",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.95"
         },
         {
           "type": "creator",
