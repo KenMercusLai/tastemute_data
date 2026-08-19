@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:00:27.406Z",
+  "generatedAt": "2026-08-19T03:00:22.979Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10514,7 +10514,7 @@
           "platform": "bilibili",
           "id": "268810504",
           "name": "安徽共青团",
-          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -15821,6 +15821,13 @@
           "id": "350988058",
           "name": "高星卡手",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "351113741",
+          "name": "无所事事de龙",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.32"
         },
         {
           "type": "creator",
@@ -37780,6 +37787,13 @@
           "id": "622874314",
           "name": "小旺老实",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "622900485",
+          "name": "酷猫不是酷喵",
+          "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=1.13"
         },
         {
           "type": "creator",
