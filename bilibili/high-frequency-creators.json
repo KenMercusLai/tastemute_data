@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T16:00:31.867Z",
+  "generatedAt": "2026-08-19T17:00:28.442Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -12055,6 +12055,13 @@
           "id": "30973654",
           "name": "网易阴阳师手游",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "310193177",
+          "name": "骑士冷音-冷知识热音",
+          "reason": "Average upload gap <= 2 days; videos=204; avg_gap_days=1.92"
         },
         {
           "type": "creator",
