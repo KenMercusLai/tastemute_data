@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T12:00:28.735Z",
+  "generatedAt": "2026-08-19T13:00:32.174Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11075,6 +11075,13 @@
           "id": "28314637",
           "name": "表面兄弟七哥",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2832224",
+          "name": "SNH48官方账号",
+          "reason": "Average upload gap <= 2 days; videos=570; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -36758,6 +36765,13 @@
           "id": "552165374",
           "name": "杨子--yangzi",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "552254379",
+          "name": "晨视频晨世",
+          "reason": "Average upload gap <= 2 days; videos=140; avg_gap_days=0.07"
         },
         {
           "type": "creator",

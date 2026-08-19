@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T12:00:28.735Z",
+  "generatedAt": "2026-08-19T13:00:32.174Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4817,6 +4817,13 @@
           "id": "283069183",
           "name": "虎牙刘牛",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2832224",
+          "name": "SNH48官方账号",
+          "reason": "Average upload gap <= 1 days; videos=570; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -17935,6 +17942,13 @@
           "id": "550005684",
           "name": "好看的动漫呀",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "552254379",
+          "name": "晨视频晨世",
+          "reason": "Average upload gap <= 1 days; videos=140; avg_gap_days=0.07"
         },
         {
           "type": "creator",
