@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T21:01:04.335Z",
+  "generatedAt": "2026-08-19T22:00:41.287Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16493,6 +16493,13 @@
           "id": "3546373722999080",
           "name": "科学先生",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546373886577240",
+          "name": "郁郁不太闲",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.51"
         },
         {
           "type": "creator",
