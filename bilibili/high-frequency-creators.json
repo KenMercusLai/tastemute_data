@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T15:00:27.919Z",
+  "generatedAt": "2026-08-19T16:00:31.867Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1828,6 +1828,13 @@
           "id": "1214263045",
           "name": "SUPERJUNIOR",
           "reason": "Average upload gap <= 2 days; videos=179; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12173473",
+          "name": "晓夫九",
+          "reason": "Average upload gap <= 2 days; videos=231; avg_gap_days=2.00"
         },
         {
           "type": "creator",
