@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T23:00:39.499Z",
+  "generatedAt": "2026-08-20T00:00:57.471Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11495,6 +11495,13 @@
           "id": "292057296",
           "name": "鼠鼠漫剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "29221248",
+          "name": "喵呜Miwuu",
+          "reason": "Average upload gap <= 2 days; videos=207; avg_gap_days=1.40"
         },
         {
           "type": "creator",
@@ -33405,6 +33412,13 @@
           "id": "470107440",
           "name": "青丝iam",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4702514",
+          "name": "斯斋针鹅心",
+          "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.84"
         },
         {
           "type": "creator",
