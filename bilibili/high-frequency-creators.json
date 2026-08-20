@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T17:00:37.720Z",
+  "generatedAt": "2026-08-20T18:00:31.081Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4751,6 +4751,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1598011339",
+          "name": "叁野也是牧野",
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1598140968",
           "name": "一头沙雕猪坤巴哥",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.58"
@@ -6048,7 +6055,7 @@
           "platform": "bilibili",
           "id": "1763106905",
           "name": "一只灵柚儿",
-          "reason": "Average upload gap <= 2 days; videos=121; avg_gap_days=1.27"
+          "reason": "Average upload gap <= 2 days; videos=124; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -37626,6 +37633,13 @@
           "id": "604213477",
           "name": "韵汐小乐园",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "604710494",
+          "name": "长片短解",
+          "reason": "Average upload gap <= 2 days; videos=86; avg_gap_days=1.96"
         },
         {
           "type": "creator",
