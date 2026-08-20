@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T01:00:24.653Z",
+  "generatedAt": "2026-08-20T02:01:01.299Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8093,6 +8093,13 @@
           "id": "2029129181",
           "name": "蛋仔灰灰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2029139912",
+          "name": "六十一片鱼鳞",
+          "reason": "Average upload gap <= 2 days; videos=101; avg_gap_days=1.67"
         },
         {
           "type": "creator",
