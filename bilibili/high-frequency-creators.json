@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T18:00:31.081Z",
+  "generatedAt": "2026-08-20T20:00:47.558Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -385,7 +385,7 @@
           "platform": "bilibili",
           "id": "10303206",
           "name": "环球时报",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.02"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -4445,7 +4445,7 @@
           "platform": "bilibili",
           "id": "156052061",
           "name": "JZSchool爵士音乐学校",
-          "reason": "Average upload gap <= 2 days; videos=218; avg_gap_days=1.21"
+          "reason": "Average upload gap <= 2 days; videos=219; avg_gap_days=1.74"
         },
         {
           "type": "creator",
@@ -34531,7 +34531,7 @@
           "platform": "bilibili",
           "id": "4856007",
           "name": "迷影社",
-          "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=1.93"
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.93"
         },
         {
           "type": "creator",
