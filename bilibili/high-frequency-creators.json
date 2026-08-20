@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T08:00:28.393Z",
+  "generatedAt": "2026-08-20T10:00:31.437Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4975,6 +4975,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1627883524",
+          "name": "户外蛇哥科普",
+          "reason": "Average upload gap <= 2 days; videos=80; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "162821447",
           "name": "Tom舞为食猫",
           "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.63"
@@ -8863,6 +8870,13 @@
           "id": "2120028436",
           "name": "小方动画_",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2120690264",
+          "name": "俄克拉荷马城雷霆",
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -13532,6 +13546,13 @@
           "id": "34752710",
           "name": "4_c_er",
           "reason": "Average upload gap <= 2 days; videos=133; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "347594249",
+          "name": "麒麟妖精小白麟",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.42"
         },
         {
           "type": "creator",
@@ -40545,6 +40566,13 @@
           "id": "94815852",
           "name": "好英俊pro",
           "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.45"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9499766",
+          "name": "SSSSHolmes",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.80"
         },
         {
           "type": "creator",
