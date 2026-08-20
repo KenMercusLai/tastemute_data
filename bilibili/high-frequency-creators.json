@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T13:00:53.406Z",
+  "generatedAt": "2026-08-20T16:00:56.709Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7768,6 +7768,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1986460044",
+          "name": "凯尔希是屑猞猁",
+          "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1987398452",
           "name": "安娜iv",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
@@ -13118,7 +13125,7 @@
           "platform": "bilibili",
           "id": "34330543",
           "name": "糊涂捏不糊涂",
-          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=75; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -19545,6 +19552,13 @@
           "id": "3546753129252899",
           "name": "且听心声丨穆祉丞",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546753496255087",
+          "name": "棘背哈基迷",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.47"
         },
         {
           "type": "creator",
@@ -32802,7 +32816,7 @@
           "platform": "bilibili",
           "id": "441513739",
           "name": "雾散星河明",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.81"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.81"
         },
         {
           "type": "creator",
