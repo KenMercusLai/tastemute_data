@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T06:00:32.824Z",
+  "generatedAt": "2026-08-21T07:00:21.552Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2507,6 +2507,13 @@
           "id": "1281976796",
           "name": "彩虹箱RainbowBox",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1284218456",
+          "name": "深渊薯片",
+          "reason": "Average upload gap <= 2 days; videos=141; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -19915,7 +19922,7 @@
           "platform": "bilibili",
           "id": "3546779343653733",
           "name": "英雄亚冠ACL",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.58"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.58"
         },
         {
           "type": "creator",
