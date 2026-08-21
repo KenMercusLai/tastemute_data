@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T07:00:21.552Z",
+  "generatedAt": "2026-08-21T08:00:33.686Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -40104,6 +40104,13 @@
           "id": "85508942",
           "name": "解说伟伟",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8558528",
+          "name": "霜月冰_ices",
+          "reason": "Average upload gap <= 2 days; videos=219; avg_gap_days=1.53"
         },
         {
           "type": "creator",
