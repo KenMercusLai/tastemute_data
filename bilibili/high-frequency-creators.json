@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T21:00:33.070Z",
+  "generatedAt": "2026-08-21T22:00:40.202Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6063,6 +6063,13 @@
           "id": "1763106905",
           "name": "一只灵柚儿",
           "reason": "Average upload gap <= 2 days; videos=124; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1765954898",
+          "name": "ioeop",
+          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=1.35"
         },
         {
           "type": "creator",
@@ -35057,6 +35064,13 @@
           "id": "4926234",
           "name": "楠木仙人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "492713236",
+          "name": "白云天城",
+          "reason": "Average upload gap <= 2 days; videos=92; avg_gap_days=1.04"
         },
         {
           "type": "creator",
