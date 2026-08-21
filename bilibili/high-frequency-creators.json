@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T12:00:38.499Z",
+  "generatedAt": "2026-08-21T13:00:46.490Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -33090,6 +33090,13 @@
           "id": "449973505",
           "name": "老赵译戈多",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "450472670",
+          "name": "青年鲍里斯",
+          "reason": "Average upload gap <= 2 days; videos=164; avg_gap_days=1.68"
         },
         {
           "type": "creator",
