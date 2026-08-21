@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T13:00:46.490Z",
+  "generatedAt": "2026-08-21T15:00:21.048Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15534,13 +15534,6 @@
           "id": "3494358904998139",
           "name": "军武兔探长",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3494359290874549",
-          "name": "冰瓜凉夏y",
-          "reason": "Average upload gap <= 2 days; videos=77; avg_gap_days=1.83"
         },
         {
           "type": "creator",
@@ -40461,13 +40454,6 @@
           "id": "90668673",
           "name": "二柄APP",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.07"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "9068441",
-          "name": "冰攻厂BeSo",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=0.79"
         },
         {
           "type": "creator",
