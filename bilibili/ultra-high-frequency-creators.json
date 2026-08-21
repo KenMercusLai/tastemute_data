@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T23:01:45.214Z",
+  "generatedAt": "2026-08-21T01:00:19.629Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5899,6 +5899,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3461579630708768",
+          "name": "FromAurorally_",
+          "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3461581176310385",
           "name": "古月伍辰-三角洲",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.79"
@@ -6742,6 +6749,13 @@
           "id": "3493291909712030",
           "name": "一点点晚风-----",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493292746476399",
+          "name": "LuminousRomance",
+          "reason": "Average upload gap <= 1 days; videos=66; avg_gap_days=0.00"
         },
         {
           "type": "creator",
