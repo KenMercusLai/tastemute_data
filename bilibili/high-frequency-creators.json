@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T20:00:16.224Z",
+  "generatedAt": "2026-08-21T21:00:33.070Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -38319,6 +38319,13 @@
           "id": "631901074",
           "name": "zatitito",
           "reason": "Average upload gap <= 2 days; videos=198; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "632449531",
+          "name": "无忧_Carefree",
+          "reason": "Average upload gap <= 2 days; videos=141; avg_gap_days=0.22"
         },
         {
           "type": "creator",

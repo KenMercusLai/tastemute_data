@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T20:00:16.224Z",
+  "generatedAt": "2026-08-21T21:00:33.070Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18579,6 +18579,13 @@
           "id": "631228569",
           "name": "雪漫漫Sin",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "632449531",
+          "name": "无忧_Carefree",
+          "reason": "Average upload gap <= 1 days; videos=141; avg_gap_days=0.22"
         },
         {
           "type": "creator",
