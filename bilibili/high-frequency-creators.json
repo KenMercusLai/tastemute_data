@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T05:00:21.331Z",
+  "generatedAt": "2026-08-21T06:00:32.824Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -22965,6 +22965,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546942067968711",
+          "name": "江也是北",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546942162340729",
           "name": "鱼晚猛攻",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.81"
@@ -36379,7 +36386,7 @@
           "platform": "bilibili",
           "id": "52415970",
           "name": "旅途星尘",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.59"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.59"
         },
         {
           "type": "creator",
