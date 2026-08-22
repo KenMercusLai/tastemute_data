@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T21:00:37.673Z",
+  "generatedAt": "2026-08-22T22:00:21.892Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2514,13 +2514,6 @@
           "id": "17368510",
           "name": "DoroPP",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1737477961",
-          "name": "沏杯上午茶",
-          "reason": "Average upload gap <= 1 days; videos=179; avg_gap_days=0.12"
         },
         {
           "type": "creator",
@@ -16665,6 +16658,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "474501945",
+          "name": "河海大学",
+          "reason": "Average upload gap <= 1 days; videos=82; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "474595627",
           "name": "CSGO官方赛事",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.42"
@@ -19348,7 +19348,7 @@
           "platform": "bilibili",
           "id": "84222265",
           "name": "破竹残羽Jalen",
-          "reason": "Average upload gap <= 1 days; videos=609; avg_gap_days=0.35"
+          "reason": "Average upload gap <= 1 days; videos=610; avg_gap_days=0.35"
         },
         {
           "type": "creator",

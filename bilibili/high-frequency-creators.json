@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T21:00:37.673Z",
+  "generatedAt": "2026-08-22T22:00:21.892Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5873,7 +5873,7 @@
           "platform": "bilibili",
           "id": "1737477961",
           "name": "沏杯上午茶",
-          "reason": "Average upload gap <= 2 days; videos=179; avg_gap_days=0.12"
+          "reason": "Average upload gap <= 2 days; videos=183; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -14820,6 +14820,13 @@
           "id": "3493262983695200",
           "name": "月亮一猫",
           "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493263168244194",
+          "name": "我的世界小铭解说",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.41"
         },
         {
           "type": "creator",
@@ -33997,6 +34004,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "474501945",
+          "name": "河海大学",
+          "reason": "Average upload gap <= 2 days; videos=82; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "474559618",
           "name": "飞洋杂谈",
           "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.05"
@@ -40187,7 +40201,7 @@
           "platform": "bilibili",
           "id": "84222265",
           "name": "破竹残羽Jalen",
-          "reason": "Average upload gap <= 2 days; videos=609; avg_gap_days=0.35"
+          "reason": "Average upload gap <= 2 days; videos=610; avg_gap_days=0.35"
         },
         {
           "type": "creator",
