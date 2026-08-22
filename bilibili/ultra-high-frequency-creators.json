@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T06:00:21.481Z",
+  "generatedAt": "2026-08-22T07:00:41.094Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13511,6 +13511,13 @@
           "id": "3706947670903070",
           "name": "秋风落叶--_",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706948258105907",
+          "name": "小千代字幕组",
+          "reason": "Average upload gap <= 1 days; videos=255; avg_gap_days=0.62"
         },
         {
           "type": "creator",
