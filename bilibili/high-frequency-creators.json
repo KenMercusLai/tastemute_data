@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T14:00:28.968Z",
+  "generatedAt": "2026-08-22T15:00:25.171Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -32417,7 +32417,7 @@
           "platform": "bilibili",
           "id": "433004026",
           "name": "卡秃噜皮君",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -33748,6 +33748,13 @@
           "id": "472287931",
           "name": "方块大背头",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "472402239",
+          "name": "初冬の暮雨",
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=0.73"
         },
         {
           "type": "creator",
