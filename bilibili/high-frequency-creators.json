@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T17:00:23.562Z",
+  "generatedAt": "2026-08-22T18:00:30.457Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -30885,6 +30885,13 @@
           "id": "395825716",
           "name": "今生kj",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "39589115",
+          "name": "九天绝弦",
+          "reason": "Average upload gap <= 2 days; videos=108; avg_gap_days=1.72"
         },
         {
           "type": "creator",
