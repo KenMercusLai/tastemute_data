@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T03:00:23.158Z",
+  "generatedAt": "2026-08-22T04:00:25.476Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2374,6 +2374,13 @@
           "id": "1268631936",
           "name": "你的老闲鱼",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1268919",
+          "name": "Yoming解说",
+          "reason": "Average upload gap <= 2 days; videos=530; avg_gap_days=0.42"
         },
         {
           "type": "creator",
