@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T01:00:37.652Z",
+  "generatedAt": "2026-08-22T02:00:27.154Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2366,7 +2366,7 @@
           "platform": "bilibili",
           "id": "1265680561",
           "name": "永雏塔菲",
-          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.70"
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.70"
         },
         {
           "type": "creator",
@@ -15562,6 +15562,13 @@
           "id": "3494360935041518",
           "name": "小艾都知道",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494361419483553",
+          "name": "miaouanxiLume",
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.95"
         },
         {
           "type": "creator",
