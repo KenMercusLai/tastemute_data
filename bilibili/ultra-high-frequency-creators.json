@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T19:00:32.666Z",
+  "generatedAt": "2026-08-22T20:00:23.188Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16668,6 +16668,13 @@
           "id": "474595627",
           "name": "CSGO官方赛事",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "475419271",
+          "name": "星空133",
+          "reason": "Average upload gap <= 1 days; videos=878; avg_gap_days=0.48"
         },
         {
           "type": "creator",
