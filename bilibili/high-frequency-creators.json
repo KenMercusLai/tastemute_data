@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T18:00:30.457Z",
+  "generatedAt": "2026-08-22T19:00:32.666Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7246,6 +7246,13 @@
           "id": "191802643",
           "name": "大远嗷嗷",
           "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "191880668",
+          "name": "我的世界小黑犬解说",
+          "reason": "Average upload gap <= 2 days; videos=129; avg_gap_days=1.69"
         },
         {
           "type": "creator",
@@ -35154,7 +35161,7 @@
           "platform": "bilibili",
           "id": "492866630",
           "name": "SK_KAOS",
-          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.81"
+          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.81"
         },
         {
           "type": "creator",
@@ -40454,6 +40461,13 @@
           "id": "89133463",
           "name": "小小小尹啊",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "89138016",
+          "name": "钢4ocea",
+          "reason": "Average upload gap <= 2 days; videos=249; avg_gap_days=0.32"
         },
         {
           "type": "creator",
