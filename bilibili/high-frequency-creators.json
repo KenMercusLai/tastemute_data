@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T08:00:18.646Z",
+  "generatedAt": "2026-08-22T09:00:24.099Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3571,6 +3571,13 @@
           "id": "1429723107",
           "name": "索尼中国",
           "reason": "Average upload gap <= 2 days; videos=274; avg_gap_days=1.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1432747633",
+          "name": "LEGO乐高",
+          "reason": "Average upload gap <= 2 days; videos=162; avg_gap_days=1.16"
         },
         {
           "type": "creator",
