@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T07:00:41.094Z",
+  "generatedAt": "2026-08-22T08:00:18.646Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2955,6 +2955,13 @@
           "id": "1854990890",
           "name": "一池一虫一菌丝",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.39"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "185588187",
+          "name": "幸运债王",
+          "reason": "Average upload gap <= 1 days; videos=104; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -14665,7 +14672,7 @@
           "platform": "bilibili",
           "id": "37791459",
           "name": "太合音乐",
-          "reason": "Average upload gap <= 1 days; videos=349; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 1 days; videos=348; avg_gap_days=0.37"
         },
         {
           "type": "creator",
