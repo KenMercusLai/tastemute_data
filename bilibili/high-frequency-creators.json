@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T13:00:20.633Z",
+  "generatedAt": "2026-08-22T14:00:28.968Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -40048,13 +40048,6 @@
           "id": "80696429",
           "name": "恋与制作人",
           "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "8080172",
-          "name": "佐世賀夜刀",
-          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.31"
         },
         {
           "type": "creator",
