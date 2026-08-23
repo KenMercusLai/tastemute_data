@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T20:00:18.800Z",
+  "generatedAt": "2026-08-23T21:00:22.670Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5558,7 +5558,7 @@
           "platform": "bilibili",
           "id": "328271007",
           "name": "青蜂侠-Bee",
-          "reason": "Average upload gap <= 1 days; videos=616; avg_gap_days=0.02"
+          "reason": "Average upload gap <= 1 days; videos=617; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -18600,6 +18600,13 @@
           "id": "629357048",
           "name": "草帽来也",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "630372845",
+          "name": "青春北京",
+          "reason": "Average upload gap <= 1 days; videos=445; avg_gap_days=0.42"
         },
         {
           "type": "creator",
