@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T19:00:43.783Z",
+  "generatedAt": "2026-08-23T20:00:18.800Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2387,7 +2387,7 @@
           "platform": "bilibili",
           "id": "1269118848",
           "name": "CX_Tysun",
-          "reason": "Average upload gap <= 2 days; videos=136; avg_gap_days=1.21"
+          "reason": "Average upload gap <= 2 days; videos=138; avg_gap_days=1.29"
         },
         {
           "type": "creator",
