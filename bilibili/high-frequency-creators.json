@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T23:01:14.494Z",
+  "generatedAt": "2026-08-23T01:00:33.070Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10281,6 +10281,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "252738071",
+          "name": "解说Keen",
+          "reason": "Average upload gap <= 2 days; videos=210; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "253092841",
           "name": "知秋一叶1314",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.09"
@@ -16581,6 +16588,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "35393135",
+          "name": "青春上海",
+          "reason": "Average upload gap <= 2 days; videos=225; avg_gap_days=1.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "354077280",
           "name": "1818黄金眼",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.10"
@@ -18957,6 +18971,13 @@
           "id": "3546706371152712",
           "name": "阿城视频剪辑",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546707329550428",
+          "name": "使命召唤手游赛事官方",
+          "reason": "Average upload gap <= 2 days; videos=134; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -39319,7 +39340,7 @@
           "platform": "bilibili",
           "id": "686127",
           "name": "籽岷",
-          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.48"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.48"
         },
         {
           "type": "creator",
