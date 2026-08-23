@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T21:00:22.670Z",
+  "generatedAt": "2026-08-23T22:00:26.200Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6573,7 +6573,7 @@
           "platform": "bilibili",
           "id": "1825616079",
           "name": "珊瑚一心",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.64"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.64"
         },
         {
           "type": "creator",
@@ -16857,6 +16857,13 @@
           "id": "3546390768650532",
           "name": "個久吐煙圈",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546391890626775",
+          "name": "镜流水月",
+          "reason": "Average upload gap <= 2 days; videos=130; avg_gap_days=1.85"
         },
         {
           "type": "creator",
