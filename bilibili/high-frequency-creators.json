@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T13:00:20.366Z",
+  "generatedAt": "2026-08-23T14:00:27.137Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10816,6 +10816,13 @@
           "id": "27438746",
           "name": "慌得要死zed",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "274401170",
+          "name": "羽小然",
+          "reason": "Average upload gap <= 2 days; videos=118; avg_gap_days=1.20"
         },
         {
           "type": "creator",
