@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T09:00:32.159Z",
+  "generatedAt": "2026-08-23T10:00:20.675Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8687,7 +8687,7 @@
           "platform": "bilibili",
           "id": "2094023032",
           "name": "橘山走过风",
-          "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.73"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.73"
         },
         {
           "type": "creator",
@@ -9044,7 +9044,7 @@
           "platform": "bilibili",
           "id": "21341812",
           "name": "柠檬味の小小猪",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.51"
         },
         {
           "type": "creator",
@@ -12258,6 +12258,13 @@
           "id": "313595858",
           "name": "o西红柿解说",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "314067053",
+          "name": "松鸦JayHoward",
+          "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=1.72"
         },
         {
           "type": "creator",
@@ -37875,6 +37882,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "605080043",
+          "name": "杉云ys",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "605433916",
           "name": "诡秘之主官方",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.30"
@@ -39495,6 +39509,13 @@
           "id": "693612555",
           "name": "我捞捞捞",
           "reason": "Average upload gap <= 2 days; videos=61; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "693899520",
+          "name": "夜光如此",
+          "reason": "Average upload gap <= 2 days; videos=104; avg_gap_days=1.33"
         },
         {
           "type": "creator",
