@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T12:00:21.881Z",
+  "generatedAt": "2026-08-24T13:00:23.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -39474,6 +39474,13 @@
           "id": "690552419",
           "name": "王权富-贵",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "690608696",
+          "name": "绮楼Qilou",
+          "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=0.94"
         },
         {
           "type": "creator",

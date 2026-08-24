@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T12:00:21.881Z",
+  "generatedAt": "2026-08-24T13:00:23.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19020,6 +19020,13 @@
           "id": "690261349",
           "name": "皓晨音乐",
           "reason": "Average upload gap <= 1 days; videos=98; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "690608696",
+          "name": "绮楼Qilou",
+          "reason": "Average upload gap <= 1 days; videos=73; avg_gap_days=0.94"
         },
         {
           "type": "creator",
