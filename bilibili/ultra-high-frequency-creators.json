@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T14:00:23.412Z",
+  "generatedAt": "2026-08-24T15:00:40.320Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5131,7 +5131,7 @@
           "platform": "bilibili",
           "id": "2973568",
           "name": "言笑Ryo",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -5608,6 +5608,13 @@
           "id": "328855959",
           "name": "一只听音乐的猫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "329360431",
+          "name": "辉文gege",
+          "reason": "Average upload gap <= 1 days; videos=219; avg_gap_days=0.78"
         },
         {
           "type": "creator",
