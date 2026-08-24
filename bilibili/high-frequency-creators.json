@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T22:00:26.200Z",
+  "generatedAt": "2026-08-24T00:01:17.990Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -33019,7 +33019,7 @@
           "platform": "bilibili",
           "id": "441513739",
           "name": "雾散星河明",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.81"
+          "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.80"
         },
         {
           "type": "creator",
@@ -34077,6 +34077,13 @@
           "id": "47479759",
           "name": "医学学长",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "475252736",
+          "name": "南海博士NewKeria",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.53"
         },
         {
           "type": "creator",
