@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T21:00:25.103Z",
+  "generatedAt": "2026-08-24T22:00:23.477Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16294,6 +16294,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537105716250680",
+          "name": "cryo-pyro玄钢",
+          "reason": "Average upload gap <= 2 days; videos=182; avg_gap_days=0.65"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537105753999744",
           "name": "我就是书成",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.73"
@@ -23311,6 +23318,13 @@
           "id": "3546949378639958",
           "name": "欠小七",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546949538024332",
+          "name": "一帧人间",
+          "reason": "Average upload gap <= 2 days; videos=91; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -35579,6 +35593,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "500214232",
+          "name": "小嘎嘎动画",
+          "reason": "Average upload gap <= 2 days; videos=160; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "500233782",
           "name": "大鲨鱼街访",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
@@ -39453,6 +39474,13 @@
           "id": "68367855",
           "name": "圣人惠天下丶第一",
           "reason": "Average upload gap <= 2 days; videos=132; avg_gap_days=0.34"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "68439967",
+          "name": "萧枭同学",
+          "reason": "Average upload gap <= 2 days; videos=105; avg_gap_days=1.95"
         },
         {
           "type": "creator",

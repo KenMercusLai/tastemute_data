@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T21:00:25.103Z",
+  "generatedAt": "2026-08-24T22:00:23.477Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7225,6 +7225,13 @@
           "id": "3536995900983381",
           "name": "HsienYung",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3537105716250680",
+          "name": "cryo-pyro玄钢",
+          "reason": "Average upload gap <= 1 days; videos=182; avg_gap_days=0.65"
         },
         {
           "type": "creator",
@@ -17396,6 +17403,13 @@
           "id": "499579840",
           "name": "喵老登的猫",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "500214232",
+          "name": "小嘎嘎动画",
+          "reason": "Average upload gap <= 1 days; videos=160; avg_gap_days=0.76"
         },
         {
           "type": "creator",
