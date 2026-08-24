@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T08:00:33.439Z",
+  "generatedAt": "2026-08-24T09:00:30.445Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3725,6 +3725,13 @@
           "id": "2075278316",
           "name": "skg爱吃麻辣香锅",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "207539637",
+          "name": "哔哩哔哩放映员",
+          "reason": "Average upload gap <= 1 days; videos=223; avg_gap_days=0.00"
         },
         {
           "type": "creator",
