@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T06:00:27.734Z",
+  "generatedAt": "2026-08-24T07:00:26.828Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -407,13 +407,6 @@
           "id": "10327108",
           "name": "爱打劫的警长",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "10330740",
-          "name": "观察者网",
-          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.53"
         },
         {
           "type": "creator",
