@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T17:00:35.963Z",
+  "generatedAt": "2026-08-24T18:02:41.417Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -34945,6 +34945,13 @@
           "id": "487618793",
           "name": "凉夏喵",
           "reason": "Average upload gap <= 2 days; videos=204; avg_gap_days=1.87"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "487631896",
+          "name": "江西师范大学",
+          "reason": "Average upload gap <= 2 days; videos=105; avg_gap_days=1.53"
         },
         {
           "type": "creator",
