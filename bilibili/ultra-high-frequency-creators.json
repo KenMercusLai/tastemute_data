@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T07:00:26.828Z",
+  "generatedAt": "2026-08-24T08:00:33.439Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -652,6 +652,13 @@
           "id": "1143200066",
           "name": "毅魄混剪",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1143639348",
+          "name": "爱唱歌的大学生",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.20"
         },
         {
           "type": "creator",
@@ -15953,7 +15960,7 @@
           "platform": "bilibili",
           "id": "433587902",
           "name": "央视频",
-          "reason": "Average upload gap <= 1 days; videos=66; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.70"
         },
         {
           "type": "creator",
