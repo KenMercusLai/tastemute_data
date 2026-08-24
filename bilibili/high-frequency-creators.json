@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T13:00:23.530Z",
+  "generatedAt": "2026-08-24T14:00:23.412Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -41000,6 +41000,13 @@
           "id": "95828175",
           "name": "辰辰宝宝の宝藏盒",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "95931891",
+          "name": "唔得比",
+          "reason": "Average upload gap <= 2 days; videos=318; avg_gap_days=1.29"
         },
         {
           "type": "creator",
