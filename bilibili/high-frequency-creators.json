@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T01:00:35.656Z",
+  "generatedAt": "2026-08-24T02:00:52.452Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11432,6 +11432,13 @@
           "id": "28861187",
           "name": "风间琉璃zcl",
           "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "28891059",
+          "name": "VR42",
+          "reason": "Average upload gap <= 2 days; videos=330; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -24332,7 +24339,7 @@
           "platform": "bilibili",
           "id": "35857776",
           "name": "弓手冬郎",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.70"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.70"
         },
         {
           "type": "creator",
@@ -40097,6 +40104,13 @@
           "id": "76713314",
           "name": "我是流泪小熊头",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "76748556",
+          "name": "太阳饼饼sunny",
+          "reason": "Average upload gap <= 2 days; videos=64; avg_gap_days=1.90"
         },
         {
           "type": "creator",
