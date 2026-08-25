@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T10:02:35.922Z",
+  "generatedAt": "2026-08-25T11:00:22.698Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2598,13 +2598,6 @@
           "id": "175870152",
           "name": "资源汇社区",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "17619939",
-          "name": "月桂channel",
-          "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -12626,6 +12619,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690981631199738",
+          "name": "金宝儿纪录片",
+          "reason": "Average upload gap <= 1 days; videos=84; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690981863983905",
           "name": "3秒半的男人",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
@@ -15890,7 +15890,7 @@
           "platform": "bilibili",
           "id": "426571",
           "name": "梅喝咖啡",
-          "reason": "Average upload gap <= 1 days; videos=213; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 1 days; videos=216; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -16220,6 +16220,13 @@
           "id": "441064005",
           "name": "谎kinggg",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "441307228",
+          "name": "流泪样哦哦",
+          "reason": "Average upload gap <= 1 days; videos=74; avg_gap_days=0.47"
         },
         {
           "type": "creator",
