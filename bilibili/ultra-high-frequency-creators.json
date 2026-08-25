@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T08:00:35.751Z",
+  "generatedAt": "2026-08-25T09:00:19.653Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7848,6 +7848,13 @@
           "id": "3546593938639500",
           "name": "罗胖罗振宇",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546594647476931",
+          "name": "嘤嘤天尊",
+          "reason": "Average upload gap <= 1 days; videos=228; avg_gap_days=0.53"
         },
         {
           "type": "creator",

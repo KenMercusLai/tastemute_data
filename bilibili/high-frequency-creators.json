@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T08:00:35.751Z",
+  "generatedAt": "2026-08-25T09:00:19.653Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17568,6 +17568,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546594647476931",
+          "name": "嘤嘤天尊",
+          "reason": "Average upload gap <= 2 days; videos=228; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546594674739362",
           "name": "阿楽放映室",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.92"
@@ -23553,6 +23560,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546958622886315",
+          "name": "HkiFire寻音",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546958887127591",
           "name": "丨可乐QQ糖丨",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.83"
@@ -25243,13 +25257,6 @@
           "id": "3632319782980432",
           "name": "推特X兔哥",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3632319835409017",
-          "name": "都市零协会",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -34749,6 +34756,13 @@
           "id": "48455786",
           "name": "CSGO国服",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "484652015",
+          "name": "玲纱的芋泥",
+          "reason": "Average upload gap <= 2 days; videos=108; avg_gap_days=1.36"
         },
         {
           "type": "creator",
