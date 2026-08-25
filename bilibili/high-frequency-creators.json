@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T18:00:24.850Z",
+  "generatedAt": "2026-08-25T19:00:26.524Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1968,6 +1968,13 @@
           "id": "1232407075",
           "name": "新新发光的少年",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "123244513",
+          "name": "CS记事本_official",
+          "reason": "Average upload gap <= 2 days; videos=304; avg_gap_days=1.59"
         },
         {
           "type": "creator",
@@ -11957,6 +11964,13 @@
           "id": "29961386",
           "name": "伊甸呼呼",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "299692693",
+          "name": "艾米不想抽象了_CS",
+          "reason": "Average upload gap <= 2 days; videos=129; avg_gap_days=1.48"
         },
         {
           "type": "creator",
@@ -38983,7 +38997,7 @@
           "platform": "bilibili",
           "id": "652312612",
           "name": "溯su_su",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.74"
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
         },
         {
           "type": "creator",
