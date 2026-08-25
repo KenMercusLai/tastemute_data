@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T02:00:42.524Z",
+  "generatedAt": "2026-08-25T03:00:20.007Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10127,6 +10127,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2482644",
+          "name": "氿氿ayumiko",
+          "reason": "Average upload gap <= 2 days; videos=423; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "24832070",
           "name": "江苏卫视",
           "reason": "Average upload gap <= 2 days; videos=643; avg_gap_days=0.18"
@@ -15296,13 +15303,6 @@
           "id": "3493290768861749",
           "name": "折纸之道",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3493291129572027",
-          "name": "战争警戒牢蒙斯克",
-          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -34021,13 +34021,6 @@
           "id": "473490777",
           "name": "MMML剪辑",
           "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.23"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "473495962",
-          "name": "腾讯新闻",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.03"
         },
         {
           "type": "creator",

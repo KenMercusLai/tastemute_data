@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T02:00:42.524Z",
+  "generatedAt": "2026-08-25T03:00:20.007Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16612,13 +16612,6 @@
           "id": "473490777",
           "name": "MMML剪辑",
           "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.23"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "473495962",
-          "name": "腾讯新闻",
-          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.03"
         },
         {
           "type": "creator",
