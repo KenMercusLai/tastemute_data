@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T17:00:24.446Z",
+  "generatedAt": "2026-08-25T18:00:24.850Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9847,6 +9847,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2383949",
+          "name": "恋音雨空Forever",
+          "reason": "Average upload gap <= 2 days; videos=455; avg_gap_days=1.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "23844641",
           "name": "爱玩游戏的菠罗包",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.67"
@@ -17309,6 +17316,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546573044714123",
+          "name": "卡姐与莱姆的奏大美剑",
+          "reason": "Average upload gap <= 2 days; videos=90; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546573252331918",
           "name": "数码KO",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.36"
@@ -23171,6 +23185,13 @@
           "id": "3546940342012183",
           "name": "IEM成都",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546940553824477",
+          "name": "神圣莫提斯",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.85"
         },
         {
           "type": "creator",
