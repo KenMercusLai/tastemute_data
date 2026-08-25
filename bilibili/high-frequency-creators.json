@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T09:00:19.653Z",
+  "generatedAt": "2026-08-25T10:02:35.922Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5542,6 +5542,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "169548478",
+          "name": "小棒猪",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1696541",
           "name": "马小猩的日常",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
@@ -7757,6 +7764,13 @@
           "id": "1976099531",
           "name": "醉吟桃花坞吖",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1976938979",
+          "name": "超级蓝色狐狸",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.28"
         },
         {
           "type": "creator",
@@ -14449,6 +14463,13 @@
           "id": "3493124682811738",
           "name": "法力无边魏律师",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493126815615173",
+          "name": "空月Va",
+          "reason": "Average upload gap <= 2 days; videos=227; avg_gap_days=0.67"
         },
         {
           "type": "creator",
@@ -38991,6 +39012,13 @@
           "id": "660324418",
           "name": "漫心姬",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "660391174",
+          "name": "T0级黑雷电影流量大王",
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.72"
         },
         {
           "type": "creator",

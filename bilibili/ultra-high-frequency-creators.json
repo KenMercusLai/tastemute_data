@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T09:00:19.653Z",
+  "generatedAt": "2026-08-25T10:02:35.922Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2402,6 +2402,13 @@
           "id": "1695044973",
           "name": "青云观影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "169548478",
+          "name": "小棒猪",
+          "reason": "Average upload gap <= 1 days; videos=68; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -6329,6 +6336,13 @@
           "id": "3493124682811738",
           "name": "法力无边魏律师",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493126815615173",
+          "name": "空月Va",
+          "reason": "Average upload gap <= 1 days; videos=227; avg_gap_days=0.67"
         },
         {
           "type": "creator",
