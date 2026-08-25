@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T07:00:31.070Z",
+  "generatedAt": "2026-08-25T08:00:35.751Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3927,7 +3927,7 @@
           "platform": "bilibili",
           "id": "14793642",
           "name": "NighTa奈特",
-          "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.79"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -28600,13 +28600,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3706987455973972",
-          "name": "ElliotJamesReay",
-          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.85"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3706987474848535",
           "name": "无忌投资心法",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.74"
@@ -31603,13 +31596,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "406129419",
-          "name": "HLGames",
-          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.84"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "40619707",
           "name": "从0单排学习的飞象",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.32"
@@ -33216,6 +33202,13 @@
           "id": "44502634",
           "name": "未闻实验室",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "446337665",
+          "name": "摄影师聿铭",
+          "reason": "Average upload gap <= 2 days; videos=107; avg_gap_days=1.05"
         },
         {
           "type": "creator",
