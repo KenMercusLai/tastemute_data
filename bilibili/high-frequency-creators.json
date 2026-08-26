@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T20:00:23.895Z",
+  "generatedAt": "2026-08-26T21:00:38.249Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -34174,7 +34174,7 @@
           "platform": "bilibili",
           "id": "473490777",
           "name": "MMML剪辑",
-          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=0.23"
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=0.47"
         },
         {
           "type": "creator",
