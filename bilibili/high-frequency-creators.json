@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T02:00:27.790Z",
+  "generatedAt": "2026-08-26T03:00:33.161Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37511,6 +37511,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "572324450",
+          "name": "微生五",
+          "reason": "Average upload gap <= 2 days; videos=188; avg_gap_days=1.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "5724114",
           "name": "邪剑仙喵瑞莉娅",
           "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.95"
@@ -40657,6 +40664,13 @@
           "id": "8595792",
           "name": "海氪斯Hex",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "86126610",
+          "name": "嗨地Hyde",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.64"
         },
         {
           "type": "creator",
