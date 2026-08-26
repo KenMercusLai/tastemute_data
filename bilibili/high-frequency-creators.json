@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T04:00:38.910Z",
+  "generatedAt": "2026-08-26T05:00:25.771Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -12089,7 +12089,7 @@
           "platform": "bilibili",
           "id": "30393176",
           "name": "唯恨天涯远-4K",
-          "reason": "Average upload gap <= 2 days; videos=404; avg_gap_days=1.92"
+          "reason": "Average upload gap <= 2 days; videos=405; avg_gap_days=1.92"
         },
         {
           "type": "creator",
@@ -35666,6 +35666,13 @@
           "id": "49876638",
           "name": "月隐隐约",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "498887859",
+          "name": "是Dove吖",
+          "reason": "Average upload gap <= 2 days; videos=116; avg_gap_days=1.73"
         },
         {
           "type": "creator",
