@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T12:00:51.085Z",
+  "generatedAt": "2026-08-26T15:00:48.412Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1772,6 +1772,13 @@
           "id": "1206959704",
           "name": "法政讲坛",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.57"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12075114",
+          "name": "烦恼死的夏洛",
+          "reason": "Average upload gap <= 2 days; videos=152; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -31276,7 +31283,7 @@
           "platform": "bilibili",
           "id": "397400783",
           "name": "诗姬",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.80"
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.80"
         },
         {
           "type": "creator",
