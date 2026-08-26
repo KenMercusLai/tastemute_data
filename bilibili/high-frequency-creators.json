@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T03:00:33.161Z",
+  "generatedAt": "2026-08-26T04:00:38.910Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16672,6 +16672,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537124368320604",
+          "name": "robust远",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.18"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537124464789799",
           "name": "若林剪",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.77"
@@ -31410,6 +31417,13 @@
           "id": "399770512",
           "name": "骁_枵",
           "reason": "Average upload gap <= 2 days; videos=73; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "399827001",
+          "name": "不怕冻的皮托管",
+          "reason": "Average upload gap <= 2 days; videos=230; avg_gap_days=1.57"
         },
         {
           "type": "creator",
