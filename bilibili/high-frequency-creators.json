@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T10:00:42.987Z",
+  "generatedAt": "2026-08-26T11:00:40.354Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -33699,13 +33699,6 @@
           "id": "455567783",
           "name": "爱贪玩的m3",
           "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.30"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "455594814",
-          "name": "九霄长星",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.79"
         },
         {
           "type": "creator",
