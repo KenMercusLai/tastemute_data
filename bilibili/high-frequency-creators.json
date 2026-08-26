@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T17:00:32.415Z",
+  "generatedAt": "2026-08-26T18:00:56.515Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -29790,6 +29790,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "373513170",
+          "name": "囊大",
+          "reason": "Average upload gap <= 2 days; videos=498; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "373838238",
           "name": "起飞警示",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.98"
@@ -33465,13 +33472,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "450563391",
-          "name": "比奇堡-世一泳裤",
-          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.83"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "450593259",
           "name": "冷夜愚歌",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.78"
@@ -35904,6 +35904,13 @@
           "id": "503095138",
           "name": "汉魂复兴社",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "503301731",
+          "name": "有兮不是呦西喵",
+          "reason": "Average upload gap <= 2 days; videos=74; avg_gap_days=1.19"
         },
         {
           "type": "creator",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T17:00:32.415Z",
+  "generatedAt": "2026-08-26T18:00:56.515Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14684,6 +14684,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "373513170",
+          "name": "囊大",
+          "reason": "Average upload gap <= 1 days; videos=498; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "373838238",
           "name": "起飞警示",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
@@ -16332,13 +16339,6 @@
           "id": "449973505",
           "name": "老赵译戈多",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.54"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "450563391",
-          "name": "比奇堡-世一泳裤",
-          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.83"
         },
         {
           "type": "creator",
