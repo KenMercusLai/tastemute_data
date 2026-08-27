@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T05:00:23.007Z",
+  "generatedAt": "2026-08-27T06:00:33.005Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1933,6 +1933,13 @@
           "id": "1223821025",
           "name": "正经迪吹",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12248823",
+          "name": "-撩人心-",
+          "reason": "Average upload gap <= 2 days; videos=285; avg_gap_days=1.05"
         },
         {
           "type": "creator",
@@ -6098,6 +6105,13 @@
           "id": "1756547706",
           "name": "三角洲万泉教官",
           "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "175822019",
+          "name": "欲一目",
+          "reason": "Average upload gap <= 2 days; videos=109; avg_gap_days=1.53"
         },
         {
           "type": "creator",
