@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T22:00:23.290Z",
+  "generatedAt": "2026-08-27T23:00:21.550Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2199,6 +2199,13 @@
           "id": "1619454215",
           "name": "tiger_ice-shroom",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1621235067",
+          "name": "一个普通的人2031",
+          "reason": "Average upload gap <= 1 days; videos=130; avg_gap_days=0.52"
         },
         {
           "type": "creator",
