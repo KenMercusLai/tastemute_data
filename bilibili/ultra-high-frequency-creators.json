@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T12:00:23.478Z",
+  "generatedAt": "2026-08-27T13:00:27.808Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7064,6 +7064,13 @@
           "id": "3494369411729544",
           "name": "小切口大知识",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.46"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3494369910851825",
+          "name": "假珠",
+          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.75"
         },
         {
           "type": "creator",
@@ -17526,6 +17533,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "502749899",
+          "name": "是呀__",
+          "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "502774633",
           "name": "小汪玩游戏",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.97"
@@ -18439,13 +18453,6 @@
           "id": "603262838",
           "name": "酱酱放映室",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.12"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "603358091",
-          "name": "困了就睡觉去_",
-          "reason": "Average upload gap <= 1 days; videos=98; avg_gap_days=0.44"
         },
         {
           "type": "creator",
