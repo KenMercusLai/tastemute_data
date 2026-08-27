@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T10:00:48.357Z",
+  "generatedAt": "2026-08-27T12:00:23.478Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -21005,6 +21005,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546840855218275",
+          "name": "KD穗",
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546841910085807",
           "name": "唐王大人三角洲",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.89"
@@ -23863,7 +23870,7 @@
           "platform": "bilibili",
           "id": "3546966279588799",
           "name": "忧郁瓜崽",
-          "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.95"
+          "reason": "Average upload gap <= 2 days; videos=30; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -31361,13 +31368,6 @@
           "id": "396916604",
           "name": "马陆Malo",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "39699039",
-          "name": "明眸-雅望",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.71"
         },
         {
           "type": "creator",
