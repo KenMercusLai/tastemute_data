@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T21:00:38.249Z",
+  "generatedAt": "2026-08-27T00:00:26.273Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -988,6 +988,13 @@
           "id": "1097651254",
           "name": "花糕糕-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "109786055",
+          "name": "R闪话很多",
+          "reason": "Average upload gap <= 2 days; videos=104; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -7462,7 +7469,7 @@
           "platform": "bilibili",
           "id": "19334905",
           "name": "档案Archivare",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.40"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.40"
         },
         {
           "type": "creator",
@@ -7819,7 +7826,7 @@
           "platform": "bilibili",
           "id": "1976938979",
           "name": "超级蓝色狐狸",
-          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.28"
+          "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.28"
         },
         {
           "type": "creator",
@@ -13434,6 +13441,13 @@
           "id": "346057224",
           "name": "王子羊玫瑰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "346066403",
+          "name": "中国航空工业集团",
+          "reason": "Average upload gap <= 2 days; videos=113; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -19075,7 +19089,7 @@
           "platform": "bilibili",
           "id": "3546698225813841",
           "name": "木示点符号",
-          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.69"
+          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.69"
         },
         {
           "type": "creator",
@@ -19160,6 +19174,13 @@
           "id": "3546704865397218",
           "name": "锦鲤漫讲",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546705729423838",
+          "name": "左前辈",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -31386,6 +31407,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "39861405",
+          "name": "ZEUS不止做说唱",
+          "reason": "Average upload gap <= 2 days; videos=208; avg_gap_days=1.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "398776911",
           "name": "大大大憨饼",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.92"
@@ -37416,13 +37444,6 @@
           "id": "555640450",
           "name": "王川科普",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "555909391",
-          "name": "繁星祝伊离",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.64"
         },
         {
           "type": "creator",
