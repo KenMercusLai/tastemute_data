@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T19:00:27.904Z",
+  "generatedAt": "2026-08-27T20:00:32.966Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1841,7 +1841,7 @@
           "platform": "bilibili",
           "id": "1213282302",
           "name": "我的音乐你听吗",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=2.00"
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=2.00"
         },
         {
           "type": "creator",
@@ -7295,6 +7295,13 @@
           "id": "19113357",
           "name": "渡宇视角",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1911466347",
+          "name": "氧oxygens",
+          "reason": "Average upload gap <= 2 days; videos=103; avg_gap_days=1.92"
         },
         {
           "type": "creator",
@@ -31738,7 +31745,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.20"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.20"
         },
         {
           "type": "creator",
@@ -32677,6 +32684,13 @@
           "id": "429913769",
           "name": "Econmedian",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "429920",
+          "name": "章鱼哥official",
+          "reason": "Average upload gap <= 2 days; videos=138; avg_gap_days=0.75"
         },
         {
           "type": "creator",
