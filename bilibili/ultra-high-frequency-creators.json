@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T02:00:40.016Z",
+  "generatedAt": "2026-08-27T03:00:34.485Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2245,6 +2245,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1640328027",
+          "name": "联通沃派",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "164147139",
           "name": "泡泡漫剧社",
           "reason": "Average upload gap <= 1 days; videos=18; avg_gap_days=0.60"
@@ -2709,7 +2716,7 @@
           "platform": "bilibili",
           "id": "178690106",
           "name": "搞机所",
-          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.99"
+          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -16688,7 +16695,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 1 days; videos=123; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 1 days; videos=124; avg_gap_days=0.22"
         },
         {
           "type": "creator",
