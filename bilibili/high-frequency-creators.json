@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T20:00:32.966Z",
+  "generatedAt": "2026-08-27T21:00:45.882Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4033,6 +4033,13 @@
           "id": "1488532268",
           "name": "英超联赛",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1488633374",
+          "name": "又是尔尔",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.85"
         },
         {
           "type": "creator",
@@ -10507,7 +10514,7 @@
           "platform": "bilibili",
           "id": "25637648",
           "name": "欲见樱",
-          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.86"
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.86"
         },
         {
           "type": "creator",
