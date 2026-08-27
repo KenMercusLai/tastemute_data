@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T00:00:26.273Z",
+  "generatedAt": "2026-08-27T02:00:40.016Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17263,6 +17263,13 @@
           "id": "490518248",
           "name": "橘子不是青柠",
           "reason": "Average upload gap <= 1 days; videos=107; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "490581929",
+          "name": "中国蓝新闻",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.71"
         },
         {
           "type": "creator",
