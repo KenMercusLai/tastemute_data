@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T04:00:25.131Z",
+  "generatedAt": "2026-08-27T05:00:23.007Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3942,6 +3942,13 @@
           "id": "1476175832",
           "name": "就可以了可以吗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1476751434",
+          "name": "瑶生万物李文格",
+          "reason": "Average upload gap <= 2 days; videos=125; avg_gap_days=1.83"
         },
         {
           "type": "creator",
@@ -27735,6 +27742,13 @@
           "id": "3706946980940159",
           "name": "甜蜜漫屋",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706947054340846",
+          "name": "橙鱼超大的",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.89"
         },
         {
           "type": "creator",
