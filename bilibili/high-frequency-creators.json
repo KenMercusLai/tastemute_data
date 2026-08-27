@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T17:00:29.308Z",
+  "generatedAt": "2026-08-27T18:00:45.294Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1912,13 +1912,6 @@
           "id": "1220799747",
           "name": "曾哥说电影",
           "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.91"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1221164058",
-          "name": "狼队王者荣耀分部",
-          "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -18905,6 +18898,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546681704450414",
+          "name": "我是小金kim",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546681859639316",
           "name": "贝仔乐",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
@@ -28474,6 +28474,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706974306830524",
+          "name": "隐秘的兔仙",
+          "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=0.93"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706974409591531",
           "name": "酷儿秋秋",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=0.05"
@@ -35001,6 +35008,13 @@
           "id": "484253629",
           "name": "小龙漫解",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "484350936",
+          "name": "楠木漫绘",
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.16"
         },
         {
           "type": "creator",

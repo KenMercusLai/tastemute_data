@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T17:00:29.308Z",
+  "generatedAt": "2026-08-27T18:00:45.294Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -890,13 +890,6 @@
           "id": "12196967",
           "name": "YI块姓杨的深井冰_",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1221164058",
-          "name": "狼队王者荣耀分部",
-          "reason": "Average upload gap <= 1 days; videos=19; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -13973,6 +13966,13 @@
           "id": "3706974218750733",
           "name": "费城泥兄",
           "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706974306830524",
+          "name": "隐秘的兔仙",
+          "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.93"
         },
         {
           "type": "creator",
