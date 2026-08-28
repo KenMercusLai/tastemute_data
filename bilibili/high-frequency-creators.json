@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T06:00:29.315Z",
+  "generatedAt": "2026-08-28T07:00:37.038Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6242,6 +6242,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1771658690",
+          "name": "帆_朱志鑫",
+          "reason": "Average upload gap <= 2 days; videos=248; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1772116661",
           "name": "黑洞君档案室",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.17"
@@ -10801,7 +10808,7 @@
           "platform": "bilibili",
           "id": "268810504",
           "name": "安徽共青团",
-          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=1.63"
         },
         {
           "type": "creator",
