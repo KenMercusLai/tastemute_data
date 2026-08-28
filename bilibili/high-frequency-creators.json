@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T23:00:21.550Z",
+  "generatedAt": "2026-08-28T00:01:09.002Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -19706,13 +19706,6 @@
           "id": "3546737448847514",
           "name": "书声漫话",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.27"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546737526442160",
-          "name": "锅锅十八",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.84"
         },
         {
           "type": "creator",
