@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T08:00:23.892Z",
+  "generatedAt": "2026-08-28T09:00:23.342Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11299,6 +11299,13 @@
           "id": "281743858",
           "name": "丁胖子讲师-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "282067352",
+          "name": "小仙-三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=64; avg_gap_days=1.15"
         },
         {
           "type": "creator",
@@ -40748,6 +40755,13 @@
           "id": "82555120",
           "name": "落叶的风あ",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8259298",
+          "name": "港妹妹join",
+          "reason": "Average upload gap <= 2 days; videos=102; avg_gap_days=1.46"
         },
         {
           "type": "creator",
