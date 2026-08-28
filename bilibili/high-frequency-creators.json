@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T09:00:23.342Z",
+  "generatedAt": "2026-08-28T10:00:21.982Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13847,6 +13847,13 @@
           "id": "346351594",
           "name": "拉兹Lazzy",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "34657253",
+          "name": "一个小立丶",
+          "reason": "Average upload gap <= 2 days; videos=186; avg_gap_days=1.57"
         },
         {
           "type": "creator",
