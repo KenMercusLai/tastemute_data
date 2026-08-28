@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T17:00:25.791Z",
+  "generatedAt": "2026-08-28T18:00:26.567Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10932,13 +10932,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "272957290",
-          "name": "楚河录播组",
-          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=0.87"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "273311286",
           "name": "南橘Nnn-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.84"
@@ -14498,6 +14491,13 @@
           "id": "3493114387893223",
           "name": "晴天动漫馆",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493114417252980",
+          "name": "RabbiTo_",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.02"
         },
         {
           "type": "creator",
@@ -37290,6 +37290,13 @@
           "id": "53010614",
           "name": "虾睡觉",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "531632459",
+          "name": "影v铭辰",
+          "reason": "Average upload gap <= 2 days; videos=137; avg_gap_days=1.58"
         },
         {
           "type": "creator",
