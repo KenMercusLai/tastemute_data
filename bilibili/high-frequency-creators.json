@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T20:00:24.218Z",
+  "generatedAt": "2026-08-28T21:00:25.392Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -40307,13 +40307,6 @@
           "id": "700813417",
           "name": "璟湛湛",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.75"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "70093",
-          "name": "12dora",
-          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=1.84"
         },
         {
           "type": "creator",
