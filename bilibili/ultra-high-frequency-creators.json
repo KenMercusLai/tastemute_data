@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T07:00:37.038Z",
+  "generatedAt": "2026-08-28T08:00:23.892Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5496,6 +5496,13 @@
           "id": "323321748",
           "name": "善全观世",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "323339071",
+          "name": "铵盐猫猫",
+          "reason": "Average upload gap <= 1 days; videos=297; avg_gap_days=0.71"
         },
         {
           "type": "creator",
