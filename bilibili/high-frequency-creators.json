@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T19:00:30.537Z",
+  "generatedAt": "2026-08-28T20:00:24.218Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18527,6 +18527,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546650477857490",
+          "name": "小井诗Kyo",
+          "reason": "Average upload gap <= 2 days; videos=76; avg_gap_days=1.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546650641435058",
           "name": "老李和老于",
           "reason": "Average upload gap <= 2 days; videos=327; avg_gap_days=1.01"
@@ -24844,6 +24851,13 @@
           "id": "362837130",
           "name": "雀巢狗",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "362969058",
+          "name": "丢丢不丢了",
+          "reason": "Average upload gap <= 2 days; videos=101; avg_gap_days=1.48"
         },
         {
           "type": "creator",
@@ -40867,6 +40881,13 @@
           "id": "84468144",
           "name": "zxliu316",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8447574",
+          "name": "窝窝奶兔",
+          "reason": "Average upload gap <= 2 days; videos=182; avg_gap_days=1.64"
         },
         {
           "type": "creator",
