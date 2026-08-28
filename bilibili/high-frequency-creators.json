@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T21:00:25.392Z",
+  "generatedAt": "2026-08-28T22:00:38.530Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1982,6 +1982,13 @@
           "id": "1228364685",
           "name": "我是露露lulu呀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1230429858",
+          "name": "帕訓",
+          "reason": "Average upload gap <= 2 days; videos=165; avg_gap_days=1.17"
         },
         {
           "type": "creator",
@@ -10556,7 +10563,7 @@
           "platform": "bilibili",
           "id": "25666164",
           "name": "恩雅NYA",
-          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=1.89"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -30569,7 +30576,7 @@
           "platform": "bilibili",
           "id": "384298638",
           "name": "浙江共青团",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.52"
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.52"
         },
         {
           "type": "creator",
