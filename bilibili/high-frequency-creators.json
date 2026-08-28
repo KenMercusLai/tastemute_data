@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T13:00:30.504Z",
+  "generatedAt": "2026-08-28T14:00:45.602Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -36002,6 +36002,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "501003991",
+          "name": "黑暗扎基魔神",
+          "reason": "Average upload gap <= 2 days; videos=105; avg_gap_days=1.90"
         },
         {
           "type": "creator",
