@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T22:00:38.530Z",
+  "generatedAt": "2026-08-28T23:00:24.538Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5216,6 +5216,13 @@
           "id": "1644217552",
           "name": "拾光帧探剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1644567580",
+          "name": "波洛丝enma",
+          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.60"
         },
         {
           "type": "creator",
@@ -10815,7 +10822,7 @@
           "platform": "bilibili",
           "id": "268810504",
           "name": "安徽共青团",
-          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.63"
+          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.63"
         },
         {
           "type": "creator",
