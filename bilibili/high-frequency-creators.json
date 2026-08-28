@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T03:00:20.002Z",
+  "generatedAt": "2026-08-28T04:00:41.515Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -38641,6 +38641,13 @@
           "id": "621019974",
           "name": "依依思吾一世",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6210612",
+          "name": "咖纳o",
+          "reason": "Average upload gap <= 2 days; videos=178; avg_gap_days=1.75"
         },
         {
           "type": "creator",
