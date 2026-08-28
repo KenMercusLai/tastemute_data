@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T00:01:09.002Z",
+  "generatedAt": "2026-08-28T01:00:28.947Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1345,6 +1345,13 @@
           "id": "114281354",
           "name": "杜克的声控台",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1142824489",
+          "name": "鸡蛋饼阿瓦",
+          "reason": "Average upload gap <= 2 days; videos=148; avg_gap_days=1.72"
         },
         {
           "type": "creator",
