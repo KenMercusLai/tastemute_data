@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T18:00:26.567Z",
+  "generatedAt": "2026-08-28T19:00:30.537Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -31536,6 +31536,13 @@
           "id": "3984609",
           "name": "御御御御坂丶",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "39846961",
+          "name": "龙眼皮Lyd",
+          "reason": "Average upload gap <= 2 days; videos=496; avg_gap_days=1.11"
         },
         {
           "type": "creator",
