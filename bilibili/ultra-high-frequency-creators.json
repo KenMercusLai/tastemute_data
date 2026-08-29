@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T21:00:39.060Z",
+  "generatedAt": "2026-08-29T22:00:41.536Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16038,6 +16038,13 @@
           "id": "431055518",
           "name": "王山水读通鉴",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4312168",
+          "name": "烛兔_丰十二",
+          "reason": "Average upload gap <= 1 days; videos=130; avg_gap_days=0.57"
         },
         {
           "type": "creator",

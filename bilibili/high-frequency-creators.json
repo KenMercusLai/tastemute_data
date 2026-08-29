@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T21:00:39.060Z",
+  "generatedAt": "2026-08-29T22:00:41.536Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -32929,6 +32929,13 @@
           "id": "431148083",
           "name": "汪汪咪子记",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "4312168",
+          "name": "烛兔_丰十二",
+          "reason": "Average upload gap <= 2 days; videos=130; avg_gap_days=0.57"
         },
         {
           "type": "creator",
