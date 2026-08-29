@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T18:00:24.325Z",
+  "generatedAt": "2026-08-29T19:00:31.546Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10725,6 +10725,13 @@
           "id": "262378199",
           "name": "一见生财君",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "262943792",
+          "name": "手刃猫咪",
+          "reason": "Average upload gap <= 2 days; videos=219; avg_gap_days=0.51"
         },
         {
           "type": "creator",

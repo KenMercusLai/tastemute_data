@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T18:00:24.325Z",
+  "generatedAt": "2026-08-29T19:00:31.546Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4579,6 +4579,13 @@
           "id": "26234408",
           "name": "莫凡的退休生活",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "262943792",
+          "name": "手刃猫咪",
+          "reason": "Average upload gap <= 1 days; videos=219; avg_gap_days=0.51"
         },
         {
           "type": "creator",
