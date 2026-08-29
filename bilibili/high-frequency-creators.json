@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T09:00:22.444Z",
+  "generatedAt": "2026-08-29T10:00:25.055Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -30038,6 +30038,13 @@
           "id": "374824337",
           "name": "爽呢动漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "37493606",
+          "name": "烟花律",
+          "reason": "Average upload gap <= 2 days; videos=222; avg_gap_days=1.96"
         },
         {
           "type": "creator",
