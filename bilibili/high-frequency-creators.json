@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T11:00:25.551Z",
+  "generatedAt": "2026-08-29T12:00:23.249Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -23850,6 +23850,13 @@
           "id": "3546956146150264",
           "name": "泥濠小猫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546956175509674",
+          "name": "水蒸汽Official",
+          "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=1.35"
         },
         {
           "type": "creator",
