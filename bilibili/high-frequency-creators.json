@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T20:00:27.897Z",
+  "generatedAt": "2026-08-29T21:00:39.060Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17515,6 +17515,13 @@
           "id": "3546570282764898",
           "name": "TOPScout视界",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546570337290390",
+          "name": "文明的马子哥",
+          "reason": "Average upload gap <= 2 days; videos=122; avg_gap_days=1.56"
         },
         {
           "type": "creator",
