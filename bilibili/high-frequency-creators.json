@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T10:00:25.055Z",
+  "generatedAt": "2026-08-29T11:00:25.551Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1342,6 +1342,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1142084989",
+          "name": "不抽象的真菌零_Jack",
+          "reason": "Average upload gap <= 2 days; videos=200; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "11421845",
           "name": "嗑疯了的野人",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.68"
@@ -1674,6 +1681,13 @@
           "id": "1188282292",
           "name": "CoCo游戏酱",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1189447301",
+          "name": "LYLZKJY-开学缓更",
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -14894,6 +14908,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493143053863278",
+          "name": "Material_Pro",
+          "reason": "Average upload gap <= 2 days; videos=57; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493143106291909",
           "name": "星晚漫剧",
           "reason": "Average upload gap <= 2 days; videos=27; avg_gap_days=0.33"
@@ -26955,6 +26976,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3690999767370155",
+          "name": "unglucklich",
+          "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3690999773661701",
           "name": "蚕哥的小粉丝",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.63"
@@ -27308,6 +27336,13 @@
           "id": "3706923394271736",
           "name": "由乃AI漫剧制作",
           "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3706923415243608",
+          "name": "AI电影系统教学",
+          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=1.73"
         },
         {
           "type": "creator",
