@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T19:00:31.546Z",
+  "generatedAt": "2026-08-29T20:00:27.897Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13672,13 +13672,6 @@
           "id": "3461569883146300",
           "name": "老鸭好卡",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.29"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3461570046724759",
-          "name": "Here_Disht",
-          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.62"
         },
         {
           "type": "creator",
