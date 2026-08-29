@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T15:00:24.717Z",
+  "generatedAt": "2026-08-29T16:00:22.591Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18418,6 +18418,13 @@
           "id": "3546634686302925",
           "name": "木瓜の不正",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=2.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546638607977201",
+          "name": "两性健康谈",
+          "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=0.94"
         },
         {
           "type": "creator",
