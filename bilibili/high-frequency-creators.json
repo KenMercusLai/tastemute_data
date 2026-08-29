@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T06:00:21.783Z",
+  "generatedAt": "2026-08-29T07:00:30.246Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13266,6 +13266,13 @@
           "id": "336610005",
           "name": "法罗女土",
           "reason": "Average upload gap <= 2 days; videos=18; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "336775425",
+          "name": "田由甲丶",
+          "reason": "Average upload gap <= 2 days; videos=207; avg_gap_days=1.89"
         },
         {
           "type": "creator",
@@ -39942,7 +39949,7 @@
           "platform": "bilibili",
           "id": "686127",
           "name": "籽岷",
-          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.48"
+          "reason": "Average upload gap <= 2 days; videos=45; avg_gap_days=1.48"
         },
         {
           "type": "creator",
