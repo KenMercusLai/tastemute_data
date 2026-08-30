@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T10:00:22.043Z",
+  "generatedAt": "2026-08-30T11:00:22.852Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2276,6 +2276,13 @@
           "id": "125251064",
           "name": "林望川动画",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=1.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1254263877",
+          "name": "small--Li",
+          "reason": "Average upload gap <= 2 days; videos=82; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -7056,7 +7063,7 @@
           "platform": "bilibili",
           "id": "1864711584",
           "name": "使命居士",
-          "reason": "Average upload gap <= 2 days; videos=94; avg_gap_days=1.06"
+          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=1.06"
         },
         {
           "type": "creator",
