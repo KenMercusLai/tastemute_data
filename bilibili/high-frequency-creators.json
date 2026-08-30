@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T21:00:27.970Z",
+  "generatedAt": "2026-08-30T22:00:28.745Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -10673,6 +10673,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "258556829",
+          "name": "大树音乐屋",
+          "reason": "Average upload gap <= 2 days; videos=356; avg_gap_days=1.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "258873110",
           "name": "墨鱼动画",
           "reason": "Average upload gap <= 2 days; videos=49; avg_gap_days=0.85"
@@ -13242,6 +13249,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "332757081",
+          "name": "星夜火花花",
+          "reason": "Average upload gap <= 2 days; videos=144; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "332835232",
           "name": "笑嘻了12138",
           "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.99"
@@ -14666,6 +14680,13 @@
           "id": "3493119035181246",
           "name": "ENHYPEN",
           "reason": "Average upload gap <= 2 days; videos=490; avg_gap_days=1.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493120945686731",
+          "name": "白桃布丁昔米露",
+          "reason": "Average upload gap <= 2 days; videos=103; avg_gap_days=0.93"
         },
         {
           "type": "creator",

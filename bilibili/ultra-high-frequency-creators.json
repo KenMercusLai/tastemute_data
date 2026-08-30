@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T21:00:27.970Z",
+  "generatedAt": "2026-08-30T22:00:28.745Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6357,6 +6357,13 @@
           "id": "3493118615751191",
           "name": "羽恋喵",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493120945686731",
+          "name": "白桃布丁昔米露",
+          "reason": "Average upload gap <= 1 days; videos=103; avg_gap_days=0.93"
         },
         {
           "type": "creator",
