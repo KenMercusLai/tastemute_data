@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:00:22.852Z",
+  "generatedAt": "2026-08-30T12:00:26.680Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -32884,6 +32884,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "429787979",
+          "name": "小治小治小治小治小治",
+          "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "429908251",
           "name": "泽友io",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.93"
@@ -33986,6 +33993,13 @@
           "id": "454167824",
           "name": "冠希从不破防",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "454177891",
+          "name": "江橘猫meme",
+          "reason": "Average upload gap <= 2 days; videos=127; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -36618,6 +36632,13 @@
           "id": "510399407",
           "name": "萌宠养成物语",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.23"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "510905093",
+          "name": "混之游戏",
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=1.18"
         },
         {
           "type": "creator",
