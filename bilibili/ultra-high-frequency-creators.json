@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T23:00:23.950Z",
+  "generatedAt": "2026-08-30T01:00:40.857Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17269,7 +17269,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 1 days; videos=53; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=54; avg_gap_days=0.06"
         },
         {
           "type": "creator",
