@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T20:00:25.873Z",
+  "generatedAt": "2026-08-30T21:00:27.970Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -232,6 +232,13 @@
           "id": "10189443",
           "name": "鹰眼GG",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1019332016",
+          "name": "法国足球甲级联赛",
+          "reason": "Average upload gap <= 2 days; videos=289; avg_gap_days=1.07"
         },
         {
           "type": "creator",
@@ -1758,6 +1765,13 @@
           "id": "119689",
           "name": "上古老宅ttiga",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1197454103",
+          "name": "重返未来1999",
+          "reason": "Average upload gap <= 2 days; videos=119; avg_gap_days=1.43"
         },
         {
           "type": "creator",
@@ -15856,13 +15870,6 @@
           "id": "3494353557261069",
           "name": "Tutu影视剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.31"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3494353567746383",
-          "name": "德国足球甲级联赛",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.74"
         },
         {
           "type": "creator",
