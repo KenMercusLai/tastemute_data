@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T22:00:28.745Z",
+  "generatedAt": "2026-08-30T23:00:32.532Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13203,6 +13203,13 @@
           "id": "330608644",
           "name": "TC不讲道理",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "33069726",
+          "name": "寝子ovo",
+          "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=1.14"
         },
         {
           "type": "creator",
