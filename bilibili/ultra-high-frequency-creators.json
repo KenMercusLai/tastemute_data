@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T18:00:44.270Z",
+  "generatedAt": "2026-08-30T19:00:27.528Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5951,6 +5951,13 @@
           "id": "3461572838034192",
           "name": "AC米兰足球俱乐部",
           "reason": "Average upload gap <= 1 days; videos=418; avg_gap_days=0.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461573335058904",
+          "name": "钻石蘑菇Yume",
+          "reason": "Average upload gap <= 1 days; videos=353; avg_gap_days=0.57"
         },
         {
           "type": "creator",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T18:00:44.270Z",
+  "generatedAt": "2026-08-30T19:00:27.528Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13756,6 +13756,13 @@
           "id": "3461572844325082",
           "name": "亮亮巧解初中数学",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461573335058904",
+          "name": "钻石蘑菇Yume",
+          "reason": "Average upload gap <= 2 days; videos=353; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -30997,13 +31004,6 @@
           "id": "388309479",
           "name": "J诺兰",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.06"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "38833141",
-          "name": "龟龟叁叁",
-          "reason": "Average upload gap <= 2 days; videos=95; avg_gap_days=1.94"
         },
         {
           "type": "creator",
