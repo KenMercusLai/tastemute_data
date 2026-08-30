@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T12:00:26.680Z",
+  "generatedAt": "2026-08-30T13:00:22.646Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6420,6 +6420,13 @@
           "id": "1786503014",
           "name": "有精二就能杀攻略组",
           "reason": "Average upload gap <= 2 days; videos=270; avg_gap_days=1.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "178653628",
+          "name": "二酱三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.79"
         },
         {
           "type": "creator",
@@ -33703,6 +33710,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "443348418",
+          "name": "快板元宇宙",
+          "reason": "Average upload gap <= 2 days; videos=100; avg_gap_days=1.52"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "444502075",
           "name": "九先生6",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.58"
@@ -34777,6 +34791,13 @@
           "id": "477004090",
           "name": "小奶酪蛋白Ru",
           "reason": "Average upload gap <= 2 days; videos=347; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "477068482",
+          "name": "一个大宝爱画画",
+          "reason": "Average upload gap <= 2 days; videos=51; avg_gap_days=1.95"
         },
         {
           "type": "creator",
