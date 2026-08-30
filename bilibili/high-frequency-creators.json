@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T05:00:22.937Z",
+  "generatedAt": "2026-08-30T06:00:22.247Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -12033,7 +12033,7 @@
           "platform": "bilibili",
           "id": "296842815",
           "name": "李永乐考研团队",
-          "reason": "Average upload gap <= 2 days; videos=544; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 2 days; videos=545; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -33556,6 +33556,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "441193619",
+          "name": "以子OvO",
+          "reason": "Average upload gap <= 2 days; videos=428; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "441307228",
           "name": "流泪样哦哦",
           "reason": "Average upload gap <= 2 days; videos=74; avg_gap_days=0.47"
@@ -34231,6 +34238,13 @@
           "id": "470107440",
           "name": "青丝iam",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "470223825",
+          "name": "Risky日天哥",
+          "reason": "Average upload gap <= 2 days; videos=259; avg_gap_days=1.79"
         },
         {
           "type": "creator",
