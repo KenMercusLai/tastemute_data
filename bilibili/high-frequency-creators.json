@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T02:00:44.865Z",
+  "generatedAt": "2026-08-30T03:00:28.749Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17025,6 +17025,13 @@
           "id": "3546378636626044",
           "name": "贾斯汀比汀",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.35"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546379056057013",
+          "name": "杨氏集团团长",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=1.45"
         },
         {
           "type": "creator",
