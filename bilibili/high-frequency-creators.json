@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T18:00:47.091Z",
+  "generatedAt": "2026-08-31T19:00:28.403Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -21169,6 +21169,13 @@
           "id": "3546834014309267",
           "name": "慵懒书虫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546834486167739",
+          "name": "WC_牢白",
+          "reason": "Average upload gap <= 2 days; videos=62; avg_gap_days=1.66"
         },
         {
           "type": "creator",
