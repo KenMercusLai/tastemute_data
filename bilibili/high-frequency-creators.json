@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T23:00:32.532Z",
+  "generatedAt": "2026-08-31T01:00:23.412Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -39950,6 +39950,13 @@
           "id": "672035",
           "name": "即兴演奏家",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "672353429",
+          "name": "贝拉kira",
+          "reason": "Average upload gap <= 2 days; videos=241; avg_gap_days=2.00"
         },
         {
           "type": "creator",
