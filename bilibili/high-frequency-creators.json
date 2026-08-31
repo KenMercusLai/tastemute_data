@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T10:00:25.291Z",
+  "generatedAt": "2026-08-31T12:00:30.961Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13375,6 +13375,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "33775467",
+          "name": "人民网",
+          "reason": "Average upload gap <= 2 days; videos=194; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "338167021",
           "name": "国1铠南瓜",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.47"
@@ -14070,7 +14077,7 @@
           "platform": "bilibili",
           "id": "349029773",
           "name": "非常菜的挂神",
-          "reason": "Average upload gap <= 2 days; videos=138; avg_gap_days=0.75"
+          "reason": "Average upload gap <= 2 days; videos=139; avg_gap_days=1.51"
         },
         {
           "type": "creator",
@@ -17508,13 +17515,6 @@
           "id": "3546565411080614",
           "name": "鸟鸟影视",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546566958779137",
-          "name": "xc杏茶不喝苦茶",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.38"
         },
         {
           "type": "creator",
@@ -21288,6 +21288,13 @@
           "id": "3546846085515904",
           "name": "观一隅",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546846603512023",
+          "name": "小花与作",
+          "reason": "Average upload gap <= 2 days; videos=76; avg_gap_days=1.16"
         },
         {
           "type": "creator",
@@ -35950,13 +35957,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "492866630",
-          "name": "SK_KAOS",
-          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.81"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "492905896",
           "name": "小普-三角洲重生版",
           "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.54"
@@ -37877,7 +37877,7 @@
           "platform": "bilibili",
           "id": "551188239",
           "name": "企鹅带带北极熊",
-          "reason": "Average upload gap <= 2 days; videos=31; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.96"
         },
         {
           "type": "creator",
