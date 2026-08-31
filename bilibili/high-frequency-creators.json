@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T20:00:24.227Z",
+  "generatedAt": "2026-08-31T21:00:35.046Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7925,6 +7925,13 @@
           "id": "1972357926",
           "name": "白鸽の乱剪",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19739090",
+          "name": "攻其不备螃蟹王",
+          "reason": "Average upload gap <= 2 days; videos=110; avg_gap_days=1.52"
         },
         {
           "type": "creator",
@@ -33881,6 +33888,13 @@
           "id": "448165099",
           "name": "军情D7处",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "448314548",
+          "name": "称魂学长",
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.38"
         },
         {
           "type": "creator",
