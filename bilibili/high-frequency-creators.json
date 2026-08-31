@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T22:00:23.680Z",
+  "generatedAt": "2026-08-31T23:01:57.218Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -904,13 +904,6 @@
           "id": "10850097",
           "name": "独夫之心",
           "reason": "Average upload gap <= 2 days; videos=21; avg_gap_days=0.16"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "108532523",
-          "name": "英雄联盟赛事",
-          "reason": "Average upload gap <= 2 days; videos=25; avg_gap_days=1.93"
         },
         {
           "type": "creator",
@@ -35799,6 +35792,13 @@
           "id": "489179407",
           "name": "胡言乱语の猫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "489344222",
+          "name": "视听新时代",
+          "reason": "Average upload gap <= 2 days; videos=485; avg_gap_days=0.39"
         },
         {
           "type": "creator",
