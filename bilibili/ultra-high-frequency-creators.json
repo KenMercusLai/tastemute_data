@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T15:00:31.094Z",
+  "generatedAt": "2026-08-31T16:00:27.679Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1884,13 +1884,6 @@
           "id": "1509965037",
           "name": "黑龙恐惧症",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1510853490",
-          "name": "铁桶僵尸的帽子",
-          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.90"
         },
         {
           "type": "creator",
