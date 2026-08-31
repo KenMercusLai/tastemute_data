@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T21:00:35.046Z",
+  "generatedAt": "2026-08-31T22:00:23.680Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -71,6 +71,13 @@
           "id": "100543326",
           "name": "FM大壮讲战术",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "100654152",
+          "name": "社恐泠一",
+          "reason": "Average upload gap <= 2 days; videos=72; avg_gap_days=1.57"
         },
         {
           "type": "creator",
