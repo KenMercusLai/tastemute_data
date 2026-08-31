@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T17:00:43.139Z",
+  "generatedAt": "2026-08-31T18:00:47.091Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18919,6 +18919,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546663589251193",
+          "name": "贰柒事Twenty-Seven",
+          "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546663811549900",
           "name": "伊莫可Imoko",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.00"
@@ -24414,13 +24421,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "3546976199117073",
-          "name": "重塑终焉",
-          "reason": "Average upload gap <= 2 days; videos=53; avg_gap_days=1.91"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "3546976241059881",
           "name": "野人l三角洲",
           "reason": "Average upload gap <= 2 days; videos=17; avg_gap_days=1.20"
@@ -24774,6 +24774,13 @@
           "id": "356759194",
           "name": "还没是我",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "356972262",
+          "name": "AbyessalHush_AH",
+          "reason": "Average upload gap <= 2 days; videos=122; avg_gap_days=1.12"
         },
         {
           "type": "creator",
@@ -37975,7 +37982,7 @@
           "platform": "bilibili",
           "id": "558679553",
           "name": "秀儿衫就这样",
-          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.27"
         },
         {
           "type": "creator",
