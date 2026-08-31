@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T12:00:30.961Z",
+  "generatedAt": "2026-08-31T14:00:26.222Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7463,6 +7463,13 @@
           "id": "1918808400",
           "name": "阿呆北漂日记",
           "reason": "Average upload gap <= 2 days; videos=67; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1920487756",
+          "name": "江牛马",
+          "reason": "Average upload gap <= 2 days; videos=65; avg_gap_days=1.75"
         },
         {
           "type": "creator",
@@ -38449,13 +38456,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "593697935",
-          "name": "小小黑纪",
-          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.56"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "593958569",
           "name": "威观点",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.82"
@@ -40614,7 +40614,7 @@
           "platform": "bilibili",
           "id": "701504969",
           "name": "闪电新闻",
-          "reason": "Average upload gap <= 2 days; videos=537; avg_gap_days=0.04"
+          "reason": "Average upload gap <= 2 days; videos=538; avg_gap_days=0.04"
         },
         {
           "type": "creator",
