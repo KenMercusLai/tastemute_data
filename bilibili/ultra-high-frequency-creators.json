@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T02:00:27.682Z",
+  "generatedAt": "2026-08-31T03:00:29.259Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6763,6 +6763,13 @@
           "id": "3493279555389799",
           "name": "奥特曼中国官方",
           "reason": "Average upload gap <= 1 days; videos=67; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493279630887690",
+          "name": "薇恩Wends",
+          "reason": "Average upload gap <= 1 days; videos=76; avg_gap_days=0.92"
         },
         {
           "type": "creator",
