@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T05:00:29.081Z",
+  "generatedAt": "2026-08-31T06:00:28.219Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14953,6 +14953,13 @@
           "id": "382644004",
           "name": "时灵时不灵兮",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "382651856",
+          "name": "战双帕弥什",
+          "reason": "Average upload gap <= 1 days; videos=202; avg_gap_days=0.35"
         },
         {
           "type": "creator",
