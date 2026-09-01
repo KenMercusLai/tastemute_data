@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T04:00:54.815Z",
+  "generatedAt": "2026-09-01T05:00:35.526Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2990,13 +2990,6 @@
           "id": "132997155",
           "name": "想进步",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.10"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1330923873",
-          "name": "Hedeock-THX",
-          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=1.26"
         },
         {
           "type": "creator",
@@ -37450,7 +37443,7 @@
           "platform": "bilibili",
           "id": "525048727",
           "name": "Green_TNT",
-          "reason": "Average upload gap <= 2 days; videos=155; avg_gap_days=1.23"
+          "reason": "Average upload gap <= 2 days; videos=156; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -39495,6 +39488,13 @@
           "id": "645890156",
           "name": "战雷-真香",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "646015614",
+          "name": "CCTz-Storm风暴",
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.84"
         },
         {
           "type": "creator",
