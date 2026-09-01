@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T06:00:43.973Z",
+  "generatedAt": "2026-09-01T07:00:26.866Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2920,6 +2920,13 @@
           "id": "1319716446",
           "name": "流萤漫语",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1320581",
+          "name": "游戏彩笔",
+          "reason": "Average upload gap <= 2 days; videos=206; avg_gap_days=0.70"
         },
         {
           "type": "creator",
