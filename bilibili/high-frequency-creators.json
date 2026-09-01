@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T08:00:42.653Z",
+  "generatedAt": "2026-09-01T09:00:25.645Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -862,13 +862,6 @@
           "id": "108162619",
           "name": "头铁抬杠王",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.71"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1082063058",
-          "name": "sugar_ice",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.94"
         },
         {
           "type": "creator",
@@ -1996,6 +1989,13 @@
           "id": "1225747984",
           "name": "我是桃小柏吖-",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "122608078",
+          "name": "66大狗",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -9133,6 +9133,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2117595028",
+          "name": "TxAY极速版",
+          "reason": "Average upload gap <= 2 days; videos=54; avg_gap_days=1.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "21184126",
           "name": "七芒星の星",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.42"
@@ -14722,6 +14729,13 @@
           "id": "3493123185445375",
           "name": "真男人就该玩波提欧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493123760065282",
+          "name": "wknows",
+          "reason": "Average upload gap <= 2 days; videos=102; avg_gap_days=1.58"
         },
         {
           "type": "creator",
@@ -23618,7 +23632,7 @@
           "platform": "bilibili",
           "id": "3546940553824477",
           "name": "神圣莫提斯",
-          "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=1.85"
+          "reason": "Average upload gap <= 2 days; videos=62; avg_gap_days=1.84"
         },
         {
           "type": "creator",
