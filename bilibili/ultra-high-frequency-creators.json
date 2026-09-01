@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T23:01:57.218Z",
+  "generatedAt": "2026-09-01T00:02:02.116Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4075,6 +4075,13 @@
           "id": "222103174",
           "name": "央视网",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2242273",
+          "name": "szswindy-温宝-",
+          "reason": "Average upload gap <= 1 days; videos=140; avg_gap_days=0.80"
         },
         {
           "type": "creator",

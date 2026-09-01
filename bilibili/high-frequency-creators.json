@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T23:01:57.218Z",
+  "generatedAt": "2026-09-01T00:02:02.116Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9651,6 +9651,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2242273",
+          "name": "szswindy-温宝-",
+          "reason": "Average upload gap <= 2 days; videos=140; avg_gap_days=0.80"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2242587",
           "name": "洗洗睡真舒服",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.02"
@@ -10396,13 +10403,6 @@
           "id": "250017322",
           "name": "设置快捷键",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.45"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "25048847",
-          "name": "莫娜摸鱼专用",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.63"
         },
         {
           "type": "creator",
@@ -35141,6 +35141,13 @@
           "id": "480754885",
           "name": "蛙天帝qazplm",
           "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "480768310",
+          "name": "花缥缈V",
+          "reason": "Average upload gap <= 2 days; videos=78; avg_gap_days=1.95"
         },
         {
           "type": "creator",
