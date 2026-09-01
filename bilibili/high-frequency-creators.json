@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T00:02:02.116Z",
+  "generatedAt": "2026-09-01T01:00:27.284Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -24736,6 +24736,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "355962726",
+          "name": "鸡歪JWoods",
+          "reason": "Average upload gap <= 2 days; videos=117; avg_gap_days=1.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "355983369",
           "name": "漆晴弦卷心",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
@@ -37926,7 +37933,7 @@
           "platform": "bilibili",
           "id": "551188239",
           "name": "企鹅带带北极熊",
-          "reason": "Average upload gap <= 2 days; videos=32; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.96"
         },
         {
           "type": "creator",
