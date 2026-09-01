@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T20:00:25.146Z",
+  "generatedAt": "2026-09-01T21:00:41.511Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7890,13 +7890,6 @@
           "id": "3546586606996092",
           "name": "DAIDAIKAEDE",
           "reason": "Average upload gap <= 1 days; videos=78; avg_gap_days=0.42"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546586890111682",
-          "name": "NCTWISH",
-          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -17690,6 +17683,13 @@
           "id": "504512557",
           "name": "BT财经",
           "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504587381",
+          "name": "北京卫视",
+          "reason": "Average upload gap <= 1 days; videos=161; avg_gap_days=0.55"
         },
         {
           "type": "creator",
