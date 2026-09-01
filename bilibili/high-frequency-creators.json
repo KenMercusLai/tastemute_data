@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T19:00:24.370Z",
+  "generatedAt": "2026-09-01T20:00:25.146Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -39348,6 +39348,13 @@
           "id": "629357048",
           "name": "草帽来也",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "629813660",
+          "name": "绯英の琼实鸟串",
+          "reason": "Average upload gap <= 2 days; videos=68; avg_gap_days=1.80"
         },
         {
           "type": "creator",
