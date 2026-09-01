@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T21:00:41.511Z",
+  "generatedAt": "2026-09-01T22:00:33.926Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37885,6 +37885,13 @@
           "id": "544031876",
           "name": "安之影话",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "544099466",
+          "name": "RQS官方号",
+          "reason": "Average upload gap <= 2 days; videos=101; avg_gap_days=1.38"
         },
         {
           "type": "creator",
