@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T09:00:25.645Z",
+  "generatedAt": "2026-09-01T10:00:52.503Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9255,6 +9255,13 @@
           "id": "21292436",
           "name": "拍了个就这",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2129315537",
+          "name": "の千早爱音",
+          "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.55"
         },
         {
           "type": "creator",
