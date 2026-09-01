@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T10:00:52.503Z",
+  "generatedAt": "2026-09-01T11:00:37.110Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5566,6 +5566,13 @@
           "id": "324623953",
           "name": "天涯了凡",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32519050",
+          "name": "瓜皮稳",
+          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.45"
         },
         {
           "type": "creator",

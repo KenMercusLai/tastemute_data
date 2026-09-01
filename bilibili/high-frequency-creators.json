@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T10:00:52.503Z",
+  "generatedAt": "2026-09-01T11:00:37.110Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6627,6 +6627,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1810288604",
+          "name": "来歆_v",
+          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1811805578",
           "name": "万维猫动画",
           "reason": "Average upload gap <= 2 days; videos=28; avg_gap_days=1.06"
@@ -12979,6 +12986,13 @@
           "id": "325097061",
           "name": "脱口秀-付航精选",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32519050",
+          "name": "瓜皮稳",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=0.45"
         },
         {
           "type": "creator",
@@ -33220,6 +33234,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "433247432",
+          "name": "噎死魔神的噎羊",
+          "reason": "Average upload gap <= 2 days; videos=131; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "433448330",
           "name": "雪时布咕哟",
           "reason": "Average upload gap <= 2 days; videos=89; avg_gap_days=1.40"
@@ -36933,13 +36954,6 @@
           "id": "514405742",
           "name": "阿弥陀佛法王子",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.34"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "514592664",
-          "name": "阿源_wuii_",
-          "reason": "Average upload gap <= 2 days; videos=35; avg_gap_days=1.99"
         },
         {
           "type": "creator",
@@ -41049,13 +41063,6 @@
           "id": "77962578",
           "name": "柯尔不短",
           "reason": "Average upload gap <= 2 days; videos=256; avg_gap_days=1.79"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "79126703",
-          "name": "菜Yue昴",
-          "reason": "Average upload gap <= 2 days; videos=82; avg_gap_days=1.63"
         },
         {
           "type": "creator",
