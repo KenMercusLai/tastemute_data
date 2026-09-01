@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T01:00:27.284Z",
+  "generatedAt": "2026-09-01T03:00:24.858Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16597,7 +16597,7 @@
           "platform": "bilibili",
           "id": "35365327",
           "name": "bilibiliGoods",
-          "reason": "Average upload gap <= 2 days; videos=104; avg_gap_days=0.80"
+          "reason": "Average upload gap <= 2 days; videos=105; avg_gap_days=0.80"
         },
         {
           "type": "creator",
@@ -37857,6 +37857,13 @@
           "id": "545985022",
           "name": "董快乐很开心",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "546695805",
+          "name": "追核电竞-同头像正版",
+          "reason": "Average upload gap <= 2 days; videos=84; avg_gap_days=1.82"
         },
         {
           "type": "creator",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T01:00:27.284Z",
+  "generatedAt": "2026-09-01T03:00:24.858Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7301,7 +7301,7 @@
           "platform": "bilibili",
           "id": "35365327",
           "name": "bilibiliGoods",
-          "reason": "Average upload gap <= 1 days; videos=104; avg_gap_days=0.80"
+          "reason": "Average upload gap <= 1 days; videos=105; avg_gap_days=0.80"
         },
         {
           "type": "creator",
