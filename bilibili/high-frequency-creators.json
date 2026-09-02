@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T07:00:32.799Z",
+  "generatedAt": "2026-09-02T08:00:23.966Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -36996,13 +36996,6 @@
           "id": "514964724",
           "name": "鬼川教官",
           "reason": "Average upload gap <= 2 days; videos=79; avg_gap_days=0.83"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "514978269",
-          "name": "时光代理人",
-          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.16"
         },
         {
           "type": "creator",
