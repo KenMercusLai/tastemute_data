@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T05:00:49.282Z",
+  "generatedAt": "2026-09-02T06:00:44.678Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3907,6 +3907,13 @@
           "id": "21198499",
           "name": "十辛廿",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "21201716",
+          "name": "可可豆vikey",
+          "reason": "Average upload gap <= 1 days; videos=82; avg_gap_days=0.95"
         },
         {
           "type": "creator",
