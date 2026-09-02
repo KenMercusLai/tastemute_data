@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T03:00:34.174Z",
+  "generatedAt": "2026-09-02T04:00:38.610Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2406,6 +2406,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1686448668",
+          "name": "我是特优声",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "168807242",
           "name": "卧虎藏蛋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
@@ -4137,7 +4144,7 @@
           "platform": "bilibili",
           "id": "22839600",
           "name": "佛珠战神",
-          "reason": "Average upload gap <= 1 days; videos=51; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 1 days; videos=52; avg_gap_days=0.37"
         },
         {
           "type": "creator",
