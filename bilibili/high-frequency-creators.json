@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T18:00:30.976Z",
+  "generatedAt": "2026-09-05T19:00:32.379Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37528,6 +37528,13 @@
           "id": "524432475",
           "name": "陕西警方",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "524439141",
+          "name": "GirlsBandCry非公式",
+          "reason": "Average upload gap <= 2 days; videos=437; avg_gap_days=1.96"
         },
         {
           "type": "creator",
