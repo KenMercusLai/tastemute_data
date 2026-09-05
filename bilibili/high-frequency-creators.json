@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T07:00:31.375Z",
+  "generatedAt": "2026-09-05T08:00:52.589Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -35428,6 +35428,13 @@
           "id": "483246073",
           "name": "红警魔鬼蓝天",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "48330353",
+          "name": "双尾彗星",
+          "reason": "Average upload gap <= 2 days; videos=1525; avg_gap_days=1.74"
         },
         {
           "type": "creator",
