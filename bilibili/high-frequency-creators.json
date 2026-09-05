@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T05:00:33.479Z",
+  "generatedAt": "2026-09-05T06:00:29.170Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1197,7 +1197,7 @@
           "platform": "bilibili",
           "id": "112205271",
           "name": "龙武仙",
-          "reason": "Average upload gap <= 2 days; videos=155; avg_gap_days=1.90"
+          "reason": "Average upload gap <= 2 days; videos=156; avg_gap_days=1.90"
         },
         {
           "type": "creator",
@@ -40797,6 +40797,13 @@
           "id": "702528736",
           "name": "大正爱跑步",
           "reason": "Average upload gap <= 2 days; videos=26; avg_gap_days=1.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "703123319",
+          "name": "Z_H_Yang沫阳",
+          "reason": "Average upload gap <= 2 days; videos=33; avg_gap_days=1.33"
         },
         {
           "type": "creator",
