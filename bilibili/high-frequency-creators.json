@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T22:00:26.393Z",
+  "generatedAt": "2026-09-05T23:00:25.167Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6049,6 +6049,13 @@
           "id": "1739162042",
           "name": "就想Rua一下",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1739612939",
+          "name": "大韩同学呀",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.31"
         },
         {
           "type": "creator",
