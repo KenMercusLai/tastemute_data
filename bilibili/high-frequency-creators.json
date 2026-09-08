@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T06:00:36.240Z",
+  "generatedAt": "2026-09-08T07:00:27.856Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18026,13 +18026,6 @@
           "id": "3546594223851858",
           "name": "蛋蛋的幽霜",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.04"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "3546594530036294",
-          "name": "潮杨Tide",
-          "reason": "Average upload gap <= 2 days; videos=150; avg_gap_days=1.11"
         },
         {
           "type": "creator",
@@ -37933,7 +37926,7 @@
           "platform": "bilibili",
           "id": "543330249",
           "name": "久晨ovo",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.20"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.20"
         },
         {
           "type": "creator",
