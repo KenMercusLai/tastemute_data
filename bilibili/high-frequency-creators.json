@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T13:00:29.884Z",
+  "generatedAt": "2026-09-08T14:00:49.974Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3708,6 +3708,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1431520770",
+          "name": "唯愛神里绫华",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1432747633",
           "name": "LEGO乐高",
           "reason": "Average upload gap <= 2 days; videos=162; avg_gap_days=1.16"
@@ -3834,6 +3841,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "14440096",
+          "name": "玖宝Satori",
+          "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "14446580",
           "name": "渡小渡Pro",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.38"
@@ -3856,7 +3870,7 @@
           "type": "creator",
           "platform": "bilibili",
           "id": "1446123319",
-          "name": "低分是我无能-",
+          "name": "我想要0失誤",
           "reason": "Average upload gap <= 2 days; videos=38; avg_gap_days=1.22"
         },
         {
