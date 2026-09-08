@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T14:00:49.974Z",
+  "generatedAt": "2026-09-08T15:00:37.267Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7999,6 +7999,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546598982289468",
+          "name": "冥侦探柯镇恶汪",
+          "reason": "Average upload gap <= 1 days; videos=302; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546599217170510",
           "name": "漫读精品_绝无pdd",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -11718,7 +11725,7 @@
           "platform": "bilibili",
           "id": "356587254",
           "name": "和君ZH",
-          "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.34"
+          "reason": "Average upload gap <= 1 days; videos=34; avg_gap_days=0.78"
         },
         {
           "type": "creator",
@@ -16422,7 +16429,7 @@
           "platform": "bilibili",
           "id": "441307228",
           "name": "流泪样哦哦",
-          "reason": "Average upload gap <= 1 days; videos=74; avg_gap_days=0.47"
+          "reason": "Average upload gap <= 1 days; videos=76; avg_gap_days=0.47"
         },
         {
           "type": "creator",
