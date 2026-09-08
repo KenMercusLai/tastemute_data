@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T07:00:27.856Z",
+  "generatedAt": "2026-09-08T08:00:31.046Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -18257,6 +18257,13 @@
           "id": "545985022",
           "name": "董快乐很开心",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "547510303",
+          "name": "Asoul二创计画",
+          "reason": "Average upload gap <= 1 days; videos=495; avg_gap_days=0.66"
         },
         {
           "type": "creator",

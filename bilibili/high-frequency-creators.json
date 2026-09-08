@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T07:00:27.856Z",
+  "generatedAt": "2026-09-08T08:00:31.046Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -37997,6 +37997,13 @@
           "id": "547072854",
           "name": "中气爱",
           "reason": "Average upload gap <= 2 days; videos=52; avg_gap_days=1.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "547510303",
+          "name": "Asoul二创计画",
+          "reason": "Average upload gap <= 2 days; videos=495; avg_gap_days=0.66"
         },
         {
           "type": "creator",
