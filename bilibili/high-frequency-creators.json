@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T22:00:37.980Z",
+  "generatedAt": "2026-09-08T23:00:27.911Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20644,6 +20644,13 @@
           "id": "3546775524739241",
           "name": "RBW_Official",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546775644277096",
+          "name": "10月不摆烂",
+          "reason": "Average upload gap <= 2 days; videos=92; avg_gap_days=1.90"
         },
         {
           "type": "creator",
