@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T15:00:37.267Z",
+  "generatedAt": "2026-09-08T16:00:44.811Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -960,6 +960,13 @@
           "id": "12403633",
           "name": "残暴布袋熊",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1245077810",
+          "name": "散零吃我一拳",
+          "reason": "Average upload gap <= 1 days; videos=124; avg_gap_days=0.71"
         },
         {
           "type": "creator",
@@ -4033,6 +4040,13 @@
           "id": "216675905",
           "name": "又一个uu",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "21689707",
+          "name": "秋明山菜鸡",
+          "reason": "Average upload gap <= 1 days; videos=65; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -16329,6 +16343,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "437415",
+          "name": "___蓝牙连不上了",
+          "reason": "Average upload gap <= 1 days; videos=337; avg_gap_days=0.12"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "438398241",
           "name": "骑迹龙龙",
           "reason": "Average upload gap <= 1 days; videos=57; avg_gap_days=0.86"
@@ -19591,13 +19612,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "746399",
-          "name": "祝你夜梦清吉",
-          "reason": "Average upload gap <= 1 days; videos=279; avg_gap_days=0.12"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "7582245",
           "name": "cc大能行",
           "reason": "Average upload gap <= 1 days; videos=355; avg_gap_days=0.95"
@@ -19902,6 +19916,13 @@
           "id": "9442025",
           "name": "暗影姆姆",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "94558176",
+          "name": "冥侦探柯镇恶喵",
+          "reason": "Average upload gap <= 1 days; videos=2535; avg_gap_days=0.43"
         },
         {
           "type": "creator",
