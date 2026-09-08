@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:00:31.567Z",
+  "generatedAt": "2026-09-08T12:00:32.678Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3074,6 +3074,13 @@
           "id": "1340733361",
           "name": "看牛牛电影",
           "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1341456822",
+          "name": "真_半个声优",
+          "reason": "Average upload gap <= 2 days; videos=100; avg_gap_days=1.92"
         },
         {
           "type": "creator",
@@ -6630,6 +6637,13 @@
           "id": "1807935917",
           "name": "致远悟到",
           "reason": "Average upload gap <= 2 days; videos=47; avg_gap_days=1.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1808690549",
+          "name": "-在下牢管-",
+          "reason": "Average upload gap <= 2 days; videos=174; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -27543,6 +27557,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3691559",
+          "name": "困锁Lockeder",
+          "reason": "Average upload gap <= 2 days; videos=376; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "36936765",
           "name": "布鲁诺OvO",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.89"
@@ -31998,6 +32019,13 @@
           "id": "3998599",
           "name": "李弱可",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "399893265",
+          "name": "神龙幻梦",
+          "reason": "Average upload gap <= 2 days; videos=280; avg_gap_days=1.76"
         },
         {
           "type": "creator",
@@ -39019,13 +39047,6 @@
           "id": "610063015",
           "name": "安柒爱观影",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.10"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "610499292",
-          "name": "老邦配音",
-          "reason": "Average upload gap <= 2 days; videos=97; avg_gap_days=1.51"
         },
         {
           "type": "creator",
