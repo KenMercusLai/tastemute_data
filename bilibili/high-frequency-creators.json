@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T12:00:32.678Z",
+  "generatedAt": "2026-09-08T13:00:29.884Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15,6 +15,13 @@
           "id": "1000037800",
           "name": "快乐的娱",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1000607750",
+          "name": "飞星流月",
+          "reason": "Average upload gap <= 2 days; videos=374; avg_gap_days=1.14"
         },
         {
           "type": "creator",
@@ -1800,6 +1807,13 @@
           "id": "1202523923",
           "name": "AICheng动漫",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1203478506",
+          "name": "T0级黑胡桃流量大王",
+          "reason": "Average upload gap <= 2 days; videos=86; avg_gap_days=0.67"
         },
         {
           "type": "creator",
@@ -6643,7 +6657,7 @@
           "platform": "bilibili",
           "id": "1808690549",
           "name": "-在下牢管-",
-          "reason": "Average upload gap <= 2 days; videos=174; avg_gap_days=1.84"
+          "reason": "Average upload gap <= 2 days; videos=176; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -12587,6 +12601,13 @@
           "id": "312644880",
           "name": "游之猫",
           "reason": "Average upload gap <= 2 days; videos=165; avg_gap_days=1.71"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "312717193",
+          "name": "凌凌还是好困",
+          "reason": "Average upload gap <= 2 days; videos=194; avg_gap_days=0.78"
         },
         {
           "type": "creator",

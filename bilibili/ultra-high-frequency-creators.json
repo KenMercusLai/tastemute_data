@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T12:00:32.678Z",
+  "generatedAt": "2026-09-08T13:00:29.884Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -848,6 +848,13 @@
           "id": "1202523923",
           "name": "AICheng动漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1203478506",
+          "name": "T0级黑胡桃流量大王",
+          "reason": "Average upload gap <= 1 days; videos=86; avg_gap_days=0.67"
         },
         {
           "type": "creator",
@@ -5342,6 +5349,13 @@
           "id": "312613350",
           "name": "HQM-Hugo魁Music",
           "reason": "Average upload gap <= 1 days; videos=185; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "312717193",
+          "name": "凌凌还是好困",
+          "reason": "Average upload gap <= 1 days; videos=194; avg_gap_days=0.78"
         },
         {
           "type": "creator",
