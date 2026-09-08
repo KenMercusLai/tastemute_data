@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T21:00:32.585Z",
+  "generatedAt": "2026-09-08T22:00:37.980Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -14232,6 +14232,13 @@
           "id": "349029773",
           "name": "非常菜的挂神",
           "reason": "Average upload gap <= 2 days; videos=139; avg_gap_days=1.51"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "349111916",
+          "name": "脆音音",
+          "reason": "Average upload gap <= 2 days; videos=691; avg_gap_days=0.44"
         },
         {
           "type": "creator",
@@ -41287,6 +41294,13 @@
           "id": "77962578",
           "name": "柯尔不短",
           "reason": "Average upload gap <= 2 days; videos=256; avg_gap_days=1.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "78507973",
+          "name": "小米米沙",
+          "reason": "Average upload gap <= 2 days; videos=1125; avg_gap_days=1.61"
         },
         {
           "type": "creator",
