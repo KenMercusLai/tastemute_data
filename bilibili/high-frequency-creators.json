@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T10:00:33.168Z",
+  "generatedAt": "2026-09-08T11:00:31.567Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -21190,6 +21190,13 @@
           "id": "3546827401988673",
           "name": "火锅喵Music",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546827909499540",
+          "name": "Aramusk焚烬",
+          "reason": "Average upload gap <= 2 days; videos=55; avg_gap_days=1.92"
         },
         {
           "type": "creator",
