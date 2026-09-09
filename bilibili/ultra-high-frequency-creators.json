@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T09:00:41.457Z",
+  "generatedAt": "2026-09-09T10:00:40.661Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -17452,6 +17452,13 @@
           "id": "490334938",
           "name": "中国军视网",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "490409040",
+          "name": "2333T_V文體電視",
+          "reason": "Average upload gap <= 1 days; videos=721; avg_gap_days=0.13"
         },
         {
           "type": "creator",
