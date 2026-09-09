@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T15:00:50.231Z",
+  "generatedAt": "2026-09-09T16:00:33.577Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5936,7 +5936,7 @@
           "platform": "bilibili",
           "id": "171796822",
           "name": "鬼鬼_onioni",
-          "reason": "Average upload gap <= 2 days; videos=162; avg_gap_days=1.53"
+          "reason": "Average upload gap <= 2 days; videos=163; avg_gap_days=1.53"
         },
         {
           "type": "creator",
@@ -36134,7 +36134,7 @@
           "platform": "bilibili",
           "id": "490409040",
           "name": "2333T_V文體電視",
-          "reason": "Average upload gap <= 2 days; videos=721; avg_gap_days=0.13"
+          "reason": "Average upload gap <= 2 days; videos=722; avg_gap_days=0.13"
         },
         {
           "type": "creator",
@@ -39810,13 +39810,6 @@
           "id": "646015614",
           "name": "CCTz-Storm风暴",
           "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=1.84"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "646421226",
-          "name": "奈依依レム",
-          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.42"
         },
         {
           "type": "creator",
