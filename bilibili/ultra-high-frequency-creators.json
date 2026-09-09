@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T16:00:33.577Z",
+  "generatedAt": "2026-09-09T17:00:42.031Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16619,6 +16619,13 @@
           "id": "45374791",
           "name": "吾名为头像是也",
           "reason": "Average upload gap <= 1 days; videos=138; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "453940488",
+          "name": "育见新闻",
+          "reason": "Average upload gap <= 1 days; videos=122; avg_gap_days=0.27"
         },
         {
           "type": "creator",
