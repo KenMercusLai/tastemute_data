@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T01:00:39.208Z",
+  "generatedAt": "2026-09-09T02:00:43.048Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -41329,6 +41329,13 @@
           "id": "80314716",
           "name": "Nothing源",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8038488",
+          "name": "8Hachi_8",
+          "reason": "Average upload gap <= 2 days; videos=112; avg_gap_days=0.53"
         },
         {
           "type": "creator",
