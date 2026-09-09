@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T17:00:42.031Z",
+  "generatedAt": "2026-09-09T18:00:53.972Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1632,6 +1632,13 @@
           "id": "1427659913",
           "name": "桃染衣",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "142935891",
+          "name": "梦痴痴与枝枝",
+          "reason": "Average upload gap <= 1 days; videos=63; avg_gap_days=0.56"
         },
         {
           "type": "creator",
@@ -4431,7 +4438,7 @@
           "platform": "bilibili",
           "id": "247210788",
           "name": "嘉心糖周报",
-          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -7686,7 +7693,7 @@
           "platform": "bilibili",
           "id": "3546388543572182",
           "name": "BeatS_Crew",
-          "reason": "Average upload gap <= 1 days; videos=72; avg_gap_days=0.95"
+          "reason": "Average upload gap <= 1 days; videos=73; avg_gap_days=0.95"
         },
         {
           "type": "creator",
