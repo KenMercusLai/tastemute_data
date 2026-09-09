@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T06:00:36.308Z",
+  "generatedAt": "2026-09-09T07:00:32.149Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -42015,6 +42015,13 @@
           "id": "92998",
           "name": "幽儿希卡的小铃铛",
           "reason": "Average upload gap <= 2 days; videos=60; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "93039704",
+          "name": "星星的猫meme",
+          "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=1.05"
         },
         {
           "type": "creator",
