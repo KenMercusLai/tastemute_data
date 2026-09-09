@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T12:00:40.753Z",
+  "generatedAt": "2026-09-09T13:00:34.063Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20501,6 +20501,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546763514350446",
+          "name": "C3_dance",
+          "reason": "Average upload gap <= 2 days; videos=62; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546763577264879",
           "name": "秋梦三角洲",
           "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.26"
@@ -38778,6 +38785,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "5928965",
+          "name": "一小块叹",
+          "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "59346044",
           "name": "好赛雷切片",
           "reason": "Average upload gap <= 2 days; videos=297; avg_gap_days=0.10"
@@ -41664,7 +41678,7 @@
           "platform": "bilibili",
           "id": "8665127",
           "name": "dusKID",
-          "reason": "Average upload gap <= 2 days; videos=769; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 2 days; videos=772; avg_gap_days=0.69"
         },
         {
           "type": "creator",

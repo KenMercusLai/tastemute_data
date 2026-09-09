@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T12:00:40.753Z",
+  "generatedAt": "2026-09-09T13:00:34.063Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9080,6 +9080,13 @@
           "id": "3546763082336982",
           "name": "维多夫妻在中国",
           "reason": "Average upload gap <= 1 days; videos=56; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546763514350446",
+          "name": "C3_dance",
+          "reason": "Average upload gap <= 1 days; videos=62; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -19747,7 +19754,7 @@
           "platform": "bilibili",
           "id": "8665127",
           "name": "dusKID",
-          "reason": "Average upload gap <= 1 days; videos=769; avg_gap_days=0.69"
+          "reason": "Average upload gap <= 1 days; videos=772; avg_gap_days=0.69"
         },
         {
           "type": "creator",
