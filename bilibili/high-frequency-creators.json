@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T05:00:57.735Z",
+  "generatedAt": "2026-09-09T06:00:36.308Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -33808,6 +33808,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "439536384",
+          "name": "GAF插画艺术节",
+          "reason": "Average upload gap <= 2 days; videos=167; avg_gap_days=1.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "4398002",
           "name": "灯露椎名",
           "reason": "Average upload gap <= 2 days; videos=69; avg_gap_days=1.64"
@@ -34923,7 +34930,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=127; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=128; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -35938,7 +35945,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 2 days; videos=56; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=0.06"
         },
         {
           "type": "creator",
