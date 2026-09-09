@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T14:00:42.663Z",
+  "generatedAt": "2026-09-09T15:00:50.231Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7680,6 +7680,13 @@
           "id": "3546387499190409",
           "name": "青年爵士",
           "reason": "Average upload gap <= 1 days; videos=271; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546388543572182",
+          "name": "BeatS_Crew",
+          "reason": "Average upload gap <= 1 days; videos=72; avg_gap_days=0.95"
         },
         {
           "type": "creator",
