@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T19:00:31.684Z",
+  "generatedAt": "2026-09-09T20:00:34.006Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4082,6 +4082,13 @@
           "id": "14773882",
           "name": "杂食颖颖",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1478255",
+          "name": "猎户幻象",
+          "reason": "Average upload gap <= 2 days; videos=193; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -8737,6 +8744,13 @@
           "id": "20674540",
           "name": "大_大_怪_下_士",
           "reason": "Average upload gap <= 2 days; videos=46; avg_gap_days=1.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2067596974",
+          "name": "juna菅原十奈",
+          "reason": "Average upload gap <= 2 days; videos=63; avg_gap_days=1.02"
         },
         {
           "type": "creator",
@@ -17564,6 +17578,13 @@
           "id": "3546556546419443",
           "name": "刘三碗呢",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546556689025583",
+          "name": "阴暗枭南",
+          "reason": "Average upload gap <= 2 days; videos=97; avg_gap_days=1.01"
         },
         {
           "type": "creator",

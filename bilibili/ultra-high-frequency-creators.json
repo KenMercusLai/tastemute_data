@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T19:00:31.684Z",
+  "generatedAt": "2026-09-09T20:00:34.006Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1807,6 +1807,13 @@
           "id": "14773882",
           "name": "杂食颖颖",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1478255",
+          "name": "猎户幻象",
+          "reason": "Average upload gap <= 1 days; videos=193; avg_gap_days=0.52"
         },
         {
           "type": "creator",
