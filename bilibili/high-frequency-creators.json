@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T22:00:29.904Z",
+  "generatedAt": "2026-09-09T23:00:25.040Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1267,7 +1267,7 @@
           "platform": "bilibili",
           "id": "1131457022",
           "name": "人民日报",
-          "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=1.97"
+          "reason": "Average upload gap <= 2 days; videos=86; avg_gap_days=1.97"
         },
         {
           "type": "creator",
@@ -9770,13 +9770,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "22387588",
-          "name": "南姨Minami",
-          "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.80"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "2242273",
           "name": "szswindy-温宝-",
           "reason": "Average upload gap <= 2 days; videos=140; avg_gap_days=0.80"
@@ -9828,7 +9821,7 @@
           "platform": "bilibili",
           "id": "226178777",
           "name": "街头社区",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -30583,7 +30576,7 @@
           "platform": "bilibili",
           "id": "37791459",
           "name": "太合音乐",
-          "reason": "Average upload gap <= 2 days; videos=348; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 2 days; videos=332; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -32235,7 +32228,7 @@
           "platform": "bilibili",
           "id": "401315430",
           "name": "星瞳_Official",
-          "reason": "Average upload gap <= 2 days; videos=36; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=37; avg_gap_days=1.96"
         },
         {
           "type": "creator",
@@ -33083,6 +33076,13 @@
           "id": "420688843",
           "name": "吉林动画学院",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "420692944",
+          "name": "乌镇戏剧节",
+          "reason": "Average upload gap <= 2 days; videos=24; avg_gap_days=0.38"
         },
         {
           "type": "creator",
@@ -35938,7 +35938,7 @@
           "platform": "bilibili",
           "id": "487614876",
           "name": "四川观察",
-          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 2 days; videos=43; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -36015,7 +36015,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 2 days; videos=58; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 2 days; videos=59; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -41923,7 +41923,7 @@
           "platform": "bilibili",
           "id": "895617",
           "name": "CME6大神犬",
-          "reason": "Average upload gap <= 2 days; videos=148; avg_gap_days=1.47"
+          "reason": "Average upload gap <= 2 days; videos=149; avg_gap_days=1.47"
         },
         {
           "type": "creator",

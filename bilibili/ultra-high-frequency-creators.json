@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T22:00:29.904Z",
+  "generatedAt": "2026-09-09T23:00:25.040Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4165,7 +4165,7 @@
           "platform": "bilibili",
           "id": "226178777",
           "name": "街头社区",
-          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.32"
+          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -14959,7 +14959,7 @@
           "platform": "bilibili",
           "id": "37791459",
           "name": "太合音乐",
-          "reason": "Average upload gap <= 1 days; videos=348; avg_gap_days=0.37"
+          "reason": "Average upload gap <= 1 days; videos=332; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -16080,6 +16080,13 @@
           "id": "41958039",
           "name": "传播正能量壁鱼",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "420692944",
+          "name": "乌镇戏剧节",
+          "reason": "Average upload gap <= 1 days; videos=24; avg_gap_days=0.38"
         },
         {
           "type": "creator",
@@ -17388,7 +17395,7 @@
           "platform": "bilibili",
           "id": "487614876",
           "name": "四川观察",
-          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -17416,7 +17423,7 @@
           "platform": "bilibili",
           "id": "488055582",
           "name": "新华网",
-          "reason": "Average upload gap <= 1 days; videos=58; avg_gap_days=0.06"
+          "reason": "Average upload gap <= 1 days; videos=59; avg_gap_days=0.06"
         },
         {
           "type": "creator",
