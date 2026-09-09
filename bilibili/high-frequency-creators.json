@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T10:00:40.661Z",
+  "generatedAt": "2026-09-09T11:00:46.521Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -35061,6 +35061,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "475627257",
+          "name": "Kitto_Meari",
+          "reason": "Average upload gap <= 2 days; videos=71; avg_gap_days=1.91"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "475761831",
           "name": "爱动手的秦总师傅",
           "reason": "Average upload gap <= 2 days; videos=82; avg_gap_days=1.74"
@@ -41644,6 +41651,13 @@
           "id": "8659688",
           "name": "贺青山_",
           "reason": "Average upload gap <= 2 days; videos=39; avg_gap_days=1.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "8665127",
+          "name": "dusKID",
+          "reason": "Average upload gap <= 2 days; videos=769; avg_gap_days=0.69"
         },
         {
           "type": "creator",
