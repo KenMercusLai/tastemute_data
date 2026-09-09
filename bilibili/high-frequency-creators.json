@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T00:00:29.064Z",
+  "generatedAt": "2026-09-09T01:00:39.208Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -41970,6 +41970,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "9244107",
+          "name": "能工智人Official",
+          "reason": "Average upload gap <= 2 days; videos=114; avg_gap_days=1.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "925253",
           "name": "好胃口的我",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.85"
@@ -42127,6 +42134,13 @@
           "id": "9529384",
           "name": "不倒翁将军",
           "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "95332087",
+          "name": "Baopinsui",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.40"
         },
         {
           "type": "creator",
