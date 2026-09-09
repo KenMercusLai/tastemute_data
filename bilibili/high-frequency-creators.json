@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T21:00:29.934Z",
+  "generatedAt": "2026-09-09T22:00:29.904Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -41445,6 +41445,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "8060090",
+          "name": "爪子drumdoll",
+          "reason": "Average upload gap <= 2 days; videos=332; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "80696429",
           "name": "恋与制作人",
           "reason": "Average upload gap <= 2 days; videos=44; avg_gap_days=1.79"
@@ -42448,7 +42455,7 @@
           "platform": "bilibili",
           "id": "98627270",
           "name": "哔哩哔哩国创",
-          "reason": "Average upload gap <= 2 days; videos=79; avg_gap_days=1.32"
+          "reason": "Average upload gap <= 2 days; videos=85; avg_gap_days=1.32"
         },
         {
           "type": "creator",
