@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T11:00:46.521Z",
+  "generatedAt": "2026-09-09T12:00:40.753Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -39614,6 +39614,13 @@
           "id": "631228569",
           "name": "雪漫漫Sin",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6316993",
+          "name": "Ronin-Javi",
+          "reason": "Average upload gap <= 2 days; videos=1313; avg_gap_days=1.06"
         },
         {
           "type": "creator",
