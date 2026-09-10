@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T09:00:25.976Z",
+  "generatedAt": "2026-09-10T10:00:44.468Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2954,7 +2954,7 @@
           "platform": "bilibili",
           "id": "1320581",
           "name": "游戏彩笔",
-          "reason": "Average upload gap <= 2 days; videos=206; avg_gap_days=0.70"
+          "reason": "Average upload gap <= 2 days; videos=207; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -8163,6 +8163,13 @@
           "id": "1991105236",
           "name": "竞技侠客",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19913679",
+          "name": "冰玉琴_",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.12"
         },
         {
           "type": "creator",
@@ -32354,7 +32361,7 @@
           "platform": "bilibili",
           "id": "403748305",
           "name": "BML制作指挥部",
-          "reason": "Average upload gap <= 2 days; videos=65; avg_gap_days=1.20"
+          "reason": "Average upload gap <= 2 days; videos=66; avg_gap_days=1.20"
         },
         {
           "type": "creator",
