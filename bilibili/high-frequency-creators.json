@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T19:00:42.472Z",
+  "generatedAt": "2026-09-10T20:00:32.106Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -15170,6 +15170,13 @@
           "id": "3493137024551718",
           "name": "莫实话",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493137248946565",
+          "name": "老狼--三角洲行动",
+          "reason": "Average upload gap <= 2 days; videos=119; avg_gap_days=1.97"
         },
         {
           "type": "creator",
@@ -35056,7 +35063,7 @@
           "platform": "bilibili",
           "id": "473837611",
           "name": "新华社",
-          "reason": "Average upload gap <= 2 days; videos=128; avg_gap_days=0.22"
+          "reason": "Average upload gap <= 2 days; videos=131; avg_gap_days=0.22"
         },
         {
           "type": "creator",
