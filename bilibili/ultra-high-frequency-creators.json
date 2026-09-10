@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T00:00:59.037Z",
+  "generatedAt": "2026-09-10T01:00:55.109Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3963,6 +3963,13 @@
           "id": "2128487337",
           "name": "aespa",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "213202729",
+          "name": "余入夕",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.53"
         },
         {
           "type": "creator",

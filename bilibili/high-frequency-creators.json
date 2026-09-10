@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T00:00:59.037Z",
+  "generatedAt": "2026-09-10T01:00:55.109Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9360,6 +9360,13 @@
           "id": "2129315537",
           "name": "の千早爱音",
           "reason": "Average upload gap <= 2 days; videos=48; avg_gap_days=1.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "213202729",
+          "name": "余入夕",
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=0.53"
         },
         {
           "type": "creator",
