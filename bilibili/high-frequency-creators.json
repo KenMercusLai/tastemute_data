@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T07:00:29.961Z",
+  "generatedAt": "2026-09-10T08:00:42.318Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9604,7 +9604,7 @@
           "platform": "bilibili",
           "id": "21652031",
           "name": "七帆梓NanahoAzusa",
-          "reason": "Average upload gap <= 2 days; videos=500; avg_gap_days=1.33"
+          "reason": "Average upload gap <= 2 days; videos=501; avg_gap_days=1.33"
         },
         {
           "type": "creator",
@@ -39502,6 +39502,13 @@
           "id": "6250993",
           "name": "看看新闻Knews",
           "reason": "Average upload gap <= 2 days; videos=22; avg_gap_days=1.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "62594335",
+          "name": "移动端音游搬运小队",
+          "reason": "Average upload gap <= 2 days; videos=1211; avg_gap_days=0.10"
         },
         {
           "type": "creator",
