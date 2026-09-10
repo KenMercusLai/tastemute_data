@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T05:00:22.904Z",
+  "generatedAt": "2026-09-10T06:00:41.012Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2409,6 +2409,13 @@
           "id": "1259130922",
           "name": "youcongni",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1259862212",
+          "name": "何凌飞HeLingFei",
+          "reason": "Average upload gap <= 2 days; videos=332; avg_gap_days=1.02"
         },
         {
           "type": "creator",
@@ -26110,7 +26117,7 @@
           "platform": "bilibili",
           "id": "365189583",
           "name": "芝士丨情报局",
-          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.96"
+          "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.96"
         },
         {
           "type": "creator",
