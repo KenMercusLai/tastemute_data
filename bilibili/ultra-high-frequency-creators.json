@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T20:00:32.106Z",
+  "generatedAt": "2026-09-10T21:00:34.481Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16331,7 +16331,7 @@
           "platform": "bilibili",
           "id": "434346657",
           "name": "北京大学",
-          "reason": "Average upload gap <= 1 days; videos=451; avg_gap_days=0.73"
+          "reason": "Average upload gap <= 1 days; videos=453; avg_gap_days=0.73"
         },
         {
           "type": "creator",
@@ -19706,6 +19706,13 @@
           "id": "7582245",
           "name": "cc大能行",
           "reason": "Average upload gap <= 1 days; videos=355; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7584632",
+          "name": "哔哩哔哩纪录片",
+          "reason": "Average upload gap <= 1 days; videos=431; avg_gap_days=0.11"
         },
         {
           "type": "creator",
