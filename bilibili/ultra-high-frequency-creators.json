@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T21:00:34.481Z",
+  "generatedAt": "2026-09-10T22:00:55.697Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -593,9 +593,9 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "1122546479",
-          "name": "我是自由君",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.93"
+          "id": "111883644",
+          "name": "电竞迟小超",
+          "reason": "Average upload gap <= 1 days; videos=242; avg_gap_days=0.93"
         },
         {
           "type": "creator",
@@ -2611,7 +2611,7 @@
           "platform": "bilibili",
           "id": "174287646",
           "name": "月枫下的妖精",
-          "reason": "Average upload gap <= 1 days; videos=389; avg_gap_days=0.63"
+          "reason": "Average upload gap <= 1 days; videos=390; avg_gap_days=0.63"
         },
         {
           "type": "creator",
@@ -3298,6 +3298,13 @@
           "id": "1929088027",
           "name": "陈聿弘讲经典",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19291652",
+          "name": "青木菌Aoki",
+          "reason": "Average upload gap <= 1 days; videos=113; avg_gap_days=0.73"
         },
         {
           "type": "creator",
@@ -5804,6 +5811,13 @@
           "id": "333020219",
           "name": "昔日小白菜",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "333399475",
+          "name": "麦麦大王_次元相位",
+          "reason": "Average upload gap <= 1 days; videos=103; avg_gap_days=0.83"
         },
         {
           "type": "creator",
