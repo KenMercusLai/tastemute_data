@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T12:00:47.054Z",
+  "generatedAt": "2026-09-10T13:00:33.156Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3963,6 +3963,13 @@
           "id": "1455933",
           "name": "苏苏的美食记录",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1459509208",
+          "name": "秋辞配音",
+          "reason": "Average upload gap <= 2 days; videos=50; avg_gap_days=0.64"
         },
         {
           "type": "creator",

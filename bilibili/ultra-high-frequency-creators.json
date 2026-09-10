@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T12:00:47.054Z",
+  "generatedAt": "2026-09-10T13:00:33.156Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1751,6 +1751,13 @@
           "id": "1451351639",
           "name": "游戏小花园",
           "reason": "Average upload gap <= 1 days; videos=63; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1459509208",
+          "name": "秋辞配音",
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.64"
         },
         {
           "type": "creator",
