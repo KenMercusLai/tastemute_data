@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T04:00:30.052Z",
+  "generatedAt": "2026-09-10T05:00:22.904Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2415,7 +2415,7 @@
           "platform": "bilibili",
           "id": "1684104875",
           "name": "津漂三晋人",
-          "reason": "Average upload gap <= 1 days; videos=44; avg_gap_days=0.15"
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -15282,6 +15282,13 @@
           "id": "388356968",
           "name": "mu木mu鱼",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "38835867",
+          "name": "暖暖崽在干饭",
+          "reason": "Average upload gap <= 1 days; videos=150; avg_gap_days=0.95"
         },
         {
           "type": "creator",
