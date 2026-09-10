@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T16:00:34.331Z",
+  "generatedAt": "2026-09-10T17:00:48.238Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -16122,6 +16122,13 @@
           "id": "421225943",
           "name": "小星科普宇宙1",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "421600",
+          "name": "白茶荼葵",
+          "reason": "Average upload gap <= 1 days; videos=130; avg_gap_days=0.79"
         },
         {
           "type": "creator",
