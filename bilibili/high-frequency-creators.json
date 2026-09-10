@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T06:00:41.012Z",
+  "generatedAt": "2026-09-10T07:00:29.961Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -33761,7 +33761,7 @@
           "platform": "bilibili",
           "id": "437415",
           "name": "___蓝牙连不上了",
-          "reason": "Average upload gap <= 2 days; videos=337; avg_gap_days=0.12"
+          "reason": "Average upload gap <= 2 days; videos=338; avg_gap_days=0.12"
         },
         {
           "type": "creator",
@@ -33950,7 +33950,7 @@
           "platform": "bilibili",
           "id": "440555",
           "name": "神圣的楼兰我",
-          "reason": "Average upload gap <= 2 days; videos=1688; avg_gap_days=0.07"
+          "reason": "Average upload gap <= 2 days; videos=1690; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -41314,7 +41314,7 @@
           "platform": "bilibili",
           "id": "746399",
           "name": "祝你夜梦清吉",
-          "reason": "Average upload gap <= 2 days; videos=281; avg_gap_days=1.64"
+          "reason": "Average upload gap <= 2 days; videos=282; avg_gap_days=1.64"
         },
         {
           "type": "creator",
@@ -41461,7 +41461,7 @@
           "platform": "bilibili",
           "id": "8038488",
           "name": "8Hachi_8",
-          "reason": "Average upload gap <= 2 days; videos=112; avg_gap_days=0.53"
+          "reason": "Average upload gap <= 2 days; videos=114; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -42266,7 +42266,7 @@
           "platform": "bilibili",
           "id": "94558176",
           "name": "冥侦探柯镇恶喵",
-          "reason": "Average upload gap <= 2 days; videos=2535; avg_gap_days=0.43"
+          "reason": "Average upload gap <= 2 days; videos=2538; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -42316,6 +42316,13 @@
           "id": "95392367",
           "name": "孟德别来无恙",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "9570386",
+          "name": "东君Mika",
+          "reason": "Average upload gap <= 2 days; videos=34; avg_gap_days=0.03"
         },
         {
           "type": "creator",
