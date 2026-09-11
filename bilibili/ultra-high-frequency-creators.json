@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T01:00:33.442Z",
+  "generatedAt": "2026-09-11T03:00:51.026Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1853,6 +1853,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1490204670",
+          "name": "无畏镜中人",
+          "reason": "Average upload gap <= 1 days; videos=56; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1491420586",
           "name": "dzo0416",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.15"
@@ -2878,6 +2885,13 @@
           "id": "1816188631",
           "name": "你可能是个棒槌",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1817570278",
+          "name": "南溪秋水",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
         },
         {
           "type": "creator",
@@ -4306,6 +4320,13 @@
           "id": "23315338",
           "name": "这个刀子真甜",
           "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "234324480",
+          "name": "主播圈内事",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -7043,6 +7064,13 @@
           "id": "3493296844310656",
           "name": "只分享干货的天天",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493297005791673",
+          "name": "老实点水跃鱼",
+          "reason": "Average upload gap <= 1 days; videos=110; avg_gap_days=0.84"
         },
         {
           "type": "creator",
@@ -17295,6 +17323,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "482647710",
+          "name": "承旭阿",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.11"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "483158245",
           "name": "我叫阿尔卑微",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.44"
@@ -17620,6 +17655,13 @@
           "id": "4926234",
           "name": "楠木仙人",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.54"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "492696827",
+          "name": "英雄在你身边",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.94"
         },
         {
           "type": "creator",
@@ -18079,6 +18121,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "516141545",
+          "name": "晓夜夜_",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "516616204",
           "name": "王岗同学",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.45"
@@ -18110,6 +18159,13 @@
           "id": "519426730",
           "name": "满级追漫人",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.24"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "519585366",
+          "name": "游戏BBQ",
+          "reason": "Average upload gap <= 1 days; videos=209; avg_gap_days=0.03"
         },
         {
           "type": "creator",
@@ -19692,6 +19748,13 @@
           "id": "73441013",
           "name": "枫叶边城",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7370030",
+          "name": "澡酱的日常",
+          "reason": "Average upload gap <= 1 days; videos=172; avg_gap_days=0.17"
         },
         {
           "type": "creator",
