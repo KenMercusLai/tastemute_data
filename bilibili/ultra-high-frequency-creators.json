@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T04:00:43.442Z",
+  "generatedAt": "2026-09-11T05:01:09.495Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1086,6 +1086,13 @@
           "id": "1268919",
           "name": "Yoming解说",
           "reason": "Average upload gap <= 1 days; videos=530; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1269879769",
+          "name": "摆烂的诗予予",
+          "reason": "Average upload gap <= 1 days; videos=315; avg_gap_days=0.77"
         },
         {
           "type": "creator",
