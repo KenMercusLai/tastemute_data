@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T10:01:13.027Z",
+  "generatedAt": "2026-09-11T11:01:25.854Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -113,6 +113,13 @@
           "id": "1015287711",
           "name": "阿宁探影",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1015384805",
+          "name": "小轩的影视日记",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -5927,6 +5934,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "324788826",
+          "name": "王者荣耀夕颜-",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.41"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "32519050",
           "name": "瓜皮稳",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.45"
@@ -6000,6 +6014,13 @@
           "id": "328271007",
           "name": "青蜂侠-Bee",
           "reason": "Average upload gap <= 1 days; videos=617; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32829",
+          "name": "NEETKO",
+          "reason": "Average upload gap <= 1 days; videos=1598; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -8016,6 +8037,13 @@
           "id": "3546377810348504",
           "name": "纵论天下之事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.55"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546378118629779",
+          "name": "私藏的卡提希娅",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -11257,6 +11285,13 @@
           "id": "3546919500515754",
           "name": "风芒新闻",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546919678773949",
+          "name": "芊苾云禾",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -16189,6 +16224,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "400112035",
+          "name": "花大叔Baymax",
+          "reason": "Average upload gap <= 1 days; videos=804; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "400365277",
           "name": "集帅の日常小动漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
@@ -18999,6 +19041,13 @@
           "id": "545985022",
           "name": "董快乐很开心",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "545992875",
+          "name": "一碗酱D",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.20"
         },
         {
           "type": "creator",
