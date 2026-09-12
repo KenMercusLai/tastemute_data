@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T10:01:21.683Z",
+  "generatedAt": "2026-09-12T11:01:20.872Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4296,6 +4296,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2043081732",
+          "name": "小小的房子世界",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2043250564",
           "name": "4K音乐馆",
           "reason": "Average upload gap <= 1 days; videos=277; avg_gap_days=0.90"
@@ -4691,6 +4698,13 @@
           "id": "214021340",
           "name": "老王游戏情报站",
           "reason": "Average upload gap <= 1 days; videos=144; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2142350499",
+          "name": "客行冯温酒666",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -7246,6 +7260,13 @@
           "id": "3493078335752595",
           "name": "陈晨晨o",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493079176711064",
+          "name": "遥遥星空娱",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -20760,6 +20781,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "56265428",
+          "name": "云不莠",
+          "reason": "Average upload gap <= 1 days; videos=330; avg_gap_days=0.19"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "5667821",
           "name": "费南多同学",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.34"
@@ -21029,6 +21057,13 @@
           "id": "598961854",
           "name": "金阙谣",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "599958709",
+          "name": "乐哥娱乐",
+          "reason": "Average upload gap <= 1 days; videos=284; avg_gap_days=0.11"
         },
         {
           "type": "creator",
