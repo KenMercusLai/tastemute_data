@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T07:01:09.243Z",
+  "generatedAt": "2026-09-12T08:01:01.051Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5815,6 +5815,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "286553100",
+          "name": "铲铲皇帝",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "286901034",
           "name": "邹老师四六级翻译",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.58"
@@ -5951,6 +5958,13 @@
           "id": "292057296",
           "name": "鼠鼠漫剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "29208404",
+          "name": "小金大明",
+          "reason": "Average upload gap <= 1 days; videos=670; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -6931,6 +6945,13 @@
           "id": "3461566261365684",
           "name": "YouTube武器大师",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461567423187673",
+          "name": "1000個機頂盒嘅收視",
+          "reason": "Average upload gap <= 1 days; videos=635; avg_gap_days=0.40"
         },
         {
           "type": "creator",
@@ -10557,6 +10578,13 @@
           "id": "3546781109455557",
           "name": "财剧星探",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546783831558496",
+          "name": "小暖今天闭麦了",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.86"
         },
         {
           "type": "creator",
@@ -15874,6 +15902,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3706979350481660",
+          "name": "无心念信",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3706980623453050",
           "name": "摸鱼读柏拉图",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -16577,6 +16612,13 @@
           "id": "374824337",
           "name": "爽呢动漫",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "37507923",
+          "name": "碧蓝档案资讯站",
+          "reason": "Average upload gap <= 1 days; videos=731; avg_gap_days=0.88"
         },
         {
           "type": "creator",
@@ -17487,6 +17529,13 @@
           "id": "403359986",
           "name": "开心元元1",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "403375255",
+          "name": "扶光录",
+          "reason": "Average upload gap <= 1 days; videos=180; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -19171,6 +19220,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "482429649",
+          "name": "阿甚AS",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "482498648",
           "name": "深灰色的萌",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
@@ -20175,6 +20231,13 @@
           "id": "522653994",
           "name": "大象新闻",
           "reason": "Average upload gap <= 1 days; videos=88; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "522658897",
+          "name": "天翼噢",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.82"
         },
         {
           "type": "creator",
