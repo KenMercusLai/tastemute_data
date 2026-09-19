@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T08:00:56.604Z",
+  "generatedAt": "2026-09-19T09:01:09.369Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -20119,6 +20119,13 @@
           "id": "3537125790189623",
           "name": "伤心蛤蟆MC",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "35372675",
+          "name": "宇哥侃故事",
+          "reason": "Average upload gap <= 2 days; videos=291; avg_gap_days=1.84"
         },
         {
           "type": "creator",
@@ -42400,6 +42407,13 @@
           "id": "508654880",
           "name": "封面新闻",
           "reason": "Average upload gap <= 2 days; videos=153; avg_gap_days=0.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "508849150",
+          "name": "唐婶Sir张三封",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.62"
         },
         {
           "type": "creator",
