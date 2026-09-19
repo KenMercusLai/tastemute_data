@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T09:01:09.369Z",
+  "generatedAt": "2026-09-19T10:00:56.640Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5661,6 +5661,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1583257",
+          "name": "AtlasCedar",
+          "reason": "Average upload gap <= 2 days; videos=735; avg_gap_days=1.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "15832838",
           "name": "喜欢就买JustBuy",
           "reason": "Average upload gap <= 2 days; videos=223; avg_gap_days=1.00"
@@ -9521,6 +9528,13 @@
           "id": "1986460044",
           "name": "凯尔希是屑猞猁",
           "reason": "Average upload gap <= 2 days; videos=81; avg_gap_days=1.81"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1987122",
+          "name": "月兔の向日葵",
+          "reason": "Average upload gap <= 2 days; videos=119; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -20378,6 +20392,13 @@
           "id": "3546383860632429",
           "name": "无疆哒仙",
           "reason": "Average upload gap <= 2 days; videos=29; avg_gap_days=1.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546384070346883",
+          "name": "手工鸭丶",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.61"
         },
         {
           "type": "creator",
@@ -37287,6 +37308,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "408771532",
+          "name": "设计人阿蒙",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.13"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "409086587",
           "name": "一个被老婆磨平的90后",
           "reason": "Average upload gap <= 2 days; videos=20; avg_gap_days=1.79"
@@ -42274,6 +42302,13 @@
           "id": "504846449",
           "name": "外小白",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504866704",
+          "name": "铜角大魔王9527",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.64"
         },
         {
           "type": "creator",

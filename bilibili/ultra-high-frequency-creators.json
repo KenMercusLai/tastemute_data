@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T09:01:09.369Z",
+  "generatedAt": "2026-09-19T10:00:56.640Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4166,6 +4166,13 @@
           "id": "1984645282",
           "name": "热门解说员桃子",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1987122",
+          "name": "月兔の向日葵",
+          "reason": "Average upload gap <= 1 days; videos=119; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -20483,6 +20490,13 @@
           "id": "50466923",
           "name": "摆烂呆瓜王",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "504866704",
+          "name": "铜角大魔王9527",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
         },
         {
           "type": "creator",
