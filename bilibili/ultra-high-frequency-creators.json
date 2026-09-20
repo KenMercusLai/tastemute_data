@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:01:48.806Z",
+  "generatedAt": "2026-09-20T08:01:20.720Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3295,6 +3295,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1767979267",
+          "name": "爱剪辑的兔子警官",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1768293786",
           "name": "萌蛋夜袭",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
@@ -3613,6 +3620,13 @@
           "id": "18263905",
           "name": "愚者说",
           "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1830695881",
+          "name": "Bradley布莱德利",
+          "reason": "Average upload gap <= 1 days; videos=438; avg_gap_days=0.35"
         },
         {
           "type": "creator",
@@ -4968,6 +4982,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21289137",
+          "name": "HangYe_nation",
+          "reason": "Average upload gap <= 1 days; videos=63; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "213202729",
           "name": "余入夕",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.53"
@@ -5258,6 +5279,13 @@
           "id": "229520656",
           "name": "大眼玩战双",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2297626",
+          "name": "追星小宇宙",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
         },
         {
           "type": "creator",
@@ -5972,6 +6000,13 @@
           "id": "273780054",
           "name": "KoKo小白",
           "reason": "Average upload gap <= 1 days; videos=508; avg_gap_days=0.92"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "273940794",
+          "name": "只是开车",
+          "reason": "Average upload gap <= 1 days; videos=453; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -12101,6 +12136,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546859131898386",
+          "name": "辣条在售跟我走",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546859243047503",
           "name": "荀小诺诺",
           "reason": "Average upload gap <= 1 days; videos=166; avg_gap_days=0.17"
@@ -12139,6 +12181,13 @@
           "id": "3546860394383397",
           "name": "吸烟猪",
           "reason": "Average upload gap <= 1 days; videos=26; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546860417452881",
+          "name": "生椰拿铁丶咖妃",
+          "reason": "Average upload gap <= 1 days; videos=391; avg_gap_days=0.70"
         },
         {
           "type": "creator",
@@ -17743,6 +17792,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "377888465",
+          "name": "和泉妃爱hiyori",
+          "reason": "Average upload gap <= 1 days; videos=55; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "377909755",
           "name": "烟链科技",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
@@ -19083,6 +19139,13 @@
           "id": "418393983",
           "name": "番茄同人迷",
           "reason": "Average upload gap <= 1 days; videos=317; avg_gap_days=0.29"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "419085137",
+          "name": "爱豆安利所",
+          "reason": "Average upload gap <= 1 days; videos=269; avg_gap_days=0.04"
         },
         {
           "type": "creator",
@@ -22296,6 +22359,13 @@
           "id": "60058",
           "name": "阿尔法小分队字幕组",
           "reason": "Average upload gap <= 1 days; videos=156; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "602170009",
+          "name": "牛不爱肉",
+          "reason": "Average upload gap <= 1 days; videos=94; avg_gap_days=0.96"
         },
         {
           "type": "creator",
