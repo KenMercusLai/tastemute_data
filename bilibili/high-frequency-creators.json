@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T11:01:57.877Z",
+  "generatedAt": "2026-10-06T12:01:46.063Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6466,6 +6466,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1644181887",
+          "name": "半喵小剧场",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.31"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1644217552",
           "name": "拾光帧探剧",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
@@ -8471,6 +8478,13 @@
           "id": "1832904916",
           "name": "曼城足球俱乐部",
           "reason": "Average upload gap <= 2 days; videos=19; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1833358390",
+          "name": "C罗真实档案",
+          "reason": "Average upload gap <= 2 days; videos=42; avg_gap_days=0.22"
         },
         {
           "type": "creator",
@@ -22174,6 +22188,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546590415424134",
+          "name": "卡了麻麻",
+          "reason": "Average upload gap <= 2 days; videos=70; avg_gap_days=1.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546590606264320",
           "name": "暮雨冰封",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.94"
@@ -30654,6 +30675,13 @@
           "id": "357261525",
           "name": "安迪视频",
           "reason": "Average upload gap <= 2 days; videos=41; avg_gap_days=1.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "357401285",
+          "name": "梦入缘峰",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.16"
         },
         {
           "type": "creator",
@@ -43643,6 +43671,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "493769829",
+          "name": "万仕达梅西",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=1.83"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "493980850",
           "name": "下饭动漫酱",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.21"
@@ -44574,6 +44609,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "5133502",
+          "name": "迈阿密国际守梅者",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.59"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "51354695",
           "name": "超级大大357",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.11"
@@ -45417,6 +45459,13 @@
           "id": "527233131",
           "name": "时色放流",
           "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "527337357",
+          "name": "决战十二码",
+          "reason": "Average upload gap <= 2 days; videos=40; avg_gap_days=0.18"
         },
         {
           "type": "creator",
