@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T11:02:26.635Z",
+  "generatedAt": "2026-10-08T12:02:20.276Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2402,6 +2402,13 @@
           "id": "139865813",
           "name": "上来就是一个假传圣旨",
           "reason": "Average upload gap <= 1 days; videos=439; avg_gap_days=0.24"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1399777969",
+          "name": "我需要做点迷因",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -5458,6 +5465,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1952932023",
+          "name": "娱圈小宇宙",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1954997940",
           "name": "午餐肉艺术家葛世贤",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
@@ -7642,6 +7656,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "269091503",
+          "name": "吉祥小草神",
+          "reason": "Average upload gap <= 1 days; videos=152; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "27002871",
           "name": "托尼YUの模玩博物馆",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.80"
@@ -9129,6 +9150,13 @@
           "id": "327601906",
           "name": "道是无情最逍遥",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "32782335",
+          "name": "嗑糖少女000",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -13315,6 +13343,13 @@
           "id": "3546673244539135",
           "name": "若木师姐",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546673812867594",
+          "name": "视角天堂",
+          "reason": "Average upload gap <= 1 days; videos=836; avg_gap_days=0.53"
         },
         {
           "type": "creator",
@@ -18485,6 +18520,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3671428",
+          "name": "一斤芋圆儿",
+          "reason": "Average upload gap <= 1 days; videos=156; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "367262849",
           "name": "一里ouo",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.33"
@@ -19622,13 +19664,6 @@
           "id": "3691559",
           "name": "困锁Lockeder",
           "reason": "Average upload gap <= 1 days; videos=376; avg_gap_days=0.58"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "36936765",
-          "name": "布鲁诺OvO",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.89"
         },
         {
           "type": "creator",
@@ -21978,6 +22013,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "390178044",
+          "name": "王心怡wxy颜粉",
+          "reason": "Average upload gap <= 1 days; videos=419; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "390498670",
           "name": "蓝落屿",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
@@ -22744,6 +22786,13 @@
           "id": "41114185",
           "name": "zhaoryanarkroyal",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "411176341",
+          "name": "剁头使我神清气爽",
+          "reason": "Average upload gap <= 1 days; videos=386; avg_gap_days=0.04"
         },
         {
           "type": "creator",
