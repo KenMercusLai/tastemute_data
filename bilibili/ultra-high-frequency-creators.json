@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T23:01:59.339Z",
+  "generatedAt": "2026-10-08T00:02:03.818Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -337,6 +337,13 @@
           "id": "104166432",
           "name": "剑网3录屏一了银林一",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "104280595",
+          "name": "冰糖ibuki",
+          "reason": "Average upload gap <= 1 days; videos=88; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -1527,6 +1534,13 @@
           "id": "1263732318",
           "name": "黑纹白斑马",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1264505472",
+          "name": "糖豆娱乐",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
@@ -3267,6 +3281,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1609367679",
+          "name": "一起来挺郭德刚",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "161260897",
           "name": "王小量化日记",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
@@ -3963,6 +3984,13 @@
           "id": "1749710516",
           "name": "超级爱下雨天",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "175327589",
+          "name": "水滴的瞬间",
+          "reason": "Average upload gap <= 1 days; videos=135; avg_gap_days=0.07"
         },
         {
           "type": "creator",
@@ -5199,6 +5227,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1964963883",
+          "name": "浅笙幻",
+          "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1966124399",
           "name": "ETtoday星光云",
           "reason": "Average upload gap <= 1 days; videos=86; avg_gap_days=0.20"
@@ -5790,6 +5825,13 @@
           "id": "2075666278",
           "name": "溪岚梦",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.69"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "2079556701",
+          "name": "青丸的通关日记",
+          "reason": "Average upload gap <= 1 days; videos=134; avg_gap_days=0.15"
         },
         {
           "type": "creator",
@@ -16112,6 +16154,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546949242325175",
+          "name": "神秘睦子咪",
+          "reason": "Average upload gap <= 1 days; videos=117; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546949619813208",
           "name": "大雷圣体1",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.56"
@@ -21649,6 +21698,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "405605957",
+          "name": "好奇看全球dy",
+          "reason": "Average upload gap <= 1 days; videos=46; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "405643501",
           "name": "不善面对梦中的你",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.04"
@@ -24669,6 +24725,13 @@
           "id": "5093346",
           "name": "爱琳野",
           "reason": "Average upload gap <= 1 days; videos=153; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "509864512",
+          "name": "动漫小家趣事",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
