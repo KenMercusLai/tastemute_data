@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T15:03:11.877Z",
+  "generatedAt": "2026-10-08T16:02:39.605Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -5689,13 +5689,6 @@
         {
           "type": "creator",
           "platform": "bilibili",
-          "id": "1980666392",
-          "name": "哔哩哔哩篮球赛事",
-          "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.42"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
           "id": "1983023468",
           "name": "是元小郑呀",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.42"
@@ -7169,6 +7162,13 @@
           "id": "241654947",
           "name": "老艺术家过家家",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "241701207",
+          "name": "不快乐星期三",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -9896,6 +9896,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3461582881295231",
+          "name": "奚哲正装穿搭店",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "346344723",
           "name": "中国足球小将",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.44"
@@ -12118,6 +12125,13 @@
           "id": "354327208",
           "name": "糯米团子芝麻酱",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "354351874",
+          "name": "香港Show_Time",
+          "reason": "Average upload gap <= 1 days; videos=473; avg_gap_days=0.17"
         },
         {
           "type": "creator",
@@ -25789,6 +25803,13 @@
           "id": "501247999",
           "name": "RT今日俄罗斯",
           "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "501824567",
+          "name": "冷狐明枫fuoux",
+          "reason": "Average upload gap <= 1 days; videos=137; avg_gap_days=0.32"
         },
         {
           "type": "creator",
