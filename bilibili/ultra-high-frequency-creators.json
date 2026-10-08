@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T08:02:25.939Z",
+  "generatedAt": "2026-10-08T09:02:26.843Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -736,6 +736,13 @@
           "id": "1091343387",
           "name": "那个平凡的人",
           "reason": "Average upload gap <= 1 days; videos=168; avg_gap_days=0.67"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "109184846",
+          "name": "S级新手",
+          "reason": "Average upload gap <= 1 days; videos=143; avg_gap_days=0.26"
         },
         {
           "type": "creator",
@@ -2392,6 +2399,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1407305310",
+          "name": "德普解说酱",
+          "reason": "Average upload gap <= 1 days; videos=103; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "140821889",
           "name": "七十岁低保老头",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.72"
@@ -2423,6 +2437,13 @@
           "id": "1410769486",
           "name": "刘童童玩游戏",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.82"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1411243914",
+          "name": "阿伟马克兔",
+          "reason": "Average upload gap <= 1 days; videos=360; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -3613,6 +3634,13 @@
           "id": "1646960168",
           "name": "兔娘的星萤",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1646982018",
+          "name": "老猫斗虎",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.11"
         },
         {
           "type": "creator",
@@ -5976,6 +6004,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "2064944174",
+          "name": "林笑嫣然",
+          "reason": "Average upload gap <= 1 days; videos=85; avg_gap_days=0.17"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2068141799",
           "name": "雀门琦琦",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
@@ -6728,6 +6763,13 @@
           "id": "230191841",
           "name": "抽象历史人物志",
           "reason": "Average upload gap <= 1 days; videos=16; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "23032338",
+          "name": "一朵小蕾蕾",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
         },
         {
           "type": "creator",
@@ -8433,6 +8475,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "309191825",
+          "name": "良良TV",
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "310232161",
           "name": "张倍源GG",
           "reason": "Average upload gap <= 1 days; videos=114; avg_gap_days=0.33"
@@ -8905,6 +8954,13 @@
           "id": "325406",
           "name": "一直喵OneStraightCat",
           "reason": "Average upload gap <= 1 days; videos=100; avg_gap_days=0.20"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "325897318",
+          "name": "御风逆流",
+          "reason": "Average upload gap <= 1 days; videos=1084; avg_gap_days=0.33"
         },
         {
           "type": "creator",
@@ -9500,6 +9556,13 @@
           "id": "3461574190697119",
           "name": "小散门",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461575040043315",
+          "name": "哪啥讲电影",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
         },
         {
           "type": "creator",
@@ -12307,6 +12370,13 @@
           "id": "3546587735264018",
           "name": "奥特曼之魂",
           "reason": "Average upload gap <= 1 days; videos=60; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546588800616571",
+          "name": "剧梗之王解说版",
+          "reason": "Average upload gap <= 1 days; videos=85; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -22051,6 +22121,13 @@
           "id": "3984609",
           "name": "御御御御坂丶",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "398875041",
+          "name": "蓝的土豆",
+          "reason": "Average upload gap <= 1 days; videos=95; avg_gap_days=0.38"
         },
         {
           "type": "creator",
