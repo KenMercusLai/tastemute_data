@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T05:02:15.935Z",
+  "generatedAt": "2026-10-08T06:02:11.989Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1121,6 +1121,13 @@
           "id": "1168580794",
           "name": "红果壳郎推剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "11691053",
+          "name": "花乃七_Hanano",
+          "reason": "Average upload gap <= 1 days; videos=842; avg_gap_days=0.36"
         },
         {
           "type": "creator",
@@ -4152,6 +4159,13 @@
           "id": "175870152",
           "name": "资源汇社区",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1760633359",
+          "name": "暗影君王星",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -8076,6 +8090,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "294636141",
+          "name": "GamerWhale",
+          "reason": "Average upload gap <= 1 days; videos=178; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "295386378",
           "name": "falisu23333",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.83"
@@ -10277,6 +10298,13 @@
           "id": "3493144930814026",
           "name": "风中羽音",
           "reason": "Average upload gap <= 1 days; videos=147; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493145270552925",
+          "name": "我金克丝超厉害",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
         },
         {
           "type": "creator",
