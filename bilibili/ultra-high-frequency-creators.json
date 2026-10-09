@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T08:02:01.811Z",
+  "generatedAt": "2026-10-09T09:01:54.795Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -8412,6 +8412,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "27900846",
+          "name": "枫影FY7",
+          "reason": "Average upload gap <= 1 days; videos=532; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "279045669",
           "name": "YT先锋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.02"
@@ -9056,6 +9063,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "298524800",
+          "name": "宛星若",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.33"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "298591899",
           "name": "二喵二汪",
           "reason": "Average upload gap <= 1 days; videos=759; avg_gap_days=0.42"
@@ -9665,6 +9679,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "32375752",
+          "name": "身居幻想乡の长乐安生",
+          "reason": "Average upload gap <= 1 days; videos=75; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "32434670",
           "name": "十一点包子",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
@@ -9765,7 +9786,7 @@
           "platform": "bilibili",
           "id": "32708626",
           "name": "哔斯卡金像奖",
-          "reason": "Average upload gap <= 1 days; videos=383; avg_gap_days=0.68"
+          "reason": "Average upload gap <= 1 days; videos=384; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -10277,6 +10298,13 @@
           "id": "3461564856273129",
           "name": "小相声茶馆",
           "reason": "Average upload gap <= 1 days; videos=227; avg_gap_days=0.71"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3461566181673666",
+          "name": "西北农村风土人情",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.29"
         },
         {
           "type": "creator",
@@ -29020,6 +29048,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "639513654",
+          "name": "米木木mim",
+          "reason": "Average upload gap <= 1 days; videos=111; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "639617127",
           "name": "糯米CG",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
@@ -29884,6 +29919,13 @@
           "id": "702797805",
           "name": "阿岳游戏解说",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "702882582",
+          "name": "GA18井",
+          "reason": "Average upload gap <= 1 days; videos=587; avg_gap_days=0.03"
         },
         {
           "type": "creator",
