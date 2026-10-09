@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T01:02:45.591Z",
+  "generatedAt": "2026-10-09T02:03:24.155Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1268,6 +1268,13 @@
           "id": "1180949417",
           "name": "喵炫子",
           "reason": "Average upload gap <= 1 days; videos=325; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1181056876",
+          "name": "金银细工技艺传承人",
+          "reason": "Average upload gap <= 1 days; videos=107; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -4891,6 +4898,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1823295508",
+          "name": "山核雅拍",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1824094060",
           "name": "麦Mercury",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.90"
@@ -7400,6 +7414,13 @@
           "id": "241199113",
           "name": "僵尸教授-",
           "reason": "Average upload gap <= 1 days; videos=178; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "241244126",
+          "name": "FoTo色和尚Prod",
+          "reason": "Average upload gap <= 1 days; videos=103; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -17232,6 +17253,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546925030706033",
+          "name": "软桃栖星哆哩",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546926444186228",
           "name": "suki星三",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.40"
@@ -23672,6 +23700,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "412017117",
+          "name": "暗器阁大冲冲",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "412198578",
           "name": "a困了咩",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
@@ -26468,6 +26503,13 @@
           "id": "500971120",
           "name": "陈怀安_Aaa",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "501061062",
+          "name": "Ytp008",
+          "reason": "Average upload gap <= 1 days; videos=79; avg_gap_days=0.16"
         },
         {
           "type": "creator",
