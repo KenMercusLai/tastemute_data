@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T06:02:37.610Z",
+  "generatedAt": "2026-10-09T07:02:35.184Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2584,6 +2584,13 @@
           "id": "13959972",
           "name": "骇丶c",
           "reason": "Average upload gap <= 1 days; videos=424; avg_gap_days=0.73"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1396651849",
+          "name": "洛克桂船长",
+          "reason": "Average upload gap <= 1 days; videos=75; avg_gap_days=0.25"
         },
         {
           "type": "creator",
@@ -9322,6 +9329,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "314762954",
+          "name": "蓝莓雪迹",
+          "reason": "Average upload gap <= 1 days; videos=136; avg_gap_days=0.03"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "314790542",
           "name": "a-skethes",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.29"
@@ -11502,6 +11516,13 @@
           "id": "3493268895566147",
           "name": "谢特heck",
           "reason": "Average upload gap <= 1 days; videos=78; avg_gap_days=0.90"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493270187411528",
+          "name": "观史品人生",
+          "reason": "Average upload gap <= 1 days; videos=452; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -25275,6 +25296,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "452977326",
+          "name": "ずっと三月でいいのに",
+          "reason": "Average upload gap <= 1 days; videos=121; avg_gap_days=0.96"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "45374791",
           "name": "吾名为头像是也",
           "reason": "Average upload gap <= 1 days; videos=138; avg_gap_days=0.82"
@@ -25642,6 +25670,13 @@
           "id": "4729816",
           "name": "赵小爽729",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.98"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "473031850",
+          "name": "梦之汐动漫",
+          "reason": "Average upload gap <= 1 days; videos=80; avg_gap_days=0.41"
         },
         {
           "type": "creator",
@@ -29401,6 +29436,13 @@
           "id": "678403034",
           "name": "兔兔大王驾到_",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "6791307",
+          "name": "书玉枝",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
         },
         {
           "type": "creator",
