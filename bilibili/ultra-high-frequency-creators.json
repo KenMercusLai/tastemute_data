@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T05:02:48.003Z",
+  "generatedAt": "2026-10-09T06:02:37.610Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1961,6 +1961,13 @@
           "id": "1289388278",
           "name": "动物猿记事本",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "12896615",
+          "name": "阿瑟斯23fd",
+          "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.21"
         },
         {
           "type": "creator",
@@ -6928,6 +6935,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "21406233",
+          "name": "阿柒的收藏",
+          "reason": "Average upload gap <= 1 days; videos=752; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2142350499",
           "name": "客行冯温酒666",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
@@ -8916,6 +8930,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "295851711",
+          "name": "游戏小浪君",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296086460",
           "name": "F1世界锦标赛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
@@ -9360,6 +9381,13 @@
           "id": "31703119",
           "name": "智东西",
           "reason": "Average upload gap <= 1 days; videos=109; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "317323871",
+          "name": "牛角刀大",
+          "reason": "Average upload gap <= 1 days; videos=186; avg_gap_days=0.87"
         },
         {
           "type": "creator",
@@ -13021,6 +13049,13 @@
           "id": "3546562164689576",
           "name": "紫不语00",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546562932247006",
+          "name": "FriedemRepublic",
+          "reason": "Average upload gap <= 1 days; videos=50; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -22496,6 +22531,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "378322700",
+          "name": "萌萌哒more",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "378386929",
           "name": "天上天下天地无双漫画",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.64"
@@ -25859,6 +25901,13 @@
           "id": "478588775",
           "name": "佳耀趣谈",
           "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "478606883",
+          "name": "老赵老二追剧进行中",
+          "reason": "Average upload gap <= 1 days; videos=436; avg_gap_days=0.78"
         },
         {
           "type": "creator",
