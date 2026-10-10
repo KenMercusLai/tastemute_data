@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T16:02:31.229Z",
+  "generatedAt": "2026-10-10T17:02:19.533Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -4198,6 +4198,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1601177192",
+          "name": "贝壳三角洲切片",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1601541126",
           "name": "老玖解说",
           "reason": "Average upload gap <= 1 days; videos=62; avg_gap_days=0.32"
@@ -4740,6 +4747,13 @@
           "id": "1685142065",
           "name": "仙女本无事",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1685519268",
+          "name": "养鱼说_鱼花鹦鹉",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.75"
         },
         {
           "type": "creator",
@@ -11779,6 +11793,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "347120750",
+          "name": "邪神_karasu_喵",
+          "reason": "Average upload gap <= 1 days; videos=170; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "347443092",
           "name": "时间倒退十年",
           "reason": "Average upload gap <= 1 days; videos=37; avg_gap_days=0.54"
@@ -16199,6 +16220,13 @@
           "id": "3546701572869014",
           "name": "你的麦克阿瑟纪录片",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546701948258745",
+          "name": "米家曦",
+          "reason": "Average upload gap <= 1 days; videos=145; avg_gap_days=0.65"
         },
         {
           "type": "creator",
@@ -21176,6 +21204,13 @@
           "id": "3632304819801026",
           "name": "甜兮说剧A",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.08"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3632304989670331",
+          "name": "直播回放蛋舰长",
+          "reason": "Average upload gap <= 1 days; videos=102; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -27907,6 +27942,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "452523236",
+          "name": "咕咕cc电竞短报",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "452910657",
           "name": "雪薇解说",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.13"
@@ -31522,6 +31564,13 @@
           "id": "614517832",
           "name": "狐说怪谈官方号",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "615735689",
+          "name": "DwDtxlz",
+          "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=0.92"
         },
         {
           "type": "creator",
