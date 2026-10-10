@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T18:02:28.499Z",
+  "generatedAt": "2026-10-10T19:02:16.270Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -442,6 +442,13 @@
           "id": "104092224",
           "name": "中新视频",
           "reason": "Average upload gap <= 1 days; videos=522; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "10409712",
+          "name": "十一是只小猪",
+          "reason": "Average upload gap <= 1 days; videos=125; avg_gap_days=0.81"
         },
         {
           "type": "creator",
@@ -3319,6 +3326,13 @@
           "id": "144747246",
           "name": "tiktokpop",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1447542385",
+          "name": "矢量玉米",
+          "reason": "Average upload gap <= 1 days; videos=1050; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -20438,6 +20452,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546959109425800",
+          "name": "我不是小丑鱼鱼",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.38"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546959365277817",
           "name": "告訴你我好孤單",
           "reason": "Average upload gap <= 1 days; videos=69; avg_gap_days=0.80"
@@ -32775,6 +32796,13 @@
           "id": "696098667",
           "name": "张世先",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.85"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "696406143",
+          "name": "故事屋酱",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
         },
         {
           "type": "creator",
