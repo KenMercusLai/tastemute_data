@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T16:02:31.193Z",
+  "generatedAt": "2026-10-11T17:02:23.377Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -9574,6 +9574,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "253051544",
+          "name": "汗血舟马",
+          "reason": "Average upload gap <= 1 days; videos=42; avg_gap_days=0.89"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "253092841",
           "name": "知秋一叶1314",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.09"
@@ -11670,6 +11677,13 @@
           "id": "32434670",
           "name": "十一点包子",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3244264",
+          "name": "垃圾公司赶紧爆炸",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.43"
         },
         {
           "type": "creator",
@@ -21635,6 +21649,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546958207650240",
+          "name": "峡谷记者小波比",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.10"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546958310410449",
           "name": "小二郎爱剪辑",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.23"
@@ -26258,6 +26279,13 @@
           "id": "37507923",
           "name": "碧蓝档案资讯站",
           "reason": "Average upload gap <= 1 days; videos=731; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "375152287",
+          "name": "旅行中的上尉",
+          "reason": "Average upload gap <= 1 days; videos=322; avg_gap_days=0.79"
         },
         {
           "type": "creator",
