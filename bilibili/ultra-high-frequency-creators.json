@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T18:02:29.336Z",
+  "generatedAt": "2026-10-11T19:02:34.401Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1041,6 +1041,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1100583677",
+          "name": "LeonelCuccitini",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1101233656",
           "name": "财经知识观",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.14"
@@ -1331,6 +1338,13 @@
           "id": "1145768234",
           "name": "时间森林书屋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1147560696",
+          "name": "布田奶芙",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.49"
         },
         {
           "type": "creator",
@@ -4632,6 +4646,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1616526984",
+          "name": "华为乾崑",
+          "reason": "Average upload gap <= 1 days; videos=80; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "16182024",
           "name": "筱善屏",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
@@ -5377,6 +5398,13 @@
           "id": "1730221458",
           "name": "大帅情商提升",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1732353792",
+          "name": "狐狸还为成精",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -6574,6 +6602,13 @@
           "id": "1883384029",
           "name": "YouTube英语成长营",
           "reason": "Average upload gap <= 1 days; videos=43; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1883905430",
+          "name": "晴空乐乐",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
         },
         {
           "type": "creator",
@@ -10529,6 +10564,13 @@
           "id": "2880491",
           "name": "小Q游戏社",
           "reason": "Average upload gap <= 1 days; videos=216; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "288318730",
+          "name": "强人所",
+          "reason": "Average upload gap <= 1 days; videos=59; avg_gap_days=0.69"
         },
         {
           "type": "creator",
@@ -14859,6 +14901,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "35131406",
+          "name": "宋黛cony",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "351417912",
           "name": "舞铲加加",
           "reason": "Average upload gap <= 1 days; videos=431; avg_gap_days=0.39"
@@ -18142,6 +18191,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546765452118655",
+          "name": "星汉聊历史",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546766272104748",
           "name": "鼠鼠十世",
           "reason": "Average upload gap <= 1 days; videos=228; avg_gap_days=0.50"
@@ -20921,6 +20977,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546924193941938",
+          "name": "狼狼哥-BUFF团队",
+          "reason": "Average upload gap <= 1 days; videos=98; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546924208622401",
           "name": "爱分享的塔米",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
@@ -21295,6 +21358,13 @@
           "id": "3546940591573012",
           "name": "泰拉构史大王",
           "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=1.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546940937603829",
+          "name": "数学正规君",
+          "reason": "Average upload gap <= 1 days; videos=61; avg_gap_days=0.82"
         },
         {
           "type": "creator",
@@ -22121,6 +22191,13 @@
           "id": "3546978954775149",
           "name": "华强北猴哥数码",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.64"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546979057535136",
+          "name": "视频存满盘",
+          "reason": "Average upload gap <= 1 days; videos=36; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -23766,6 +23843,13 @@
           "id": "3690979580184698",
           "name": "Lucia099",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3690980043655299",
+          "name": "你要向我问路",
+          "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -33608,6 +33692,13 @@
           "id": "623468437",
           "name": "粤TV",
           "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.04"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "623616322",
+          "name": "浩言Zz",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
         },
         {
           "type": "creator",
