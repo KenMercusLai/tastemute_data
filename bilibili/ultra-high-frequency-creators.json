@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T11:02:48.684Z",
+  "generatedAt": "2026-10-12T12:03:05.798Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -6706,7 +6706,7 @@
           "platform": "bilibili",
           "id": "1868902080",
           "name": "哔哩哔哩拜年纪",
-          "reason": "Average upload gap <= 1 days; videos=176; avg_gap_days=0.59"
+          "reason": "Average upload gap <= 1 days; videos=175; avg_gap_days=0.59"
         },
         {
           "type": "creator",
@@ -11051,6 +11051,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "290682181",
+          "name": "久野くるみ",
+          "reason": "Average upload gap <= 1 days; videos=262; avg_gap_days=0.42"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "2907959",
           "name": "玥小喵Miaow",
           "reason": "Average upload gap <= 1 days; videos=316; avg_gap_days=0.62"
@@ -13539,6 +13546,13 @@
           "id": "3493090438416806",
           "name": "卢骁急诊日记",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493090541177194",
+          "name": "My室友zmx",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -27809,6 +27823,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "384673982",
+          "name": "我永远喜欢事业批",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "384837523",
           "name": "爱玩游戏的天使",
           "reason": "Average upload gap <= 1 days; videos=47; avg_gap_days=0.60"
@@ -34193,6 +34214,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "581106",
+          "name": "铜田六明治",
+          "reason": "Average upload gap <= 1 days; videos=344; avg_gap_days=0.30"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "5814222",
           "name": "帝都南城人",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.66"
@@ -34532,6 +34560,13 @@
           "id": "603745232",
           "name": "bili_21821809701",
           "reason": "Average upload gap <= 1 days; videos=33; avg_gap_days=0.34"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "603847425",
+          "name": "玖龙小霸王Lee",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.44"
         },
         {
           "type": "creator",
@@ -36372,7 +36407,7 @@
           "platform": "bilibili",
           "id": "7584632",
           "name": "哔哩哔哩纪录片",
-          "reason": "Average upload gap <= 1 days; videos=432; avg_gap_days=0.11"
+          "reason": "Average upload gap <= 1 days; videos=434; avg_gap_days=0.11"
         },
         {
           "type": "creator",
