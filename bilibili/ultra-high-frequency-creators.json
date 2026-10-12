@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T16:02:40.098Z",
+  "generatedAt": "2026-10-12T17:03:13.260Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -3669,6 +3669,13 @@
           "id": "1446019752",
           "name": "洞斯特克克666",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.70"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1446209135",
+          "name": "番茄君来了",
+          "reason": "Average upload gap <= 1 days; videos=124; avg_gap_days=0.00"
         },
         {
           "type": "creator",
@@ -12654,6 +12661,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "334916031",
+          "name": "b站p神",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "335234675",
           "name": "1st-weet",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.94"
@@ -16805,6 +16819,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546586571344000",
+          "name": "躺平小卷",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546586606996092",
           "name": "DAIDAIKAEDE",
           "reason": "Average upload gap <= 1 days; videos=78; avg_gap_days=0.42"
@@ -18621,6 +18642,13 @@
           "id": "3546728210893054",
           "name": "小苗苗影社",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546729100085639",
+          "name": "数码喵星球",
+          "reason": "Average upload gap <= 1 days; videos=151; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -29993,6 +30021,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "424713535",
+          "name": "老秦说家电",
+          "reason": "Average upload gap <= 1 days; videos=111; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "42548293",
           "name": "环球交叉点",
           "reason": "Average upload gap <= 1 days; videos=287; avg_gap_days=0.37"
@@ -36779,6 +36814,13 @@
           "id": "7955996",
           "name": "固执的DANIEL",
           "reason": "Average upload gap <= 1 days; videos=301; avg_gap_days=0.16"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "7979698",
+          "name": "游戏时光VGtime",
+          "reason": "Average upload gap <= 1 days; videos=297; avg_gap_days=0.40"
         },
         {
           "type": "creator",
