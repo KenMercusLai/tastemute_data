@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T18:03:13.575Z",
+  "generatedAt": "2026-10-12T19:02:51.171Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -11366,6 +11366,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "296070983",
+          "name": "天润S",
+          "reason": "Average upload gap <= 1 days; videos=910; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "296086460",
           "name": "F1世界锦标赛",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.30"
@@ -16140,6 +16147,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "354076604",
+          "name": "血色之ren",
+          "reason": "Average upload gap <= 1 days; videos=191; avg_gap_days=0.75"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "354077280",
           "name": "1818黄金眼",
           "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.10"
@@ -17991,6 +18005,13 @@
           "id": "3546666741271173",
           "name": "懂十点人情世故",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546667215227605",
+          "name": "马子鸽马子哥",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.57"
         },
         {
           "type": "creator",
@@ -27949,6 +27970,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "381827836",
+          "name": "Rainboworse",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "381833884",
           "name": "小李桑2333",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.27"
@@ -31694,6 +31722,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "473925437",
+          "name": "爱摄影的老秃驴",
+          "reason": "Average upload gap <= 1 days; videos=93; avg_gap_days=0.86"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "474038287",
           "name": "干饭兄弟-官方账号",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
@@ -34564,6 +34599,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "576598420",
+          "name": "爱探索的小瑞同学",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.63"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "577257",
           "name": "步步暴富",
           "reason": "Average upload gap <= 1 days; videos=217; avg_gap_days=0.78"
@@ -36758,6 +36800,13 @@
           "id": "73441013",
           "name": "枫叶边城",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "73675208",
+          "name": "-WangYe-",
+          "reason": "Average upload gap <= 1 days; videos=1139; avg_gap_days=0.51"
         },
         {
           "type": "creator",
