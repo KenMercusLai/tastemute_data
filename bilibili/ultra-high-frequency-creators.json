@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T19:02:51.171Z",
+  "generatedAt": "2026-10-12T20:02:47.407Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -666,6 +666,13 @@
           "id": "1059171612",
           "name": "英雄无敌3斗蛐蛐频道",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "106086780",
+          "name": "央视财经",
+          "reason": "Average upload gap <= 1 days; videos=303; avg_gap_days=0.27"
         },
         {
           "type": "creator",
@@ -2675,13 +2682,6 @@
           "id": "1317995537",
           "name": "cheems落幕",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.97"
-        },
-        {
-          "type": "creator",
-          "platform": "bilibili",
-          "id": "1318260",
-          "name": "神吃鱼",
-          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.99"
         },
         {
           "type": "creator",
@@ -9913,6 +9913,13 @@
           "id": "248371863",
           "name": "海绵宝宝不介意重名",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.25"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "248373887",
+          "name": "追剧小帆船",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
         },
         {
           "type": "creator",
@@ -20795,6 +20802,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546876106246156",
+          "name": "小蛋糕真好吃呀",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546876202715480",
           "name": "立哥说123",
           "reason": "Average upload gap <= 1 days; videos=35; avg_gap_days=1.00"
@@ -23812,6 +23826,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "361853557",
+          "name": "RollingRodolph",
+          "reason": "Average upload gap <= 1 days; videos=186; avg_gap_days=0.94"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "36197071",
           "name": "破灾灾",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.50"
@@ -25838,6 +25859,13 @@
           "id": "3691007715576360",
           "name": "扯肚紫推剧",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.22"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3691008290196042",
+          "name": "华夏长公主",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.07"
         },
         {
           "type": "creator",
