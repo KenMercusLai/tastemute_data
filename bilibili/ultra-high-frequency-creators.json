@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T23:03:08.770Z",
+  "generatedAt": "2026-10-12T00:02:04.718Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2583,7 +2583,7 @@
           "platform": "bilibili",
           "id": "13148307",
           "name": "Project_SEKAI资讯站",
-          "reason": "Average upload gap <= 1 days; videos=555; avg_gap_days=0.85"
+          "reason": "Average upload gap <= 1 days; videos=556; avg_gap_days=0.85"
         },
         {
           "type": "creator",
@@ -13221,6 +13221,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3493090551662914",
+          "name": "人生百味6666",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.72"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3493091015133188",
           "name": "带魔王",
           "reason": "Average upload gap <= 1 days; videos=500; avg_gap_days=0.26"
@@ -13973,6 +13980,13 @@
           "id": "3493259932338701",
           "name": "虾仁猪心大少爷呀",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.74"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493260108499564",
+          "name": "西风吹鸡蛋壳",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -20980,6 +20994,13 @@
           "id": "3546914932918471",
           "name": "痴心换乂深",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546914945501863",
+          "name": "樱眠未醒",
+          "reason": "Average upload gap <= 1 days; videos=577; avg_gap_days=0.06"
         },
         {
           "type": "creator",
@@ -30626,6 +30647,13 @@
           "id": "475154572",
           "name": "逢由乃",
           "reason": "Average upload gap <= 1 days; videos=190; avg_gap_days=0.01"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "475358610",
+          "name": "达叔天演论",
+          "reason": "Average upload gap <= 1 days; videos=86; avg_gap_days=0.37"
         },
         {
           "type": "creator",
