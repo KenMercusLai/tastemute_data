@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T03:02:49.088Z",
+  "generatedAt": "2026-10-13T04:02:44.625Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -2021,6 +2021,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "123981571",
+          "name": "陈晨辰鸭",
+          "reason": "Average upload gap <= 1 days; videos=68; avg_gap_days=0.99"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "1240188952",
           "name": "说真相",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
@@ -3767,6 +3774,13 @@
           "id": "1447736",
           "name": "吉事堡",
           "reason": "Average upload gap <= 1 days; videos=39; avg_gap_days=0.84"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1447795585",
+          "name": "林诗允_",
+          "reason": "Average upload gap <= 1 days; videos=94; avg_gap_days=0.64"
         },
         {
           "type": "creator",
@@ -10438,6 +10452,13 @@
           "id": "260011",
           "name": "某哀L",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "260100976",
+          "name": "hecen",
+          "reason": "Average upload gap <= 1 days; videos=32; avg_gap_days=0.37"
         },
         {
           "type": "creator",
@@ -19930,6 +19951,13 @@
           "id": "3546801669933097",
           "name": "勇哥餐饮原创",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.78"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546802093557961",
+          "name": "良谅-无畏契约",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.52"
         },
         {
           "type": "creator",
@@ -29720,6 +29748,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "40116949",
+          "name": "你不能一直看着我",
+          "reason": "Average upload gap <= 1 days; videos=116; avg_gap_days=0.77"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "4014651",
           "name": "毛巾欧尼酱",
           "reason": "Average upload gap <= 1 days; videos=329; avg_gap_days=0.74"
@@ -33825,6 +33860,13 @@
           "id": "506956989",
           "name": "_是妹妹啊-",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.36"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "507099099",
+          "name": "云美食日记",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.24"
         },
         {
           "type": "creator",
