@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T06:03:05.694Z",
+  "generatedAt": "2026-10-13T07:03:14.649Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -1499,6 +1499,13 @@
           "id": "11582322",
           "name": "黑化方块",
           "reason": "Average upload gap <= 1 days; videos=38; avg_gap_days=0.44"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "1159380968",
+          "name": "小晓菲仔要加油",
+          "reason": "Average upload gap <= 1 days; videos=70; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -6683,6 +6690,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "1846537858",
+          "name": "Insane-vehicle",
+          "reason": "Average upload gap <= 1 days; videos=45; avg_gap_days=0.53"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "18465523",
           "name": "寂静的秋",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
@@ -10022,6 +10036,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "248361248",
+          "name": "包治百病的黄桃罐头",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "248362274",
           "name": "我的雪碧兑水了",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.32"
@@ -10102,6 +10123,13 @@
           "id": "248376972",
           "name": "遇事不决量子孋学",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.06"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "248380179",
+          "name": "酒酿酸菜团子",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.54"
         },
         {
           "type": "creator",
@@ -12318,6 +12346,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "319709444",
+          "name": "小葫蘆居士",
+          "reason": "Average upload gap <= 1 days; videos=74; avg_gap_days=0.76"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "319710107",
           "name": "喵喵追娱",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.05"
@@ -13200,6 +13235,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "344923784",
+          "name": "硬派心学",
+          "reason": "Average upload gap <= 1 days; videos=218; avg_gap_days=0.60"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "345330124",
           "name": "多元宇宙星际漫游指南",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.37"
@@ -13777,6 +13819,13 @@
           "id": "3493080296589924",
           "name": "福缘_说相知识-诚奇",
           "reason": "Average upload gap <= 1 days; videos=100; avg_gap_days=0.05"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3493080334338742",
+          "name": "想想今天播什么",
+          "reason": "Average upload gap <= 1 days; videos=163; avg_gap_days=0.48"
         },
         {
           "type": "creator",
@@ -16133,6 +16182,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3537105223420451",
+          "name": "摸鱼的黑水",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3537105462496046",
           "name": "第五人格鱿老师",
           "reason": "Average upload gap <= 1 days; videos=170; avg_gap_days=0.84"
@@ -18327,6 +18383,13 @@
           "id": "3546666628024444",
           "name": "元香丶小可爱",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.79"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546666720299399",
+          "name": "一只狸花l",
+          "reason": "Average upload gap <= 1 days; videos=68; avg_gap_days=1.00"
         },
         {
           "type": "creator",
@@ -29300,6 +29363,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "391895181",
+          "name": "扶老奶奶上火星",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "391930545",
           "name": "Maki的完美算术教室",
           "reason": "Average upload gap <= 1 days; videos=402; avg_gap_days=0.32"
@@ -36778,7 +36848,7 @@
           "platform": "bilibili",
           "id": "669334488",
           "name": "环球音乐中国",
-          "reason": "Average upload gap <= 1 days; videos=48; avg_gap_days=0.50"
+          "reason": "Average upload gap <= 1 days; videos=65; avg_gap_days=0.50"
         },
         {
           "type": "creator",
@@ -36891,6 +36961,13 @@
           "id": "6744956",
           "name": "山野放闲",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.62"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "67449848",
+          "name": "盛夏的果实V",
+          "reason": "Average upload gap <= 1 days; videos=93; avg_gap_days=0.21"
         },
         {
           "type": "creator",
