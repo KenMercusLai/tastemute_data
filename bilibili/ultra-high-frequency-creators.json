@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T05:03:09.251Z",
+  "generatedAt": "2026-10-13T06:03:05.694Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -13522,6 +13522,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3461582648510734",
+          "name": "张同学的学习录",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.95"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3461582881295231",
           "name": "奚哲正装穿搭店",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.21"
@@ -17564,6 +17571,13 @@
           "id": "3546607754677202",
           "name": "永远的朋友Q",
           "reason": "Average upload gap <= 1 days; videos=153; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546608408988334",
+          "name": "困宝v",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.68"
         },
         {
           "type": "creator",
@@ -22419,6 +22433,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "3546917967497599",
+          "name": "执念岛",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.49"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "3546918179310343",
           "name": "ENX叉叉酱",
           "reason": "Average upload gap <= 1 days; videos=20; avg_gap_days=0.89"
@@ -23136,6 +23157,13 @@
           "id": "3546947304556839",
           "name": "不白吃是我-",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.47"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "3546947472329451",
+          "name": "乐芝小饼干",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.77"
         },
         {
           "type": "creator",
@@ -29359,6 +29387,13 @@
           "id": "392910074",
           "name": "ThIsLittleJimmy",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.28"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "393075080",
+          "name": "远清君",
+          "reason": "Average upload gap <= 1 days; videos=41; avg_gap_days=0.84"
         },
         {
           "type": "creator",
