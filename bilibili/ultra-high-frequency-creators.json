@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T02:03:15.402Z",
+  "generatedAt": "2026-10-14T03:02:51.305Z",
   "platform": "bilibili",
   "categories": [
     {
@@ -7967,6 +7967,13 @@
           "id": "19550011",
           "name": "章鱼哥治愈馆",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.88"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "19553445",
+          "name": "千葉鱿鱼",
+          "reason": "Average upload gap <= 1 days; videos=772; avg_gap_days=0.31"
         },
         {
           "type": "creator",
@@ -32170,6 +32177,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "43051366",
+          "name": "Jane_ari_",
+          "reason": "Average upload gap <= 1 days; videos=232; avg_gap_days=0.37"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "431055518",
           "name": "王山水读通鉴",
           "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.58"
@@ -35845,6 +35859,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "519365595",
+          "name": "雯雯Wendybaby",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.00"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "519368457",
           "name": "飞奔土狗",
           "reason": "Average upload gap <= 1 days; videos=71; avg_gap_days=0.53"
@@ -36412,6 +36433,13 @@
         {
           "type": "creator",
           "platform": "bilibili",
+          "id": "53965181",
+          "name": "s16世界赛冠军IG",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.14"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
           "id": "540007401",
           "name": "HIM之万",
           "reason": "Average upload gap <= 1 days; videos=360; avg_gap_days=0.80"
@@ -36534,6 +36562,13 @@
           "id": "5495688",
           "name": "超合金苯环",
           "reason": "Average upload gap <= 1 days; videos=239; avg_gap_days=0.61"
+        },
+        {
+          "type": "creator",
+          "platform": "bilibili",
+          "id": "549735079",
+          "name": "谢阿狗",
+          "reason": "Average upload gap <= 1 days; videos=40; avg_gap_days=0.26"
         },
         {
           "type": "creator",
